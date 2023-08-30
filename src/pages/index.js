@@ -6,7 +6,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const BlogIndex = ({ data, location }) => {
+const BlogIndex = ({ data, location, intl }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
@@ -15,7 +15,7 @@ const BlogIndex = ({ data, location }) => {
       <Layout location={location} title={siteTitle}>
         <Bio />
         <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
+          No blog posts found. Add markdown posts to "content/books" (or the
           directory you specified for the "gatsby-source-filesystem" plugin in
           gatsby-config.js).
         </p>
@@ -43,7 +43,11 @@ const BlogIndex = ({ data, location }) => {
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <small>{post.frontmatter.date}</small>
+                  <small>{intl.formatDate(post.frontmatter.date, {
+                      year: "numeric",
+                      month: "long",
+                      day: "2-digit",
+                    })}</small>
                 </header>
                 <section>
                   <p

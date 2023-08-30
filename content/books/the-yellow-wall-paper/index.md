@@ -1,11 +1,17 @@
 ---
-title: Hola mundo
+title: The Yellow Wall-Paper
 date: "2015-05-01T22:12:03.284Z"
-description: "Hola mundo"
-lang: es
+publication: "2023-05-01T22:12:03.284Z"
+author: "Charlotte Perkins Gilman"
+release: "2018-05-01T22:12:03.284Z"
+isbn: "239102310238192"
+download: "http://link.com"
+description: "The Yellow Wall-Paper (1893) holds an important place among rediscovered works by turn-of-the-century American women writers for its bold critique of gender politics in a patriarchal society. The nameless narrator, undergoing the infamous rest cure for what doctors now diagnose as postpartum depression, experiences debilitating psychological effects."
+tags: 19TH-CENTURY, GENDER ROLES, FICTION, MENTAL HEALTH, MOTHERHOOD, FREEDOM OF EXPRESSION, FIRST PERSON NARRATOR
+lang: en
 ---
 
-Este va a estar en español
+This is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
 

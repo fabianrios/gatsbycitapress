@@ -1,13 +1,15 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { injectIntl } from "gatsby-plugin-intl"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const BlogPostTemplate = ({
+const BookPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
   location,
+  intl
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
 
@@ -20,7 +22,11 @@ const BlogPostTemplate = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>{intl.formatDate(post.frontmatter.date, {
+                      year: "numeric",
+                      month: "long",
+                      day: "2-digit",
+                    })}</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -70,7 +76,7 @@ export const Head = ({ data: { markdownRemark: post } }) => {
   )
 }
 
-export default BlogPostTemplate
+export default injectIntl(BookPostTemplate)
 
 export const pageQuery = graphql`
   query BlogPostBySlug(
