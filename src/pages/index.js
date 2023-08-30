@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { injectIntl } from "gatsby-plugin-intl"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -61,7 +62,8 @@ const BlogIndex = ({ data, location }) => {
   )
 }
 
-export default BlogIndex
+export default injectIntl(BlogIndex)
+
 
 /**
  * Head export to define metadata for the page
@@ -71,24 +73,27 @@ export default BlogIndex
 export const Head = () => <Seo title="All posts" />
 
 export const pageQuery = graphql`
-  {
-    site {
-      siteMetadata {
-        title
-      }
+query blogListQuery($language: String!) {
+  site {
+    siteMetadata {
+      title
     }
-    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-        }
+  }
+  allMarkdownRemark(
+    sort: {frontmatter: { date: DESC } }
+    filter: {frontmatter: {lang: {eq: $language}}}
+    ) {
+    nodes {
+      excerpt
+      fields {
+        slug
+      }
+      frontmatter {
+        date(formatString: "MMMM DD, YYYY")
+        title
+        description
       }
     }
   }
+}
 `

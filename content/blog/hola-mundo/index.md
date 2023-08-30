@@ -1,11 +1,11 @@
 ---
-title: Hello World
+title: Hola mundo
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
-lang: en
+description: "Hola mundo"
+lang: es
 ---
 
-This is my first post on my new fake blog! How exciting!
+Este va a estar en español
 
 I'm sure I'll write a lot more interesting things in the future.
 

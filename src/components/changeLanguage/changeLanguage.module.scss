@@ -1,0 +1,16 @@
+.change {
+  position: absolute;
+  right: 15px;
+  top: 27px;
+}
+
+.select {
+  color: #fff;
+  width: 60px;
+  &:before {
+    border-bottom: 1px solid rgba(white, 0.42);
+  }
+  @media (min-width: $tablet) {
+    width: auto;
+  }
+}

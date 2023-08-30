@@ -1,7 +1,9 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import ChangeLanguage from "../components/changeLanguage/changeLanguage"
 
-const Layout = ({ location, title, children }) => {
+
+const Layout = ({ location, title, children, intl }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
   let header
@@ -29,6 +31,7 @@ const Layout = ({ location, title, children }) => {
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>
       </footer>
+      <ChangeLanguage />
     </div>
   )
 }

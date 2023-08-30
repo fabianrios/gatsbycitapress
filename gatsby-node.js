@@ -19,9 +19,30 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // Get all markdown blog posts sorted by date
   const result = await graphql(`
     {
-      allMarkdownRemark(sort: { frontmatter: { date: ASC } }, limit: 1000) {
+      blogPostEnglish: allMarkdownRemark(
+        sort: {frontmatter: {date: DESC}}
+        filter: {frontmatter: {lang: {eq: "en"}}}
+        limit: 1000
+      ) {
         nodes {
           id
+          frontmatter{
+            lang
+          }
+          fields {
+            slug
+          }
+        }
+      }
+      AllblogPost: allMarkdownRemark(
+        sort: {frontmatter: {date: DESC}}
+        limit: 1000
+      ) {
+        nodes {
+          id
+          frontmatter{
+            lang
+          }
           fields {
             slug
           }
@@ -38,7 +59,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     return
   }
 
-  const posts = result.data.allMarkdownRemark.nodes
+  const englishPosts = result.data.blogPostEnglish.nodes;
+  const posts = result.data.AllblogPost.nodes;
+  console.log({posts})
 
   // Create blog posts pages
   // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
@@ -56,6 +79,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           id: post.id,
           previousPostId,
           nextPostId,
+          lang: post.frontmatter.lang,
         },
       })
     })
@@ -116,6 +140,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      lang: String
     }
 
     type Fields {
