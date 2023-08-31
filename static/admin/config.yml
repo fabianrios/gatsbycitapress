@@ -25,6 +25,6 @@ collections:
       - { label: 'Image (max 500kb - preferable .jpg - lowercase name - no spaces)', name: post_image, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}] }
       - { label: 'Tags (comma separeted, no hashtags, spaces allowed)', name: 'tags', widget: 'list' }
       - { label: 'Download link', name: 'download', widget: 'string' }
-      - { label: 'Language', name: 'language', widget: 'select', options: [en, es] }
+      - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
