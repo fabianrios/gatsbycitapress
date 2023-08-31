@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby citapress`,
+    title: `Cita`,
     author: {
       name: `Fabian Rios`,
       summary: `citapress dev collaborator.`,
@@ -21,6 +21,7 @@ module.exports = {
     },
   },
   plugins: [
+    `gatsby-plugin-sass`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,

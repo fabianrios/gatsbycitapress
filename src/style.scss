@@ -1,0 +1,13 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #000;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+.main-wrapper {
+  margin: 0 auto;
+  max-width: 1300px;
+  min-height: 85vh;
+}

@@ -2,7 +2,6 @@ import * as React from "react"
 import { Link, graphql } from "gatsby"
 import { injectIntl } from "gatsby-plugin-intl"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
@@ -34,7 +33,7 @@ const BookPostTemplate = ({
         />
         <hr />
         <footer>
-          <Bio />
+          footer part
         </footer>
       </article>
       <nav className="blog-post-nav">
