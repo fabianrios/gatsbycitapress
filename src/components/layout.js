@@ -1,5 +1,5 @@
 import * as React from "react"
-import { Link } from "gatsby"
+import { Link } from "gatsby-plugin-intl"
 import ChangeLanguage from "../components/changeLanguage/changeLanguage"
 
 

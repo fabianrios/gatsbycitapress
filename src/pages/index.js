@@ -1,6 +1,6 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
-import { injectIntl } from "gatsby-plugin-intl"
+import { graphql } from "gatsby"
+import { injectIntl, Link } from "gatsby-plugin-intl"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Bio from "../components/bio"
