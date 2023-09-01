@@ -3,10 +3,24 @@
  *
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-ssr/
  */
+import React from 'react';
 
-/**
- * @type {import('gatsby').GatsbySSR['onRenderBody']}
- */
-exports.onRenderBody = ({ setHtmlAttributes }) => {
+export const onRenderBody = ({ setHeadComponents, setHtmlAttributes }) => {
   setHtmlAttributes({ lang: `en` })
+  setHeadComponents([
+    <link
+      key="bluu-regular"
+      rel="preload"
+      href="/fonts/bluunext-bold-webfont.woff2"
+      as="font"
+      crossOrigin="anonymous"
+    />,
+    <link
+      key="bluu-bold"
+      rel="preload"
+      href="/fonts/bluunext-bolditalic-webfont.woff2"
+      as="font"
+      crossOrigin="anonymous"
+    />
+  ]);
 }

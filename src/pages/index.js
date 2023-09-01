@@ -25,7 +25,7 @@ const BlogIndex = ({ data, location, intl }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <div className="header">
+      <div className="bluu">
         <h1>{intl.formatMessage({id: 'about_text'})}</h1>
       </div>
       <ol style={{ listStyle: `none` }}>
