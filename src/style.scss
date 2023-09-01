@@ -1,5 +1,6 @@
-$font-stack: Helvetica, sans-serif;
+$font-stack: Inter, Helvetica, sans-serif;
 $primary-color: #000;
+$blue: #3634fb;
 
 body {
   font: 100% $font-stack;
@@ -10,10 +11,78 @@ h1, h2, h3, h4, p {
   text-rendering: optimizeLegibility;
 }
 
+a {
+  color: $primary-color;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+} 
+
+hr {
+  background-color: #3634FB;
+  border: none;
+  height: 2px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  @media screen and (min-width: 768px) {
+    width: 50%;
+    margin: 40px auto;
+  }
+}
+
+footer {
+  padding: 0 20px;
+}
+
+.blue {
+  color: $blue;
+  font-weight: 500;
+}
+
+.main-heading {
+  align-items: center;
+  padding: 0 20px;
+  color: $blue;
+  a {
+    color: $blue;
+    text-decoration: none;
+  }
+  .navigation {
+    li {
+      display: inline-block;
+      margin: 0 10px;
+    }
+    a {
+      font-size: 22px;
+    }
+  }
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  .flex-50{
+    flex: 1 1 50%;
+    max-width: 600px;
+  }
+}
+
+.about-content {
+  p {
+    text-align: justify;
+    margin: 20px 0;
+    line-height: 1.5em;
+  }
+}
+
 .main-wrapper {
   margin: 0 auto;
   max-width: 1300px;
   min-height: 85vh;
+  font-size: 1.1875em;
 }
 
 .bluu {

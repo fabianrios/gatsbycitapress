@@ -1,7 +1,12 @@
 {
   "Oops, we couldn't find this page!": "Oops, we couldn't find this page!",
   "Page Not Found": "Page Not Found",
+  "books": "Books",
+  "about": "About",
+  "cita is": "cita is a library and press devoted to highlighting, publishing and promoting works written by women. We pair contemporary authors and designers with open access texts, and make carefully designed books available for free!",
   "about_text": "a feminist indie press publishing open access books written by women. We make carefully designed books. Watch our video, become a collaborator, or just start reading",
+  "about_left_entry": "In Spanish, <span class='blue'>“cita”</span> is the word for appointment, quotation, and date. It is also the diminutive suffix for feminine nouns, mujer is woman; mujer<span class='blue'>cita</span> is little woman.",
+  "Watch our video!": "Watch our <a href='https://www.youtube.com/watch?v=F21bP9pydE0' target='_blank'>video!</a>",
   "Related posts": "Related posts",
   "All books": "All books",
   "Thank you, we will contact you.": "Thank you, we will contact you.",

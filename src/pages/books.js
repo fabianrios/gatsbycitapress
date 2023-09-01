@@ -24,9 +24,6 @@ const BlogIndex = ({ data, location, intl }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <div className="bluu">
-        <h1 className="large-text">{intl.formatMessage({id: 'about_text'})}</h1>
-      </div>
       <ul className="main-list">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
