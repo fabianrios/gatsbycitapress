@@ -6,6 +6,10 @@ body {
   color: $primary-color;
 }
 
+h1, h2, h3, h4, p {
+  text-rendering: optimizeLegibility;
+}
+
 .main-wrapper {
   margin: 0 auto;
   max-width: 1300px;
@@ -14,4 +18,24 @@ body {
 
 .bluu {
   font-family: 'Bluu', serif;
+}
+
+.large-text {
+  font-size: 2.4em;
+  line-height: 1.2;
+  margin: 20px 0;
+}
+
+.main-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+}
+
+.d-none {
+  display: none;
 }

@@ -1,6 +1,7 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 import { injectIntl } from "gatsby-plugin-intl"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -10,7 +11,8 @@ const BookPostTemplate = ({
   location,
   intl
 }) => {
-  const siteTitle = site.siteMetadata?.title || `Title`
+  const siteTitle = site.siteMetadata?.title || `Title`;
+  const image = getImage(post.frontmatter.post_image);
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -21,6 +23,7 @@ const BookPostTemplate = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
+          <GatsbyImage image={image} alt={post.frontmatter.title} />
           <p>{intl.formatDate(post.frontmatter.date, {
                       year: "numeric",
                       month: "long",
@@ -96,6 +99,11 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        post_image {
+          childImageSharp {
+            gatsbyImageData(width: 380)
+          }
+        }
         lang
       }
     }

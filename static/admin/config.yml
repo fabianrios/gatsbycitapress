@@ -23,6 +23,7 @@ collections:
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'ISBN', name: 'isbn', widget: 'string' }
       - { label: 'Image (max 500kb - preferable .jpg - lowercase name - no spaces)', name: post_image, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}] }
+      - { label: 'Image (max 500kb - preferable .jpg - lowercase name - no spaces square)', name: square_image, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}] }
       - { label: 'Tags (comma separeted, no hashtags, spaces allowed)', name: 'tags', widget: 'list' }
       - { label: 'Download link', name: 'download', widget: 'string' }
       - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }

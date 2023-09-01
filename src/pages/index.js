@@ -1,6 +1,7 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 import { injectIntl } from "gatsby-plugin-intl"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -26,11 +27,12 @@ const BlogIndex = ({ data, location, intl }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <div className="bluu">
-        <h1>{intl.formatMessage({id: 'about_text'})}</h1>
+        <h1 className="large-text">{intl.formatMessage({id: 'about_text'})}</h1>
       </div>
-      <ol style={{ listStyle: `none` }}>
+      <ul className="main-list">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
+          const image = getImage(post.frontmatter.square_image);
 
           return (
             <li key={post.fields.slug}>
@@ -40,18 +42,11 @@ const BlogIndex = ({ data, location, intl }) => {
                 itemType="http://schema.org/Article"
               >
                 <header>
-                  <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h2>
-                  <small>{intl.formatDate(post.frontmatter.date, {
-                      year: "numeric",
-                      month: "long",
-                      day: "2-digit",
-                    })}</small>
+                  <Link to={post.fields.slug} itemProp="url">
+                    <GatsbyImage image={image} alt={title} />
+                  </Link>
                 </header>
-                <section>
+                <section className="d-none">
                   <p
                     dangerouslySetInnerHTML={{
                       __html: post.frontmatter.description || post.excerpt,
@@ -63,7 +58,7 @@ const BlogIndex = ({ data, location, intl }) => {
             </li>
           )
         })}
-      </ol>
+      </ul>
     </Layout>
   )
 }
@@ -98,6 +93,11 @@ query blogListQuery($language: String!) {
         date(formatString: "MMMM DD, YYYY")
         title
         description
+        square_image {
+          childImageSharp {
+            gatsbyImageData(width: 380)
+          }
+        }
       }
     }
   }

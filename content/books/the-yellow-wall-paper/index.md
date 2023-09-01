@@ -4,7 +4,8 @@ publication: 2023-09-01T22:12:03.284Z
 release: 2018-05-01T22:12:03.284Z
 author: Charlotte Perkins Gilman
 isbn: "239102310238192"
-post_image: yellowwallpaper.png
+post_image: cover-yellowwallpaper.jpg
+square_image: yellowwallpaper.png
 download: http://link.com
 lang: en
 date: 2015-05-01T22:12:03.284Z
