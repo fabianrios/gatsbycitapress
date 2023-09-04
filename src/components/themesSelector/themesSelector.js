@@ -1,0 +1,41 @@
+import React from 'react'
+import { injectIntl } from "gatsby-plugin-intl"
+import * as classes from "./themesSelector.module.scss"
+
+export class ThemesSelector extends React.Component {
+  state = {
+    selected: 'theme',
+    values: ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"]
+  }
+
+  handleChange = event => {
+    if (!event.target.value) {
+      return
+    } 
+    const target = event.target
+    const value = target.value
+    const name = target.name
+    this.setState({
+      [name]: value,
+    })
+    this.props.onChange('theme', event.target.value);
+  }
+
+  render() {
+    console.log(this.props)
+    return (
+    <div>
+      <select className={classes.select} onChange={this.handleChange} value={this.state.selected} name="selected">
+        <option value="">{this.props.intl.formatMessage({ id: 'theme' })}</option>
+        {this.state.values.map((v, index) => (
+          <option 
+            key={index}
+            value={v}>{this.props.intl.formatMessage({ id: v })}</option>
+        ))}
+      </select>
+    </div>
+    )
+  }
+}
+
+export default injectIntl(ThemesSelector)

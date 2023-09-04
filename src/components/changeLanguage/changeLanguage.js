@@ -1,5 +1,5 @@
 import React from 'react'
-// import changeLanguageStyle from "./changeLanguage.module.scss"
+import * as classes from "./changeLanguage.module.scss"
 import { injectIntl, changeLocale } from "gatsby-plugin-intl"
 
 export class changeLanguage extends React.Component {
@@ -30,7 +30,7 @@ export class changeLanguage extends React.Component {
   render() {
     return (
     <div>
-      <select onChange={this.handleChange} value={this.state.language} name="language">
+      <select className={classes.select} onChange={this.handleChange} value={this.state.language} name="language">
         {this.state.languages.map((language, index) => (
           <option 
             key={index}

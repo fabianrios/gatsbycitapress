@@ -1,11 +1,13 @@
 import * as React from "react"
 import { graphql } from "gatsby"
-import { injectIntl, Link } from "gatsby-plugin-intl"
+import { injectIntl, Link, navigate } from "gatsby-plugin-intl"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import TimePeriodSelector from "../components/timePeriodSelector/timePeriodSelector"
+import GenreSelector from "../components/genreSelector/genreSelector"
+import ThemesSelector from "../components/themesSelector/themesSelector"
 
 const BlogIndex = ({ data, location, intl }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -14,7 +16,6 @@ const BlogIndex = ({ data, location, intl }) => {
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <Bio />
         <p>
           nothing here yet
         </p>
@@ -22,10 +23,20 @@ const BlogIndex = ({ data, location, intl }) => {
     )
   }
 
+  const onChange = (where, event) => {
+    console.log(event);
+    navigate(`/${where}/${event}`);
+  }
+
   return (
     <Layout location={location} title={siteTitle}>
       <div className="bluu">
         <h1 className="large-text">{intl.formatMessage({id: 'about_text'})}</h1>
+      </div>
+      <div className="selectors">
+        <TimePeriodSelector onChange={onChange} />
+        <GenreSelector onChange={onChange} />
+        <ThemesSelector onChange={onChange} />
       </div>
       <ul className="main-list">
         {posts.map(post => {

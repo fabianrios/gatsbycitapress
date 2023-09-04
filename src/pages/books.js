@@ -3,7 +3,6 @@ import { graphql } from "gatsby"
 import { injectIntl, Link } from "gatsby-plugin-intl"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
@@ -14,7 +13,6 @@ const BlogIndex = ({ data, location, intl }) => {
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <Bio />
         <p>
           nothing here yet
         </p>
