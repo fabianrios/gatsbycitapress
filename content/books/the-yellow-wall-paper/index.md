@@ -6,11 +6,17 @@ author: Charlotte Perkins Gilman
 isbn: "239102310238192"
 post_image: cover-yellowwallpaper.jpg
 square_image: yellowwallpaper.png
-download: http://link.com
-lang: en
-date: 2015-05-01T22:12:03.284Z
 tags: 19TH-CENTURY, GENDER ROLES, FICTION, MENTAL HEALTH, MOTHERHOOD, FREEDOM OF
   EXPRESSION, FIRST PERSON NARRATOR
+download: http://link.com
+genre:
+  - novella
+time-period:
+  - modernist
+theme:
+  - sex-romance
+lang: en
+date: 2015-05-01T22:12:03.284Z
 description: The Yellow Wall-Paper (1893) holds an important place among
   rediscovered works by turn-of-the-century American women writers for its bold
   critique of gender politics in a patriarchal society. The nameless narrator,
