@@ -1,16 +1,26 @@
 ---
 title: The Awakening
-date: "2012-05-01T22:12:03.284Z"
-publication: "2023-05-01T22:12:03.284Z"
-author: "Kate Chopin"
-release: "2019-05-01T22:12:03.284Z"
+publication: 2023-05-01T22:12:03.284Z
+release: 2019-05-01T22:12:03.284Z
+author: Kate Chopin
+isbn: "1231232131232112"
 post_image: cover-the-awakening.png
 square_image: theawakening.png
-isbn: "1231232131232112"
-download: "http://link.com"
-description: "Passion’s necessity may be one of the lessons we can take from Chopin’s controversial text, but certainly it is not the only lesson. The novel emerged from obscurity like a different kind of storm: taking the literary world to new heights and awareness of what women writers could do."
 tags: MOTHERHOOD, FREEDOM OF EXPRESSION, FIRST PERSON NARRATOR
+download: http://link.com
+genre:
+  - short-stories
+time-period:
+  - modernist
+theme:
+  - first-person-narrator
+  - sex-romance
 lang: en
+date: 2012-05-01T22:12:03.284Z
+description: "Passion’s necessity may be one of the lessons we can take from
+  Chopin’s controversial text, but certainly it is not the only lesson. The
+  novel emerged from obscurity like a different kind of storm: taking the
+  literary world to new heights and awareness of what women writers could do."
 ---
 
 THE AWAKENING - KATE CHOPIN
