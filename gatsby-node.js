@@ -8,6 +8,7 @@ const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 const books = path.resolve(`./src/templates/book-post.js`)
+const genreTemplate = path.resolve(`./src/templates/genre-post.js`)
 
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
@@ -41,6 +42,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           id
           frontmatter{
             lang
+            genre
+            time_period
+            theme
           }
           fields {
             slug
@@ -82,6 +86,22 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
+
+  const genres = ["fiction", "short-stories", "novella", "poetry", "nonfiction", "essay", "manifesto", "autobiography"];
+  genres.forEach((genre) => {
+    const genrePosts = posts.filter((post) => post.frontmatter.genre?.includes(genre));
+    if (genrePosts.length > 0) {
+      createPage({
+        path: `/genre/${genre}`,
+        component: genreTemplate,
+        context: {
+          id: genre.id,
+          genre: genre,
+          lang: "en",
+        },
+      })
+    }
+  });
 }
 
 /**

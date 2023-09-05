@@ -22,7 +22,6 @@ export class genreSelector extends React.Component {
   }
 
   render() {
-    console.log(this.props)
     return (
     <div>
       <select className={classes.select} onChange={this.handleChange} value={this.state.selected} name="selected">

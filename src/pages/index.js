@@ -24,7 +24,6 @@ const BlogIndex = ({ data, location, intl }) => {
   }
 
   const onChange = (where, event) => {
-    console.log(event);
     navigate(`/${where}/${event}`);
   }
 
