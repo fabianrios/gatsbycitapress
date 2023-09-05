@@ -4,7 +4,7 @@ import * as classes from "./themesSelector.module.scss"
 
 export class ThemesSelector extends React.Component {
   state = {
-    selected: 'theme',
+    selected: 'themes',
     values: ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"]
   }
 
@@ -18,7 +18,7 @@ export class ThemesSelector extends React.Component {
     this.setState({
       [name]: value,
     })
-    this.props.onChange('theme', event.target.value);
+    this.props.onChange('themes', event.target.value);
   }
 
   render() {
@@ -26,7 +26,7 @@ export class ThemesSelector extends React.Component {
     return (
     <div>
       <select className={classes.select} onChange={this.handleChange} value={this.state.selected} name="selected">
-        <option value="">{this.props.intl.formatMessage({ id: 'theme' })}</option>
+        <option value="">{this.props.intl.formatMessage({ id: 'themes' })}</option>
         {this.state.values.map((v, index) => (
           <option 
             key={index}
