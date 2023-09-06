@@ -8,6 +8,7 @@ const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 const books = path.resolve(`./src/templates/book-post.js`)
+const booksread = path.resolve(`./src/templates/book-post-read.js`)
 const genreTemplate = path.resolve(`./src/templates/genre-post.js`)
 
 /**
@@ -77,6 +78,16 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       createPage({
         path: post.fields.slug,
         component: books,
+        context: {
+          id: post.id,
+          previousPostId,
+          nextPostId,
+          lang: post.frontmatter.lang,
+        },
+      })
+      createPage({
+        path: post.fields.slug+"read",
+        component: booksread,
         context: {
           id: post.id,
           previousPostId,

@@ -23,13 +23,15 @@ const Layout = ({ location, title, children, intl }) => {
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header bluu">{header}</header>
       <main className="main-wrapper">{children}</main>
-      <footer className="flex">
-        <div className="message">
-          All rights reserved  CC-BY-SA 4.0 / {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+      <footer>
+        <div className={"footer-container"}>
+          <div className="message">
+            All rights reserved  CC-BY-SA 4.0 / {new Date().getFullYear()}, Built with
+            {` `}
+            <a href="https://www.gatsbyjs.com">Gatsby</a>
+          </div>
+          <ChangeLanguage />
         </div>
-        <ChangeLanguage />
       </footer>
     </div>
   )

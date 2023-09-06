@@ -34,7 +34,18 @@ hr {
 }
 
 footer {
-  padding: 0 20px;
+  position: fixed;
+  height: 70px;
+  bottom: 0;
+  background: white;
+  width: 100%;
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+    padding: 0 20px;
+  }
 }
 
 .blue {
@@ -80,6 +91,7 @@ footer {
 
 .main-wrapper {
   margin: 0 auto;
+  padding: 0 10px;
   max-width: 1300px;
   min-height: 85vh;
   font-size: 1.1875em;
@@ -113,4 +125,65 @@ footer {
   display: flex;
   margin: 30px 0;
   gap: 20px;
+}
+
+.post-header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 60px;
+  @media screen and (min-width: 768px) {
+    flex-wrap: nowrap;
+  } 
+  .portrait {
+    width: 100%;
+    margin: 0 auto;
+    @media screen and (min-width: 768px) {
+      margin: 0;
+      max-width: 380px;
+    }
+  }
+  .info {
+    h1, h2 {
+      margin: 0;
+    }
+    h1 {
+      margin-bottom: 5px;
+    }
+  }
+  .reference {
+    margin-top: 30px;
+    display: flex;
+    gap: 60px;
+    color: #8E8E8E;
+  }
+  .actions {
+    display: flex;
+    gap: 30px;
+  }
+}
+
+.btn {
+  display: inline-block;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 0;
+  background-color: black;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: 500;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    background-color: darken($blue, 10%);
+  }
+  &-secondary {
+    background-color: white;
+    padding: 5px 20px;
+    border: 2px solid black;
+    color: black;
+    &:hover {
+      background-color: black;
+      color: #fff;
+    }
+  }
 }

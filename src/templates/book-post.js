@@ -5,9 +5,10 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import BooksList from "../components/bookList/bookList"
 
 const BookPostTemplate = ({
-  data: { previous, next, site, markdownRemark: post },
+  data: { previous, next, site, markdownRemark: post, allMarkdownRemark },
   location,
   intl
 }) => {
@@ -17,54 +18,47 @@ const BookPostTemplate = ({
   return (
     <Layout location={location} title={siteTitle}>
       <article
-        className="blog-post"
+        className={'blog-post'}
         itemScope
         itemType="http://schema.org/Article"
       >
-        <header>
-          <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <GatsbyImage image={image} alt={post.frontmatter.title} />
-          <p>{intl.formatDate(post.frontmatter.date, {
-                      year: "numeric",
-                      month: "long",
-                      day: "2-digit",
-                    })}</p>
+        <header className="post-header">
+          <div className="portrait">
+            <GatsbyImage image={image} alt={post.frontmatter.title} />
+          </div>
+          <div className="info">
+            <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
+            <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
+            <div className="reference">
+              <button className="btn btn-primary">Download Free eBook</button>
+              <ul>
+                <li>ISBN: {post.frontmatter.isbn}</li>
+                <li>First published: {intl.formatDate(post.frontmatter.release, {
+                        year: "numeric",
+                        month: "long",
+                        day: "2-digit",
+                      })}</li>
+                <li>Publication date: {intl.formatDate(post.frontmatter.publication, {
+                        year: "numeric",
+                        month: "long",
+                        day: "2-digit",
+                      })}</li>
+              </ul>
+            </div>{/* /reference */}
+            <div className="description">
+              <p>{post.frontmatter.description}</p>
+            </div>
+            <div className="actions">
+              <Link to={`${post.fields.slug}read`} itemProp="url" className={"btn btn-secondary"}>Read Online</Link>
+              <a className={"btn btn-secondary"}>Download Guide</a>
+            </div>
+          </div>{/* /info */}
         </header>
-        <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
-          itemProp="articleBody"
-        />
         <hr />
-        <footer>
-          footer part
-        </footer>
       </article>
-      <nav className="blog-post-nav">
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
+      <div className="related-articles">
+        <BooksList data={allMarkdownRemark.nodes} />
+      </div>
     </Layout>
   )
 }
@@ -83,8 +77,7 @@ export default injectIntl(BookPostTemplate)
 export const pageQuery = graphql`
   query BlogPostBySlug(
     $id: String!
-    $previousPostId: String
-    $nextPostId: String
+    $language: String!
   ) {
     site {
       siteMetadata {
@@ -95,9 +88,16 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
+        author
+        isbn
         date(formatString: "MMMM DD, YYYY")
+        release(formatString: "MMMM DD, YYYY")
+        publication(formatString: "MMMM DD, YYYY")
         description
         post_image {
           childImageSharp {
@@ -107,20 +107,28 @@ export const pageQuery = graphql`
         lang
       }
     }
-    previous: markdownRemark(id: { eq: $previousPostId }) {
-      fields {
-        slug
+    allMarkdownRemark(
+      sort: {frontmatter: { date: DESC } }
+      filter: {
+        id: {ne: $id},
+        frontmatter: {lang: {eq: $language}}
       }
-      frontmatter {
-        title
-      }
-    }
-    next: markdownRemark(id: { eq: $nextPostId }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        title
+      ) {
+      nodes {
+        excerpt
+        fields {
+          slug
+        }
+        frontmatter {
+          date(formatString: "MMMM DD, YYYY")
+          title
+          description
+          square_image {
+            childImageSharp {
+              gatsbyImageData(width: 380)
+            }
+          }
+        }
       }
     }
   }
