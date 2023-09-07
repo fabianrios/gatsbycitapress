@@ -16,12 +16,17 @@ time-period:
 theme:
   - sex-romance
 lang: en
-date: 2015-05-01T22:12:03.284Z
 description: The Yellow Wall-Paper (1893) holds an important place among
   rediscovered works by turn-of-the-century American women writers for its bold
   critique of gender politics in a patriarchal society. The nameless narrator,
   undergoing the infamous rest cure for what doctors now diagnose as postpartum
   depression, experiences debilitating psychological effects.
+foreword: >-
+  Foreword: Heather Ostman, PhD - President, Kate Chopin International Society
+
+
+  Cover: [Jiwon Park](http://jiwonpark.kr/) - Graphic designer, educator, and social entrepreneur, living and working in Austin and Seoul.
+date: 2015-05-01T22:12:03.284Z
 ---
 This is my first post on my new fake blog! How exciting!
 
