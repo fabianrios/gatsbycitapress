@@ -31,4 +31,5 @@ collections:
       - { label: 'Theme', name: 'theme', widget: 'select', options: ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"], multiple: true }
       - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Foreword & Cover', name: 'foreword', widget: 'markdown' }
       - { label: 'Body', name: 'body', widget: 'markdown' }

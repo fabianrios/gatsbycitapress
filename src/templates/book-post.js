@@ -48,9 +48,16 @@ const BookPostTemplate = ({
             <div className="description">
               <p>{post.frontmatter.description}</p>
             </div>
+            { post.frontmatter.foreword &&
+              <section
+                className="foreword"
+                dangerouslySetInnerHTML={{ __html: post.frontmatter.foreword }}
+                itemProp="articleBody"
+              />
+            }
             <div className="actions">
               <Link to={`${post.fields.slug}read`} itemProp="url" className={"btn btn-secondary"}>Read Online</Link>
-              <a className={"btn btn-secondary"}>Download Guide</a>
+              <a href={post.frontmatter.download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>Download Guide</a>
             </div>
           </div>{/* /info */}
         </header>
@@ -95,6 +102,7 @@ export const pageQuery = graphql`
         title
         author
         isbn
+        download
         date(formatString: "MMMM DD, YYYY")
         release(formatString: "MMMM DD, YYYY")
         publication(formatString: "MMMM DD, YYYY")
