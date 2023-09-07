@@ -28,6 +28,11 @@ const BookPostReadTemplate = ({
           <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
           <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
         </div>{/* /info */}
+        <div
+          className="table-content"
+          dangerouslySetInnerHTML={{ __html: post.tableOfContents }}
+          itemProp="contentTable"
+        />
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
@@ -93,6 +98,8 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      tableOfContents
+      timeToRead
       frontmatter {
         title
         author
@@ -100,7 +107,7 @@ export const pageQuery = graphql`
         description
         post_image {
           childImageSharp {
-            gatsbyImageData(width: 500)
+            gatsbyImageData(width: 380)
           }
         }
         lang

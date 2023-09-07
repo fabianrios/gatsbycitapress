@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 import BooksList from "../components/bookList/bookList"
 
 const BookPostTemplate = ({
-  data: { previous, next, site, markdownRemark: post, allMarkdownRemark },
+  data: { site, markdownRemark: post, allMarkdownRemark },
   location,
   intl
 }) => {
@@ -30,7 +30,9 @@ const BookPostTemplate = ({
             <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
             <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
             <div className="reference">
-              <button className="btn btn-primary">Download Free eBook</button>
+              { post.frontmatter.download &&
+                <a href="post.frontmatter.download" target="_blank" rel="noreferrer" className="btn btn-primary">Download Free eBook</a>
+              }
               <ul>
                 <li>ISBN: {post.frontmatter.isbn}</li>
                 <li>First published: {intl.formatDate(post.frontmatter.release, {
@@ -52,7 +54,7 @@ const BookPostTemplate = ({
               <section
                 className="foreword"
                 dangerouslySetInnerHTML={{ __html: post.frontmatter.foreword }}
-                itemProp="articleBody"
+                itemProp="foreword"
               />
             }
             <div className="actions">
@@ -95,6 +97,7 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      timeToRead
       fields {
         slug
       }
@@ -107,6 +110,7 @@ export const pageQuery = graphql`
         release(formatString: "MMMM DD, YYYY")
         publication(formatString: "MMMM DD, YYYY")
         description
+        foreword
         post_image {
           childImageSharp {
             gatsbyImageData(width: 380)

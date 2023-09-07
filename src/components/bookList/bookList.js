@@ -4,7 +4,6 @@ import { injectIntl, Link } from "gatsby-plugin-intl"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 const BooksList = ({ data, intl }) => {
-  console.log({data});
   const books = data;
 
   if (books?.length === 0) {
