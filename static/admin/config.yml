@@ -26,6 +26,7 @@ collections:
       - { label: 'Image (max 500kb - preferable .jpg - lowercase name - no spaces square)', name: square_image, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}] }
       - { label: 'Tags (comma separeted, no hashtags, spaces allowed)', name: 'tags', widget: 'list' }
       - { label: 'Download link', name: 'download', widget: 'string' }
+      - { label: 'Other language link', name: 'language_link', widget: 'string' }
       - { label: 'Genre', name: 'genre', widget: 'select', options: ["fiction", "short-stories", "novella", "poetry", "nonfiction", "essay", "manifesto", "autobiography"], multiple: true }
       - { label: 'Time period', name: 'time-period', widget: 'select', options: ['19th', '20th', 'victorian', 'early-modern', 'modernist', 'contemporary'], multiple: true }
       - { label: 'Theme', name: 'theme', widget: 'select', options: ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"], multiple: true }

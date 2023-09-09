@@ -9,6 +9,7 @@ square_image: yellowwallpaper.png
 tags: 19TH-CENTURY, GENDER ROLES, FICTION, MENTAL HEALTH, MOTHERHOOD, FREEDOM OF
   EXPRESSION, FIRST PERSON NARRATOR
 download: http://link.com
+language_link: el-tapiz-amarillo
 genre:
   - novella
 time-period:

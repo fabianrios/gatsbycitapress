@@ -14,9 +14,10 @@ const BookPostTemplate = ({
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`;
   const image = getImage(post.frontmatter.post_image);
+  const where = post.frontmatter.language_link;
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location} title={siteTitle} where={where}>
       <article
         className={'blog-post'}
         itemScope
@@ -106,6 +107,7 @@ export const pageQuery = graphql`
         author
         isbn
         download
+        language_link
         date(formatString: "MMMM DD, YYYY")
         release(formatString: "MMMM DD, YYYY")
         publication(formatString: "MMMM DD, YYYY")

@@ -3,7 +3,7 @@ import { Link, FormattedMessage } from "gatsby-plugin-intl"
 import ChangeLanguage from "../components/changeLanguage/changeLanguage"
 
 
-const Layout = ({ location, title, children, intl }) => {
+const Layout = ({ location, children, intl, where }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
   
@@ -30,7 +30,7 @@ const Layout = ({ location, title, children, intl }) => {
             {` `}
             <a href="https://www.gatsbyjs.com">Gatsby</a>
           </div>
-          <ChangeLanguage />
+          <ChangeLanguage where={where} />
         </div>
       </footer>
     </div>

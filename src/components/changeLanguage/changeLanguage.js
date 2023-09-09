@@ -5,6 +5,7 @@ import { injectIntl, changeLocale } from "gatsby-plugin-intl"
 export class changeLanguage extends React.Component {
   state = {
     language: this.props.intl.locale,
+    where: this.props.where,
     languageName: {
       en: "English",
       es: "Spanish",
@@ -23,7 +24,7 @@ export class changeLanguage extends React.Component {
     this.setState({
       [name]: value,
     })
-    changeLocale(event.target.value)
+    changeLocale(event.target.value, this.state.where ? `/${this.state.where}` : null);
   }
 
 
