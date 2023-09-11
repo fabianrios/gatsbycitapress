@@ -4,6 +4,8 @@ date: "2015-05-01T22:12:03.284Z"
 publication: "2023-05-01T22:12:03.284Z"
 author: "Charlotte Perkins Gilman"
 release: "2018-05-01T22:12:03.284Z"
+post_image: cover-tapiz-amarillo.jpg
+square_image: thumbnail-yellowwallpaper-es.jpg
 isbn: "239102310238192"
 download: "http://link.com"
 language_link: the-yellow-wall-paper
