@@ -8,6 +8,7 @@ post_image: cover-the-awakening.png
 square_image: theawakening.png
 tags: MOTHERHOOD, FREEDOM OF EXPRESSION, FIRST PERSON NARRATOR
 download: http://link.com
+language_link: el-despertar
 genre:
   - short-stories
 time-period:

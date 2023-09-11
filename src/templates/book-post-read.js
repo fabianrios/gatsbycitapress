@@ -12,10 +12,11 @@ const BookPostReadTemplate = ({
   location,
   intl
 }) => {
+  const isBrowser = typeof window !== "undefined"
   const siteTitle = site.siteMetadata?.title || `Title`;
   const image = getImage(post.frontmatter.post_image);
+  const where = `${post.frontmatter.language_link}/read`;
   const postReference = useRef(null);
-  const totalHeigth = window.innerHeight;
 
   const fontFamilies = {
     bluu: 'Bluu, serif',
@@ -64,8 +65,10 @@ const BookPostReadTemplate = ({
   }, []);
 
   return (
-    <Layout location={location} title={siteTitle}>
-      <div className="progress-bar" style={{width: `${scrollPosition / (postReference?.current?.scrollHeight - totalHeigth) * 100}%`}}></div>
+    <Layout location={location} title={siteTitle} where={where}>
+      { isBrowser &&
+        <div className="progress-bar" style={{width: `${scrollPosition / (postReference?.current?.scrollHeight - window.innerHeight) * 100}%`}}></div>
+      }
       {/* <span className="progress-bar-text">{Math.round(scrollPosition / (postReference.current.scrollHeight - window.innerHeight) * 100)}%</span>  */}
       <TextConfiguration onChangeSize={handleTextChange} onChangeLine={handleLineChange} onChangeSpacing={handleSpacing} onChangeFontFamily={handleFontFamily} onChangeLineLength={handleLineLength} />
       <article
@@ -183,6 +186,7 @@ export const pageQuery = graphql`
         isbn
         release
         publication
+        language_link
         date(formatString: "MMMM DD, YYYY")
         description
         post_image {
