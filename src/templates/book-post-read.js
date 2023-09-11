@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { graphql } from "gatsby"
 import { injectIntl, Link } from "gatsby-plugin-intl"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
@@ -14,6 +14,7 @@ const BookPostReadTemplate = ({
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`;
   const image = getImage(post.frontmatter.post_image);
+  const postReference = useRef(null);
 
   const fontFamilies = {
     bluu: 'Bluu, serif',
@@ -63,12 +64,13 @@ const BookPostReadTemplate = ({
 
   return (
     <Layout location={location} title={siteTitle}>
-      <div className="progress-bar" style={{width: `${scrollPosition / (document.body.scrollHeight - window.innerHeight) * 100}%`}}></div>
-      {/* <span className="progress-bar-text">{Math.round(scrollPosition / (document.body.scrollHeight - window.innerHeight) * 100)}%</span>  */}
+      <div className="progress-bar" style={{width: `${scrollPosition / (postReference?.current?.scrollHeight - window.innerHeight) * 100}%`}}></div>
+      {/* <span className="progress-bar-text">{Math.round(scrollPosition / (postReference.current.scrollHeight - window.innerHeight) * 100)}%</span>  */}
       <TextConfiguration onChangeSize={handleTextChange} onChangeLine={handleLineChange} onChangeSpacing={handleSpacing} onChangeFontFamily={handleFontFamily} onChangeLineLength={handleLineLength} />
       <article
         className="blog-post"
         itemScope
+        ref={postReference}
         itemType="http://schema.org/Article"
       >
         <header className="post-header">
