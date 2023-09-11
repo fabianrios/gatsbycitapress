@@ -8,7 +8,7 @@ const AboutIndex = ({ location, intl }) => {
   return (
     <Layout location={location} title={'about'}>
       <hr />
-      <h1 className="bluu">
+      <h1 className="bluu about-header">
         <FormattedMessage id="cita is" />
       </h1>
       <hr />
