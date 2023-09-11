@@ -52,10 +52,21 @@ footer {
   font-weight: 500;
 }
 
+.cita-heading {
+  font-size: 44px;
+  margin: 0;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
 .main-heading {
   align-items: center;
   padding: 0 20px;
   color: $blue;
+  height: 80px;
   a {
     color: $blue;
     text-decoration: none;
@@ -102,9 +113,9 @@ footer {
   margin-top: 100px;
   margin-bottom: 100px;
   padding: 0 10px;
-  max-width: 1300px;
+  max-width: 1240px;
   min-height: 85vh;
-  font-size: 1.4em;
+  font-size: 1.3em;
   line-height: 1.6em;
 }
 
@@ -163,14 +174,15 @@ footer {
   }
   .read-info {
     display: flex;
-    align-items: end;
+    flex-direction: column;
+    justify-content: end;
   }
   .info {
     h1, h2 {
       margin: 0;
     }
     h1 {
-      margin-bottom: 5px;
+      margin-bottom: 15px;
     }
   }
   .reference {
@@ -195,6 +207,9 @@ footer {
     color: #8E8E8E;
     a.btn {
       margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
     @media screen and (min-width: 768px) {
       flex-direction: row;
@@ -230,9 +245,12 @@ footer {
     border: 2px solid black;
     color: black;
     &:hover {
-      background-color: black;
-      color: #fff;
+      background-color: #F3DD28;
     }
+  }
+  &-big {
+    padding: 10px 30px;
+    font-weight: bold;
   }
 }
 
@@ -269,6 +287,7 @@ span.inside-title {
 }
 
 .internal-body {
+  padding: 10px 0;
   h2 {
     margin: 20px 0;
     font-size: 1.8em;

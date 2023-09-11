@@ -81,11 +81,10 @@ const BookPostReadTemplate = ({
           <div className="portrait">
             <GatsbyImage image={image} alt={post.frontmatter.title} />
           </div>
-          <div className="read-info">
+          <div className="info read-info">
+            <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
+            <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
             <div className="reference">
-                { post.frontmatter.download &&
-                  <a href="post.frontmatter.download" target="_blank" rel="noreferrer" className="btn btn-primary">Download Free eBook</a>
-                }
                 <ul>
                   <li>ISBN: {post.frontmatter.isbn}</li>
                   <li>First published: {intl.formatDate(post.frontmatter.release, {
@@ -100,6 +99,13 @@ const BookPostReadTemplate = ({
                         })}</li>
                 </ul>
               </div>{/* /reference */}
+              <br />
+              <div className="actions">
+                { post.frontmatter.download &&
+                  <a href={post.frontmatter.download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>Download Guide</a>
+                }
+                <a href="#guide-link" target="_blank" rel="noreferrer" className={"btn btn-secondary"}>Download Guide</a>
+              </div>
             </div>
         </header>
         <div className="info">
@@ -185,6 +191,7 @@ export const pageQuery = graphql`
         author
         isbn
         release
+        download
         publication
         language_link
         date(formatString: "MMMM DD, YYYY")
