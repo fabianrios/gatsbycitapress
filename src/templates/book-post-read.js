@@ -1,9 +1,9 @@
-import * as React from "react"
+import React, { useState, useEffect } from 'react';
 import { graphql } from "gatsby"
 import { injectIntl, Link } from "gatsby-plugin-intl"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
-import Layout from "../components/layout"
+import Layout from "../components/layout/layout"
 import Seo from "../components/seo"
 
 const BookPostReadTemplate = ({
@@ -14,8 +14,25 @@ const BookPostReadTemplate = ({
   const siteTitle = site.siteMetadata?.title || `Title`;
   const image = getImage(post.frontmatter.post_image);
 
+  const [scrollPosition, setScrollPosition] = useState(0);
+
+  const handleScroll = () => {
+    setScrollPosition(window.pageYOffset);
+  }
+
+  useEffect(() => {
+    window.addEventListener('scroll', handleScroll, { passive: true });
+
+    return () => {
+        window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
+
   return (
     <Layout location={location} title={siteTitle}>
+      <div className="progress-bar" style={{width: `${scrollPosition / (document.body.scrollHeight - window.innerHeight) * 100}%`}}></div>
+      {/* <span className="progress-bar-text">{Math.round(scrollPosition / (document.body.scrollHeight - window.innerHeight) * 100)}%</span>  */}
+
       <article
         className="blog-post"
         itemScope

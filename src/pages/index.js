@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import { injectIntl, Link, navigate } from "gatsby-plugin-intl"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
-import Layout from "../components/layout"
+import Layout from "../components/layout/layout"
 import Seo from "../components/seo"
 import TimePeriodSelector from "../components/timePeriodSelector/timePeriodSelector"
 import GenreSelector from "../components/genreSelector/genreSelector"

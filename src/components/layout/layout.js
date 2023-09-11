@@ -1,6 +1,7 @@
 import * as React from "react"
 import { Link, FormattedMessage } from "gatsby-plugin-intl"
-import ChangeLanguage from "../components/changeLanguage/changeLanguage"
+import ChangeLanguage from "../changeLanguage/changeLanguage"
+import * as classes from "./layout.module.scss"
 
 
 const Layout = ({ location, children, intl, where }) => {
@@ -21,7 +22,7 @@ const Layout = ({ location, children, intl, where }) => {
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className="global-header bluu">{header}</header>
+      <header className={`${classes.globalHeader} bluu`}>{header}</header>
       <main className="main-wrapper">{children}</main>
       <footer>
         <div className={"footer-container"}>

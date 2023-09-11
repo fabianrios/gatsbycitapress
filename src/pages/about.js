@@ -1,7 +1,7 @@
 import * as React from "react"
 import { injectIntl, FormattedMessage } from "gatsby-plugin-intl"
 
-import Layout from "../components/layout"
+import Layout from "../components/layout/layout"
 
 const AboutIndex = ({ location, intl }) => {
   
