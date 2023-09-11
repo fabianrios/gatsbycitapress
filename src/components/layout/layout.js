@@ -14,8 +14,9 @@ const Layout = ({ location, children, intl, where }) => {
         <Link to="/">Cita:</Link>
       </h1>
       <ul className="navigation">
-        <li><Link to="/about"><FormattedMessage id="about" /></Link></li>
-        <li><Link to="/books"><FormattedMessage id="books" /></Link></li>
+        <li><Link to="/about"><FormattedMessage id="about" />:</Link></li>
+        <li><Link to="/books"><FormattedMessage id="books" />:</Link></li>
+        <li><Link to="/news"><FormattedMessage id="news" />:</Link></li>
       </ul>
     </div>
   )

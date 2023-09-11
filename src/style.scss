@@ -1,9 +1,8 @@
-$font-stack: Inter, Helvetica, sans-serif;
 $primary-color: #000;
 $blue: #3634fb;
 
 body {
-  font: 100% $font-stack;
+  font: 100% 'Inter', sans-serif;
   color: $primary-color;
 }
 
@@ -101,10 +100,12 @@ footer {
 .main-wrapper {
   margin: 0 auto;
   margin-top: 100px;
+  margin-bottom: 100px;
   padding: 0 10px;
   max-width: 1300px;
   min-height: 85vh;
-  font-size: 1.1875em;
+  font-size: 1.4em;
+  line-height: 1.6em;
 }
 
 .bluu {
@@ -257,6 +258,25 @@ footer {
   font-size: 1.2em;
   font-weight: 500;
   color: $blue;
+}
+
+span.inside-title {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: 'Bluu', serif;
+  padding-right: 10px;
+}
+
+.internal-body {
+  h2 {
+    margin: 20px 0;
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: 'Bluu', serif;
+    padding-right: 10px;
+  }
 }
 
 // rc-slider
