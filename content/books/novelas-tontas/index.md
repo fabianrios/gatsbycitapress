@@ -11,8 +11,10 @@ download: http://link.com
 language_link: silly-novels
 genre:
   - short-stories
-time-period:
+  - novella
+time_period:
   - modernist
+  - 20th
 theme:
   - first-person-narrator
   - sex-romance

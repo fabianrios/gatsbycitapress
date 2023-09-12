@@ -18,7 +18,7 @@ export class ThemesSelector extends React.Component {
     this.setState({
       [name]: value,
     })
-    this.props.onChange('themes', event.target.value);
+    this.props.onChange('theme', event.target.value);
   }
 
   render() {

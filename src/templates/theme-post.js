@@ -5,18 +5,18 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout/layout"
 
-const GenreBookPostTemplate = ({
+const ThemeBookPostTemplate = ({
   data,
   location,
   intl
 }) => {
   const posts = data.allMarkdownRemark.nodes
-  const genre = location.pathname.split('/')[3];
-  const siteTitle = intl.formatMessage({id: genre}) || `Title`;
+  const theme = location.pathname.split('/')[3];
+  const siteTitle = intl.formatMessage({id: theme}) || `Title`;
 
   return (
     <Layout location={location} title={siteTitle}>
-      <h1 className="bluu">{intl.formatMessage({id: genre})}</h1>
+      <h1 className="bluu">{intl.formatMessage({id: theme})}</h1>
       <ul className="main-list">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
@@ -51,10 +51,10 @@ const GenreBookPostTemplate = ({
   )
 }
 
-export default injectIntl(GenreBookPostTemplate)
+export default injectIntl(ThemeBookPostTemplate)
 
 export const pageQuery = graphql`
-  query blogListQuery($language: String!, $genre: String!) {
+  query blogListQuery($language: String!, $theme: String!) {
     site {
       siteMetadata {
         title
@@ -64,7 +64,7 @@ export const pageQuery = graphql`
       sort: {frontmatter: { date: DESC } }
       filter: {frontmatter: {
         lang: {eq: $language},
-        genre:{eq: $genre}
+        theme:{eq: $theme}
       }}
       ) {
       nodes {

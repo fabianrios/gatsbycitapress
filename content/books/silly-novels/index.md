@@ -11,8 +11,9 @@ download: http://link.com
 language_link: novelas-tontas
 genre:
   - short-stories
-time-period:
+time_period:
   - modernist
+  - 20th
 theme:
   - first-person-narrator
   - sex-romance

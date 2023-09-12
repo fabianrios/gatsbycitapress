@@ -7,6 +7,14 @@ release: "2019-05-01T22:12:03.284Z"
 post_image: cover-the-awakening.png
 square_image: thumbnail-eldespertar-es.jpg
 language_link: the-awakening
+genre:
+  - short-stories
+time_period:
+  - modernist
+  - 19th
+theme:
+  - first-person-narrator
+  - sex-romance
 isbn: "1231232131232112"
 download: "http://link.com"
 description: "SOLO DISPONIBLE EN INGLÉS - La necesidad de pasión puede ser una de las lecciones por aprender del controvertido texto de Chopin, pero ciertamente no es la única. La novela surgió de la oscuridad como un tipo diferente de tormenta: llevar el mundo literario a nuevas alturas y tomar conciencia de lo que las mujeres escritoras podrían hacer."

@@ -12,10 +12,12 @@ download: http://link.com
 language_link: el-tapiz-amarillo
 genre:
   - novella
-time-period:
+time_period:
   - modernist
+  - 19th
 theme:
   - sex-romance
+  - motherhood
 lang: en
 description: The Yellow Wall-Paper (1893) holds an important place among
   rediscovered works by turn-of-the-century American women writers for its bold

@@ -10,6 +10,8 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 const books = path.resolve(`./src/templates/book-post.js`)
 const booksread = path.resolve(`./src/templates/book-post-read.js`)
 const genreTemplate = path.resolve(`./src/templates/genre-post.js`)
+const timePeriodTemplate = path.resolve(`./src/templates/time-period-post.js`)
+const themeTemplate = path.resolve(`./src/templates/theme-post.js`)
 
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
@@ -107,12 +109,44 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         component: genreTemplate,
         context: {
           id: genre.id,
-          genre: genre,
+          genre,
           lang: "en",
         },
       })
     }
   });
+  const time_periods = ["19th", "20th", "victorian", 'early-modern', 'modernist', 'contemporary'];
+  time_periods.forEach((period) => {
+    const periodPosts = posts.filter((post) => post.frontmatter.time_period?.includes(period));
+    if (periodPosts.length > 0) {
+      createPage({
+        path: `/time-period/${period}`,
+        component: timePeriodTemplate,
+        context: {
+          id: period.id,
+          period,
+          lang: "en",
+        },
+      })
+    }
+  });
+  const themes = ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"];
+  themes.forEach((theme) => {
+    const themePosts = posts.filter((post) => post.frontmatter.theme?.includes(theme));
+    if (themePosts.length > 0) {
+      createPage({
+        path: `/theme/${theme}`,
+        component: themeTemplate,
+        context: {
+          id: theme.id,
+          theme,
+          lang: "en",
+        },
+      })
+    }
+  });
+  
+
 }
 
 /**

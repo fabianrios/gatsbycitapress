@@ -11,7 +11,7 @@ download: http://link.com
 language_link: el-despertar
 genre:
   - short-stories
-time-period:
+time_period:
   - modernist
 theme:
   - first-person-narrator
