@@ -30,7 +30,6 @@ export class changeLanguage extends React.Component {
 
   render() {
     return (
-    <div>
       <select className={classes.select} onChange={this.handleChange} value={this.state.language} name="language">
         {this.state.languages.map((language, index) => (
           <option 
@@ -38,7 +37,6 @@ export class changeLanguage extends React.Component {
             value={language}>{this.props.intl.formatMessage({ id: this.state.languageName[language] })} | {this.state.languageOriginal[language]}</option>
         ))}
       </select>
-    </div>
     )
   }
 }

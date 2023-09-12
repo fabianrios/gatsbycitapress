@@ -124,9 +124,6 @@ const BookPostReadTemplate = ({
           itemProp="articleBody"
         />
         <hr />
-        <footer>
-          footer part
-        </footer>
       </article>
       <nav className="blog-post-nav">
         <ul

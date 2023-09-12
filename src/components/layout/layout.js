@@ -29,12 +29,18 @@ const Layout = ({ location, children, intl, where }) => {
       <main className="main-wrapper">{children}</main>
       <footer>
         <div className={"footer-container"}>
-          <div className="message">
-            All rights reserved  CC-BY-SA 4.0 / {new Date().getFullYear()}, Built with
-            {` `}
-            <a href="https://www.gatsbyjs.com">Gatsby</a>
-          </div>
           <ChangeLanguage where={where} />
+          <div className="message">
+            <div className="social">
+              <a className="social-img" href="http://facebook.com/citapress"><img src="/img/fb.png" alt="fb" /></a>
+              <a className="social-img" href="http://twitter.com/citapress"><img src="/img/tw.png" alt="tw" /></a>
+            </div>
+            <div>
+              All rights reserved  CC-BY-SA 4.0 / {new Date().getFullYear()}, Built with
+              {` `}
+              <a href="https://www.gatsbyjs.com">Gatsby</a>
+            </div>
+          </div>
         </div>
       </footer>
     </div>
