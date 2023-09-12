@@ -1,29 +1,15 @@
 ---
-title: The Yellow Wall-Paper
 publication: 2023-09-01T22:12:03.284Z
 release: 2018-05-01T22:12:03.284Z
 author: Charlotte Perkins Gilman
-isbn: "239102310238192"
-post_image: cover-yellowwallpaper.jpg
-square_image: yellowwallpaper.png
-tags: 19TH-CENTURY, GENDER ROLES, FICTION, MENTAL HEALTH, MOTHERHOOD, FREEDOM OF
-  EXPRESSION, FIRST PERSON NARRATOR
 download: http://link.com
 language_link: el-tapiz-amarillo
 genre:
   - novella
-time_period:
-  - modernist
-  - 19th
 theme:
   - sex-romance
   - motherhood
 lang: en
-description: The Yellow Wall-Paper (1893) holds an important place among
-  rediscovered works by turn-of-the-century American women writers for its bold
-  critique of gender politics in a patriarchal society. The nameless narrator,
-  undergoing the infamous rest cure for what doctors now diagnose as postpartum
-  depression, experiences debilitating psychological effects.
 foreword: >-
   Foreword: Catherine J. Golden, Ph.D. - Professor of English and The Tisch
   Chair in Arts and Letters, Skidmore College
@@ -31,12 +17,24 @@ foreword: >-
 
   Cover: [Laura Savina](http://laurasavina.com/) - Italian illustrator and tap dance student
 date: 2015-05-01T22:12:03.284Z
+title: The Yellow Wall-Paper
+isbn: "239102310238192"
+post_image: cover-yellowwallpaper.jpg
+square_image: yellowwallpaper.png
+tags: 19TH-CENTURY, GENDER ROLES, FICTION, MENTAL HEALTH, MOTHERHOOD, FREEDOM OF
+  EXPRESSION, FIRST PERSON NARRATOR
+time_period:
+  - modernist
+  - 19th
+description: The Yellow Wall-Paper (1893) holds an important place among
+  rediscovered works by turn-of-the-century American women writers for its bold
+  critique of gender politics in a patriarchal society. The nameless narrator,
+  undergoing the infamous rest cure for what doctors now diagnose as postpartum
+  depression, experiences debilitating psychological effects.
 ---
 ## Foreword
 
 Charlotte Perkins Gilman’s “The Yellow Wall-Paper” (1892) holds an important place among rediscovered works by turn-of-the-century American women writers for its bold critique of gender politics in a patriarchal society. The nameless narrator, undergoing the infamous rest cure for what doctors now diagnose as postpartum depression, experiences debilitating psychological effects. At first repulsed by the wallpaper in the room where she is sequestered in a country estate, the narrator comes to like it as she vows to decode its pattern—she imagines many women creeping behind bars and identifies with one trapped woman, arguably a reflection of her painful position as a woman in Victorian America. Many of the story’s first readers considered it a psychological horror tale in the fashion of Poe. Gilman had difficulty publishing this story in a male-dominated literary marketplace, but of her remarkable output of novels, stories, poetry, and theoretical works that challenge female subjugation and argue for equal rights, she is best known today for *Herland* (1915), a feminist utopian novel, and "The Yellow Wall-Paper.” Hailed as a feminist text in the 1970s, “The Yellow Wall-Paper” is now a canonical work anthologized in collections of American literature and women writers.
-
-#### S﻿econd title
 
 Gilman’s tale reacts to the prevailing nineteenth-century medical model that placed blame for a woman’s nervousness and fatigue on her womb. The rest cure for what the Victorians called neurasthenia—administered in the story by the patronizing physician-husband, Dr. John, and his sister, Jennie, “a perfect and enthusiastic housekeeper”—mandates complete repose and forbids all stimulating activities, including writing. However, the narrator believes writing will make her well, so she writes in secret. The story unfolds like a diary; over the twelve entries, she descends into a state that some critics call madness but others read as liberation from her patriarchal society.
 
