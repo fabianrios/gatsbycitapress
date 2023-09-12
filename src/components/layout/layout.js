@@ -7,9 +7,10 @@ import * as classes from "./layout.module.scss"
 const Layout = ({ location, children, intl, where }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
+  const [clicked, setClicked] = React.useState(false)
   
   let header = (
-    <div className="flex main-heading">
+    <div className={clicked ? "flex main-heading" : "flex main-heading open"}>
       <h1 className="cita-heading">
         <Link to="/">cita:</Link>
       </h1>
@@ -20,6 +21,7 @@ const Layout = ({ location, children, intl, where }) => {
         <li><Link to="/news"><FormattedMessage id="news" />:</Link></li>
         <li><Link to="/contact"><FormattedMessage id="contact" />:</Link></li>
       </ul>
+      <button className="btn btn-secondary menu-button" onClick={() => setClicked(!clicked)}>Menu</button>
     </div>
   )
 

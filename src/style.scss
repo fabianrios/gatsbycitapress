@@ -84,6 +84,7 @@ footer {
     text-decoration: none;
   }
   .navigation {
+    display: none;
     li {
       display: block;
       margin: 0 10px;
@@ -92,10 +93,26 @@ footer {
       font-size: 22px;
     }
   }
+  &.open {
+    @media screen and (max-width: 768px) {
+      height: auto;
+      .navigation {
+        display: block;
+        li {
+          display: block;
+          margin: 10px 0;
+        }
+        a {
+          font-size: 34px;
+        }
+      }
+    }
+  }
   @media screen and (min-width: 768px) {
     flex-direction: row;
     align-items: center;
     .navigation {
+      display: block;
       li {
         display: inline-block;
       }
@@ -328,6 +345,17 @@ span.inside-title {
     margin-bottom: 10px;
     font-family: 'Bluu', serif;
     padding-right: 10px;
+  }
+}
+
+.menu-button {
+  display: none;
+  position: absolute;
+  height: 40px;
+  top: 20px;
+  right: 20px;
+  @media screen and (max-width: 768px) {
+    display: block;
   }
 }
 
