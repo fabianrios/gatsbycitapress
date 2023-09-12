@@ -18,7 +18,6 @@ theme:
   - sex-romance
 language_link: the-yellow-wall-paper
 description: "'El tapiz amarillo' (1892) de Charlotte Perkins Gilman ocupa un lugar importante entre las obras redescubiertas de escritoras estadounidenses de fin de siglo por su audaz crítica de la política de género en una sociedad patriarcal. La narradora sin nombre, sometida a la infame cura del reposo—lo que los médicos diagnostican ahora como depresión posparto—experimenta efectos psicológicos debilitantes."
-tags: SIGLO XIX, ROLES DE GENERO, FICCION
 lang: es
 ---
 

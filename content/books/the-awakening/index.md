@@ -6,7 +6,6 @@ author: Kate Chopin
 isbn: "1231232131232112"
 post_image: cover-the-awakening.png
 square_image: theawakening.png
-tags: MOTHERHOOD, FREEDOM OF EXPRESSION, FIRST PERSON NARRATOR
 download: http://link.com
 language_link: el-despertar
 genre:

@@ -6,7 +6,6 @@ author: Edith Wharton
 isbn: "1231232131232112"
 post_image: old-maid-cover.jpg
 square_image: old-maid-square.jpg
-tags: MOTHERHOOD, FREEDOM OF EXPRESSION, FIRST PERSON NARRATOR
 download: http://link.com
 language_link: la-solterona
 genre:

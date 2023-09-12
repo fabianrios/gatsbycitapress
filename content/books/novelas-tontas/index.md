@@ -6,7 +6,6 @@ author: Mary Anne Evans
 isbn: "1231232131232112"
 post_image: cover-silly-novels.png
 square_image: thumbnail-novelas-tontas-es.jpg
-tags: MOTHERHOOD, FREEDOM OF EXPRESSION, FIRST PERSON NARRATOR
 download: http://link.com
 language_link: silly-novels
 genre:

@@ -6,7 +6,6 @@ author: Judith Sargent Murray
 isbn: "1231232131232112"
 post_image: cover-on-the-equality.png
 square_image: ontheequality.png
-tags: MOTHERHOOD, FREEDOM OF EXPRESSION, FIRST PERSON NARRATOR
 download: http://link.com
 language_link: ""
 genre:

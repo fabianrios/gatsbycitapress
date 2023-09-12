@@ -5,9 +5,7 @@ release: 2023-09-12T14:44:26.257Z
 author: Sui Sin Far (Edith Maude Eaton)
 isbn: Placeholder
 post_image: cover-sui-sin-far.png
-square_image: cover-sui-sin-far.png
-tags:
-  - test
+square_image: square-inmortar.png
 download: citapress.org
 language_link: citapress.org
 genre:

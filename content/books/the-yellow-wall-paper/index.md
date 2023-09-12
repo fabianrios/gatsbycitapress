@@ -21,8 +21,6 @@ title: The Yellow Wall-Paper
 isbn: "239102310238192"
 post_image: cover-yellowwallpaper.jpg
 square_image: yellowwallpaper.png
-tags: 19TH-CENTURY, GENDER ROLES, FICTION, MENTAL HEALTH, MOTHERHOOD, FREEDOM OF
-  EXPRESSION, FIRST PERSON NARRATOR
 time_period:
   - modernist
   - 19th

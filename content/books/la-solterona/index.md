@@ -6,7 +6,6 @@ author: Edith Wharton
 isbn: "1231232131232112"
 post_image: old-maid-cover-ES.jpg
 square_image: old-maid-square-ES.jpg
-tags: MOTHERHOOD, FREEDOM OF EXPRESSION, FIRST PERSON NARRATOR
 download: http://link.com
 language_link: la-solterona
 genre:
@@ -17,8 +16,10 @@ theme:
   - first-person-narrator
   - sex-romance
 lang: es
-description: "Los personajes de La solterona (1925) aceptan al pie de la letra que dependen de otras personas y que no actúan del todo por interés propio. Están animadas por lo que hoy podríamos llamar ética feminista del cuidado, que centra la acción moral en las relaciones interpersonales impulsadas por el cuidado y la benevolencia y asume que los individuos dependen de una amplia gama de otras personas. En una situación desesperada, Delia y Charlotte se conectan."
-foreword: "Prólogo: Krithika Varagur, galardonada periodista, autora, ensayista y humorista estadounidense.
+description: >-
+  Los personajes de La solterona (1925) aceptan al pie de la letra que dependen de otras personas y que no actúan del todo por interés propio. Están animadas por lo que hoy podríamos llamar ética feminista del cuidado, que centra la acción moral en las relaciones interpersonales impulsadas por el cuidado y la benevolencia y asume que los individuos dependen de una amplia gama de otras personas. En una situación desesperada, Delia y Charlotte se conectan.
+foreword: >-
+  Prólogo: Krithika Varagur, galardonada periodista, autora, ensayista y humorista estadounidense.
 Portada: Petra Zehner, artista gráfica y escritora residente en Francia."
 date: 2012-05-01T22:12:03.284Z
 ---
