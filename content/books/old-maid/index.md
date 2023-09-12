@@ -16,9 +16,11 @@ theme:
   - first-person-narrator
   - sex-romance
 lang: en
-description: "This story is not about a bygone society’s oppressive strictures, but, rather, about its piecemeal accommodation of subversive actions and vehement passions. Register for a virtual conversation with Krithika Varagur about this book on May 17, 2022 at 6 pm ET."
-foreword: "Foreword: Krithika Varagur, an author, award-winning journalist, speechwriter, and editor at The Drift.
-Cover: Petra Zehner, East West German graphic artist and writer currently based in France."
+description: >-
+  This story is not about a bygone society’s oppressive strictures, but, rather, about its piecemeal accommodation of subversive actions and vehement passions. Register for a virtual conversation with Krithika Varagur about this book on May 17, 2022 at 6 pm ET.
+foreword: >-
+  Foreword: Krithika Varagur, an author, award-winning journalist, speechwriter, and editor at The Drift.
+  Cover: Petra Zehner, East West German graphic artist and writer currently based in France."
 date: 2012-05-01T22:12:03.284Z
 ---
 ## Introduction to The Old Maid by Krithika Varagur

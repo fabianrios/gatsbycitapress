@@ -17,11 +17,13 @@ theme:
   - science-technology
   - sex-romance
 lang: en
-description: "On the Equality of the Sexes
-Judith Sargent Murray
-When “On the Equality of the Sexes” appeared in 1790 in the Massachusetts Magazine, it became the earliest known public claim in America for female equality."
-foreword: "Foreword: Bonnie J. Smith - President, Judith Sargent Murray Society
-Cover: Natalia Rojas - Colombian artist and illustrator"
+description: >-
+  On the Equality of the Sexes
+  Judith Sargent Murray
+  When “On the Equality of the Sexes” appeared in 1790 in the Massachusetts Magazine, it became the earliest known public claim in America for female equality."
+foreword: >-
+  Foreword: Bonnie J. Smith - President, Judith Sargent Murray Society
+  Cover: Natalia Rojas - Colombian artist and illustrator"
 date: 2012-05-01T22:12:03.284Z
 ---
 ## Foreword
