@@ -87,12 +87,12 @@ const BookPostReadTemplate = ({
             <div className="reference">
                 <ul>
                   <li>ISBN: {post.frontmatter.isbn}</li>
-                  <li>First published: {intl.formatDate(post.frontmatter.release, {
+                  <li>{intl.formatMessage({id: 'First published'})}: {intl.formatDate(post.frontmatter.release, {
                           year: "numeric",
                           month: "long",
                           day: "2-digit",
                         })}</li>
-                  <li>Publication date: {intl.formatDate(post.frontmatter.publication, {
+                  <li>{intl.formatMessage({id: 'Publication date'})}: {intl.formatDate(post.frontmatter.publication, {
                           year: "numeric",
                           month: "long",
                           day: "2-digit",

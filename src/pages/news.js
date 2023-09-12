@@ -10,7 +10,7 @@ const NewsIndex = ({ location, intl }) => {
       {intl.locale === 'en' ? (
         <div className="english-version">
           <p>
-            <span class="inside-title">News:</span><span>To stay up to date on all our releases and news, please <a href="https://citapress.substack.com" class="blue">sign up to our newsletter here!</a></span>
+            <span className="inside-title">News:</span><span>To stay up to date on all our releases and news, please <a href="https://citapress.substack.com" className="blue">sign up to our newsletter here!</a></span>
           </p>
           <hr />
           <div className="internal-body">
@@ -74,7 +74,7 @@ const NewsIndex = ({ location, intl }) => {
         ) : (
       <div className="spanish-version">
           <p>
-            <span class="inside-title">Noticias:</span><span>Para mantenterte al día, suscríbete a <a href="https://citapress.substack.com" class="blue">nuestro newsletter</a>.</span>
+            <span className="inside-title">Noticias:</span><span>Para mantenterte al día, suscríbete a <a href="https://citapress.substack.com" className="blue">nuestro newsletter</a>.</span>
           </p>
           <div className="internal-body">
             <hr />
