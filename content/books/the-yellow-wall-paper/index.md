@@ -30,12 +30,13 @@ foreword: >-
 
 
   Cover: [Laura Savina](http://laurasavina.com/) - Italian illustrator and tap dance student
-
 date: 2015-05-01T22:12:03.284Z
 ---
 ## Foreword
 
 Charlotte Perkins Gilman’s “The Yellow Wall-Paper” (1892) holds an important place among rediscovered works by turn-of-the-century American women writers for its bold critique of gender politics in a patriarchal society. The nameless narrator, undergoing the infamous rest cure for what doctors now diagnose as postpartum depression, experiences debilitating psychological effects. At first repulsed by the wallpaper in the room where she is sequestered in a country estate, the narrator comes to like it as she vows to decode its pattern—she imagines many women creeping behind bars and identifies with one trapped woman, arguably a reflection of her painful position as a woman in Victorian America. Many of the story’s first readers considered it a psychological horror tale in the fashion of Poe. Gilman had difficulty publishing this story in a male-dominated literary marketplace, but of her remarkable output of novels, stories, poetry, and theoretical works that challenge female subjugation and argue for equal rights, she is best known today for *Herland* (1915), a feminist utopian novel, and "The Yellow Wall-Paper.” Hailed as a feminist text in the 1970s, “The Yellow Wall-Paper” is now a canonical work anthologized in collections of American literature and women writers.
+
+#### S﻿econd title
 
 Gilman’s tale reacts to the prevailing nineteenth-century medical model that placed blame for a woman’s nervousness and fatigue on her womb. The rest cure for what the Victorians called neurasthenia—administered in the story by the patronizing physician-husband, Dr. John, and his sister, Jennie, “a perfect and enthusiastic housekeeper”—mandates complete repose and forbids all stimulating activities, including writing. However, the narrator believes writing will make her well, so she writes in secret. The story unfolds like a diary; over the twelve entries, she descends into a state that some critics call madness but others read as liberation from her patriarchal society.
 
@@ -125,7 +126,7 @@ No wonder the children hated it! I should hate it myself if I had to live in thi
 
 There comes John, and I must put this away,—he hates to have me write a word.
 
----------
+- - -
 
 We have been here two weeks, and I haven’t felt like writing before, since that first day. 
 
@@ -213,7 +214,7 @@ But in the places where it isn’t faded and where the sun is just so—I can se
 
 There’s sister on the stairs!
 
----------
+- - -
 
 Well, the Fourth of July is over! The people are all gone and I am tired out. John thought it might do me good to see a little company, so we just had mother and Nellie and the children down for a week.
 
@@ -259,7 +260,7 @@ There is one end of the room where it is almost intact, and there, when the cros
 
 It makes me tired to follow it. I will take a nap I guess.
 
----------
+- - -
 
 I don’t know why I should write this.
 
@@ -301,7 +302,7 @@ It is always the same shape, only very numerous.
 
 And it is like a woman stooping down and creeping about behind that pattern. I don’t like it a bit. I wonder—I begin to think—I wish John would take me away from here!
 
----------
+- - -
 
 It is so hard to talk with John about my case, because he is so wise, and because he loves me so.
 
@@ -337,7 +338,7 @@ But I tried it last night.
 
 So of course I said no more on that score, and we went to sleep before long. He thought I was asleep first, but I wasn’t, and lay there for hours trying to decide whether that front pattern and the back pattern really did move together or separately.
 
----------
+- - -
 
 On a pattern like this, by daylight, there is a lack of sequence, a defiance of law, that is a constant irritant to a normal mind.
 
@@ -387,7 +388,7 @@ Then she said that the paper stained everything it touched, that she had found y
 
 Did not that sound innocent? But I know she was studying that pattern, and I am determined that nobody shall find it out but myself!
 
----------
+- - -
 
 Life is very much more exciting now than it used to be. You see I have something more to expect, to look forward to, to watch. I really do eat better, and am more quiet than I was.
 
@@ -397,7 +398,7 @@ I turned it off with a laugh. I had no intention of telling him it was because o
 
 I don’t want to leave now until I have found it out. There is a week more, and I think that will be enough.
 
----------
+- - -
 
 I’m feeling ever so much better! I don’t sleep much at night, for it is so interesting to watch developments; but I sleep a good deal in the daytime.
 
@@ -431,7 +432,7 @@ There is a very funny mark on this wall, low down, near the mopboard. A streak t
 
 I wonder how it was done and who did it, and what they did it for. Round and round and round—round and round and round—it makes me dizzy!
 
----------
+- - -
 
 I really have discovered something at last. Through watching so much at night, when it changes so, I have finally found out. The front pattern does move—and no wonder! The woman behind shakes it! Sometimes I think there are a great many women behind, and sometimes only one, and she crawls around fast, and her crawling shakes it all over.
 
@@ -443,7 +444,7 @@ They get through, and then the pattern strangles them off and turns them upside 
 
 If those heads were covered or taken off it would not be half so bad.
 
----------
+- - -
 
 I think that woman gets out in the daytime! And I’ll tell you why—privately—I’ve seen her! I can see her out of every one of my windows! It is the same woman, I know, for she is always creeping, and most women do not creep by daylight.
 
@@ -461,7 +462,7 @@ And though I always see her, she may be able to creep faster than I can turn!
 
 I have watched her sometimes away off in the open country, creeping as fast as a cloud shadow in a high wind.
 
----------
+- - -
 
 If only that top pattern could be gotten off from the under one! I mean to try it, little by little.
 
@@ -483,7 +484,7 @@ Still, I don’t wonder he acts so, sleeping under this paper for three months.
 
 It only interests me, but I feel sure John and Jennie are secretly affected by it.
 
----------
+- - -
 
 Hurrah! This is the last day, but it is enough. John to stay in town over night, and won’t be out until this evening.
 
