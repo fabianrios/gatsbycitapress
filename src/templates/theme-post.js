@@ -11,7 +11,7 @@ const ThemeBookPostTemplate = ({
   intl
 }) => {
   const posts = data.allMarkdownRemark.nodes
-  const theme = location.pathname.split('/')[3];
+  const theme = location.pathname.split('/').filter(Boolean).slice(-1)[0] || 'Theme';
   const siteTitle = intl.formatMessage({id: theme}) || `Title`;
 
   return (

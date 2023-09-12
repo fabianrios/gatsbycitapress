@@ -13,7 +13,7 @@ time_period:
   - modernist
   - 19th
 theme:
-  - first-person-narrator
+  - science-technology
   - sex-romance
 isbn: "1231232131232112"
 download: "http://link.com"

@@ -108,7 +108,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         path: `/genre/${genre}`,
         component: genreTemplate,
         context: {
-          id: genre.id,
+          id: genre,
           genre,
           lang: "en",
         },
@@ -123,7 +123,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         path: `/time-period/${period}`,
         component: timePeriodTemplate,
         context: {
-          id: period.id,
+          id: period,
           period,
           lang: "en",
         },
@@ -138,7 +138,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         path: `/theme/${theme}`,
         component: themeTemplate,
         context: {
-          id: theme.id,
+          id: theme,
           theme,
           lang: "en",
         },

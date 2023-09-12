@@ -11,7 +11,8 @@ const TimePeriodBookPostTemplate = ({
   intl
 }) => {
   const posts = data.allMarkdownRemark.nodes
-  const period = location.pathname.split('/')[3];
+  
+  const period = location.pathname.split('/').filter(Boolean).slice(-1)[0] || 'Time Period';
   const siteTitle = intl.formatMessage({id: period}) || `Title`;
 
   return (

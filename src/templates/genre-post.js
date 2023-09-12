@@ -11,7 +11,8 @@ const GenreBookPostTemplate = ({
   intl
 }) => {
   const posts = data.allMarkdownRemark.nodes
-  const genre = location.pathname.split('/')[3];
+  // get the genre from last location segment
+  const genre = location.pathname.split('/').filter(Boolean).slice(-1)[0] || 'Genre';
   const siteTitle = intl.formatMessage({id: genre}) || `Title`;
 
   return (

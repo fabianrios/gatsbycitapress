@@ -15,6 +15,7 @@ time_period:
   - modernist
 theme:
   - first-person-narrator
+  - science-technology
   - sex-romance
 lang: en
 description: "On the Equality of the Sexes
