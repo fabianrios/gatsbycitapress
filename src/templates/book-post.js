@@ -31,8 +31,8 @@ const BookPostTemplate = ({
             <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
             <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
             <div className="reference">
-              { post.frontmatter.download &&
-                <a href="post.frontmatter.download" target="_blank" rel="noreferrer" className="btn btn-primary">Download Free eBook</a>
+              { post.frontmatter.download_ebook &&
+                <a href={`/downloads/${post.frontmatter.download_ebook}`} target="_blank" rel="noreferrer" className="btn btn-primary">Download Free eBook</a>
               }
               <ul>
                 <li>ISBN: {post.frontmatter.isbn}</li>
@@ -108,6 +108,7 @@ export const pageQuery = graphql`
         isbn
         download
         language_link
+        download_ebook
         date(formatString: "MMMM DD, YYYY")
         release(formatString: "MMMM DD, YYYY")
         publication(formatString: "MMMM DD, YYYY")
