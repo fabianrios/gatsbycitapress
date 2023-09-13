@@ -19,7 +19,7 @@ const BookPostReadTemplate = ({
   const postReference = useRef(null);
 
   const fontFamilies = {
-    bluu: 'Bluu, serif',
+    inter: 'Inter, sans-serif',
     zilla: 'Zilla Slab, serif',
     garamond: 'EB Garamond'
   }
@@ -84,6 +84,36 @@ const BookPostReadTemplate = ({
           <div className="info read-info">
             <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
             <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
+            <ul className="tags">
+              {
+              post.frontmatter.genre.map(g => {
+                return (
+                  <li key={g}>
+                    <Link to={`/genre/${g}`}>{intl.formatMessage({id: g})}</Link>
+                  </li>
+                  )
+                })
+              }
+              {
+              post.frontmatter.theme.map(t => {
+                return (
+                  <li key={t}>
+                    <Link to={`/theme/${t}`}>{intl.formatMessage({id: t})}</Link>
+                  </li>
+                  )
+                })
+              }
+              {
+              post.frontmatter.time_period.map(t => {
+                return (
+                  <li key={t}>
+                    <Link to={`/time-period/${t}`}>{intl.formatMessage({id: t})}</Link>
+                  </li>
+                  )
+                })
+              }
+              </ul>
+          
             <div className="reference">
                 <ul>
                   <li>ISBN: {post.frontmatter.isbn}</li>
@@ -101,10 +131,12 @@ const BookPostReadTemplate = ({
               </div>{/* /reference */}
               <br />
               <div className="actions">
-                { post.frontmatter.download &&
-                  <a href={post.frontmatter.download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>Download Guide</a>
+                { post.frontmatter.download_ebook &&
+                  <a href={`/downloads/${post.frontmatter.download_ebook}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Download Ebook'})}</a>
                 }
-                <a href="#guide-link" target="_blank" rel="noreferrer" className={"btn btn-secondary"}>Download Guide</a>
+                { post.frontmatter.download &&
+                  <a href={`/downloads/${post.frontmatter.download}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Download Guide'})}</a>
+                }
               </div>
             </div>
         </header>
@@ -189,6 +221,10 @@ export const pageQuery = graphql`
         isbn
         release
         download
+        download_ebook
+        genre
+        theme
+        time_period
         publication
         language_link
         date(formatString: "MMMM DD, YYYY")

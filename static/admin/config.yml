@@ -15,7 +15,7 @@ collections:
     public_folder: ''
     path: '{{title}}/index'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'publication', widget: 'datetime' }
@@ -26,13 +26,14 @@ collections:
       - { label: 'Image (max 500kb - preferable .jpg - lowercase name - no spaces)', name: post_image, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}] }
       - { label: 'Image (max 500kb - preferable .jpg - lowercase name - no spaces square)', name: square_image, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}] }
       - { label: 'Download link', name: 'download', widget: 'string', required: false }
+      - { label: 'Download eBook', name: 'download_ebook', widget: 'string', required: false }
       - { label: 'Other language link', name: 'language_link', widget: 'string', required: false }
       - { label: 'Genre', name: 'genre', widget: 'select', options: ["fiction", "short-stories", "novella", "poetry", "nonfiction", "essay", "manifesto", "autobiography"], multiple: true }
       - { label: 'Time period', name: 'time_period', widget: 'select', options: ['19th', '20th', 'victorian', 'early-modern', 'modernist', 'contemporary'], multiple: true }
       - { label: 'Theme', name: 'theme', widget: 'select', options: ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"], multiple: true }
       - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Foreword & Cover', name: 'foreword', widget: 'markdown' }
+      - { label: 'Foreword & Cover', name: 'foreword', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: news
     label: News

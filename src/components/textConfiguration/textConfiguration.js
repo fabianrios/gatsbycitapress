@@ -39,7 +39,7 @@ const textConfiguration = ({ onChangeSize, onChangeLine, onChangeSpacing, onChan
       <Slider min={0} max={100} defaultValue={90} onChange={handleLineLenght}/>
       <label>{intl.formatMessage({id: 'Font'})}:</label>
       <div className={classes.fonts}>
-        <button onClick={(e) => fontChange('bluu')} className="bluu">A</button>
+        <button onClick={(e) => fontChange('inter')} className="inter">A</button>
         <button onClick={(e) => fontChange('zilla')} className="zilla">A</button>
         <button onClick={(e) => fontChange('garamond')} className="garamond">A</button>
       </div>

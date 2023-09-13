@@ -1,4 +1,4 @@
-import * as React from "react"
+import React, { useState } from 'react';
 import { Link, FormattedMessage } from "gatsby-plugin-intl"
 import ChangeLanguage from "../changeLanguage/changeLanguage"
 import * as classes from "./layout.module.scss"
@@ -7,12 +7,12 @@ import * as classes from "./layout.module.scss"
 const Layout = ({ location, children, intl, where }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
-  const [clicked, setClicked] = React.useState(false)
+  const [clicked, setClicked] = useState(true)
   
   let header = (
     <div className={clicked ? "flex main-heading" : "flex main-heading open"}>
       <h1 className="cita-heading">
-        <Link to="/">cita:</Link>
+        <Link to="/">{clicked ? 'cita': ''}:</Link>
       </h1>
       <ul className="navigation">
         <li><Link to="/about"><FormattedMessage id="about" />:</Link></li>
@@ -37,7 +37,7 @@ const Layout = ({ location, children, intl, where }) => {
               <a className="social-img" href="http://facebook.com/citapress"><img src="/img/fb.png" alt="fb" /></a>
               <a className="social-img" href="http://twitter.com/citapress"><img src="/img/tw.png" alt="tw" /></a>
             </div>
-            <div>
+            <div className='footer-rights'>
               All rights reserved  CC-BY-SA 4.0 / {new Date().getFullYear()}, Built with
               {` `}
               <a href="https://www.gatsbyjs.com">Gatsby</a>

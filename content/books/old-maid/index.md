@@ -6,7 +6,8 @@ author: Edith Wharton
 isbn: "1231232131232112"
 post_image: old-maid-cover.jpg
 square_image: old-maid-square.jpg
-download: http://link.com
+download: The_Old_Maid_v3.pdf
+download_ebook: The_Old_Maid_v3.epub
 language_link: la-solterona
 genre:
   - short-stories
