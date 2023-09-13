@@ -1,35 +1,35 @@
 ---
+title: The Yellow Wall-Paper
 publication: 2023-09-01T22:12:03.284Z
 release: 2018-05-01T22:12:03.284Z
+templateKey: book-page
 author: Charlotte Perkins Gilman
+isbn: "239102310238192"
+post_image: cover-yellowwallpaper.jpg
+square_image: yellowwallpaper.png
 download: http://link.com
 language_link: el-tapiz-amarillo
 genre:
   - novella
+time_period:
+  - modernist
+  - 19th
 theme:
   - sex-romance
   - motherhood
 lang: en
-foreword: >-
-  Foreword: Catherine J. Golden, Ph.D. - Professor of English and The Tisch
-  Chair in Arts and Letters, Skidmore College
-
-
-  Cover: [Laura Savina](http://laurasavina.com/) - Italian illustrator and tap dance student
-date: 2015-05-01T22:12:03.284Z
-title: The Yellow Wall-Paper
-isbn: "239102310238192"
-post_image: cover-yellowwallpaper.jpg
-square_image: yellowwallpaper.png
-time_period:
-  - modernist
-  - 19th
 description: The Yellow Wall-Paper (1893) holds an important place among
   rediscovered works by turn-of-the-century American women writers for its bold
   critique of gender politics in a patriarchal society. The nameless narrator,
   undergoing the infamous rest cure for what doctors now diagnose as postpartum
   depression, experiences debilitating psychological effects.
-templateKey: book-page
+foreword: >-
+  Foreword: Catherine J. Golden, Ph.D. - Professor of English and The Tisch
+  Chair in Arts and Letters, Skidmore College
+
+
+  Cover: <a href="http://laurasavina.com/" target="_blank" rel="noreferrer">Laura Savina</a> - Italian illustrator and tap dance student
+date: 2015-05-01T22:12:03.284Z
 ---
 ## Foreword
 
