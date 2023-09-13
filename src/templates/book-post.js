@@ -125,7 +125,10 @@ export const pageQuery = graphql`
       sort: {frontmatter: { date: DESC } }
       filter: {
         id: {ne: $id},
-        frontmatter: {lang: {eq: $language}}
+        frontmatter: {
+          lang: {eq: $language}
+          templateKey: { nin: ["news-page"] }
+        }
       }
       ) {
       nodes {
