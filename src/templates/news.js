@@ -16,6 +16,10 @@ const NewsTemplate = ({
   return (
     <Layout location={location} title={siteTitle}>
       <h1 className="bluu">{intl.formatMessage({id: "news"})}</h1>
+      <p>
+        To stay up to date on all our releases and news, please <a href="https://citapress.substack.com" className="blue">sign up to our newsletter here!</a>
+      </p>
+      <hr />
       <section
           dangerouslySetInnerHTML={{ __html: news.html }}
           className={`news-content ${news.frontmatter.lang}`}
