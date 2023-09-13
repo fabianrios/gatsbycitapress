@@ -26,6 +26,7 @@ foreword: >-
 
   Cover: [Jiwon Park](http://jiwonpark.kr/) - Graphic designer, educator, and social entrepreneur, living and working in Austin and Seoul.
 date: 2012-05-01T22:12:03.284Z
+templateKey: book-page
 ---
 This is my first post on my new fake blog! How exciting!
 

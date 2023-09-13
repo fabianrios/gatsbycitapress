@@ -15,11 +15,12 @@ collections:
     public_folder: ''
     path: '{{title}}/index'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'publication', widget: 'datetime' }
       - { label: 'Release Date', name: 'release', widget: 'datetime' }
+      - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'book-page' }
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'ISBN', name: 'isbn', widget: 'string' }
       - { label: 'Image (max 500kb - preferable .jpg - lowercase name - no spaces)', name: post_image, widget: image, required: true, media_library: [{config: [{max_file_size: 62500}]}] }
@@ -32,4 +33,17 @@ collections:
       - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Foreword & Cover', name: 'foreword', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: news
+    label: News
+    folder: 'content/news'
+    slug: 'index'
+    path: '{{title}}/index'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
+      - { label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'news-page' }
       - { label: 'Body', name: 'body', widget: 'markdown' }

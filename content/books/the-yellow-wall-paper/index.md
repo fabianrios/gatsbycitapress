@@ -29,6 +29,7 @@ description: The Yellow Wall-Paper (1893) holds an important place among
   critique of gender politics in a patriarchal society. The nameless narrator,
   undergoing the infamous rest cure for what doctors now diagnose as postpartum
   depression, experiences debilitating psychological effects.
+templateKey: book-page
 ---
 ## Foreword
 

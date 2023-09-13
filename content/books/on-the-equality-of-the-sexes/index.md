@@ -25,6 +25,7 @@ foreword: >-
   Foreword: Bonnie J. Smith - President, Judith Sargent Murray Society
   Cover: Natalia Rojas - Colombian artist and illustrator"
 date: 2012-05-01T22:12:03.284Z
+templateKey: book-page
 ---
 ## Foreword
 

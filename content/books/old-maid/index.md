@@ -22,6 +22,7 @@ foreword: >-
   Foreword: Krithika Varagur, an author, award-winning journalist, speechwriter, and editor at The Drift.
   Cover: Petra Zehner, East West German graphic artist and writer currently based in France."
 date: 2012-05-01T22:12:03.284Z
+templateKey: book-page
 ---
 ## Introduction to The Old Maid by Krithika Varagur
 

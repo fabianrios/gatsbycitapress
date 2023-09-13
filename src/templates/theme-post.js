@@ -65,6 +65,7 @@ export const pageQuery = graphql`
       filter: {frontmatter: {
         lang: {eq: $language},
         theme:{eq: $theme}
+        templateKey: { nin: ["news-page"] }
       }}
       ) {
       nodes {

@@ -6,12 +6,14 @@
 
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
+const { create } = require('domain')
 
 const books = path.resolve(`./src/templates/book-post.js`)
 const booksread = path.resolve(`./src/templates/book-post-read.js`)
 const genreTemplate = path.resolve(`./src/templates/genre-post.js`)
 const timePeriodTemplate = path.resolve(`./src/templates/time-period-post.js`)
 const themeTemplate = path.resolve(`./src/templates/theme-post.js`)
+const newsTemplate = path.resolve(`./src/templates/news.js`)
 
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
@@ -24,7 +26,12 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     {
       booksEnglish: allMarkdownRemark(
         sort: {frontmatter: {date: DESC}}
-        filter: {frontmatter: {lang: {eq: "en"}}}
+        filter: {
+          frontmatter: {
+            lang: {eq: "en"}
+            templateKey: { nin: ["news-page"] }
+          }
+        }
         limit: 1000
       ) {
         nodes {
@@ -37,8 +44,35 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           }
         }
       }
+      news: allMarkdownRemark(
+        sort: {frontmatter: {date: DESC}}
+        filter: {
+          frontmatter: {
+            lang: {eq: "en"}
+            templateKey: { eq: "news-page" }
+          }
+        }
+        limit: 4
+      ) {
+        nodes {
+          id
+          frontmatter{
+            title
+            lang
+            templateKey
+          }
+          fields {
+            slug
+          }
+        }
+      }
       Allbooks: allMarkdownRemark(
         sort: {frontmatter: {date: DESC}}
+        filter: {
+          frontmatter: {
+            templateKey: { nin: ["news-page"] }
+          }
+        }
         limit: 1000
       ) {
         nodes {
@@ -94,6 +128,20 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           id: post.id,
           previousPostId,
           nextPostId,
+          lang: post.frontmatter.lang,
+        },
+      })
+    })
+  }
+
+  const news = result.data.news.nodes;
+  if (news.length > 0) {
+    news.forEach((post) => {
+      createPage({
+        path: post.fields.slug,
+        component: newsTemplate,
+        context: {
+          id: post.id,
           lang: post.frontmatter.lang,
         },
       })
@@ -202,6 +250,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     type Frontmatter {
       title: String
       description: String
+      templateKey: String
       date: Date @dateformat
       lang: String
     }
@@ -211,3 +260,4 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
   `)
 }
+

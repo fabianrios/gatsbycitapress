@@ -22,6 +22,7 @@ foreword: >-
   Prólogo: Krithika Varagur, galardonada periodista, autora, ensayista y humorista estadounidense.
 Portada: Petra Zehner, artista gráfica y escritora residente en Francia."
 date: 2012-05-01T22:12:03.284Z
+templateKey: book-page
 ---
 ## Introducción de La Solterona de Krithika Varagur
 
