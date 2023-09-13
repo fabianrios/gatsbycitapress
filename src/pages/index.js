@@ -91,7 +91,7 @@ const BlogIndex = ({ data, location, intl }) => {
           </a>
         </h1>
       ) : (
-        <h1 className="dotted large-text" id="home">
+        <h1 className="bluu dotted large-text" id="home">
           una editorial y biblioteca feminista enfocada en libros de acceso
           abierto escritos por mujeres. Publicamos gratuitamenteniño hace
           signo de pulgar arriba en frente de un computador textos
