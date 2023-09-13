@@ -5,7 +5,7 @@ templateKey: news-page
 ---
 ## 2023
 
-- **June 2023 (Event)** Cita Press is an exhibitor and presenter at the San Francisco Art Book Fair! Visit our table July 14-16 (preview July 13) and join us for a discussion on "New Life in the Public Domain" at 3 pm PT on July 14.
+- **June 2023 (Event)** Cita Press is an exhibitor and presenter at the [San Francisco Art Book Fair!](https://sfartbookfair.com/) Visit our table July 14-16 (preview July 13) and join us for a discussion on "New Life in the Public Domain" at 3 pm PT on July 14.
 - **April 2023 (Grant Announcement)** Cita to receive $750.000 from Mellon - Cita Press, together with our fiscal sponsor and community cultivation partner Educopia Institute, is thrilled to announce a new award from the Mellon Foundation.
 - **March 2023 (Announcement/Press)** Our new collection, Voices Around Me: Nobel Prize Lectures, comes out on March 8 (International Women's Day). Literary Hub cross-publishes the foreword by Jessi Haley, and the book is paired with two free, printable zines featuring the cover design by Fiorella Ferroni.
 
