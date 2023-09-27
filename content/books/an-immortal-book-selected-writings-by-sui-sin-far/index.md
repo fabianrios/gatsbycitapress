@@ -38,32 +38,32 @@ foreword: >-
 
   Cover: Shuhua Xiong is an interdisciplinary artist from Shanghai, now based in Queens, New York.
 ---
-#Table of Contents
-#Foreword
-#Essays
-##Sui Sin Far, the Half Chinese Writer, Tells of Her Career
-##The Persecution and Oppression of Me
-##Leaves from the Mental Portfolio of an Eurasian
-##A Trip in a Horse Car
-#Stories
-##Misunderstood, or the Story of a Young Man
-##Mrs. Spring Fragrance
-##The Inferior Woman
-##In the Land of the Free
-##The Americanizing of Pau Tsu
-##The Chinese Lily
-##The Three Souls of Ah So Nan
-##“Its Wavering Image”
-##The Smuggling of Tie Co
-##Tian Shan’s Kindred Spirit
-##Woo-Ma and I
-#“Tales of Chinese Children”
-##The Heart’s Desire
-##A Chinese Boy-Girl
-##What About the Cat?
-#Acknowledgements
-#Text Sources
-#Bibliography
+# Table of Contents
+# Foreword
+# Essays
+## Sui Sin Far, the Half Chinese Writer, Tells of Her Career
+## The Persecution and Oppression of Me
+## Leaves from the Mental Portfolio of an Eurasian
+## A Trip in a Horse Car
+# Stories
+## Misunderstood, or the Story of a Young Man
+## Mrs. Spring Fragrance
+## The Inferior Woman
+## In the Land of the Free
+## The Americanizing of Pau Tsu
+## The Chinese Lily
+## The Three Souls of Ah So Nan
+## “Its Wavering Image”
+## The Smuggling of Tie Co
+## Tian Shan’s Kindred Spirit
+## Woo-Ma and I
+# “Tales of Chinese Children”
+## The Heart’s Desire
+## A Chinese Boy-Girl
+## What About the Cat?
+# Acknowledgements
+# Text Sources
+# Bibliography
 
 #Foreword
 By Victoria Namkung 
