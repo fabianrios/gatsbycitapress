@@ -65,7 +65,7 @@ foreword: >-
 # Text Sources
 # Bibliography
 
-#Foreword
+# Foreword
 By Victoria Namkung 
 
 “All my ambition is to make myself useful, known, heard and admired by the wise and the brave.” With these words, Edith Maude Eaton — better known by her pen name, Sui Sin Far — laid claim to her destiny. Though this statement is from an essay that was published anonymously, it captures the boldness and honesty with which one of the first North American writers of Chinese heritage pursued a prolific career that spanned genres and decades. Cita Press’ An Immortal Book: Selected Writings by Sui Sin Far brings together autobiographical essays and short stories from different periods in Eaton’s career, showcasing her range as a storyteller, thinker, and stylist.
