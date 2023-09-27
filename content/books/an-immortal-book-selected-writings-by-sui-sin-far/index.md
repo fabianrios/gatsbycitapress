@@ -39,59 +39,112 @@ foreword: >-
   Cover: Shuhua Xiong is an interdisciplinary artist from Shanghai, now based in Queens, New York.
 ---
 # Table of Contents
+
 # Foreword
+
 # Essays
+
 ## Sui Sin Far, the Half Chinese Writer, Tells of Her Career
+
 ## The Persecution and Oppression of Me
+
 ## Leaves from the Mental Portfolio of an Eurasian
+
 ## A Trip in a Horse Car
+
 # Stories
+
 ## Misunderstood, or the Story of a Young Man
+
 ## Mrs. Spring Fragrance
+
 ## The Inferior Woman
+
 ## In the Land of the Free
+
 ## The Americanizing of Pau Tsu
+
 ## The Chinese Lily
+
 ## The Three Souls of Ah So Nan
+
 ## “Its Wavering Image”
+
 ## The Smuggling of Tie Co
+
 ## Tian Shan’s Kindred Spirit
+
 ## Woo-Ma and I
+
 # “Tales of Chinese Children”
+
 ## The Heart’s Desire
+
 ## A Chinese Boy-Girl
+
 ## What About the Cat?
+
 # Acknowledgements
+
 # Text Sources
+
 # Bibliography
 
 # Foreword
-By Victoria Namkung 
 
-“All my ambition is to make myself useful, known, heard and admired by the wise and the brave.” With these words, Edith Maude Eaton — better known by her pen name, Sui Sin Far — laid claim to her destiny. Though this statement is from an essay that was published anonymously, it captures the boldness and honesty with which one of the first North American writers of Chinese heritage pursued a prolific career that spanned genres and decades. Cita Press’ An Immortal Book: Selected Writings by Sui Sin Far brings together autobiographical essays and short stories from different periods in Eaton’s career, showcasing her range as a storyteller, thinker, and stylist.
+**By Victoria Namkung** 
 
+“All my ambition is to make myself useful, known, heard and admired by the wise and the brave.” With these words, Edith Maude Eaton — better known by her pen name, Sui Sin Far — laid claim to her destiny. Though this statement is from an essay that was published anonymously, it captures the boldness and honesty with which one of the first North American writers of Chinese heritage pursued a prolific career that spanned genres and decades. Cita Press’ *An Immortal Book: Selected Writings by Sui Sin Far* brings together autobiographical essays and short stories from different periods in Eaton’s career, showcasing her range as a storyteller, thinker, and stylist.
 
 Revered for her contributions to Asian American and Asian Canadian literature, Sui Sin Far is also a key figure in early women’s journalism, literature, and feminism. A master at developing characters and rendering place, she grappled with themes of identity, race, class, gender, sexuality, and politics in ways that still resonate today. Eaton wrote with a voice that was distinctly vibrant and metropolitan, publishing journalism, poetry, travel writing, literary sketches, interviews, essays, and sensationalist fiction. According to Professor Mary Chapman, whose recent scholarship has more than tripled Eaton’s known output, over 260 works appeared in nearly 60 magazines and newspapers in the U.S., Canada, and Jamaica from 1888 to 1914. 
+
+
 Eaton’s characters often found themselves in dramatic, tragic, or intrepid scenarios, and indeed her own biography reads like a work of fiction. Born in 1865 in Cheshire, England, she was the eldest daughter in a family of fourteen children and was raised among books and artists (though she left school to work at a very young age). Her British father had studied art in France before working in Shanghai, where he met Eaton’s Chinese mother, a formerly enslaved tightrope dancer and human target of a knife-throwing act who had toured the world with an acrobatic troupe. Shortly after her birth, the Eatons moved to New York and later settled in Montreal where they were likely the only mixed Chinese-white family in the city. Several of her siblings eventually “passed” as white or other ethnicities that were subject to less racism at that time, including her sister, the author and screenwriter Winnifred Eaton, who adopted the invented “Japanese” name Onoto Watanna.
-At age fourteen, Eaton began experiencing attacks of inflammatory rheumatism. While her health suffered, the disorder did not stop Eaton from pursuing adventure. It’s thought that she may have assisted her father in smuggling Chinese people into the U.S. from Montreal (the subject shows up in both her journalism and fiction). She also lived in Jamaica for a time, taking over a reporting assignment at Gall’s Daily Newsletter in Kingston from Winnifred. Against the advice of would-be mentors (and, as her essays depict, the preference of her landlords), she also embraced her Chinese heritage both publicly and professionally.
-As a young reporter, she covered the growing Chinese community in Montreal and courageously defended Chinese immigrants from racist government policies like the Chinese Head Tax in Canada. It was when Eaton arrived in the U.S. in 1898 that she began publishing under the pen name Sui Sin Far, which translates to “Chinese sacred lily.” She thrived living in San Francisco, Los Angeles, Seattle, and later Boston, writing stories for publications such as the Seattle Post-Intelligencer, Ladies’ Home Journal, Good Housekeeping, and the Los Angeles Express. Although her pieces about the Chinese community represent only part of her body of work, Eaton’s coverage of everyday immigrants likely made a real impact on the hearts and minds of readers.\
+
+
+At age fourteen, Eaton began experiencing attacks of inflammatory rheumatism. While her health suffered, the disorder did not stop Eaton from pursuing adventure. It’s thought that she may have assisted her father in smuggling Chinese people into the U.S. from Montreal (the subject shows up in both her journalism and fiction). She also lived in Jamaica for a time, taking over a reporting assignment at *Gall’s Daily Newsletter* in Kingston from Winnifred. Against the advice of would-be mentors (and, as her essays depict, the preference of her landlords), she embraced her Chinese heritage both privately and professionally.
+
+
+As a young reporter, she covered the growing Chinese community in Montreal and courageously defended Chinese immigrants from racist government policies like the Chinese Head Tax in Canada. It was when Eaton arrived in the U.S. in 1898 that she began publishing under the pen name Sui Sin Far, which translates to “Chinese sacred lily.” She thrived living in San Francisco, Los Angeles, Seattle, and later Boston, writing stories for publications such as the *Seattle Post-Intelligencer*, *Ladies’ Home Journal*, *Good Housekeeping*, and the *Los Angeles Express*. Although her pieces about the Chinese community represent only part of her body of work, Eaton’s coverage of everyday immigrants likely made a real impact on the hearts and minds of readers.
+
 I discovered Eaton in the late 1990s, in an Asian American Literature class at the University of California, Santa Barbara, when I was assigned her 1909 essay, “Leaves From the Mental Portfolio of an Eurasian.” As the daughter of a Korean American father and Jewish mother from Ireland, the word “Eurasian” practically jumped off the course syllabus since that was how I was referred to as a child, before terms like biracial, mixed, hapa, or multiracial were commonplace. It was the first time I read about someone like me. 
+
+
 Upon reading the seminal work, which reads like memoir inflected with a manifesto, I instantly related to the blatant racism Eaton and her siblings experienced, as well as to the feeling of being gazed upon by strangers and being called over by people “for the purpose of inspection.” And although I was an American and proud of my heritage, I nodded along as Eaton claimed, “After all I have no nationality and am not anxious to claim any. Individuality is more than nationality.” As a young journalist and aspiring novelist who had ties to multiple cultures and was figuring out my own identity, I felt empowered reading Eaton’s words, which seemed defiant in 1999. Imagine their impact some ninety years earlier, when a confluence of racist policies, inflammatory media, and hateful public rhetoric against Chinese people was the norm in North America. 
+
+
 Chinese men had first arrived in the U.S. in the 1850s to try their luck during California’s Gold Rush and around 15,000 Chinese workers helped build the Transcontinental Railroad in the 1860s. By the 1870s, a widespread depression caused the already-brewing hostility toward the Chinese to reach a fever pitch. The Chinese quickly became scapegoats who were seen as a threat to white America, with speeches, cartoons, and even congressional hearings vilifying the ethnic group in dark and disturbing ways. Echoes of this anti-Chinese sentiment were revived at the start of the Covid-19 pandemic and more recently with new U.S. legislation that restricts the ability of Chinese nationals to buy property in some states. 
+
+
 Eaton’s realist stories were a plea for society to view the Chinese as human beings with the same hopes and dreams and loves and heartbreaks as European Americans. Her writings were being published at a time when the U.S. maintained the Chinese Exclusion Act of 1882, which halted all Chinese immigration for ten years (and ultimately, due to extensions, until 1943) and prevented Chinese people in America from becoming citizens. The racist law also prevented the reunification of families who were left back in China. Meanwhile, anti-miscegenation laws in many states kept Chinese men from marrying white women, leading to a bachelor society for the mostly male workers who had arrived prior to or in spite of the immigration ban. 
-While Eaton is often sympathetic in her portrayals of Chinese men, she didn’t shy away from calling out China’s patriarchal policies at the time, including the practice of only educating boys or the fact that Chinese men could take multiple wives. Although Eaton herself never married, many of her stories are about love, marriage, and children. She also wrote about women helping women and the deep bonds of female friendship. In this book’s opening essay, “Sui Sin Far, the Half-Chinese Writer, Tells of Her Career,” Eaton said she “formed friendships with women who braced and enlightened me, women to whom the things of the mind and the heart appealed; women who were individuals, not merely the daughters of their parents, the wives of the husbands; women who taught me that nationality was no bar to friendship with those whose friendship was worth while.”\
+
+
+While Eaton is often sympathetic in her portrayals of Chinese men, she didn’t shy away from calling out China’s patriarchal policies at the time, including the practice of only educating boys or the fact that Chinese men could take multiple wives. Although Eaton herself never married, many of her stories are about love, marriage, and children. She also wrote about women helping women and the deep bonds of female friendship. In this book’s opening essay, “Sui Sin Far, the Half-Chinese Writer, Tells of Her Career,” Eaton said she “formed friendships with women who braced and enlightened me, women to whom the things of the mind and the heart appealed; women who were individuals, not merely the daughters of their parents, the wives of the husbands; women who taught me that nationality was no bar to friendship with those whose friendship was worth while.”
+
 In “The Persecution and Oppression of Me,” published anonymously under the byline, “By a Half Chinese,” Eaton delves into her identity, chronicling the racism she regularly encounters — anecdotes and attitudes that feel all too familiar in today’s racial and political climate. The personal and frank essay also showcases the trademark dry humor Eaton displays throughout her oeuvre. To wit:
-One day my landlady inquired if I did not think that the reason why I was brighter than the ordinary Chinese was because I had white blood in my veins. I answered that I hadn't the slightest doubt that the reason why I was superior to a great many whites was because I had Chinese blood in my veins.
-Eaton is best known for her 1912 book, Mrs. Spring Fragrance, which features seventeen fictional adult stories set in American Chinatowns and twenty “Tales of Chinese Children.” An Immortal Book  includes the aforementioned essays and three stories from earlier in Eaton’s career alongside selections from both sections of Mrs. Spring Fragrance (some of which also appeared earlier in magazines). In the book’s titular story, Mrs. Spring Fragrance, who is Chinese, writes a letter to her husband about a lecture she attended in San Francisco. You can’t help but wonder how her white American readers felt — or if they were even in on the joke — reading such a sarcastic and scathing passage:\
-The subject was “America, the Protector of China!” It was most exhilarating, and the effect of so much expression of benevolence leads me to beg of you to forget to remember that the barber charges you one dollar for a shave while he humbly submits to the American man a bill of fifteen cents. And murmur no more because your honored elder brother, on a visit to this country, is detained under the roof-tree of this great Government instead of under your own humble roof. Console him with the reflection that he is protected under the wing of the Eagle, the Emblem of Liberty. What is the loss of ten hundred years or ten thousand times ten dollars compared with the happiness of knowing oneself so securely sheltered?
+
+>
+> One day my landlady inquired if I did not think that the reason why I was brighter than the ordinary Chinese was because I had white blood in my veins. I answered that I hadn't the slightest doubt that the reason why I was superior to a great many whites was because I had Chinese blood in my veins.
+
+
+Eaton is best known for her 1912 book, *Mrs. Spring Fragrance*, which features seventeen fictional adult stories set in American Chinatowns and twenty “Tales of Chinese Children.” *An Immortal Book* includes the aforementioned essays and three stories from earlier in Eaton’s career alongside selections from both sections of Mrs. Spring Fragrance (some of which also appeared earlier in magazines). In the book’s titular story, Mrs. Spring Fragrance, who is Chinese, writes a letter to her husband about a lecture she attended in San Francisco. You can’t help but wonder how her white American readers felt — or if they were even in on the joke — reading such a sarcastic and scathing passage:
+
+> The subject was “America, the Protector of China!” It was most exhilarating, and the effect of so much expression of benevolence leads me to beg of you to forget to remember that the barber charges you one dollar for a shave while he humbly submits to the American man a bill of fifteen cents. And murmur no more because your honored elder brother, on a visit to this country, is detained under the roof-tree of this great Government instead of under your own humble roof. Console him with the reflection that he is protected under the wing of the Eagle, the Emblem of Liberty. What is the loss of ten hundred years or ten thousand times ten dollars compared with the happiness of knowing oneself so securely sheltered?
+
+
 In another story featuring many of the same characters, “An Inferior Woman,” Mrs. Spring Fragrance proclaims, “I desire to write an immortal book... My first subject will be ‘The Inferior Woman of America.’” A clever reversal, Eaton renders Mrs. Spring Fragrance as a would-be author writing about the ways of American women for her Chinese friends — an ironic acknowledgement of Eaton’s own outsider status as a journalist and author. 
+
+
 While some of Eaton’s works are “slice of life” stories that shed humorous or charming light on the everyday, others are downright haunting. “In the Land of the Free” is about a Chinese merchant who is waiting at the San Francisco waterfront to welcome his wife and two-year-old son from China. Upon disembarkment, the U.S. government takes the child away due to a lack of paperwork and an expensive struggle ensues. The boy is sent to a missionary school and renamed, and the eventual family reunion is devastating. Reading this story in 2023, one can’t help but draw a parallel to the countless family separations that have occurred at the U.S. southern border in recent years and imagine how horrified Eaton would be to know such policies were revived decades later. 
-“The Americanization of Pau Tsu” features a well-meaning white woman who messes things up–a recurring trope in Eaton’s fiction–but the story also reflects the author’s approach to feminism by giving the character of Pau Tsu agency. Scholars like Amy Ling have pointed to a possible “lesbian sensibility” in “The Chinese Lily,” a story about a disabled woman. And stories like “The Smuggling of Tie Co” have queer undertones, while others break gender norms (including multiple instances of crossdressing), and highlight feminist revisions of tradition — all examples of Eaton’s subversive nature and desire to challenge the status quo.\
+
+
+“The Americanization of Pau Tsu” features a well-meaning white woman who messes things up–a recurring trope in Eaton’s fiction–but the story also reflects the author’s approach to feminism by giving the character of Pau Tsu agency. Scholars like Amy Ling have pointed to a possible “lesbian sensibility” in “The Chinese Lily,” a story about a disabled woman. And stories like “The Smuggling of Tie Co” have queer undertones, while others break gender norms (including multiple instances of crossdressing), and highlight feminist revisions of tradition — all examples of Eaton’s subversive nature and desire to challenge the status quo.
+
 Eaton died of heart disease in 1914, just two years after her first and only book was published. By this time, she had reached a rarified position as an incredibly popular writer whose obituary appeared in newspapers throughout North America. Thanks to this new, open access collection (which builds on the work of feminist scholars like Chapman, Ling, Annette White-Parks, and many others), her work will continue to be useful, known, heard, and admired — in other words, immortal. 
 
-PART 1 
+# PART 1 
 
-Essays
+# Essays
 
 Sui Sin Far, the Half Chinese Writer, Tells of Her Career
 
