@@ -107,6 +107,7 @@ At the age of 4 years I started to go to school. I can remember being very much 
 
 
 **Arrival in America.**
+
 When I was 6 years old my father brought us to America. Besides my first brother, who was only 10 months older than myself, I had now three sisters and another brother. We settled in Montreal, Can, and hard times befell, upon which I shall not dwell.
 
 
@@ -127,6 +128,7 @@ I, now in my 11th year, entered into two lives, one devoted entirely to family c
 
 
 **Little Lace Girl.**
+
 The impulse to create was so strong within me that failing all other open avenues of development (I wrote a good deal of secret doggerel verse around this period) I began making Irish crochet lace patterns, which I sold to a clique of ladies to whom I was known as “The Little Lace Girl.” I remember that when a Dominican exhibition was held in Montreal a lace pattern which I sent to the art department won first prize—a great surprise to all my people as I was the only little girl competing. My mother was very proud of my work. I remember that when the church asked her to donate something she got me to crochet her a set of my mats as a gift.
 
 
@@ -145,6 +147,7 @@ My 18th birthday saw me in the copying room of the Montreal Star, where for some
 
 
 **Became Stenographer.**
+
 As \[sic] last I took a position as stenographer in a lawyer’s office. I do not think a person of artistic temperament is fitted for mechanical work and it is impossible to make a success of it. Stenography, in particular, is torturing to one whose mind must create its own images. Unconsciously I was stultified by the work I had undertaken. But it had its advantage in this respect, that it brought me into contact and communion with men of judgment and mental ability. I know that I always took an interest in my employers and their interests, and therefore, if I did not merit, at least received their commendation.
 
 
@@ -189,6 +192,7 @@ As always on account of my inaccuracy as a stenographer and my inability to type
 
 
 **Chinese Mission Teacher.**
+
 Occasionally I taught in a Chinese mission school, as I do here in Boston, but learned far more from my scholars than ever I could impart to them.
 
 
@@ -204,6 +208,7 @@ I struggled for many months. The Century Magazine took a story from me; but I re
 
 
 **Located in Boston.**
+
 As I have already said, two years ago I came East with the intention of publishing a book of Chinese-American stories. While I was in Montreal my father obtained for me a letter of introduction from a Chinese merchant of that city to his brother in Boston, Mr Lew Han Son. Through Mr Lew Han Son I became acquainted with some Americans of the name of Austin who live in Dorchester and who have been my good friends ever since. I am also acquainted with a lady in Charlestown, Mrs Henderson, who is a sister of one of my Western friends. Save, however, some visiting among Chinese friends, I do not mingle much in any kind of society. I am not rich and I have my work to do.
 
 
