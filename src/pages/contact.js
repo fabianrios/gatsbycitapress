@@ -23,9 +23,6 @@ const ContactIndex = ({ location, intl }) => {
             <hr />
             <p>Please read our <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md"> Code of Conduct</a> or/and <a href="pages/books.html">our books</a>!</p> 
             <br />
-            <div className="center">
-              <a className={"btn btn-secondary btn-big"} href="https://tinyletter.com/citapress" data-title="Books">Old TinyLetter (Archived)</a>
-            </div>
           </div>
           ) : (
             <div className="spanish-version">
@@ -41,9 +38,6 @@ const ContactIndex = ({ location, intl }) => {
               <hr />
               <p>Porfa lee nuestro <a href="https://github.com/citapress/citapress/blob/master/Code-of-Conduct.md">Código de conducta</a> y/o <a href="pages/books.html">nuestros libros</a>!</p> 
               <br />
-              <div className="center">
-                <a className={"btn btn-secondary btn-big"} href="https://tinyletter.com/citapress" data-title="Books">Antiguo Tinyletter (Archivado)</a>
-              </div>
             </div>
           )}
       </div>

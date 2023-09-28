@@ -1,10 +1,17 @@
-.select {
-  width: auto;
-  max-width: 160px;
-  &:before {
-    border-bottom: 1px solid rgba(white, 0.42);
-  }
-  @media (min-width: 1024px) {
-    width: auto;
+@import '/src/variables.scss';
+
+.active {
+  text-decoration: underline;
+  color: $blue;
+}
+
+.languageSelector {
+  display: flex;
+  li {
+    margin-right: 10px;
+    button {
+      background: none;
+      border: 0;
+    }
   }
 }

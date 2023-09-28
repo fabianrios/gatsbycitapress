@@ -30,13 +30,23 @@ export class changeLanguage extends React.Component {
 
   render() {
     return (
-      <select className={classes.select} onChange={this.handleChange} value={this.state.language} name="language">
+      <ul className={classes.languageSelector}>
         {this.state.languages.map((language, index) => (
-          <option 
-            key={index}
-            value={language}>{this.props.intl.formatMessage({ id: this.state.languageName[language] })} | {this.state.languageOriginal[language]}</option>
+          <li>
+            <button key={index}
+            className={this.state.language === language ? classes.active : null}
+            onClick={() => changeLocale(language, this.state.where ? `/${this.state.where}` : null)}>
+            {this.state.languageOriginal[language]}</button>
+          </li>
         ))}
-      </select>
+      </ul>
+      // <select className={classes.select} onChange={this.handleChange} value={this.state.language} name="language">
+      //   {this.state.languages.map((language, index) => (
+      //     <option 
+      //       key={index}
+      //       value={language}>{this.props.intl.formatMessage({ id: this.state.languageName[language] })} | {this.state.languageOriginal[language]}</option>
+      //   ))}
+      // </select>
     )
   }
 }

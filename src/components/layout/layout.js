@@ -28,7 +28,9 @@ const Layout = ({ location, children, intl, where }) => {
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className={`${classes.globalHeader} bluu`}>{header}</header>
-      <main className="main-wrapper">{children}</main>
+      <main className="main-wrapper">
+        <div className='internal-wrapper'>{children}</div>
+      </main>
       <footer>
         <div className={"footer-container"}>
           <ChangeLanguage where={where} />

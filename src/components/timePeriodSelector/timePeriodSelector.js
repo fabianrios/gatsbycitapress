@@ -24,7 +24,7 @@ export class TimePeriodSelector extends React.Component {
 
   render() {
     return (
-    <div>
+    <div className='main-select'>
       <select className={classes.select} onChange={this.handleChange} value={this.state.period} name="period">
         <option value="">{this.props.intl.formatMessage({ id: 'Time Period' })}</option>
         {this.state.periods.map((period, index) => (

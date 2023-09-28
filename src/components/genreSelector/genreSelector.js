@@ -23,7 +23,7 @@ export class genreSelector extends React.Component {
 
   render() {
     return (
-    <div>
+    <div className='main-select'>
       <select className={classes.select} onChange={this.handleChange} value={this.state.selected} name="selected">
         <option value="">{this.props.intl.formatMessage({ id: 'genre' })}</option>
         {this.state.values.map((v, index) => (
