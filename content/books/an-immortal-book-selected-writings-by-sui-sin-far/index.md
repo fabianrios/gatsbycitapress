@@ -608,15 +608,14 @@ So I roam backward and forward across the continent. When I am East, my heart is
 
 After all I have no nationality and am not anxious to claim any. Individuality is more than nationality. “You are you and I am I,” says Confucius. I give my right hand to the Occidentals and my left to the Orientals, hoping that between them they will not utterly destroy the insignificant “connecting link.” And that’s all.
 
-\*Originally published in The Independent (New York), January 21, 1909.+
 
-### A Sketch
+*Originally published in The Independent (New York), January 21, 1909.*
 
 ## 
 A Trip in a Horse Car
 
 
-\*Editor's note: This is one of Eaton’s early publications–what she and scholars refer to as her “sketches.” It’s not quite fiction, but as it reads like a bridge between her journalism, her memoiristic essays, and her observational short stories, it feels like a fitting transition from the essays to the stories in this volume.\*
+*Editor's note: This is one of Eaton’s early publications–what she and scholars refer to as her “sketches.” It’s not quite fiction, but as it reads like a bridge between her journalism, her memoiristic essays, and her observational short stories, it feels like a fitting transition from the essays to the stories in this volume.*
 
 I always had a liking for a ride in a horse car. Other people may enjoy their carriage and sleigh drives, but I, who am of humbler mind, prefer a horse car. There you can be alone, yet not alone. You can lose yourself in a day dream, without any one interfering, or you can interest yourself in the different species of the human family one is apt to meet in this vehicle. Sometimes you meet a friend and enjoy a pleasant chat, and sometimes you have the pleasure of sitting side by side with your worst enemy. You meet all kinds of people in these cars, high and low, rich and poor, the quality and a quantity of the city, and, as "variety is the spice of life," you will understand why I have a weakness for a trip in a horse car. 
 
