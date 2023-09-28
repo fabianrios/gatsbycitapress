@@ -221,8 +221,7 @@ During the past year I have been engaged in writing my first book, and completed
 To accomplish this work, or to enable me to have the leisure in which to accomplish it, I was obliged to obtain some financial assistance, for one cannot live upon air and water alone, even if one is half-Chinese. Two of my lawyer friends in Montreal kindly contributed toward this end. I hope soon to be in a position to repay them.
 My people in Montreal, my mother in particular, my Chinese friends in Boston and also American friends are looking forward to the advent of “Mrs Spring Fragrance” with, I believe, some enthusiasm. I am myself quite excited over the prospect. Would not any one be who had worked as hard as I have—and waited as long as I have—for a book?
 
-## 
-The Persecution and Oppression of Me
+## The Persecution and Oppression of Me
 
 
 *Editor’s note and content warning: This essay was originally published anonymously under the byline “By a Half Chinese.” It contains slurs and racist rhetoric against Black and Chinese people (recounting racism the author encountered in her life).* 
@@ -377,9 +376,9 @@ So I stand. It is all very amusing, of course; but at the same time, very distre
 
 *Originally published in The Independent (August 24, 1911)*
 
-Leaves from the Mental Portfolio of an Eurasian
+## Leaves from the Mental Portfolio of an Eurasian
 
-Editor’s note  and content warning: This essay contains slurs used against Black and Chinese people (recounting racism the author encountered in her life). 
+*Editor’s note  and content warning: This essay contains slurs used against Black and Chinese people (recounting racism the author encountered in her life).* 
 
 When I look back over the years I see myself, a little child of scarcely four years of age, walking in front of my nurse, in a green English lane, and listening to her tell another of her kind that my mother is Chinese. “Oh Lord!” exclaims the informed. She turns around and scans me curiously from head to foot. Then the two women whisper together. Tho the word “Chinese” conveys very little meaning to my mind, I feel that they are talking about my father and mother and my heart swells with indignation. When we reach home I rush to my mother and try to tell her what I have heard. I am a young child. I fail to make myself intelligible. My mother does not understand, and when the nurse declares to her, “Little Miss Sui is a story-teller,” my mother slaps me.
 Many a long year has past over my head since that day—the day on which I first learned I was something different and apart from other children, but tho my mother has forgotten it, I have not.
