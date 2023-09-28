@@ -48,7 +48,6 @@ Revered for her contributions to Asian American and Asian Canadian literature, S
 
 Eaton’s characters often found themselves in dramatic, tragic, or intrepid scenarios, and indeed her own biography reads like a work of fiction. Born in 1865 in Cheshire, England, she was the eldest daughter in a family of fourteen children and was raised among books and artists (though she left school to work at a very young age). Her British father had studied art in France before working in Shanghai, where he met Eaton’s Chinese mother, a formerly enslaved tightrope dancer and human target of a knife-throwing act who had toured the world with an acrobatic troupe. Shortly after her birth, the Eatons moved to New York and later settled in Montreal where they were likely the only mixed Chinese-white family in the city. Several of her siblings eventually “passed” as white or other ethnicities that were subject to less racism at that time, including her sister, the author and screenwriter Winnifred Eaton, who adopted the invented “Japanese” name Onoto Watanna.
 
-
 At age fourteen, Eaton began experiencing attacks of inflammatory rheumatism. While her health suffered, the disorder did not stop Eaton from pursuing adventure. It’s thought that she may have assisted her father in smuggling Chinese people into the U.S. from Montreal (the subject shows up in both her journalism and fiction). She also lived in Jamaica for a time, taking over a reporting assignment at *Gall’s Daily Newsletter* in Kingston from Winnifred. Against the advice of would-be mentors (and, as her essays depict, the preference of her landlords), she embraced her Chinese heritage both privately and professionally.
 
 As a young reporter, she covered the growing Chinese community in Montreal and courageously defended Chinese immigrants from racist government policies like the Chinese Head Tax in Canada. It was when Eaton arrived in the U.S. in 1898 that she began publishing under the pen name Sui Sin Far, which translates to “Chinese sacred lily.” She thrived living in San Francisco, Los Angeles, Seattle, and later Boston, writing stories for publications such as the *Seattle Post-Intelligencer*, *Ladies’ Home Journal*, *Good Housekeeping*, and the *Los Angeles Express*. Although her pieces about the Chinese community represent only part of her body of work, Eaton’s coverage of everyday immigrants likely made a real impact on the hearts and minds of readers.
@@ -59,148 +58,303 @@ Upon reading the seminal work, which reads like memoir inflected with a manifest
 
 Chinese men had first arrived in the U.S. in the 1850s to try their luck during California’s Gold Rush and around 15,000 Chinese workers helped build the Transcontinental Railroad in the 1860s. By the 1870s, a widespread depression caused the already-brewing hostility toward the Chinese to reach a fever pitch. The Chinese quickly became scapegoats who were seen as a threat to white America, with speeches, cartoons, and even congressional hearings vilifying the ethnic group in dark and disturbing ways. Echoes of this anti-Chinese sentiment were revived at the start of the Covid-19 pandemic and more recently with new U.S. legislation that restricts the ability of Chinese nationals to buy property in some states. 
 
-
 Eaton’s realist stories were a plea for society to view the Chinese as human beings with the same hopes and dreams and loves and heartbreaks as European Americans. Her writings were being published at a time when the U.S. maintained the Chinese Exclusion Act of 1882, which halted all Chinese immigration for ten years (and ultimately, due to extensions, until 1943) and prevented Chinese people in America from becoming citizens. The racist law also prevented the reunification of families who were left back in China. Meanwhile, anti-miscegenation laws in many states kept Chinese men from marrying white women, leading to a bachelor society for the mostly male workers who had arrived prior to or in spite of the immigration ban. 
-
 
 While Eaton is often sympathetic in her portrayals of Chinese men, she didn’t shy away from calling out China’s patriarchal policies at the time, including the practice of only educating boys or the fact that Chinese men could take multiple wives. Although Eaton herself never married, many of her stories are about love, marriage, and children. She also wrote about women helping women and the deep bonds of female friendship. In this book’s opening essay, “Sui Sin Far, the Half-Chinese Writer, Tells of Her Career,” Eaton said she “formed friendships with women who braced and enlightened me, women to whom the things of the mind and the heart appealed; women who were individuals, not merely the daughters of their parents, the wives of the husbands; women who taught me that nationality was no bar to friendship with those whose friendship was worth while.”
 
 In “The Persecution and Oppression of Me,” published anonymously under the byline, “By a Half Chinese,” Eaton delves into her identity, chronicling the racism she regularly encounters — anecdotes and attitudes that feel all too familiar in today’s racial and political climate. The personal and frank essay also showcases the trademark dry humor Eaton displays throughout her oeuvre. To wit:
 
->
 > One day my landlady inquired if I did not think that the reason why I was brighter than the ordinary Chinese was because I had white blood in my veins. I answered that I hadn't the slightest doubt that the reason why I was superior to a great many whites was because I had Chinese blood in my veins.
-
 
 Eaton is best known for her 1912 book, *Mrs. Spring Fragrance*, which features seventeen fictional adult stories set in American Chinatowns and twenty “Tales of Chinese Children.” *An Immortal Book* includes the aforementioned essays and three stories from earlier in Eaton’s career alongside selections from both sections of Mrs. Spring Fragrance (some of which also appeared earlier in magazines). In the book’s titular story, Mrs. Spring Fragrance, who is Chinese, writes a letter to her husband about a lecture she attended in San Francisco. You can’t help but wonder how her white American readers felt — or if they were even in on the joke — reading such a sarcastic and scathing passage:
 
 > The subject was “America, the Protector of China!” It was most exhilarating, and the effect of so much expression of benevolence leads me to beg of you to forget to remember that the barber charges you one dollar for a shave while he humbly submits to the American man a bill of fifteen cents. And murmur no more because your honored elder brother, on a visit to this country, is detained under the roof-tree of this great Government instead of under your own humble roof. Console him with the reflection that he is protected under the wing of the Eagle, the Emblem of Liberty. What is the loss of ten hundred years or ten thousand times ten dollars compared with the happiness of knowing oneself so securely sheltered?
 
-
 In another story featuring many of the same characters, “An Inferior Woman,” Mrs. Spring Fragrance proclaims, “I desire to write an immortal book... My first subject will be ‘The Inferior Woman of America.’” A clever reversal, Eaton renders Mrs. Spring Fragrance as a would-be author writing about the ways of American women for her Chinese friends — an ironic acknowledgement of Eaton’s own outsider status as a journalist and author. 
 
-
 While some of Eaton’s works are “slice of life” stories that shed humorous or charming light on the everyday, others are downright haunting. “In the Land of the Free” is about a Chinese merchant who is waiting at the San Francisco waterfront to welcome his wife and two-year-old son from China. Upon disembarkment, the U.S. government takes the child away due to a lack of paperwork and an expensive struggle ensues. The boy is sent to a missionary school and renamed, and the eventual family reunion is devastating. Reading this story in 2023, one can’t help but draw a parallel to the countless family separations that have occurred at the U.S. southern border in recent years and imagine how horrified Eaton would be to know such policies were revived decades later. 
-
 
 “The Americanization of Pau Tsu” features a well-meaning white woman who messes things up–a recurring trope in Eaton’s fiction–but the story also reflects the author’s approach to feminism by giving the character of Pau Tsu agency. Scholars like Amy Ling have pointed to a possible “lesbian sensibility” in “The Chinese Lily,” a story about a disabled woman. And stories like “The Smuggling of Tie Co” have queer undertones, while others break gender norms (including multiple instances of crossdressing), and highlight feminist revisions of tradition — all examples of Eaton’s subversive nature and desire to challenge the status quo.
 
 Eaton died of heart disease in 1914, just two years after her first and only book was published. By this time, she had reached a rarified position as an incredibly popular writer whose obituary appeared in newspapers throughout North America. Thanks to this new, open access collection (which builds on the work of feminist scholars like Chapman, Ling, Annette White-Parks, and many others), her work will continue to be useful, known, heard, and admired — in other words, immortal. 
 
-# PART 1 
+# PART 1
 
 # Essays
 
-Sui Sin Far, the Half Chinese Writer, Tells of Her Career
+## Sui Sin Far, the Half Chinese Writer, Tells of Her Career
 
-The Interesting Author’s Book, “The Dream of a Lifetime,” Which Will Appear This Spring, Tells of Her Vocations
+***The Interesting Author’s Book, “The Dream of a Lifetime,” Which Will Appear This Spring, Tells of Her Vocations* (Boston Daily Globe, May 5, 1912)**
 
-Boston Daily Globe, May 5, 1912
+
 As the Globe thinks that my experience in life has been unusual, and that a personal sketch will be interesting to its readers, I will try my best to furnish one. Certainly my life has been quite unlike that of any literary worker of whom I have read. I have never met any to know—save editors.
+
+
 I have resided in Boston now for about two years.
+
+
 I came here with the intention of publishing a book and planting a few Eurasian thoughts in Western literature. My collection of Chinese-American stories will be brought out very soon, under the title, “Mrs. Spring Fragrance.” I have also written another book which will appear next year, if Providence is kind.
 In the beginning I opened my eyes in a country place in the county of Cheshire, England. My ancestors on my grandfather’s side had been known to the county for some generations back. My ancestors on my grandmother’s side were unknown to local history. She was a pretty Irish lass from Dublin when she first won my grandfather’s affections.
+
+
 My father, who was educated in England and studied art in France, was established in business by his father at the age of 22, at the Port of Shanghai, China. There he met my mother, a Chinese young girl, who had been educated in England, and who was in training for a missionary. They were married by the British Consul, and the year following their marriage returned to England.
+
+
 As I swing the door of my mental gallery I find radiant pictures in the opening, and through all the scenes of that period there walks one figure–the figure of my brother, Edward, a noble little fellow, whose heart and intelligence during the brief years of early childhood led and directed mine. I mention this brother because I have recently lost him through an accident, and his death has affected me more than I can say.
-At the age of 4 years I started to go to school. I can remember being very much interested in English history. I remember also that my mother was a fascinating story teller and that I was greatly enamored of a French version of “Little Bo-Peep,” which my father tried to teach me
-Arrival in America.
+
+
+At the age of 4 years I started to go to school. I can remember being very much interested in English history. I remember also that my mother was a fascinating story teller and that I was greatly enamored of a French version of “Little Bo-Peep,” which my father tried to teach me.
+
+
+**Arrival in America.**
 When I was 6 years old my father brought us to America. Besides my first brother, who was only 10 months older than myself, I had now three sisters and another brother. We settled in Montreal, Can, and hard times befell, upon which I shall not dwell.
+
+
 I attended school again and must have been about 8 years old when I conceived the ambition to write a book about the half Chinese. This ambition arose from my sensitiveness to the remarks, criticisms and observations on the half Chinese which continually assailed my ears, also from an impulse, born with me, to describe, to impart to others all that I felt, all that I saw, all that I was. I was not sensitive without reason. Some Eurasions may affect that no slur is cast upon them because of their nationality; but I dislike cant and desire to be sincere. Wealth, of course, ameliorates certain conditions. We children, however, had no wealth.
+
+
 I think as well my mind was stimulated by the reading of my teacher, who sought to impress upon her scholars that the true fathers and mothers of the world were those who battled through great trials and hardships to leave to future generations noble and inspiring truths.
+
+
 I left school at the age of 10, but shortly thereafter attracted the attention of a lovely old lady, Mrs. William Darling of Hochelaga, who induced my mother to send me to her for a few hours each day. This old lady taught me music and French. I remember her telling her husband that I had a marvelous memory and quoting “Our finest hope is finest memory,” which greatly encouraged me, as compared with my brother and sister, who both had splendid heads for figures, I ranked very low intellectually. It was Mrs. Darling who first, aside from my mother, interested me in my mother’s people, and impressed upon me that I should be proud that I had sprung from such a race. She also inspired me with the belief that the spirit is more than the body, a belief which helped me through many hours of childish despondency, for my sisters were all much heavier and more muscular than I.
+
+
 When my parents found that family circumstances made it necessary to withdraw me from Mrs. Darling, my old friend’s mind seemed to become wrought with me, and she tried to persuade them to permit her to send me to a boarding school. My father, however, was an Englishmen, and the idea of having any of his children brought up on charity, hurt his pride.
+
+
 I, now in my 11th year, entered into two lives, one devoted entirely to family concerns; the other, a withdrawn life of thought and musing. This withdrawn life of thought probably took the place of ordinary education with me. I had six keys to it; one, a great capacity for feeling; another, the key of imagination; third, the key of physical pain; fourth the key of sympathy; fifth, the sense of being differentiated from the ordinary by the fact that I was an Erusian \[sic]; sixth, the impulse to create.
 ….
-Little Lace Girl.
+
+
+**Little Lace Girl.**
 The impulse to create was so strong within me that failing all other open avenues of development (I wrote a good deal of secret doggerel verse around this period) I began making Irish crochet lace patterns, which I sold to a clique of ladies to whom I was known as “The Little Lace Girl.” I remember that when a Dominican exhibition was held in Montreal a lace pattern which I sent to the art department won first prize—a great surprise to all my people as I was the only little girl competing. My mother was very proud of my work. I remember that when the church asked her to donate something she got me to crochet her a set of my mats as a gift.
+
+
 At the age of 14 I succumbed to a sickness which affected both head and heart and retarded development both mentally and physically. Which is the chief reason, no doubt, why an ambition conceived in childhood is achieved only as I near the close of half a century. But for all this retardation and the fact that I suffered from recurrent attacks of the terrible fever, I never lost spirit and always maintained my position as the advisory head of the household. We had a large family of children and my father was an artist.
+
+
 The wiseacres tell us that if we are good we will be big, healthy and contented. I must have been dreadfully wicked. The only thing big about me were my feelings; the only thing healthy, my color; the only content I experienced was when I peeped into the future and saw all the family grown and settled down and myself, far away from all noise and confusion, with nothing to do but write a book.
+
+
 To earn my living I now began to sell my father’s pictures. I enjoyed this, and no doubt, it was beneficial, as it took me out into the open air and it brought me into contact with a number of interesting persons. To be sure, there was a certain sense of degradation and humiliation in approaching a haughty and contemptuous customer, and also periods of melancholy when disappointed in a sale I had hoped to effect or payment for a picture was not made when promised. But the hours of hope and elation were worth all the dark ones. I remember staring out one morning with two pictures in my hand and coming home in the evening with $20. How happy was everybody!
+
+
 This avocation I followed for some years. Besides affording me opportunities to study human nature, it also enabled me to gratify my love for landscape beauty—a love which was and is almost a passion.
 My 18th birthday saw me in the copying room of the Montreal Star, where for some months I picked and set type. While there I taught myself shorthand.
 …
-Became Stenographer.
+
+
+**Became Stenographer.**
 As \[sic] last I took a position as stenographer in a lawyer’s office. I do not think a person of artistic temperament is fitted for mechanical work and it is impossible to make a success of it. Stenography, in particular, is torturing to one whose mind must create its own images. Unconsciously I was stultified by the work I had undertaken. But it had its advantage in this respect, that it brought me into contact and communion with men of judgment and mental ability. I know that I always took an interest in my employers and their interests, and therefore, if I did not merit, at least received their commendation.
+
+
 I recall that the senior member of the firm, now Judge Archibald of Montreal, occasionally chatted with me about books and writers, read my little stories and verse as they appeared, and usually commented upon them with amused interest. I used to tell him that I was ambitious to write a book. I remember him saying that it would be necessary for me to acquire some experience of life and some knowledge of character before I began the work and I assuring him seriously that I intended to form all my characters upon the model of myself. “They will be very funny people then,” he answered with a wise smile.
 
 While in this office I wrote some humorous articles which were accepted by Peck’s Sun, Texas Siftings and Detroit Free Press. I am not consciously a humorous person; but now and then unconsciously I write things which seem to strike editors as funny.
+
+
 One day a clergyman suggested to my mother that she should call upon a young Chinese woman who had recently arrived from China as the bride of one of the local Chinese merchants. With the exception of my mother there was but one other Chinese woman in the city besides the bride. My mother complied with the clergyman’s wishes and I accompanied her.
+
+
 From that time I began to go among my mother’s people, and it did me a world of good to discover how akin I was to them.
+
+
 Passing by a few years I found myself in Jamaica, WI, working as a reporter on a local paper. It was interesting work until the novelty wore off, when it became absolute drudgery. However, it was a step forward in development. I had reached my 27th year.
+
+
 Sir Henry Blake was the Governor of the island while I was there, and I found the Legislative Council reporting both instructive and amusing. How noble and high principled seemed each honorable member while on the floor! How small and mean while compelled to writhe under the scorn and denunciation of some opposing brother! I used to look down from the press gallery upon the heads of the honorable members and think a great many things which I refrained from putting into my report.
+
+
 I got very weary and homesick tramping the hot dusty streets of Kingston; and contracted malarial fever, the only cure for which, in my case was a trip up North.
+
+
 I remained in Montreal about a year, during which period I worked, first, as a stenographer for Mr Hugh Graham (Now Sir Hugh) of the Star, and then in the same capacity for Mr G.T. Bell of the Grand Trunk Railway. Both of these positions I was compelled to resign because of attacks of inflammatory rheumatism.
 At last my physicians declared that I would never gain strength in Montreal, and one afternoon in June what was left of me—84 pounds—set its face westward. I went to San Francisco, where I had a sister, a bright girl, who was working as a spotter in one of the photograph galleries. I fell in love with the City of the Golden Gate, and wish I had space in which to write more of the place in which all the old ache in my bones fell away from them, never to return again.
+
+
 As soon as I could I found some work. That is, I located myself in a railway agency, the agent of which promised me $5 a month and as well an opportunity to secure outside work. But despite this agency’s fascinating situation at the corner of a shopping highway I made slight progress financially, and had it not been for my nature and my office window might have experienced a season of melancholy. As it was, I looked out of my window, watched a continuously flowing stream of humanity, listened to the passing bands, inhaled the perfume of the curbstone flower sellers’ wares, and was very much interested.
+
+
 To eke out a living I started to canvas Chinatown for subscribers for the San Francisco Bulletin. During my pilgrimages thereto I met a Chinese whom I had known in Montreal. He inquired if I were still writing Chinese stories. Mr Charles Lummis made the same inquiry. Latent ambition aroused itself. I recommenced writing Chinese stories. Youth’s Companion accepted one.
+
+
 But I suffered many disappointments and rejections, and the urgent need for money pressing upon me, I bethought me of Seattle. Perhaps there Fortune would smile a little kinder. This suggestion had come some months before Lyman E. Knapp, ex-Governor of Alaska, who had dropped into my office one day to get some deeds typewritten. Observing that I understood legal work, he advised me to try “the old Siwash town,” where, he added, he was sure I would do better than in San Francisco.
+
+
 To Seattle I sailed, and the blithe greenness of the shores of Puget Sound seemed to give me the blithest of welcomes. I was in my 29th year, and my sole fortune was $8. Before 5 o’clock of the first day here I had arranged for \[a] desk room in a lawyer’s office and secured promise of patronage from several attorneys, a loan and mortgage company and a lumber and shingle merchant. I remember that evening I wrote my mother a letter, telling her that I had struck gold, silver, oil, copper, and everything else that luck could strike, in proof of which I grandiloquently shoved into her envelope a part of my remaining wealth.
+
+
 As always on account of my inaccuracy as a stenographer and my inability to typewrite continuously, my earning capacity was small; but I managed to hold up my head, and worked intermittently and happily at my Chinese stories.
 …
-Chinese Mission Teacher.
+
+
+**Chinese Mission Teacher.**
 Occasionally I taught in a Chinese mission school, as I do here in Boston, but learned far more from my scholars than ever I could impart to them.
+
+
 I also formed friendships with women who braced and enlightened me, women to whom the things of the mind and the heart appealed; women who were individuals, not merely the daughters of their parents, the wives of the husbands; women who taught me that nationality was no bar to friendship with those whose friendship was worth while.
+
+
 Ever and again, during the 14 years in which I lived in Seattle, whenever I had a little money put by, some inward impulse would compel me to use it for a passage home. The same impulse would drive me to work my way across the Continent, writing advertisements for the different lines. Once when I saved up $85 toward a rest in which to write the book of my dreams news from home caused me to banish ambition for a while longer; and I sent my little savings to pay a passage out West for one of my younger sisters. This sister remained with me for seven months, during which time I got her to learn shorthand and typewriting, so that upon her return to Montreal she would be enabled to earn her living. Thus did the ties of relationship belate me; but at the same time strengthen.
+
+
 A year later, a shock of sudden grief so unfitted me for mechanical work that I determined to emancipate myself from the torture of writing other people’s thoughts and words with a heart full of my own, and throwing up my position, worked my way down South as far as the city of Los Angeles. Arrived there, I gave way to my ruling passion—the passion to write all the emotions of my heart away. But it was hard work—artistic expression. If I may so call it. I had been so long accustomed to dictation that when I sat down to compose, although my mind teemed with ideas tumultuously clamoring for release, I hesitated as if I were waiting for a voice behind me to express them. I had to free myself from that spell. My writings might be imperfect, but they had got to bear the impress of thoughts begotten in my own mind and clothed in my own words.
 I struggled for many months. The Century Magazine took a story from me; but I remained discontented with my work. I was not discontented with life, however. If there was nothing but bread to eat and water to drink, absorbed in my work I was immune to material things—for a while. You have to come back to them in the end.
 ….
-Located in Boston.
+
+
+**Located in Boston.**
 As I have already said, two years ago I came East with the intention of publishing a book of Chinese-American stories. While I was in Montreal my father obtained for me a letter of introduction from a Chinese merchant of that city to his brother in Boston, Mr Lew Han Son. Through Mr Lew Han Son I became acquainted with some Americans of the name of Austin who live in Dorchester and who have been my good friends ever since. I am also acquainted with a lady in Charlestown, Mrs Henderson, who is a sister of one of my Western friends. Save, however, some visiting among Chinese friends, I do not mingle much in any kind of society. I am not rich and I have my work to do.
+
+
 I have contributed to many of the leading magazines.
+
+
 During the past year I have been engaged in writing my first book, and completed it a couple of months ago. In this undertaking I was encouraged by the managing editor of the Independent. Truth to tell, if I had not received some such encouragement I could not have carried the work to a successful completion, as I am one of those persons who have very little staying power.
+
+
 To accomplish this work, or to enable me to have the leisure in which to accomplish it, I was obliged to obtain some financial assistance, for one cannot live upon air and water alone, even if one is half-Chinese. Two of my lawyer friends in Montreal kindly contributed toward this end. I hope soon to be in a position to repay them.
 My people in Montreal, my mother in particular, my Chinese friends in Boston and also American friends are looking forward to the advent of “Mrs Spring Fragrance” with, I believe, some enthusiasm. I am myself quite excited over the prospect. Would not any one be who had worked as hard as I have—and waited as long as I have—for a book?
+
+## 
 The Persecution and Oppression of Me
-Editor’s note and content warning: This essay was originally published anonymously under the byline “By a Half Chinese.” It also contains slurs and racist rhetoric against Black and Chinese people (recounting racism the author encountered in her life). 
+
+
+*Editor’s note and content warning: This essay was originally published anonymously under the byline “By a Half Chinese.” It contains slurs and racist rhetoric against Black and Chinese people (recounting racism the author encountered in her life).* 
+
+
 The persecution and oppression of me is very real, tho perhaps not very apparent. The persecution is of such a peculiar character, and such is my demeanor under it, that the majority of those around me are led to believe that instead of being persecuted I am a persecutor. This was the exprest opinion of a good Western woman whose vision was somewhat shortened, and I have reason to believe that it is the opinion also of many Easterners. I am not sorry for this. I confess that I strive to give this impression. The dying game cock raises his head and crows while his foe stands over him. But to those who are not my foes there is more solace in writing the simple truth than in bravado.
+
+
 I attribute this persecution and oppression of me to a peculiar combination of jealousy and prejudice. It is not the ordinary prejudice of race, I am convinced. All my life, wherever I have been, and wherever I go, I win friends and affection very easily. It is only after people have learned that there is a difference between me and them that the persecution begins. It is the persecution of the “Different.”  It seems that it is human nature to be cruel to the different. Even in families this is seen. Was not Joseph hated by his brethren because he was a dreamer? And in these days of the laudation of the commonplace, life is peculiarly hard for the "different." Yet none of us chose how we would be born. We are all part of a great plan, and it is pathetic to think that so many who were designed to be “different" are cowed into casting aside their individuality and sinking themselves into the great mass of the commonplace. I remember a clever little girl who used to pretend to be stupid because she wished her schoolfellows to love her. So strong the desire of the human heart for affection.
+
+
 The temptation which assails the half Chinese who goes out into the world, as I have done, mixing for the most part with the respectable middle class of the community—the class which is the most antagonistic of all to the "different"—is to pass as wholly white. This is a very easy thing to do, particularly if you have the Caucasian features. Dark hair and dark complexion are not peculiar to the Chinese. There are dark people of other countries. Many French Canadian people are as dark and darker than the Chinese. There is a cast over the countenance of all persons who have Chinese blood in their veins; but this does not necessarily proclaim them Chinese. They can be of Spanish, Italian or Mexican descent. I know a half Chinese whose features are altogether Mongolian; but as long as she keeps exclusively with the Americans, and is not seen with the Chinese, no one of the Americans among whom she lives would think of her as Chinese.
+
+
 Because of this temptation, few, if any, of the half Chinese women and men, living in America, save those who live with the Chinese side of the family and are dependent upon it, are known to the world as Chinese. This makes living easier for them; yet it is the exposure of such frauds that makes the name of halfbreed a synonym for cowardice and all else that is contemptible.
+
+
 The Persecution and Oppression of Me in America is because I will not be that sort of half breed, and prefer to reflect honor upon those who are of mixt Asiatic and European nationality. Why not? There is no real reason why any one who is Chinese as well as white should not be proud of the distinction. At the same time, I do not believe in being aggressively Chinese. It is only when, in the ordinary course of conversation, things are said and statements are made, untrue and unfounded, betraying bitter prejudice against the Chinese people, that, in spite of my natural desire to be liked and well treated, I feel that I must proclaim what I am. This, not for the sake of the Chinese, or for any one's sake but my own, and my own honor.
+
+
 "What is your father? What is your mother?" "From what country do you come?" These are ordinary questions and can be asked by mere acquaintances. Of course, one can give an evasive or untrue reply, but why should I? So, because I dare to be happy in my "shame," everything has been said and done which possibly could be said or done to humiliate me. I could not undertake to relate even one hundredth part of my experiences in this regard; but I will give a few, and tho some of them have been more amusing than painful, I am convinced they merit record as a protest against American race jealousy and prejudice.
+
+
 A few years ago as I was traveling over the continent, I made the acquaintance of a man and woman from the State of Massachusetts. The woman seemed a pleasant person and her two year old little girl took a fancy to the seat beside me. That was all very well for awhile. There are times when I like children altho I have no constant craving for them. But when I saw that Mrs. G— began to leave me the entire charge of the child and to slip off the car at every station before I had an opportunity to return the little one to her; I made up my mind that if I was to derive any benefit myself from the trip, I would have to use my wits. I had heard enough of Mr. and Mrs. G's conversation to convince me that foreigners, i. e., Japanese and Chinese, existed only outside the social fences of Massachusetts, which, by the way, Massachusetts people usually carry around with them. So when Mrs. G— returned from a nice little outing at a South Dakota station, I plumped little Kitty into her maternal arms and stated that I expected to meet some Chinese friends at the next stopping place. Had I told the woman that I intended to jump out of the window, she could not have looked more horror struck. "You know I'm Chinese myself," I added, and walked away. Several times during the course of the afternoon did poor little Kitty look my way, but from anything beyond looking, she was restrained. Once I heard the woman say to her husband, "And she came out so boldly with it. Not a bit ashamed!" She mightn't have meant me, but—. However, I enjoyed my stop at the next station. 
+
+
 Out West, prejudice is not nearly so bitter as it is in the East—not against the Chinese. It never was as petty as the Eastern prejudice. Nevertheless, I have had reason to take note of some peculiar manifestations of the untender passion.
+
+
 I took rooms one time with a widow woman who lived in a little cottage in a suburb of the city, which from all that the widow said, when she persuaded me to pay for a month's rent in advance, would prove to be a peaceful Paradise. At that time I was studying Chinese and was in the habit of giving about half an hour to a Chinese manual every morning. Sometimes I carried the manual with me, sometimes I left it in the house.
 On the third day, after moving into the cottage, my landlady knocked at the door and asked me to step out into the hall as she had something to say to me. "Come in," I called. "What is it?" "No, I will not come in," was the amazing reply, "I can't come in. because I'm afraid you will mesmerize me.”  I thought at first she was jesting, but when I turned to look at her I found her countenance rather too serious.
+
+
 "I want to tell you," said she, "that you must stop it."
+
+
 "Stop what?" I asked.
+
+
 “Stop exercising occult powers over me; compelling me to like you against my will."
+
+
 As the desire of my soul at that time was peace and tranquility, I bade the woman close the door, at the same time unwisely remarking that it was a matter of indifference to me whether I was liked or not.
+
+
 “You do care,” she asserted furiously. “You have centred your mind upon me, and are using all your Oriental magnetism to draw me into your power." Then suddenly going down upon her knees, she cried: "I beg of you, I pray of you, to give up your study of occultism."
+
+
 Naturally I began to think that I had a crazy woman to deal with and got up from my seat to lock my door. But she intervened her foot, and pointing to the table whereon lay my Chinese book, cried: “Can you deny it? See!"
+
+
 Explanations don't explain in some cases. 
+
+
 I spent a restless night. I believed myself alone with a mad woman, yet I hesitated to call in any one or to say anything lest my suspicions should be unfounded. Also I feared that because I was half foreign my tale would be pooh-poohed by the authorities.
+
+
 The next morning I had occasion to pass my landlady in the hall. "It is all around you, all around you," was the greeting she gave me.
+
+
 "What?" I queried.
+
+
 "The atmosphere," she replied. "The atmosphere of your magnetism. I dare not come near you, for fear I should be drawn into its influence. It is the atmosphere of the East, of China or Japan—those cursed heathen countries." (The woman was of Spanish descent, but both she and her parents had been born in America. In religion she was Roman Catholic and while she talked, she clutched a cross in her hand.)
+
+
 "Keep away from me altogether then," I returned impatiently. "When my month is up I shall leave you."
+
+
 "What," she cried; "You little snip! You little Jap! You little Chinese!  Dare to speak of leaving this house and I will spoil your little foreign face and put a knife through your heart.”
+
+
 I am a slender woman and not very tall, my heaviest weight not exceeding ninety-four pounds. My antagonist was a broad-faced, bullet-headed woman, heavily built, with a short neck, high shoulders and large sinewy arms. But even my worst enemies cannot accuse me of cowardice. So, for all the knife which she suddenly flashed out, I did not make any outcry. I simply returned to my room and began to pack. I could see at least that the poor thing really was sincere in her madness and dared not enter the charmed circle.
+
+
 After packing and locking my trunk I again went into the hall, and was again accosted by my landlady, who seemed to have been doing some thinking. She informed me that landladies have certain rights and privileges as well as lodgers, and that as I was leaving her of my own accord, and not because she had put me out, I could not claim the month's rent in advance which I had paid, and no lawyer in the land would take my case. Furthermore she assured me that if ever I were to say or write a word against her, or reveal what had taken place, she would follow me to the ends of the earth and my life would pay the forfeit.
+
+
 After playing my part in this thrilling drama I went to the house of a friend and stayed awake some nights in memory of it.
-S. Y. J., a public school teacher, professed profound admiration for the Chinese, as a nation, and almost gushing affection for myself, as a friend. She was a bright and interesting woman and I liked her well for over a year. Yet, when we had a difference, in which I got the better of her, she revenged herself upon me by telling me that a relative of hers, who was also a teacher, was very much annoyed with her, because she would persist in being my friend, and cooingly added: "Isn’t it mean of her? I tell her you are such a dear little thing. But she won't listen, only says: 'I'm sure she eats rats. All those Chinese do. And you needn’t bring her to dinner because I don’t know how to cook rats.' "
+
+
+S. Y. J., a public school teacher, professed profound admiration for the Chinese, as a nation, and almost gushing affection for myself, as a friend. She was a bright and interesting woman and I liked her well for over a year. Yet, when we had a difference, in which I got the better of her, she revenged herself upon me by telling me that a relative of hers, who was also a teacher, was very much annoyed with her, because she would persist in being my friend, and cooingly added: "Isn’t it mean of her? I tell her you are such a dear little thing. But she won't listen, only says: 'I'm sure she eats rats. All those Chinese do. And you needn’t bring her to dinner because I don’t know how to cook rats.'"
+
+
 Altho the two women quoted are public school teachers, they are the daughters of laboring men, and I have seen them eat fish with a knife (not silver either). It is the educated sons and daughters of uneducated parents who are the most bitterly prejudiced against the Chinese. I have yet to meet a man or woman from a home of refinement and culture who, when worsted in an argument, resorts to the vulgar and cowardly weapon of race prejudice. I have noticed, however, that common people who wish to appear aristocratic and superior are usually the greatest race ranters and patriots: probably because that is the only way in which they can distinguish themselves.
+
+
 When I last returned from the West I took up my residence in an Eastern town of some note. The house in which I lived was kept by a public school teacher, who was not teaching regularly. One day this teacher, who declared that she had taken a special liking to me, began a tirade against the negro race, and concluded it with: "But tho I despise and have the utmost contempt for the negroes, yet I hate worse the Chinese, who have such horrible ways." "You do, do you," I retorted; “Well, I am Chinese!" She gasped a little and said: "You're jesting, aren't you?" "No," I replied, "I am half Chinese." She told me she would never have guessed it, which she expected me to take as a great compliment. Then she begged me not to enlighten any one in the house as to the fact of my nationality, as she had said it would ruin her business should they know. I suggested that I leave her and take a room elsewhere; but she almost cried at the thought, and so as I do not like to grieve people I agreed to remain quiet; but at the same time reserved to myself the right to speak the truth should they ask me any questions.
+
+
 As, when lodging around, I like to keep to myself, and dislike gossiping with neighbor roomers, it was no difficult matter to keep my nationality a secret from the other lodgers; but I soon discovered that my landlady, while begging me to keep quiet on the subject, made it her own business to inform certain persons, telling them as I subsequently learned, that she was allowing me to remain in the house out of pity, and because I really did seem like a white person, in some respects. I also began to observe that whenever she came into my room or I ran across her, if alone, she was very friendly and intimate. But when I met her in the company of others, she was a different person altogether, congealed, dignified and remote. I have very sharp ears and once I heard her say to a teacher from the South, “I'm polite to her, but would not think of treating her as an equal,” and the teacher from the South returned, "The only way is to keep them down and order them about. That's how we manage the negroes, even the whitest blooded."
+
+
 Unlike my landlady, the woman from the South was true to her principles. I can say that much for her, if nothing else. The following morning I met her in the hall, and tho I had never spoken a word to her or she to me, without any preliminary, she gave me this peremptory order: “Run upstairs, and bring down the green cardboard box which I have left on the bureau in my room." Needless to say, the order was not obeyed.
 Among the lodgers were several men teachers and professors. These, to whom my nationality had also been whispered, were in the habit of talking about me sotto voce. I heard that they could not understand how a person of inferior race could earn her living in America, thru the exercise of her mental faculties, while native born daughters, lectured, schooled and colleged, were sweeping out rooms and making beds for a living. The whole street in which I lived and many other streets around were full of lodging houses kept by such women, and bitter and warped indeed were the majority of the poor things. I call them poor things, tho there was not one of them but was better off in this world's goods than was I. But to return to the men. One of these told me that there were a couple of them who considered it an honor to be in the same house with me; but I have an idea that that speech was meant for my ears alone. You must understand that I was not supposed to know that any of the lodgers were acquainted with my nationality.
+
+
 One day my landlady inquired if I did not think that the reason why I was brighter than the ordinary Chinese was because I had white blood in my veins. I answered that I hadn't the slightest doubt that the reason why I was superior to a great many whites was because I had Chinese blood in my veins.  She repeated this at an indignation meeting which was held that evening, and one of the learned Ph. D.'s remarked that I was evidently of Tartar origin. Next day my landlady came up primed:
+
+
 "Don't you think," said she, "that you owe it to the white people who are your friends to refrain from associating, or having anything to do with the Chinese ?" I said that I could not see things that way. I then informed her that a Chinese relative of mine was coming to visit me, and, of course would stay in the same house in which I lived. She appeared, very much perturbed and inquired if the said relative looked Chinese. I assured her that she was Chinese. "Well," said she, "it will ruin my business to have her here. I have not allowed it to be known that you are Chinese." "Then," I replied, “I will have to change my rooming house."  She suggested that I find some other place for my relative. It was not necessary that we should live together. But no; where I was, there should be my Chinese relative. She almost cried. I was a permanent lodger, and permanent lodgers are very desirable. The teachers, after all, were only transients. "Oh," she declared, "I have liked you so well and hidden from all the fact that you are Chinese.”  The tone of her voice was that of one who says: “You are a thief and a criminal; but for personal reasons I have shielded you.”
+
+
 I could stand it no longer. I said: “I need no screen. I will not live where I have to be afraid to say what I am proud to be.” Proud!  She couldn’t get over that, and, of course, the tale went around, and many curious eyes were leveled upon me as I passed thru the hall that evening, and in a voice loud enough for all to hear, said that I was going out to visit some Chinese relations.
+
+
 It being an assured thing that I could move away, my landlady had no scruples about speaking her mind for the rest of the time I was there.  One of the most would-be cutting things she said to me was: “Do you know what that negro woman who cleans the house every Thursday said to me? She said, ‘I wouldn’t be seen speaking to a Chinese.’”  This was immediately after I had received a call from people socially and in every other sense above the criticism of landladies.
+
+
 Furthermore, I cannot help feeling and believing that jealousy is at the root of much which I have had to endure.
+
+
 I live alone, and as my means are limited, entertain not at all.  When I go out it is to the library, the art museum, or to the parks and beaches.  I am never lonely when I am alone; but have reason to know that my affection for the human family is as warm and perhaps truer than that of many of those who cannot find any pleasure in themselves or away from some social circle.  But my work and my double nationality make me an object of both friendly and offensive interest to many.  I am the recipient of many calls, invitations, letters and communications, sometimes by 'phone and sometimes by card, from persons seeking my acquaintance.  Most of these would-be friends and acquaintances are absolute strangers, and it is seldom that I pay any attention to their communications; but occasionally some person who is really interested in my work inspires me to return the courtesy—when I am assured that it is a courtesy.  It is only natural that one’s heart should glow to know that one’s work, tho insignificant in itself, is being recognized for what it is worth or what it may lead to.  On the other hand, it is oppressive and embarrassing to a woman of mature years to have to be the recipient of letters from men who pretend to entertain sentiments for her which are beyond the bounds of common sense or reason, seeing that the writers do not even know her.  It is even worse to be called upon by such persons.
+
+
 But some women can never forgive another woman for attracting any notice, either from the high or the low.  Not even when the notice she received is only because of her nationality, which they claim to despise.
 I cannot, however, blame any one for being jealous of and persecuting me for having inspired the following, chosen out of a bright variety of such effusions.  The picture drawn is so true of me and so flattering to my vanity that I give it to the world with my high regards to the author:
-“Love, to Miss Confucius
-“How cold and irresponsive is this Chinese:
-Of all the Shes
-I’ve pled to—Maid Confucius—
-Thou art most curious,
-That Love quite fails to touch thy wisdom;
-There does not come
-A word responsive to its plea.  Farewell, thou 
-coldness!
-As bloodless as thy China’s oldness.”
+
+>
+> “*Love, to Miss Confucius*
+> “How cold and irresponsive is this Chinese:
+> Of all the Shes
+> I’ve pled to—Maid Confucius—
+> Thou art most curious,
+> That Love quite fails to touch thy wisdom;
+> There does not come
+> A word responsive to its plea.  Farewell, thou 
+>
+>
+> ```
+> &nbsp;&nbsp;&nbsp;&nbsp;
+> ```
+>
+> coldness!
+> As bloodless as thy China’s oldness.”
+
+
 Doesn’t that put the finishing touch to the persecution and oppression of me?
 There is also directed against me a jealous persecution which is even harder to combat and much more subtle than the jealousy already complained of.  This is the jealousy of those who call themselves the friends of the Chinese.  I have experienced this only in the Eastern States.
 It is well known that tho there are many good and earnest women teaching religion to the Chinese in America, there are also many who are unfit for teachers in any sense of the word, and who adopt religion as their profession because it is the only profession open to all, and no examination as to qualification is required.  These women are usually amiable and easy-going females, who having no particular interest in life and advancing in years (tho some of them are young), take up with the simple Chinese, and no doubt make things, for a while, brighter and pleasanter for the exiles.  In return for this they receive and sometimes exact a good part of the Chinaman’s earnings or business profit, if not in cash, at least in presents and finery. The time they devote to the Chinese, and their constant attentions to them, also, in some cases, their staunch defense of the Chinaman against the persecution of the whites, entitle them to what they receive, and more, in a material sense. But all who have at heart the true welfare of the Chinese must take exception to these women, both as teachers of religion and as constant companions to the Chinese men. It needs no abnormal perceptiveness to realize that such teachers of religion make mockery of what is sacred; also that their association with the Chinese gives the Chinese a bad reputation, and causes the unthinking mass of whites to look upon them as beguilers of white women; whereas, the fact is, it is the Chinese who are the beguiled. Hence, the persecution of the Chinese by the Eastern Americans.
