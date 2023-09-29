@@ -183,6 +183,8 @@ During the past year I have been engaged in writing my first book, and completed
 To accomplish this work, or to enable me to have the leisure in which to accomplish it, I was obliged to obtain some financial assistance, for one cannot live upon air and water alone, even if one is half-Chinese. Two of my lawyer friends in Montreal kindly contributed toward this end. I hope soon to be in a position to repay them.
 My people in Montreal, my mother in particular, my Chinese friends in Boston and also American friends are looking forward to the advent of “Mrs Spring Fragrance” with, I believe, some enthusiasm. I am myself quite excited over the prospect. Would not any one be who had worked as hard as I have—and waited as long as I have—for a book?
 
+
+
 ## The Persecution and Oppression of Me
 
 *Editor’s note and content warning: This essay was originally published anonymously under the byline “By a Half Chinese.” It contains slurs and racist rhetoric against Black and Chinese people (recounting racism the author encountered in her life).* 
@@ -266,19 +268,31 @@ But some women can never forgive another woman for attracting any notice, either
 I cannot, however, blame any one for being jealous of and persecuting me for having inspired the following, chosen out of a bright variety of such effusions.  The picture drawn is so true of me and so flattering to my vanity that I give it to the world with my high regards to the author:
 
 > “*Love, to Miss Confucius*
+>
+>
 > “How cold and irresponsive is this Chinese:
+>
+>
 > Of all the Shes
+>
+>
 > I’ve pled to—Maid Confucius—
+>
+>
 > Thou art most curious,
+>
+>
 > That Love quite fails to touch thy wisdom;
+>
+>
 > There does not come
+>
+>
 > A word responsive to its plea.  Farewell, thou 
 >
-> ```
-> &nbsp;&nbsp;&nbsp;&nbsp;
-> ```
->
 > coldness!
+>
+>
 > As bloodless as thy China’s oldness.”
 
 Doesn’t that put the finishing touch to the persecution and oppression of me?
@@ -566,11 +580,9 @@ There once lived a very amiable young man. The reason why I call him an amiable 
 
 **I.**
 
-
 One evening, while deeply meditating upon this subject, an apparition appeared upon him, (Apparitions from the unknown world often appear to spiritual, noble-minded young men, even at the present day.) Well, this mysterious being, divining the thoughts which were puzzling the brain of my hero, addressed him in this wise: "Young man, your great and laudable ambition shall be gratified. A woman's happiness is comprised in one little word, and that word is LOVE. Do not all the great writers of the past and present endorse my opinion? Yea, even though her love be unrequited, she is happier for having felt that noble sentiment. Tennyson says: 
 
 > ‘Tis better to have loved and lost 
->
 >
 > Than never to have loved at all. 
 
@@ -611,118 +623,84 @@ This story has in it a lesson for ail amiable young men. It is to be hoped they 
 
 ## Mrs. Spring Fragrance
 
-
 **I**
 When Mrs. Spring Fragrance first arrived in Seattle, she was unacquainted with even one word of the American language. Five years later her husband, speaking of her, said: “There are no more American words for her learning.” And everyone who knew Mrs. Spring Fragrance agreed with Mr. Spring Fragrance.
 Mr. Spring Fragrance, whose business name was Sing Yook, was a young curio merchant. Though conservatively Chinese in many respects, he was at the same time what is called by the Westerners, “Americanized.” Mrs. Spring Fragrance was even more “Americanized.”
 
-
 Next door to the Spring Fragrances lived the Chin Yuens. Mrs. Chin Yuen was much older than Mrs. Spring Fragrance; but she had a daughter of eighteen with whom Mrs. Spring Fragrance was on terms of great friendship. The daughter was a pretty girl whose Chinese name was Mai Gwi Far (a rose) and whose American name was Laura. Nearly everybody called her Laura, even her parents and Chinese friends. Laura had a sweetheart, a youth named Kai Tzu. Kai Tzu, who was American-born, and as ruddy and stalwart as any young Westerner, was noted amongst baseball players as one of the finest pitchers on the Coast. He could also sing, “Drink to me only with thine eyes,” to Laura’s piano accompaniment.
 
-
 Now the only person who knew that Kai Tzu loved Laura and that Laura loved Kai Tzu, was Mrs. Spring Fragrance. The reason for this was that, although the Chin Yuen parents lived in a house furnished in American style, and wore American clothes, yet they religiously observed many Chinese customs, and their ideals of life were the ideals of their Chinese forefathers. Therefore, they had betrothed their daughter, Laura, at the age of fifteen, to the eldest son of the Chinese Government school-teacher in San Francisco. The time for the consummation of the betrothal was approaching.
-
 
 Laura was with Mrs. Spring Fragrance and Mrs. Spring Fragrance was trying to cheer her.
 “I had such a pretty walk today,” said she. “I crossed the banks above the beach and came back by the long road. In the green grass the daffodils were blowing, in the cottage gardens the currant bushes were flowering, and in the air was the perfume of the wallflower. I wished, Laura, that you were with me.”
 Laura burst into tears. “That is the walk,” she sobbed, “Kai Tzu and I so love; but never, ah, never, can we take it together again.”
 
-
 “Now, Little Sister,” comforted Mrs. Spring Fragrance, “you really must not grieve like that. Is there not a beautiful American poem written by a noble American named Tennyson, which says:
 
->
 > “’Tis better to have loved and lost,
->
 >
 > Than never to have loved at all?”
 
-
 Mrs. Spring Fragrance was unaware that Mr. Spring Fragrance, having returned from the city, tired with the day’s business, had thrown himself down on the bamboo settee on the veranda, and that although his eyes were engaged in scanning the pages of the *Chinese World*, his ears could not help receiving the words which were borne to him through the open window.
 
->
 > “’Tis better to have loved and lost,
->
 >
 > Than never to have loved at all,”
 
-
 repeated Mr. Spring Fragrance. Not wishing to hear more of the secret talk of women, he arose and sauntered around the veranda to the other side of the house. Two pigeons circled around his head. He felt in his pocket for a li-chi which he usually carried for their pecking. His fingers touched a little box. It contained a jadestone pendant, which Mrs. Spring Fragrance had particularly admired the last time she was down town. It was the fifth anniversary of Mr. and Mrs. Spring Fragrance’s wedding day.
-
 
 Mr. Spring Fragrance pressed the little box down into the depths of his pocket.
 
-
 A young man came out of the back door of the house at Mr. Spring Fragrance’s left. The Chin Yuen house was at his right.
-
 
 “Good evening,” said the young man. “Good evening,” returned Mr. Spring Fragrance. He stepped down from his porch and went and leaned over the railing which separated this yard from the yard in which stood the young man.
 
-
 “Will you please tell me,” said Mr. Spring Fragrance, “the meaning of two lines of an American verse which I have heard?”
-
 
 “Certainly,” returned the young man with a genial smile. He was a star student at the University of Washington, and had not the slightest doubt that he could explain the meaning of all things in the universe.
 “Well,” said Mr. Spring Fragrance, “it is this:
 
->
-> <&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>“’Tis better to have loved and lost,
->
+> `&`nbsp;“’Tis better to have loved and lost,
 >
 > <&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>Than never to have loved at all.”
 
-
 “Ah!” responded the young man with an air of profound wisdom. “That, Mr. Spring Fragrance, means that it is a good thing to love anyway—even if we can’t get what we love, or, as the poet tells us, lose what we love. Of course, one needs experience to feel the truth of this teaching.”
-
 
 The young man smiled pensively and reminiscently. More than a dozen young maidens “loved and lost” were passing before his mind’s eye.
 
-
 “The truth of the teaching!” echoed Mr. Spring Fragrance, a little testily. “There is no truth in it whatever. It is disobedient to reason. Is it not better to have what you do not love than to love what you do not have?”
-
 
 “That depends,” answered the young man, “upon temperament.”
 
-
 “I thank you. Good evening,” said Mr. Spring Fragrance. He turned away to muse upon the unwisdom of the American way of looking at things.
-
 
 Meanwhile, inside the house, Laura was refusing to be comforted.
 
-
 “Ah, no! no!” cried she. “If I had not gone to school with Kai Tzu, nor talked nor walked with him, nor played the accompaniments to his songs, then I might consider with complacency, or at least without horror, my approaching marriage with the son of Man You. But as it is—oh, as it is—!”
 
-
 The girl rocked herself to and fro in heartfelt grief.
-
 
 Mrs. Spring Fragrance knelt down beside her, and clasping her arms around her neck, cried in sympathy:
 “Little Sister, oh, Little Sister! Dry your tears—do not despair. A moon has yet to pass before the marriage can take place. Who knows what the stars may have to say to one another during its passing? A little bird has whispered to me—”
 
-
 For a long time Mrs. Spring Fragrance talked. For a long time Laura listened. When the girl arose to go, there was a bright light in her eyes.
-
 
 **II**
 
-
 Mrs. Spring Fragrance, in San Francisco on a visit to her cousin, the wife of the herb doctor of Clay Street, was having a good time. She was invited everywhere that the wife of an honorable Chinese merchant could go. There was much to see and hear, including more than a dozen babies who had been born in the families of her friends since she last visited the city of the Golden Gate. Mrs. Spring Fragrance loved babies. She had had two herself, but both had been transplanted into the spirit land before the completion of even one moon. There were also many dinners and theatre-parties given in her honor. It was at one of the theatre-parties that Mrs. Spring Fragrance met Ah Oi, a young girl who had the reputation of being the prettiest Chinese girl in San Francisco, and the naughtiest. In spite of gossip, however, Mrs. Spring Fragrance took a great fancy to Ah Oi and invited her to a tête-à-tête picnic on the following day. This invitation Ah Oi joyfully accepted. She was a sort of bird girl and never felt so happy as when out in the park or woods.
-
 
 On the day after the picnic Mrs. Spring Fragrance wrote to Laura Chin Yuen thus:
 
->
 > MY PRECIOUS LAURA: 
 > May the bamboo ever wave. Next week I accompany Ah Oi to the beauteous town of San José. There will we be met by the son of the Illustrious Teacher, and in a little Mission, presided over by a benevolent American priest, the little Ah Oi and the son of the Illustrious Teacher will be joined together in love and harmony—two pieces of music made to complete one another.
 > The Son of the Illustrious Teacher, having been through an American Hall of Learning, is well able to provide for his orphan bride and fears not the displeasure of his parents, now that he is assured that your grief at his loss will not be inconsolable. He wishes me to waft to you and to Kai Tzu—and the little Ah Oi joins with him—ten thousand rainbow wishes for your happiness.
 > My respects to your honorable parents, and to yourself, the heart of your loving friend,
 > JADE SPRING FRAGRANCE
 
-
 To Mr. Spring Fragrance, Mrs. Spring Fragrance also indited a letter:
 
->
 > GREAT AND HONORED MAN:
-> Greeting from your plum blossom,\[1] who is desirous of hiding herself from the sun of your presence for a week of seven days more. My honorable cousin is preparing for the Fifth Moon Festival, and wishes me to compound for the occasion some American “fudge,” for which delectable sweet, made by my clumsy hands, you have sometimes shown a slight prejudice. I am enjoying a most agreeable visit, and American friends, as also our own, strive benevolently for the accomplishment of my pleasure. Mrs. Samuel Smith, an American lady, known to my cousin, asked for my accompaniment to a magniloquent lecture the other evening. The subject was “America, the Protector of China!” It was most exhilarating, and the effect of so much expression of benevolence leads me to beg of you to forget to remember that the barber charges you one dollar for a shave while he humbly submits to the American man a bill of fifteen cents. And murmur no more because your honored elder brother, on a visit to this country, is detained under the roof-tree of this great Government instead of under your own humble roof. Console him with the reflection that he is protected under the wing of the Eagle, the Emblem of Liberty. What is the loss of ten hundred years or ten thousand times ten dollars compared with the happiness of knowing oneself so securely sheltered? All of this I have learned from Mrs. Samuel Smith, who is as brilliant and great of mind as one of your own superior sex.
+> Greeting from your plum blossom,`<`\[1] who is desirous of hiding herself from the sun of your presence for a week of seven days more. My honorable cousin is preparing for the Fifth Moon Festival, and wishes me to compound for the occasion some American “fudge,” for which delectable sweet, made by my clumsy hands, you have sometimes shown a slight prejudice. I am enjoying a most agreeable visit, and American friends, as also our own, strive benevolently for the accomplishment of my pleasure. Mrs. Samuel Smith, an American lady, known to my cousin, asked for my accompaniment to a magniloquent lecture the other evening. The subject was “America, the Protector of China!” It was most exhilarating, and the effect of so much expression of benevolence leads me to beg of you to forget to remember that the barber charges you one dollar for a shave while he humbly submits to the American man a bill of fifteen cents. And murmur no more because your honored elder brother, on a visit to this country, is detained under the roof-tree of this great Government instead of under your own humble roof. Console him with the reflection that he is protected under the wing of the Eagle, the Emblem of Liberty. What is the loss of ten hundred years or ten thousand times ten dollars compared with the happiness of knowing oneself so securely sheltered? All of this I have learned from Mrs. Samuel Smith, who is as brilliant and great of mind as one of your own superior sex.
 > For me it is sufficient to know that the Golden Gate Park is most enchanting, and the seals on the rock at the Cliff House extremely entertaining and amiable. There is much feasting and merry-making under the lanterns in honor of your Stupid Thorn.
 > I have purchased for your smoking a pipe with an amber mouth. It is said to be very sweet to the lips and to emit a cloud of smoke fit for the gods to inhale.
 > Awaiting, by the wonderful wire of the telegram message, your gracious permission to remain for the celebration of the Fifth Moon Festival and the making of American “fudge,” I continue for ten thousand times ten thousand years,
@@ -730,391 +708,264 @@ To Mr. Spring Fragrance, Mrs. Spring Fragrance also indited a letter:
 > JADE
 > P.S. Forget not to care for the cat, the birds, and the flowers. Do not eat too quickly nor fan too vigorously now that the weather is warming.
 
-
 Mrs. Spring Fragrance smiled as she folded this last epistle. Even if he were old-fashioned, there was never a husband so good and kind as hers. Only on one occasion since their marriage had he slighted her wishes. That was when, on the last anniversary of their wedding, she had signified a desire for a certain jadestone pendant, and he had failed to satisfy that desire.
-
 
 But Mrs Spring Fragrance, being of a happy nature, and disposed to look upon the bright side of things, did not allow her mind to dwell upon the jadestone pendant. Instead, she gazed complacently down upon her bejeweled fingers and folded in with her letter to Mr. Spring Fragrance a bright little sheaf of condensed love.
 
-
 **III**
-
 
 Mr. Spring Fragrance sat on his doorstep. He had been reading two letters, one from Mrs. Spring Fragrance, and the other from an elderly bachelor cousin in San Francisco. The one from the elderly bachelor cousin was a business letter, but contained the following postscript:
 
-
 Tsen Hing, the son of the Government school-master, seems to be much in the company of your young wife. He is a good-looking youth, and pardon me, my dear cousin; but if women are allowed to stray at will from under their husbands’ mulberry roofs, what is to prevent them from becoming butterflies?
-
 
 “Sing Foon is old and cynical,” said Mr. Spring Fragrance to himself. “Why should I pay any attention to him? This is America, where a man may speak to a woman, and a woman listen, without any thought of evil.”
 
-
 He destroyed his cousin’s letter and re-read his wife’s. Then he became very thoughtful. Was the making of American fudge sufficient reason for a wife to wish to remain a week longer in a city where her husband was not?
-
 
 The young man who lived in the next house came out to water the lawn.
 
-
 “Good evening,” said he. “Any news from Mrs. Spring Fragrance?”
-
 
 “She is having a very good time,” returned Mr. Spring Fragrance.
 
-
 “Glad to hear it. I think you told me she was to return the end of this week.”
-
 
 “I have changed my mind about her,” said Mr. Spring Fragrance. “I am bidding her remain a week longer, as I wish to give a smoking party during her absence. I hope I may have the pleasure of your company.”
 
-
 “I shall be delighted,” returned the young fellow. “But, Mr. Spring Fragrance, don’t invite any other white fellows. If you do not I shall be able to get in a scoop. You know, I’m a sort of honorary reporter for the Gleaner.”
-
 
 “Very well,” absently answered Mr. Spring Fragrance.
 
-
 “Of course, your friend the Consul will be present. I shall call it ‘A high-class Chinese stag party!’”
-
 
 In spite of his melancholy mood, Mr. Spring Fragrance smiled.
 
-
 “Everything is ‘high-class’ in America,” he observed.
-
 
 “Sure!” cheerfully assented the young man. “Haven’t you ever heard that all Americans are princes and princesses, and just as soon as a foreigner puts his foot upon our shores, he also becomes of the nobility—I mean, the royal family.”
 
-
 “What about my brother in the Detention Pen?” dryly inquired Mr. Spring Fragrance.
-
 
 “Now, you’ve got me,” said the young man, rubbing his head. “Well, that is a shame—‘a beastly shame,’ as the Englishman says. But understand, old fellow, we that are real Americans are up against that—even more than you. It is against our principles.”
 
-
 “I offer the real Americans my consolations that they should be compelled to do that which is against their principles.”
 
-
 “Oh, well, it will all come right some day. We’re not a bad sort, you know. Think of the indemnity money returned to the Dragon by Uncle Sam.”
-
 
 Mr. Spring Fragrance puffed his pipe in silence for some moments. More than politics was troubling his mind.
 At last he spoke. “Love,” said he, slowly and distinctly, “comes before the wedding in this country, does it not?”
 
-
 “Yes, certainly.”
-
 
 Young Carman knew Mr. Spring Fragrance well enough to receive with calmness his most astounding queries.
 
-
 “Presuming,” continued Mr. Spring Fragrance—“presuming that some friend of your father’s, living—presuming—in England—has a daughter that he arranges with your father to be your wife. Presuming that you have never seen that daughter, but that you marry her, knowing her not. Presuming that she marries you, knowing you not.—After she marries you and knows you, will that woman love you?”
-
 
 “Emphatically, no,” answered the young man.
 
-
 “That is the way it would be in America—that the woman who marries the man like that—would not love him?”
-
 
 “Yes, that is the way it would be in America. Love, in this country, must be free, or it is not love at all.”
 
-
 “In China, it is different!” mused Mr. Spring Fragrance.
-
 
 “Oh, yes, I have no doubt that in China it is different.”
 
-
 “But the love is in the heart all the same,” went on Mr. Spring Fragrance.
-
 
 “Yes, all the same. Everybody falls in love some time or another. Some”—pensively—“many times.”
 
-
 Mr. Spring Fragrance arose.
-
 
 “I must go down town,” said he.
 
-
 As he walked down the street he recalled the remark of a business acquaintance who had met his wife and had had some conversation with her: “She is just like an American woman.”
-
 
 He had felt somewhat flattered when this remark had been made. He looked upon it as a compliment to his wife’s cleverness; but it rankled in his mind as he entered the telegraph office. If his wife was becoming as an American woman, would it not be possible for her to love as an American woman—a man to whom she was not married? There also floated in his memory the verse which his wife had quoted to the daughter of Chin Yuen. When the telegraph clerk handed him a blank, he wrote this message:
 
-
 “Remain as you wish, but remember that ‘’Tis better to have loved and lost, than never to have loved at all.’”
-
 
 When Mrs. Spring Fragrance received this message, her laughter tinkled like falling water. How droll! How delightful! Here was her husband quoting American poetry in a telegram. Perhaps he had been reading her American poetry books since she had left him! She hoped so. They would lead him to understand her sympathy for her dear Laura and Kai Tzu. She need no longer keep from him their secret. How joyful! It had been such a hardship to refrain from confiding in him before. But discreetness had been most necessary, seeing that Mr. Spring Fragrance entertained as old-fashioned notions concerning marriage as did the Chin Yuen parents. Strange that that should be so, since he had fallen in love with her picture before ever he had seen her, just as she had fallen in love with his! And when the marriage veil was lifted and each beheld the other for the first time in the flesh, there had been no disillusion—no lessening of the respect and affection, which those who had brought about the marriage had inspired in each young heart.
 
-
 Mrs. Spring Fragrance began to wish she could fall asleep and wake to find the week flown, and she in her own little home pouring tea for Mr. Spring Fragrance.
-
 
 **IV**
 
-
 Mr. Spring Fragrance was walking to business with Mr. Chin Yuen. As they walked they talked.
-
 
 “Yes,” said Mr. Chin Yuen, “the old order is passing away, and the new order is taking its place, even with us who are Chinese. I have finally consented to give my daughter in marriage to young Kai Tzu.”
 
-
 Mr. Spring Fragrance expressed surprise. He had understood that the marriage between his neighbor’s daughter and the San Francisco school-teacher’s son was all arranged.
-
 
 “So ’twas,” answered Mr. Chin Yuen; “but, it seems the young renegade, without consultation or advice, has placed his affections upon some untrustworthy female, and is so under her influence that he refuses to fulfil his parents’ promise to me for him.”
 
-
 “So!” said Mr. Spring Fragrance. The shadow on his brow deepened.
-
 
 “But,” said Mr. Chin Yuen, with affable resignation, “it is all ordained by Heaven. Our daughter, as the wife of Kai Tzu, for whom she has long had a loving feeling, will not now be compelled to dwell with a mother-in-law and where her own mother is not. For that, we are thankful, as she is our only one and the conditions of life in this Western country are not as in China. Moreover, Kai Tzu, though not so much of a scholar as the teacher’s son, has a keen eye for business and that, in America, is certainly much more desirable than scholarship. What do you think?”
 
-
 “Eh! What!” exclaimed Mr. Spring Fragrance. The latter part of his companion’s remarks had been lost upon him.
-
 
 That day the shadow which had been following Mr. Spring Fragrance ever since he had heard his wife quote, “’Tis better to have loved,” etc., became so heavy and deep that he quite lost himself within it.
 
-
 At home in the evening he fed the cat, the bird, and the flowers. Then, seating himself in a carved black chair—a present from his wife on his last birthday—he took out his pipe and smoked. The cat jumped into his lap. He stroked it softly and tenderly. It had been much fondled by Mrs. Spring Fragrance, and Mr. Spring Fragrance was under the impression that it missed her. “Poor thing!” said he. “I suppose you want her back!” When he arose to go to bed he placed the animal carefully on the floor, and thus apostrophized it:
-
 
 “O Wise and Silent One, your mistress returns to you, but her heart she leaves behind her, with the Tommies in San Francisco.”
 
-
 The Wise and Silent One made no reply. He was not a jealous cat.
-
 
 Mr. Spring Fragrance slept not that night; the next morning he ate not. Three days and three nights without sleep and food went by.
 
-
 There was a springlike freshness in the air on the day that Mrs. Spring Fragrance came home. The skies overhead were as blue as Puget Sound stretching its gleaming length toward the mighty Pacific, and all the beautiful green world seemed to be throbbing with springing life.
-
 
 Mrs. Spring Fragrance was never so radiant.
 
-
 “Oh,” she cried light-heartedly, “is it not lovely to see the sun shining so clear, and everything so bright to welcome me?”
-
 
 Mr. Spring Fragrance made no response. It was the morning after the fourth sleepless night.
 
-
 Mrs. Spring Fragrance noticed his silence, also his grave face.
-
 
 “Everything—everyone is glad to see me but you,” she declared, half seriously, half jestingly.
 
-
 Mr. Spring Fragrance set down her valise. They had just entered the house.
-
 
 “If my wife is glad to see me,” he quietly replied, “I also am glad to see her!”
 
-
 Summoning their servant boy, he bade him look after Mrs. Spring Fragrance’s comfort.
-
 
 “I must be at the store in half an hour,” said he, looking at his watch. “There is some very important business requiring attention.”
 
-
 “What is the business?” inquired Mrs. Spring Fragrance, her lip quivering with disappointment.
-
 
 “I cannot just explain to you,” answered her husband.
 
-
 Mrs. Spring Fragrance looked up into his face with honest and earnest eyes. There was something in his manner, in the tone of her husband’s voice, which touched her.
-
 
 “Yen,” said she, “you do not look well. You are not well. What is it?”
 
-
 Something arose in Mr. Spring Fragrance’s throat which prevented him from replying.
-
 
 “O darling one! O sweetest one!” cried a girl’s joyous voice. Laura Chin Yuen ran into the room and threw her arms around Mrs. Spring Fragrance’s neck.
 
-
 “I spied you from the window,” said Laura, “and I couldn’t rest until I told you. We are to be married next week, Kai Tzu and I. And all through you, all through you—the sweetest jade jewel in the world!”
-
 
 Mr. Spring Fragrance passed out of the room.
 
-
 “So the son of the Government teacher and little Happy Love are already married,” Laura went on, relieving Mrs. Spring Fragrance of her cloak, her hat, and her folding fan. Mr. Spring Fragrance paused upon the doorstep.
-
 
 “Sit down, Little Sister, and I will tell you all about it,” said Mrs. Spring Fragrance, forgetting her husband for a moment.
 
-
 When Laura Chin Yuen had danced away, Mr. Spring Fragrance came in and hung up his hat.
-
 
 “You got back very soon,” said Mrs. Spring Fragrance, covertly wiping away the tears which had begun to fall as soon as she thought herself alone.
 
-
 “I did not go,” answered Mr. Spring Fragrance. “I have been listening to you and Laura.”
-
 
 “But if the business is very important, do not you think you should attend to it?” anxiously queried Mrs. Spring Fragrance.
 
-
 “It is not important to me now,” returned Mr. Spring Fragrance. “I would prefer to hear again about Ah Oi and Man You and Laura and Kai Tzu.”
-
 
 “How lovely of you to say that!” exclaimed Mrs. Spring Fragrance, who was easily made happy. And she began to chat away to her husband in the friendliest and wifeliest fashion possible. When she had finished she asked him if he were not glad to hear that those who loved as did the young lovers whose secrets she had been keeping, were to be united; and he replied that indeed he was; that he would like every man to be as happy with a wife as he himself had ever been and ever would be.
 
-
 “You did not always talk like that,” said Mrs. Spring Fragrance slyly. “You must have been reading my American poetry books!”
-
 
 “American poetry!” ejaculated Mr. Spring Fragrance almost fiercely, “American poetry is detestable, abhorrable!”
 
-
 “Why! why!” exclaimed Mrs. Spring Fragrance, more and more surprised.
-
 
 But the only explanation which Mr. Spring Fragrance vouchsafed was a jadestone pendant.
 
-
 *From* Mrs. Spring Fragrance *(1912); originally published in* Hampton’s Magazine *v. 24 (1910).*
 
-## 
-The Inferior Woman
+<a href="#toc">Back to the Start</a>`a href="#toc"`
 
+The Inferior Woman
 
 **I**
 
-
 Mrs. Spring Fragrance walked through the leafy alleys of the park, admiring the flowers and listening to the birds singing. It was a beautiful afternoon with the warmth from the sun cooled by a refreshing breeze. As she walked along she meditated upon a book which she had some notion of writing. Many American women wrote books. Why should not a Chinese? She would write a book about Americans for her Chinese women friends. The American people were so interesting and mysterious. Something of pride and pleasure crept into Mrs. Spring Fragrance’s heart as she pictured Fei and Sie and Mai Gwi Far listening to Lae-Choo reading her illuminating paragraphs.
-
 
 As she turned down a by-path she saw Will Carman, her American neighbor’s son, coming towards her, and by his side a young girl who seemed to belong to the sweet air and brightness of all the things around her. They were talking very earnestly and the eyes of the young man were on the girl’s face.
 
-
 “Ah!” murmured Mrs. Spring Fragrance, after one swift glance. “It is love.”
-
 
 She retreated behind a syringa bush, which completely screened her from view.
 
-
 Up the winding path went the young couple.
-
 
 “It is love,” repeated Mrs. Spring Fragrance, “and it is the ‘Inferior Woman.’”
 
-
 She had heard about the Inferior Woman from the mother of Will Carman.
-
 
 After tea that evening Mrs. Spring Fragrance stood musing at her front window. The sun hovered over the Olympic mountains like a great, golden red-bird with dark purple wings, its long tail of light trailing underneath in the waters of Puget Sound.
 
-
 “How very beautiful!” exclaimed Mrs. Spring Fragrance; then she sighed.
-
 
 “Why do you sigh?” asked Mr. Spring Fragrance.
 
-
 “My heart is sad,” answered his wife.
-
 
 “Is the cat sick?” inquired Mr. Spring Fragrance.
 
-
 Mrs. Spring Fragrance shook her head. “It is not our Wise One who troubles me today,” she replied. “It is our neighbors. The sorrow of the Carman household is that the mother desires for her son the Superior Woman, and his heart enshrines but the Inferior. I have seen them together today, and I know.”
-
 
 “What do you know?”
 
-
 “That the Inferior Woman is the mate for young Carman.”
-
 
 Mr. Spring Fragrance elevated his brows. Only the day before, his wife’s arguments had all been in favor of the Superior Woman. He uttered some words expressive of surprise, to which Mrs. Spring Fragrance retorted:
 
-
 “Yesterday, O Great Man, I was a caterpillar!”
-
 
 Just then young Carman came strolling up the path. Mr. Spring Fragrance opened the door to him. “Come in, neighbor,” said he. “I have received some new books from Shanghai.”
 
-
 “Good,” replied young Carman, who was interested in Chinese literature. While he and Mr. Spring Fragrance discussed the “Odes of Chow” and the “Sorrows of Han,” Mrs. Spring Fragrance, sitting in a low easy-chair of rose-colored silk, covertly studied her visitor’s countenance. Why was his expression so much more grave than gay? It had not been so a year ago—before he had known the Inferior Woman. Mrs. Spring Fragrance noted other changes, also, both in speech and manner. “He is no longer a boy,” mused she. “He is a man, and it is the work of the Inferior Woman.”
-
 
 “And when, Mr. Carman,” she inquired, “will you bring home a daughter to your mother?”
 
-
 “And when, Mrs. Spring Fragrance, do you think I should?” returned the young man.
-
 
 Mrs. Spring Fragrance spread wide her fan and gazed thoughtfully over its silver edge.
 
-
 “The summer moons will soon be over,” said she. “You should not wait until the grass is yellow.”
 
->
 > “The woodmen’s blows responsive ring,
->
 >
 > As on the trees they fall,
 >
->
 > And when the birds their sweet notes sing,
->
 >
 > They to each other call.
 >
->
 > From the dark valley comes a bird,
->
 >
 > And seeks the lofty tree,
 >
->
 > Ying goes its voice, and thus it cries:
->
 >
 > ‘Companion, come to me.’
 >
->
 > The bird, although a creature small
->
 >
 > Upon its mate depends,
 >
->
 > And shall we men, who rank o’er all,
->
 >
 > Not seek to have our friends?”
 
-
 quoted Mr. Spring Fragrance.
-
 
 Mrs. Spring Fragrance tapped his shoulder approvingly with her fan.
 
-
 “I perceive,” said young Carman, “that you are both allied against my peace.”
-
 
 “It is for your mother,” replied Mrs. Spring Fragrance soothingly. “She will be happy when she knows that your affections are fixed by marriage.”
 
-
 There was a slight gleam of amusement in the young man’s eyes as he answered: “But if my mother has no wish for a daughter—at least, no wish for the daughter I would want to give her?”
-
 
 “When I first came to America,” returned Mrs. Spring Fragrance, “my husband desired me to wear the American dress. I protested and declared that never would I so appear. But one day he brought home a gown fit for a fairy, and ever since then I have worn and adored the American dress.”
 
-
 “Mrs. Spring Fragrance,” declared young Carman, “your argument is incontrovertible.”
-
 
 II
 A young man with a determined set to his shoulders stood outside the door of a little cottage perched upon a bluff overlooking the Sound. The chill sea air was sweet with the scent of roses, and he drew in a deep breath of inspiration before he knocked.
