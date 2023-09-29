@@ -303,154 +303,103 @@ So I stand. It is all very amusing, of course; but at the same time, very distre
 
 When I look back over the years I see myself, a little child of scarcely four years of age, walking in front of my nurse, in a green English lane, and listening to her tell another of her kind that my mother is Chinese. “Oh Lord!” exclaims the informed. She turns around and scans me curiously from head to foot. Then the two women whisper together. Tho the word “Chinese” conveys very little meaning to my mind, I feel that they are talking about my father and mother and my heart swells with indignation. When we reach home I rush to my mother and try to tell her what I have heard. I am a young child. I fail to make myself intelligible. My mother does not understand, and when the nurse declares to her, “Little Miss Sui is a story-teller,” my mother slaps me.
 
-
 Many a long year has past over my head since that day—the day on which I first learned I was something different and apart from other children, but tho my mother has forgotten it, I have not.
-
 
 I see myself again, a few years older. I am playing with another child in a garden. A girl passes by outside the gate. “Mamie,” she cries to my companion. “I wouldn’t speak to Sui if I were you. Her mamma is Chinese.”
 
-
 “I don’t care,” answers the little one beside me. And then to me, “Even if your mamma is Chinese, I like you better than I like Annie.”
-
 
 “But I don’t like you,” I answer, turning my back on her. It is my first conscious lie.
 
-
 I am at a children’s party, given by the wife of an Indian officer whose children were schoolfellows of mine. I am only six years of age, but have attended a private school for over a year, and have already learned that China is a heathen country, being civilized by England. However, for the time being, I am a merry romping child. There are quite a number of grown people present. One, a white haired old man, has his attention called to me by the hostess. He adjusts his eyeglasses and surveys me critically. “Ah, indeed!” he exclaims. “Who would have thought it at first glance? Yet now I see the difference between her and other children. What a peculiar coloring! Her mother’s eyes and hair and her father’s features, I presume. Very interesting little creature!”
-
 
 I had been called from play for the purpose of inspection. I do not return to it. For the rest of the evening I hide myself behind a hall door and refuse to show myself until it is time to go home.
 
-
 My parents have come to America. We are in Hudson City, N.Y., and we are very poor. I am out with my brother, who is ten months older than myself. We pass a Chinese store, the door of which is open. “Look!” says Charlie. “Those men in there are Chinese!” Eagerly I gaze into the long low room. With the exception of my mother, who is English bred with English ways and manner of dress, I have never seen a Chinese person. The two men within the store are uncouth specimens of their race, drest in working blouses and pantaloons with queues hanging down their backs. I recoil with a sense of shock.
-
 
 “Oh, Charlie,” I cry. “Are we like that?”
 
-
 “Well, we’re Chinese, and they’re Chinese, too, so we must be!” returns my seven year old brother.
-
 
 “Of course you are,” puts in a boy who has followed us down the street, and who lives near us and has seen my mother: “Chinky, Chinky, Chinaman, yellow-face, pig-tail, rat-eater.” A number of other boys and several little girls join in with him.
 
-
 “Better than you,” shouts my brother, facing the crowd. He is younger and smaller than any there, and I am even more insignificant than he; but my spirit revives.
-
 
 “I’d rather be Chinese than anything else in the world,” I scream.
 
-
 They pull my hair, they tear my clothes, they scratch my face, and all but lame my brother; but the white blood in our veins fights valiantly for the Chinese half of us. When it is all over, exhausted and bedraggled, we crawl home, and report to our mother that we have “won the battle”.
-
 
 “Are you sure?” asks my mother doubtfully.
 
-
 “Of course. They ran from us. They were frightened,” returns my brother.
-
 
 My mother smiles with satisfaction.
 
-
 “Do you hear?” she asks my father.
-
 
 “Umm,” he observes, raising his eyes from his paper for an instant. My childish instinct, however, tells me that he is more interested than he appears to be.
 
-
 It is tea time, but I cannot eat. Unobserved, I crawl away. I do not sleep that night. I am too excited and I ache all over. Our opponents had been so very much stronger and bigger than we. Toward morning, however, I fall into a doze from which I awake myself, shouting:
 
-
-
-
-```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-```
+&nbsp;&nbsp;&nbsp;&nbsp;*“Sound the battle cry;
+&nbsp;&nbsp;&nbsp;&nbsp;See the foe is nigh.”*
 
 
 My mother believes in sending us to Sunday school. She has been brought up in a Presbyterian college.
 
-
 The scene of my life shifts to Eastern Canada. The sleigh which has carried us from the station stops in front of a little French Canadian hotel. Immediately we are surrounded by a number of villagers, who stare curiously at my mother as my father assists her to alight from the sleigh. Their curiosity, however, is tempered with kindess, as they watch, one after another, the little black heads of my brothers and sisters and myself emerge out of the buffalo robe, which is part of the sleigh’s outfit. There are six of us; four girls and two boys; the eldest, my brother, being only seven years of age. My father and mother are still in their twenties. “Les pauvres enfants,” the inhabitants murmur, as they help to carry us into the hotel. Then in lower tones: “Chinoise, Chinoise.”
-
 
 For some time after our arrival, whenever children are sent for a walk, our footsteps are dogged by a number of young French and English Canadians, who amuse themselves with speculations as to whether, we being Chinese, are susceptible to pinches and hair pulling, while older persons pause and gaze upon us, very much in the same way that I have seen people gaze upon strange animals in a menagerie. Now and then we are stopt and plied with questions as to what we eat and drink, how we go to sleep, if my mother understands what my father says to her, if we sit on chairs or squat on floors, etc., etc., etc.
 
-
 There are many pitched battles, of course, and we seldom leave the house without being armed for conflict. My mother takes a great interest in our battles, and usually cheers us on, tho I doubt whether she understands the depth of the troubled waters thru which her little children wade. As to my father, peace is his motto, and he deems it wisest to be blind and deaf to many things.
-
 
 School days are short, but memorable. I am in the same class with my brother, my sister next to me in the class below. The little girl whose desk my sister shares shrinks close to the wall as my sister takes her place. In a little while she raises her hand.
 
-
 “Please, teacher!”
-
 
 “Yes, Annie.”
 
-
 “May I change my seat?”
-
 
 “No, you may not!”
 
-
 The little girl sobs. “Why should I have to sit beside a————“
-
 
 Happily, my sister does not seem to hear, and before long the two little girls become great friends. I have many such experiences.
 
-
 My brother is remarkably bright; my sister next to me has a wonderful head for figures, and when only eight years of age helps my father with his night work accounts. My parents compare her with me. She is of sturdier build than I, and, as my father says, “Always has her wits about her.” He thinks her more like my mother, who is very bright and interested in every little detail of practical life. My father tells me that I will never make half the woman that my mother is or that my sister will be. I am not as strong as my sisters, which makes me feel somewhat ashamed, for I am the eldest little girl, and more is expected of me. I have no organic disease, but the strength of my feelings seems to take from me the strength of my body. I am prostrated at times with attacks of nervous sickness. The doctor says that my heart is unusually large; but in the light of the present I know that the cross of the Eurasian bore too heavily upon my childish shoulders. I usually hide my weakness from the family until I cannot stand. I do not understand myself, and I have an idea that the others will despise me for not being as strong as they. Therefore, I like to wander away alone, either by the river or in the bush. The green fields and flowing water have a charm for me. At the age of seven, as it is today, a bird on the wing is my emblem of happiness.
-
 
 I have come from a race on my mother’s side which is said to be the most stolid and insensible to feeling of all races, yet I look back over the years and see myself so keenly alive to every shade of sorrow and suffering that it is almost a pain to live.
 
-
 If there is any trouble in the house in the way of a difference between my father and mother, or if any child is punished, how I suffer! And when harmony is restored, heaven seems to be around me. I can be sad, but I can also be glad. My mother’s screams of agony when a baby is born almost drive me wild, and long after her pangs have subsided I feel them in my own body. Sometimes it is a week before I can get to sleep after such an experience.
-
 
 A debt owing by my father fills me with shame. I feel like a criminal when I pass by the creditor’s door. I am only ten years old. And all the while the question of nationality perplexes my little brain. Why are we what we are? I and my brothers and sisters. Why did God make us to be hooted and stared at? Papa is English, mamma is Chinese. Why couldn’t we have been either one thing or the other? Why is my mother’s race despised? I look into the faces of my father and mother. Is she not every bit as dear and good as he? Why? Why? She sings us the song she learned at her English school. She tells us tales of China. Tho a child when she left her native land she remembers it well, and I am never tired of listening to the story of how she was stolen from her home. She tells us over and over again of her meeting with my father in Shanghai and the romance of their marriage. Why? Why?
 
-
 I do not confide in my father and mother. They would not understand. How could they? He is English, she is Chinese. I am different to both of them—a stranger, tho their own child. “What are we?” I ask my brother. “It doesn’t matter, sissy,” he responds. But it does. I love poetry, particularly heroic pieces. I also love fairy tales. Stories of everyday life do not appeal to me. I dream dreams of being great and noble; my sisters and brothers also. I glory in the idea of dying at the stake and a great genie arising from the flames and declaring to those who have scorned us: “Behold, how great and glorious and noble are the Chinese people!”
-
 
 My sisters are apprenticed to a dressmaker; my brother is entered in an office. I tramp around and sell my father’s pictures, also some lace which I make myself. My nationality, if I had only know it at that time, helps to make sales. The ladies who are my customers call me “The Little Chinese Lace Girl.” But it is a dangerous life for a very young girl. I come near to “mysteriously disappearing” many a time. The greatest temptation was in the thought of getting far away from where I was known, to where no mocking cries of “Chinese!” “Chinese!” could reach.
 
-
 Whenever I have the opportunity I steal away to the library and read every book I can find on China and the Chinese. I learn that China is the oldest civilized nation on the face of the earth and a few other things. At eighteen years of age what troubles me is not that I am what I am, but that others are ignorant of my superiority. I am small, but my feelings are big—and great is my vanity.
-
 
 My sisters attend dancing classes, for which they pay their own fees. In spite of covert smiles and sneers, they are glad to meet and mingle with other young folk. They are not sensitive in the sense that I am. And yet they understand. One of them tells me that she overheard a young man say to another that he would rather marry a pig than a girl with Chinese blood in her veins.
 
-
 In course of time I too learn shorthand and take a position in an office. The local papers patronize me and give me a number of assignments, including most of the local Chinese reporting. I meet many Chinese persons, and when they get into trouble am often called upon to fight their battles in the papers. This I enjoy. My heart leaps for joy when I read one day an article by a New York Chinese in which he declares, “The Chinese in America owe an everlasting debt of gratitude to Sui Sin Far for the bold stand she has taken in their defense.”
-
 
 The Chinaman who wrote the article seeks me out and calls upon me. He is a clever and witty man, a graduate of one of the American colleges and as well a Chinese scholar. I learn that he has an American wife and several children. I am very much interested in these children, and when I meet them my heart throbs in sympathetic tune with the tales they relate of their experiences as Eurasians. “Why did paper and mamma born us?” asks one. Why?
 
-
 I also meet other Chinese men who compare favorably with the white men of my acquaintance in mind and heart qualities. Some of them are quite handsome. They have not as finely cut noses and as well developed chins as the white men, but they have smoother skins and their expression is more serene; their hands are better shaped and their voices softer.
-
 
 Some little Chinese women whom I interview are very anxious to know whether I would marry a Chinaman. I do not answer No. They clap their hands delightedly, and assure me that the Chinese are much the finest and best of all men. They are, however, a little doubtful as to whether one could be persuaded to care for me, full-blooded Chinese people having a prejudice against the half white.
 
-
 Fundamentally, I muse, people are all the same. My mother’s race is as prejudiced as my father’s. Only when the whole world becomes as one family will human beings be able to see clearly and hear distinctly. I believe that some day a great part of the world will be Eurasian. I cheer myself with the thought that I am but a pioneer. A pioneer should glory in suffering.
-
 
 “You were walking with a Chinaman yesterday,” accuses an acquaintance.
 
-
 “Yes, what of it?”
-
 
 “You ought not to. It isn’t right.”
 
-
 “Not right to walk with one of my mother’s people? Oh, indeed!”
-
 
 I cannot reconcile his notion of righteousness with my own.
 
@@ -459,42 +408,29 @@ I cannot reconcile his notion of righteousness with my own.
 I am living in a little town away off on the north shore of a big lake. Next to me at the dinner table is the man for whom I work as a stenographer. There are also a couple of business men, a young girl and her mother.
 Some one makes a remark about the cars full of Chinamen that past that morning. A transcontinental railway runs thru the town.
 
-
 My employer shakes his rugged head. “Somehow or other,” says he, “I cannot reconcile myself to the thought that the Chinese are humans like ourselves. They may have immortal souls, but their faces seem to be so utterly devoid of expression that I cannot help but doubt.”
-
 
 “Souls,” echoes the town clerk. “Their bodies are enough for me. A Chinaman is, in my eyes, more repulsive than a nigger.”
 
-
 “They always give me such a creepy feeling,” puts in the young girl with a laugh.
-
 
 “I wouldn’t have one in my house,” declares my landlady.
 
-
 “Now, the Japanese are different altogether. There is something bright and likeable about those men,” continues Mr. K.
-
 
 A miserable, cowardly feeling keeps me silent. I am in a Middle West town. If I declare what I am, every person in the place will hear about it the next day. The population is in the main made up of working folks with strong prejudices against my mother’s countrymen. The prospect before me is not an enviable one—if I speak. I have no longer an ambition to die at the stake for the sake of demonstrating the greatness and nobleness of the Chinese people.
 
-
 Mr. K turns to me with a kindly smile.
-
 
 “What makes Miss Far so quiet?” he asks.
 
-
 “I don’t suppose she finds the ‘washee washee men’ particularly interesting subjects of conversation,” volunteers the young manager of the local bank.
-
 
 With a great effort I raise my eyes from my plate. “Mr. K.,” I say, addressing my employer, “the Chinese people may have no souls, no expression on their faces, be altogether beyond the pale of civilization, but whatever they are, I want you to understand that I am—I am a Chinese.”
 
-
 There is silence in the room for a few minutes. Then Mr. K. pushes back his plate and standing up beside me, says:
 
-
 “I should have not spoken as I did. I know nothing whatever about the Chinese. It was pure prejudice. Forgive me!”
-
 
 I admire Mr. K.’s moral courage in apologizing to me; he is a conscientious Christian man, but I do not remain much longer in the little town.
 
@@ -502,30 +438,21 @@ I admire Mr. K.’s moral courage in apologizing to me; he is a conscientious Ch
 
 I am under a tropic sky, meeting frequently and conversing with persons who are almost as high up in the world as birth, education, and money can set them. The environment is peculiar, for I am also surrounded by a race of people, the reputed descendants of Ham, the son of Noah, whose offspring, it was prophesied, should be the servants of the songs of Shem and Japheth. As I am a descendant, according to the Bible, of both Shem and Japeth, I have a perfect right to set my heel upon the Ham people; but tho I see others around me following out the Bible suggestion, it is not in my nature to be arrogant to any but those who seek to impress me with their superiority, which the poor black maid who has been assigned to me by the hotel certainly does not. My employer’s wife takes me to task for this. “It is unnecessary,” she says, “to thank a black person for service.”
 
-
 The novelty of life in the West Indian island is not without its charm. The surroundings, people, manner of living, are so entirely different from what I have been accustomed to up North that I feel as if I were “born again”. Mixing with people of fashion, and yet not of them, I am not of sufficient importance to create comment or curiosity. I am busy nearly all day and often well into the night. It is not monotonous work, but it is certainly strenuous. The planters and business men of the island take me as a matter of course and treat me with kindly courtesy. Occasionally an Englishman will warn me against the “brown boys” of the island, little dreaming that I too am of the “brown people” of the earth.
-
 
 When it begins to be whispered about the place that I am not all white, some of the “sporty” people seek my acquaintance. I am small and look much younger than my years. When, however, they discover that I am a very serious and sober-minded spinster indeed, they retire quite gracefully, leaving me a few amusing reflections.
 
-
 One evening a card is brought to my room. It bears the name of some naval officer. I go down to my visitor, thinking he is probably some one who, having been told that I am a reporter for the local paper, has brought me an item of news. I find him lounging in an easy chair on the veranda of the hotel—a big, blond, handsome fellow, several years younger than I.
-
 
 “You are Lieutenant———?” I inquire.
 
-
 He bows and laughs a little. The laugh doesn’t suit him somehow—and it doesn’t suit me, either.
-
 
 “If you have anything to tell me, please tell it quickly, because I’m very busy.”
 
-
 “Oh, you don’t really mean that,” he answers, with another silly and offensive laugh. “There’s always plenty of time for good times. That’s what I am here for. I saw you at the races the other day and twice at King’s House. My ship will be here for——weeks.”
 
-
 “Do you wish that noted?” I ask.
-
 
 “Oh, no! Why—I came just because I had an idea that you might like to know me. I would like to know you. You look such a nice little body. Say, wouldn’t you like to go for a sail this lovely night? I will tell you all about the sweet little Chinese girls I met when we were at Hong Kong. They’re not so shy!”
 
@@ -533,109 +460,75 @@ He bows and laughs a little. The laugh doesn’t suit him somehow—and it doesn
 
 I leave Eastern Canada for the Far West, so reduced by another attack of rheumatic fever that I only weigh eighty-four pounds. I travel on an advertising contract. It is presumed by the railway company that in some way or other I will give them full value for their transportation across the continent. I have been ordered beyond the Rockies by the doctor, who declares that I will never regain my strength in the East. Nevertheless, I am but two days in San Francisco when I start out in search of work. It is the first time that I have sought work as a stranger in a strange town. Both of the other positions away from home were secured for me by home influence. I am quite surprised to find that there is no demand for my services in San Francisco and that no one is particularly interested in me. The best I can do is accept an offer from a railway agency to typewrite their correspondence for $5 a month. I stipulate, however, that I shall have the privilege of taking in outside work and that my hours shall be light. I am hopeful that the sale of a story or newspaper article may add to my income, and I console myself with the reflection that, considering that I still limp and bear traces of sickness, I am fortunate to secure any work at all.
 
-
 The proprietor or one of the San Francisco papers, to whom I have a letter of introduction, suggests that I obtain some subscriptions from the people of China town, that district of the city having never been canvassed. This suggestion I carry out with enthusiasm, tho I find that the Chinese merchants and people generally are inclined to regard me with suspicion. They have been imposed upon so many times by unscrupulous white people. Another drawback—save for a few phrases, I am unacquainted with my mother tongue. How, then, can I expect these people to accept me as their own countrywoman? The Americanized Chinamen actually laugh in my face when I tell them that I am of their race. However, they are not all “doubting Thomases.” Some little women discover that I have Chinese hair, color of eyes and complexion, also that I love rice and tea. This settles the matter for them—and for their husbands.
-
 
 I meet a half Chinese, half white girl. Her face is plastered with a thick white coat of paint and her eyelids and eyebrows are blackened so that the shape of her eyes and the whole expression of her face is changed. She was born in the East, and at the age of eighteen came West to answer an advertisement. Living for many years among the working class, she had heard little but abuse of the Chinese. It is not difficult, in a land like California, for a half Chinese, half white girl to pass as one of Spanish or Mexican origin. This poor child does, tho she lives in nervous dread of being “discovered.” She becomes engaged to a young man, but fears to tell him what she is, and only does so when compelled by a fearless American girl friend. This girl, who knows her origin, realizing that the truth sooner or later must be told, and better soon than late, advises the Eurasian to confide in the young man, assuring her that he loves her well enough to not allow her nationality to stand, a bar sinister, between them. But the Eurasian prefers to keep her secret, and only reveals it to the man who is to be her husband when driven to bay by the American girl, who declares that if the halfbreed will not tell the truth, she will. When the young man hears that the girl he is engaged to has Chinese blood in her veins, he exclaims: “Oh, what will my folks say?” But that is all. Love is stronger than prejudice with him, and neither he nor she deems it necessary to inform his “folks.”
 
-
 The Americans, having for many years manifested a much higher regard for the Japanese than for the Chinese, several half Chinese young men and women, thinking to advance themselves, both in a social and business sense, pass as Japanese. They continue to be known as Eurasians; but a Japanese Eurasian does not appear in the same light as a Chinese Eurasian. The unfortunate Chinese Eurasians! Are not those who compel them to thus cringe more to be blamed than they?
-
 
 People, however, are not all alike. I meet white men, and women, too, who are proud to mate with those who have Chinese blood in their veins, and think it a great honor to be distinguished by the friendship of such. There are also Eurasians and Eurasians. I know of one who allowed herself to become engaged to a white man after refusing him nine times. She had discouraged him in every way possible, had warned him that she was half Chinese; that her people were poor, that every week or month she sent home a certain amount of her earnings, and that she man she married would have to do as much, if not more; also, most uncompromising truth of all, that she did not love him and never would. But the resolute and undaunted lover swore that it was a matter of indifference to him whether she was a Chinese or a Hottentot, that it would be his pleasure and privilege to allow her relations double what it was in her power to bestow, and as to not loving him—that did not matter at all. He loved her. So, because the young woman had a married mother and married sisters, who were always picking at her and gossiping over her independent manner of living, she finally consented to marry him, recording the agreement in her diary thus:
 
-
 “I have promised to become the wife of——-——- on——-, 189-, because the world is so cruel and sneering to a single woman—and for no other reason.”
-
 
 Everything went smoothly until one day. The young man was driving a pair of beautiful horses and she was seated by his side, trying very hard to imagine herself in love with him, when a Chinese vegetable gardener’s cart came rumbling along. The Chinaman was a jolly-looking individual in blue cotton blouse and pantaloons, his rakish looking hat being kept in place by a long queue which was pulled upward from his neck and wound around it. The young woman was suddenly possest with the spirit of mischief. “Look!” she cried, indicating the Chinaman, “there’s my brother. Why don’t you salute him?”
 
-
 The man’s face fell a little. He sank into a pensive mood. The wicked one by his side read him like an open book.
-
 
 “When we are married,” said she, “I intend to give a Chinese party every month.”
 
-
 No answer.
-
 
 “As there are very few aristocratic Chinese in this city, I shall fill up with the laundrymen and the vegetable farmers. I don’t believe in being exclusive in democratic America, do you?”
 
-
 He hadn’t a grain of humor in his composition, but a sickly smile contorted his features as he replied:
-
 
 “You shall do just as you please, my darling. But—but—consider a moment. Wouldn’t it just be a little pleasanter for us if, after we are married, we allowed it to be presumed that you were—er—Japanese? So many of my friends have inquired of me if that is not your nationality. They would be so charmed to meet a little Japanese lady.”
 
-
 “Hadn’t you better oblige them by finding one?”
-
 
 “Why—er—what do you mean?”
 
-
 “Nothing much in particular. Only—I am getting a little tired of this,” taking off the ring.
-
 
 “You don’t mean what you say! Oh, put it back, dearest! You know I would not hurt your feelings for the world!”
 
-
 “You haven’t. I’m more than pleased. But I do mean what I say.”
-
 
 That evening, the “ungrateful” Chinese Eurasian diaried, among other things, the following:
 
-
 “Joy, oh, joy! I’m free once more. Never again shall I be untrue to my own heart. Never again will I allow any one to ‘hound’ or ‘sneer’ me into matrimony.”
-
 
 I secure transportation to many California points. I meet some literary people, chief among whom is the editor of the magazine who took my first Chinese stories. He and his wife give me a warm welcome to their ranch. They are broadminded people, whose interest in me is sincere and intelligent, not affected and vulgar. I also meet some funny people who advise me to “trade” upon my nationality. They tell me that if I wish to succeed in literature in America I should dress in Chinese costume, carry a fan in my hand, wear a pair of scarlet beaded slippers, live in New York, and come of high birth. Instead of making myself familiar with the Chinese Americans around me, I should discourse on my spirit acquaintance with Chinese ancestors and quote in between the “Good mornings” and “How d’ye dos” of editors.
 
->
 > “Confucius, Confucius, how great is Confucius, Before Confucius, there never was Confucius. After Confucius, there never came Confucius,” etc., etc., etc.,
-
 
 or something like that, both illuminating and obscuring, don’t you know. They forget, or perhaps they are not aware that the old Chinese sage taught “The way of sincerity is the way of heaven.”
 
-
 My experiences as a Eurasian never cease; but people are not now as prejudiced as they have been. In the West, too, my friends are more advanced in all lines of thought than those whom I knew in Eastern Canada—more genuine, more sincere, with less of the form of religion, but more of its spirit.
-
 
 So I roam backward and forward across the continent. When I am East, my heart is West. When I am West, my heart is East. Before long I hope to be in China. As my life began in my father’s country it may end in my mother’s.
 
-
 After all I have no nationality and am not anxious to claim any. Individuality is more than nationality. “You are you and I am I,” says Confucius. I give my right hand to the Occidentals and my left to the Orientals, hoping that between them they will not utterly destroy the insignificant “connecting link.” And that’s all.
-
 
 *Originally published in The Independent (New York), January 21, 1909.*
 
-## 
-A Trip in a Horse Car
-
+## A Trip in a Horse Car
 
 *Editor's note: This is one of Eaton’s early publications–what she and scholars refer to as her “sketches.” It’s not quite fiction, but as it reads like a bridge between her journalism, her memoiristic essays, and her observational short stories, it feels like a fitting transition from the essays to the stories in this volume.*
 
 I always had a liking for a ride in a horse car. Other people may enjoy their carriage and sleigh drives, but I, who am of humbler mind, prefer a horse car. There you can be alone, yet not alone. You can lose yourself in a day dream, without any one interfering, or you can interest yourself in the different species of the human family one is apt to meet in this vehicle. Sometimes you meet a friend and enjoy a pleasant chat, and sometimes you have the pleasure of sitting side by side with your worst enemy. You meet all kinds of people in these cars, high and low, rich and poor, the quality and a quantity of the city, and, as "variety is the spice of life," you will understand why I have a weakness for a trip in a horse car. 
 
-
 Many a pleasant half hour, or longer, have I spent riding through the busy streets, engaged in contemplating the faces of my fellow-passengers, catching little glimpses of their lives, and romancing and moralizing, as the case might be. This occupation has afforded me a great deal of pleasure, and, as I do not like to be selfish, and have always wished for some one with whom to share this pleasure, we will journey together in spirit from Mile End to Cote St. Antoine. Time, about three o'clock in the afternoon. 
-
 
 Here comes the car. Jump in and make yourself comfortable. It is occupied by two women; one is about forty and the other a girl of eighteen. They are French-Canadians and evidently earn their living by sewing, for each carries a number of coats on her arm, taking them to some shop in the city, probably. Not much pay do these poor women get for their toilsome work — stitch, stitch, stitching, day after clay, and yet they seem tolerably happy and contented. It is well for some to be born unambitious. 
 
-
 Some one else is entering the car now–a portly man, with a red face and a merry, comfortable look. He looks around, as if to find somebody to talk to; but, as there is no one who is likely to prove companionable, he at last settles down into an unsettled state until the next passenger appears.
-
 
 This happens to be a dark little fellow, whom the stout passenger greets with some genial expression in French. Most likely, he is an acquaintance for they immediately strike up a voluble conversation, and, although I do not understand their language, their gestures and animated expression afford me no little amusement. 
 The car stops again to let in a young lady and a little girl. The young lady has a face which 
 makes one think of something good. Very few people possess a really good face, and it rests tired eyes to gaze upon this one. The little girl is about seven years old, so pretty and winning that I feel quite angry when the form of a young man intervenes between us, and I see that some newcomers have taken their places. These newcomers are a young man and his girl. What strikes me as remarkable about this couple is that the young girl appears to be very proud of her escort and the young man shows plainly that he appreciates himself, if no one else does. He belongs to that class of youths who are sometimes called "mashers" — that is, they imagine they make a great impression on every girl. It is my opinion that he even thinks he has mashed a couple of typical old maids who are set up just opposite him. One of them, at any rate, does not seem to feel so. I hear her whisper to her companion that she does not know how any girl can be so silly as to be pleased and proud to be seen in the company of such a senseless fellow as the one in front of them. She says this rather spitefully, and I am inclined to say "Sour grapes'' (inaudibly, of course). But on second thoughts. I refrain from the uncharitable remark, because there does seem some truth in what she says about the young man, and how can we expect one whose heart has lain dormant for years to understand the feelings of a young girl in love?
 
-
 Who is this in dirty rags and a worn-out face, carrying a basket on her arm? Who is this that shrinks into a corner, as if she would willingly shrink out of the world? 'Tis a poor beggar girl, who has perhaps begged money enough to carry her weary limbs home to some miserable den. How wretched, how dull she looks! Life holds nothing bright for such a one. God alone knows what her life is. The sooner 'tis ended the better. Such misery is seen and passed by every day of our lives, and yet, how many think of doing anything to stop it. People preach and preach, but very few obey the old maxim which tells us to practice what we preach. There are some who honestly intend to do good, but when the tale comes for acting they'll let it pass, and chance after chance they miss in this way, until one day they wake up to the fact that their life is over and their dreams have come to naught. 
-
 
 Why is it that so many dream 
 Of great deeds to be done? 
@@ -644,38 +537,29 @@ Of honours to be won?
 Why is it that men dream and dream 
 Till the sands of life are run? 
 
-
 Why, ah, why is there so much planning and thinking and so little doing? But there is no time to puzzle out conundrums in a horse car, and as a man with his arms full of parcels, presenting a rather funny appearance, is struggling to get a seat near me, I break up the train of thought which is perplexing my brain and thought and interest myself in the fresh arrival. He has tumbled one of the parcels on the floor and a little stream of white sugar is oozing out. A couple of fashionably dressed ladies are just behind him, and I think it would be kindness on their part to let him know that he is losing his sugar, but they take their seats unconcernedly and allow the conductor to notify him of the fact. They choose a seat as far away as possible from the beggar girl, whom they regard with faces of disgust and, after they are comfortably settled, begin a conversation about some mission for which they are collecting contributions. They are rich ladies, good church members, charitable in many ways;  but I am afraid they will not have the same position in the next world that they have in this. 
-
 
 The man with the parcels has a great deal of difficulty in preventing them from slipping off his knees, and the efforts he makes from time to time to keep them in place are very amusing. At last he produces a large red cotton handkerchief and ties them up. When this is done he heaves such a sigh of relief that every one in the car knows he has at last found ease. 
 
-
 The car is pretty well filled now. A young person of the masculine gender, in passing me, has almost pushed me out of my seat–unintentionally, of course. I can see by his face that he is absent-minded, and not only absent-minded, but miserable, though why he should be miserable I don't know. Young, tolerably good-looking, dressed well and healthy, he ought to be happy enough. Perhaps he has been crossed in love. But I cannot tell Some people would go through life with a gloomy countenance if they had all the blessings of heaven showered on them. It may be that those people who persist in looking miserable desire to be pitied. Well, we do pity them. We pity all those whose lot in life is hard, and we pity them because they require pity; but there is a deeper feeling than pity in our breasts for the unknown ones who hide their sorrow from the world’s curious gaze, to whom pity gives positive pain when coming from those who do not understand what they are pitying; for we know that they who sorrow the most give no sign; that the saddest hearts are oft the bravest.
-
 
 Here comes a man I know. At least, I know him by sight, and I have been told by different people that he is a crank. He is a pleasant looking old fellow, with a queer little way of looking at people, but I do not see anything cranky about him. I think the world is getting ratter cranky on the subject of cranks. If a person happens to be a little different from the generality of this world's inhabitants, he or she is sure to be called a crank, or something very like that expressive word. 
 
-
 A fine-looking old lady, with white hair, has a seat between the fashionable ladies and the beggar girl. She does not shrink from coming into contact with a fellow being. Her benevolent face beams upon all around her, and the other ladies, with whom she is evidently acquainted, change their disagreeable looks to amiable ones by the force of her example. 
-
 
 A couple of business men are discussing politics in a corner. It seems to me to be a rather one- sided discussion, as one of the men is not at all interested, which can easily be seen by the monosyllabic way in which he replies to his companion. He (the companion) is so enthusiastic that he does not notice the other man's indifference, but goes on discussing and arguing indefatigably. 
 
-
 Now, I have reached my destination and must say good-bye, hoping sometime to have the pleasure of another trip with you. 
-
 
 **Montreal.			EDITH EATON**
 
-
 *Originally published in Dominion Illustrated (October 1888).*
 
-# PART 2 
+# PART 2
+
 Stories
 
 ## Misunderstood, or the Story of a Young Man
-
 
 *Editor’s note: This early story, which was not published under a pen name,  is notable for its reliance on the same Tennyson lines that propel the action in “Mrs. Spring Fragrance” (the next story in this collection) – in a much different, but strangely complementary, application.* 
 
