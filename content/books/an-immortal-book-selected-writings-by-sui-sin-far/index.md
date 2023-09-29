@@ -665,10 +665,10 @@ A young man came out of the back door of the house at Mr. Spring Fragrance’s l
 “Well,” said Mr. Spring Fragrance, “it is this:
 
 >
-> “’Tis better to have loved and lost,
+> <&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>“’Tis better to have loved and lost,
 >
 >
-> Than never to have loved at all.”
+> <&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>Than never to have loved at all.”
 
 
 “Ah!” responded the young man with an air of profound wisdom. “That, Mr. Spring Fragrance, means that it is a good thing to love anyway—even if we can’t get what we love, or, as the poet tells us, lose what we love. Of course, one needs experience to feel the truth of this teaching.”
