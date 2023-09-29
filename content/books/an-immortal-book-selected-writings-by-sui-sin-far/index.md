@@ -570,6 +570,8 @@ There once lived a very amiable young man. The reason why I call him an amiable 
 One evening, while deeply meditating upon this subject, an apparition appeared upon him, (Apparitions from the unknown world often appear to spiritual, noble-minded young men, even at the present day.) Well, this mysterious being, divining the thoughts which were puzzling the brain of my hero, addressed him in this wise: "Young man, your great and laudable ambition shall be gratified. A woman's happiness is comprised in one little word, and that word is LOVE. Do not all the great writers of the past and present endorse my opinion? Yea, even though her love be unrequited, she is happier for having felt that noble sentiment. Tennyson says: 
 
 > ‘Tis better to have loved and lost 
+>
+>
 > Than never to have loved at all. 
 
 Therefore, young man, if you really wish to make them happy, you must have the power to win their love, which power I am able to give you, saying which the spirit laid its hands upon the young man's head and kept them there while he concluded his speech in the following words: 
@@ -630,6 +632,8 @@ Laura burst into tears. “That is the walk,” she sobbed, “Kai Tzu and I so 
 
 >
 > “’Tis better to have loved and lost,
+>
+>
 > Than never to have loved at all?”
 
 
@@ -637,6 +641,8 @@ Mrs. Spring Fragrance was unaware that Mr. Spring Fragrance, having returned fro
 
 >
 > “’Tis better to have loved and lost,
+>
+>
 > Than never to have loved at all,”
 
 
@@ -660,6 +666,8 @@ A young man came out of the back door of the house at Mr. Spring Fragrance’s l
 
 >
 > “’Tis better to have loved and lost,
+>
+>
 > Than never to have loved at all.”
 
 
@@ -975,51 +983,139 @@ But the only explanation which Mr. Spring Fragrance vouchsafed was a jadestone p
 
 *From* Mrs. Spring Fragrance *(1912); originally published in* Hampton’s Magazine *v. 24 (1910).*
 
-
+## 
 The Inferior Woman
-I
+
+
+**I**
+
+
 Mrs. Spring Fragrance walked through the leafy alleys of the park, admiring the flowers and listening to the birds singing. It was a beautiful afternoon with the warmth from the sun cooled by a refreshing breeze. As she walked along she meditated upon a book which she had some notion of writing. Many American women wrote books. Why should not a Chinese? She would write a book about Americans for her Chinese women friends. The American people were so interesting and mysterious. Something of pride and pleasure crept into Mrs. Spring Fragrance’s heart as she pictured Fei and Sie and Mai Gwi Far listening to Lae-Choo reading her illuminating paragraphs.
+
+
 As she turned down a by-path she saw Will Carman, her American neighbor’s son, coming towards her, and by his side a young girl who seemed to belong to the sweet air and brightness of all the things around her. They were talking very earnestly and the eyes of the young man were on the girl’s face.
+
+
 “Ah!” murmured Mrs. Spring Fragrance, after one swift glance. “It is love.”
+
+
 She retreated behind a syringa bush, which completely screened her from view.
+
+
 Up the winding path went the young couple.
+
+
 “It is love,” repeated Mrs. Spring Fragrance, “and it is the ‘Inferior Woman.’”
+
+
 She had heard about the Inferior Woman from the mother of Will Carman.
+
+
 After tea that evening Mrs. Spring Fragrance stood musing at her front window. The sun hovered over the Olympic mountains like a great, golden red-bird with dark purple wings, its long tail of light trailing underneath in the waters of Puget Sound.
+
+
 “How very beautiful!” exclaimed Mrs. Spring Fragrance; then she sighed.
+
+
 “Why do you sigh?” asked Mr. Spring Fragrance.
+
+
 “My heart is sad,” answered his wife.
+
+
 “Is the cat sick?” inquired Mr. Spring Fragrance.
+
+
 Mrs. Spring Fragrance shook her head. “It is not our Wise One who troubles me today,” she replied. “It is our neighbors. The sorrow of the Carman household is that the mother desires for her son the Superior Woman, and his heart enshrines but the Inferior. I have seen them together today, and I know.”
+
+
 “What do you know?”
+
+
 “That the Inferior Woman is the mate for young Carman.”
+
+
 Mr. Spring Fragrance elevated his brows. Only the day before, his wife’s arguments had all been in favor of the Superior Woman. He uttered some words expressive of surprise, to which Mrs. Spring Fragrance retorted:
+
+
 “Yesterday, O Great Man, I was a caterpillar!”
+
+
 Just then young Carman came strolling up the path. Mr. Spring Fragrance opened the door to him. “Come in, neighbor,” said he. “I have received some new books from Shanghai.”
+
+
 “Good,” replied young Carman, who was interested in Chinese literature. While he and Mr. Spring Fragrance discussed the “Odes of Chow” and the “Sorrows of Han,” Mrs. Spring Fragrance, sitting in a low easy-chair of rose-colored silk, covertly studied her visitor’s countenance. Why was his expression so much more grave than gay? It had not been so a year ago—before he had known the Inferior Woman. Mrs. Spring Fragrance noted other changes, also, both in speech and manner. “He is no longer a boy,” mused she. “He is a man, and it is the work of the Inferior Woman.”
+
+
 “And when, Mr. Carman,” she inquired, “will you bring home a daughter to your mother?”
+
+
 “And when, Mrs. Spring Fragrance, do you think I should?” returned the young man.
+
+
 Mrs. Spring Fragrance spread wide her fan and gazed thoughtfully over its silver edge.
+
+
 “The summer moons will soon be over,” said she. “You should not wait until the grass is yellow.”
-“The woodmen’s blows responsive ring,
-As on the trees they fall,
-And when the birds their sweet notes sing,
-They to each other call.
-From the dark valley comes a bird,
-And seeks the lofty tree,
-Ying goes its voice, and thus it cries:
-‘Companion, come to me.’
-The bird, although a creature small
-Upon its mate depends,
-And shall we men, who rank o’er all,
-Not seek to have our friends?”
+
+>
+> “The woodmen’s blows responsive ring,
+>
+>
+> As on the trees they fall,
+>
+>
+> And when the birds their sweet notes sing,
+>
+>
+> They to each other call.
+>
+>
+> From the dark valley comes a bird,
+>
+>
+> And seeks the lofty tree,
+>
+>
+> Ying goes its voice, and thus it cries:
+>
+>
+> ‘Companion, come to me.’
+>
+>
+> The bird, although a creature small
+>
+>
+> Upon its mate depends,
+>
+>
+> And shall we men, who rank o’er all,
+>
+>
+> Not seek to have our friends?”
+
+
 quoted Mr. Spring Fragrance.
+
+
 Mrs. Spring Fragrance tapped his shoulder approvingly with her fan.
+
+
 “I perceive,” said young Carman, “that you are both allied against my peace.”
+
+
 “It is for your mother,” replied Mrs. Spring Fragrance soothingly. “She will be happy when she knows that your affections are fixed by marriage.”
+
+
 There was a slight gleam of amusement in the young man’s eyes as he answered: “But if my mother has no wish for a daughter—at least, no wish for the daughter I would want to give her?”
+
+
 “When I first came to America,” returned Mrs. Spring Fragrance, “my husband desired me to wear the American dress. I protested and declared that never would I so appear. But one day he brought home a gown fit for a fairy, and ever since then I have worn and adored the American dress.”
+
+
 “Mrs. Spring Fragrance,” declared young Carman, “your argument is incontrovertible.”
+
+
 II
 A young man with a determined set to his shoulders stood outside the door of a little cottage perched upon a bluff overlooking the Sound. The chill sea air was sweet with the scent of roses, and he drew in a deep breath of inspiration before he knocked.
 “Are you not surprised to see me?” he inquired of the young person who opened the door.
