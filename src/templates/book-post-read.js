@@ -144,20 +144,32 @@ const BookPostReadTemplate = ({
           <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
           <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
         </div>{/* /info */}
-        <div
+        {/* <div
           className="table-content"
           dangerouslySetInnerHTML={{ __html: post.tableOfContents }}
           itemProp="contentTable"
-        />
-        <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
-          className={`blog-post-content ${post.frontmatter.lang}`}
-          style={{fontSize: `${fontSize}px`, lineHeight: `${lineHeight}px`, letterSpacing: `${letterSpacing}px`, fontFamily: `${fontFamily}`, maxWidth: `${lineLength}ch`}}
-          itemProp="articleBody"
-        />
+        /> */}
+        { post.headings &&
+        <ul className='table-of-contents' id="toc">
+          {post.headings.map(h => {
+            return <li key={h.id} className={`depth-${h.depth}`}><a href={`#${h.id}`}>{h.value}</a></li>
+          })}
+        </ul>
+        }
+        {post.html && 
+          <section
+            dangerouslySetInnerHTML={{ __html: post.html }}
+            className={`blog-post-content ${post.frontmatter.lang}`}
+            style={{fontSize: `${fontSize}px`, lineHeight: `${lineHeight}px`, letterSpacing: `${letterSpacing}px`, fontFamily: `${fontFamily}`, maxWidth: `${lineLength}ch`}}
+            itemProp="articleBody"
+          />
+        }
         <hr />
       </article>
-      <nav className="blog-post-nav">
+      <div className="back-to-top">
+        <a href='#toc'>&uarr; {intl.formatMessage({id: 'Back to Top'})}</a>
+      </div>
+      {/* <nav className="blog-post-nav">
         <ul
           style={{
             display: `flex`,
@@ -182,7 +194,7 @@ const BookPostReadTemplate = ({
             )}
           </li>
         </ul>
-      </nav>
+      </nav> */}
     </Layout>
   )
 }
@@ -212,6 +224,11 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)
+      headings {
+        id
+        depth
+        value
+      }
       html
       tableOfContents
       timeToRead

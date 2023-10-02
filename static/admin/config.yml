@@ -32,9 +32,9 @@ collections:
       - { label: 'Time period', name: 'time_period', widget: 'select', options: ['19th', '20th', 'victorian', 'early-modern', 'modernist', 'contemporary'], multiple: true }
       - { label: 'Theme', name: 'theme', widget: 'select', options: ["motherhood", "LGBTQ+", "politics" ,"religion", "sex-romance", "suspense-gothic", "race", "science-technology", "first-person-narrator", "banned-book", "mental-health"], multiple: true }
       - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' }
       - { label: 'Foreword & Cover', name: 'foreword', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
   - name: news
     label: News
     folder: 'content/news'

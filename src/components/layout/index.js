@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { Link, FormattedMessage } from "gatsby-plugin-intl"
-import ChangeLanguage from "../changeLanguage/changeLanguage"
+import Transition from "../transition/transition"
 import * as classes from "./layout.module.scss"
 
+const RootLayout = ({ location, children }) => {
 
-const Layout = ({ location, children, intl, where }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
   const [clicked, setClicked] = useState(true)
@@ -29,24 +29,12 @@ const Layout = ({ location, children, intl, where }) => {
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className={`${classes.globalHeader} bluu`}>{header}</header>
       <main className="main-wrapper">
-        <div className='internal-wrapper'>{children}</div>
-      </main>
-      <footer>
-        <div className={"footer-container"}>
-          <ChangeLanguage where={where} />
-          <div className="message">
-            <div className="social">
-              <a className="social-img" href="http://facebook.com/citapress"><img src="/img/fb.png" alt="fb" /></a>
-              <a className="social-img" href="http://twitter.com/citapress"><img src="/img/tw.png" alt="tw" /></a>
-            </div>
-            <div className='footer-rights'>
-              Some rights reserved <img className='some-rights' alt="cc" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"/> CC-BY-SA 4.0 / {new Date().getFullYear()}, Built with Gatsby
-            </div>
-          </div>
+        <div className='internal-wrapper'>
+          <Transition location={location}>{children}</Transition>
         </div>
-      </footer>
+      </main>
     </div>
   )
 }
 
-export default Layout
+export default RootLayout

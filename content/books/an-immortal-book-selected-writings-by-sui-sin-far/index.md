@@ -38,7 +38,7 @@ foreword: >-
 
   Cover: Shuhua Xiong is an interdisciplinary artist from Shanghai, now based in Queens, New York.
 ---
-# Foreword
+## Foreword
 
 **By Victoria Namkung** 
 
@@ -78,11 +78,11 @@ While some of Eaton’s works are “slice of life” stories that shed humorous
 
 Eaton died of heart disease in 1914, just two years after her first and only book was published. By this time, she had reached a rarified position as an incredibly popular writer whose obituary appeared in newspapers throughout North America. Thanks to this new, open access collection (which builds on the work of feminist scholars like Chapman, Ling, Annette White-Parks, and many others), her work will continue to be useful, known, heard, and admired — in other words, immortal. 
 
-# PART 1
+## PART 1
 
-# Essays
+## Essays
 
-## Sui Sin Far, the Half Chinese Writer, Tells of Her Career
+### Sui Sin Far, the Half Chinese Writer, Tells of Her Career
 
 ***The Interesting Author’s Book, “The Dream of a Lifetime,” Which Will Appear This Spring, Tells of Her Vocations* (Boston Daily Globe, May 5, 1912)**
 
@@ -185,7 +185,7 @@ My people in Montreal, my mother in particular, my Chinese friends in Boston and
 
 
 
-## The Persecution and Oppression of Me
+### The Persecution and Oppression of Me
 
 *Editor’s note and content warning: This essay was originally published anonymously under the byline “By a Half Chinese.” It contains slurs and racist rhetoric against Black and Chinese people (recounting racism the author encountered in her life).* 
 
@@ -311,7 +311,7 @@ So I stand. It is all very amusing, of course; but at the same time, very distre
 
 *Originally published in The Independent (August 24, 1911)*
 
-## Leaves from the Mental Portfolio of an Eurasian
+### Leaves from the Mental Portfolio of an Eurasian
 
 *Editor’s note  and content warning: This essay contains slurs used against Black and Chinese people (recounting racism the author encountered in her life).* 
 
@@ -525,7 +525,7 @@ After all I have no nationality and am not anxious to claim any. Individuality i
 
 *Originally published in The Independent (New York), January 21, 1909.*
 
-## A Trip in a Horse Car
+### A Trip in a Horse Car
 
 *Editor's note: This is one of Eaton’s early publications–what she and scholars refer to as her “sketches.” It’s not quite fiction, but as it reads like a bridge between her journalism, her memoiristic essays, and her observational short stories, it feels like a fitting transition from the essays to the stories in this volume.*
 
@@ -568,11 +568,11 @@ Now, I have reached my destination and must say good-bye, hoping sometime to hav
 
 *Originally published in Dominion Illustrated (October 1888).*
 
-# PART 2
+## PART 2
 
 Stories
 
-## Misunderstood, or the Story of a Young Man
+### Misunderstood, or the Story of a Young Man
 
 *Editor’s note: This early story, which was not published under a pen name,  is notable for its reliance on the same Tennyson lines that propel the action in “Mrs. Spring Fragrance” (the next story in this collection) – in a much different, but strangely complementary, application.* 
 
@@ -621,7 +621,7 @@ This story has in it a lesson for ail amiable young men. It is to be hoped they 
 **Montreal. EDITH EATON**
 *Originally published in Dominion Illustrated, November 1888.*
 
-## Mrs. Spring Fragrance
+### Mrs. Spring Fragrance
 
 **I**
 When Mrs. Spring Fragrance first arrived in Seattle, she was unacquainted with even one word of the American language. Five years later her husband, speaking of her, said: “There are no more American words for her learning.” And everyone who knew Mrs. Spring Fragrance agreed with Mr. Spring Fragrance.

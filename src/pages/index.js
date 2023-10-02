@@ -82,8 +82,8 @@ const BlogIndex = ({ data, location, intl }) => {
             Watch our video
           </a>
           ,{" "}
-          <a href="pages/collaborate.html" data-title="Collaborate">
-            become a collaborator
+          <a href="https://citapress.substack.com" data-title="Collaborate">
+            subscribe to our newsletter
           </a>
           , or{" "}
           <a href="pages/books.html" data-title="Books">
@@ -122,14 +122,16 @@ const BlogIndex = ({ data, location, intl }) => {
                     <GatsbyImage image={image} alt={title} />
                   </Link>
                 </header>
-                <section className="d-none">
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
+                { post.frontmatter.description &&
+                  <section className="d-none">
+                    <p
+                      dangerouslySetInnerHTML={{
+                        __html: post.frontmatter.description || post.excerpt,
+                      }}
+                      itemProp="description"
+                    />
+                  </section>
+                }
               </article>
             </li>
           )

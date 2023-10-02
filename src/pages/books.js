@@ -39,14 +39,16 @@ const BlogIndex = ({ data, location, intl }) => {
                     <GatsbyImage image={image} alt={title} />
                   </Link>
                 </header>
-                <section className="d-none">
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
+                { post.frontmatter.description &&
+                  <section className="d-none">
+                    <p
+                      dangerouslySetInnerHTML={{
+                        __html: post.frontmatter.description || post.excerpt,
+                      }}
+                      itemProp="description"
+                    />
+                  </section>
+                }
               </article>
             </li>
           )

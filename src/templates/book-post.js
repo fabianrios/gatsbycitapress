@@ -36,21 +36,25 @@ const BookPostTemplate = ({
               }
               <ul>
                 <li>ISBN: {post.frontmatter.isbn}</li>
-                <li>First published: {intl.formatDate(post.frontmatter.release, {
+                <li>{intl.formatMessage({id: 'First published'})}: {intl.formatDate(post.frontmatter.release, {
                         year: "numeric",
                         month: "long",
                         day: "2-digit",
                       })}</li>
-                <li>Publication date: {intl.formatDate(post.frontmatter.publication, {
+                <li>{intl.formatMessage({id: 'Publication date'})}: {intl.formatDate(post.frontmatter.publication, {
                         year: "numeric",
                         month: "long",
                         day: "2-digit",
                       })}</li>
               </ul>
             </div>{/* /reference */}
-            <div className="description">
-              <p>{post.frontmatter.description}</p>
-            </div>
+            { post.frontmatter.description &&
+              <div className="description"
+                dangerouslySetInnerHTML={{ __html: post.frontmatter.description }}
+                itemProp="foreword"
+              >
+              </div>
+            }
             { post.frontmatter.foreword &&
               <section
                 className="foreword"
