@@ -6,6 +6,7 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout/layout"
 import Seo from "../components/seo"
 import TextConfiguration from '../components/textConfiguration/textConfiguration';
+import PageTransition from 'gatsby-plugin-page-transitions';
 
 const BookPostReadTemplate = ({
   data: { previous, next, site, markdownRemark: post },
@@ -66,135 +67,136 @@ const BookPostReadTemplate = ({
 
   return (
     <Layout location={location} title={siteTitle} where={where}>
-      { isBrowser &&
-        <div className="progress-bar" style={{width: `${scrollPosition / (postReference?.current?.scrollHeight - window.innerHeight) * 100}%`}}></div>
-      }
-      {/* <span className="progress-bar-text">{Math.round(scrollPosition / (postReference.current.scrollHeight - window.innerHeight) * 100)}%</span>  */}
-      <TextConfiguration onChangeSize={handleTextChange} onChangeLine={handleLineChange} onChangeSpacing={handleSpacing} onChangeFontFamily={handleFontFamily} onChangeLineLength={handleLineLength} />
-      <article
-        className="blog-post"
-        itemScope
-        ref={postReference}
-        itemType="http://schema.org/Article"
-      >
-        <header className="post-header">
-          <div className="portrait">
-            <GatsbyImage image={image} alt={post.frontmatter.title} />
-          </div>
-          <div className="info read-info">
+      <PageTransition>
+        { isBrowser &&
+          <div className="progress-bar" style={{width: `${scrollPosition / (postReference?.current?.scrollHeight - window.innerHeight) * 100}%`}}></div>
+        }
+        <TextConfiguration onChangeSize={handleTextChange} onChangeLine={handleLineChange} onChangeSpacing={handleSpacing} onChangeFontFamily={handleFontFamily} onChangeLineLength={handleLineLength} />
+        <article
+          className="blog-post"
+          itemScope
+          ref={postReference}
+          itemType="http://schema.org/Article"
+        >
+          <header className="post-header">
+            <div className="portrait">
+              <GatsbyImage image={image} alt={post.frontmatter.title} />
+            </div>
+            <div className="info read-info">
+              <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
+              <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
+              <ul className="tags">
+                {
+                post.frontmatter.genre.map(g => {
+                  return (
+                    <li key={g}>
+                      <Link to={`/genre/${g}`}>{intl.formatMessage({id: g})}</Link>
+                    </li>
+                    )
+                  })
+                }
+                {
+                post.frontmatter.theme.map(t => {
+                  return (
+                    <li key={t}>
+                      <Link to={`/theme/${t}`}>{intl.formatMessage({id: t})}</Link>
+                    </li>
+                    )
+                  })
+                }
+                {
+                post.frontmatter.time_period.map(t => {
+                  return (
+                    <li key={t}>
+                      <Link to={`/time-period/${t}`}>{intl.formatMessage({id: t})}</Link>
+                    </li>
+                    )
+                  })
+                }
+                </ul>
+            
+              <div className="reference">
+                  <ul>
+                    <li>ISBN: {post.frontmatter.isbn}</li>
+                    <li>{intl.formatMessage({id: 'First published'})}: {intl.formatDate(post.frontmatter.release, {
+                            year: "numeric",
+                            month: "long",
+                            day: "2-digit",
+                          })}</li>
+                    <li>{intl.formatMessage({id: 'Publication date'})}: {intl.formatDate(post.frontmatter.publication, {
+                            year: "numeric",
+                            month: "long",
+                            day: "2-digit",
+                          })}</li>
+                  </ul>
+                </div>{/* /reference */}
+                <br />
+                <div className="actions">
+                  { post.frontmatter.download_ebook &&
+                    <a href={`/downloads/${post.frontmatter.download_ebook}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Download Ebook'})}</a>
+                  }
+                  { post.frontmatter.download &&
+                    <a href={`/downloads/${post.frontmatter.download}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Download Guide'})}</a>
+                  }
+                </div>
+              </div>
+          </header>
+          <div className="info">
             <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
             <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
-            <ul className="tags">
-              {
-              post.frontmatter.genre.map(g => {
-                return (
-                  <li key={g}>
-                    <Link to={`/genre/${g}`}>{intl.formatMessage({id: g})}</Link>
-                  </li>
-                  )
-                })
-              }
-              {
-              post.frontmatter.theme.map(t => {
-                return (
-                  <li key={t}>
-                    <Link to={`/theme/${t}`}>{intl.formatMessage({id: t})}</Link>
-                  </li>
-                  )
-                })
-              }
-              {
-              post.frontmatter.time_period.map(t => {
-                return (
-                  <li key={t}>
-                    <Link to={`/time-period/${t}`}>{intl.formatMessage({id: t})}</Link>
-                  </li>
-                  )
-                })
-              }
-              </ul>
-          
-            <div className="reference">
-                <ul>
-                  <li>ISBN: {post.frontmatter.isbn}</li>
-                  <li>{intl.formatMessage({id: 'First published'})}: {intl.formatDate(post.frontmatter.release, {
-                          year: "numeric",
-                          month: "long",
-                          day: "2-digit",
-                        })}</li>
-                  <li>{intl.formatMessage({id: 'Publication date'})}: {intl.formatDate(post.frontmatter.publication, {
-                          year: "numeric",
-                          month: "long",
-                          day: "2-digit",
-                        })}</li>
-                </ul>
-              </div>{/* /reference */}
-              <br />
-              <div className="actions">
-                { post.frontmatter.download_ebook &&
-                  <a href={`/downloads/${post.frontmatter.download_ebook}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Download Ebook'})}</a>
-                }
-                { post.frontmatter.download &&
-                  <a href={`/downloads/${post.frontmatter.download}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Download Guide'})}</a>
-                }
-              </div>
-            </div>
-        </header>
-        <div className="info">
-          <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
-          <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
-        </div>{/* /info */}
-        {/* <div
-          className="table-content"
-          dangerouslySetInnerHTML={{ __html: post.tableOfContents }}
-          itemProp="contentTable"
-        /> */}
-        { post.headings &&
-        <ul className='table-of-contents' id="toc">
-          {post.headings.map(h => {
-            return <li key={h.id} className={`depth-${h.depth}`}><a href={`#${h.id}`}>{h.value}</a></li>
-          })}
-        </ul>
-        }
-        {post.html && 
-          <section
-            dangerouslySetInnerHTML={{ __html: post.html }}
-            className={`blog-post-content ${post.frontmatter.lang}`}
-            style={{fontSize: `${fontSize}px`, lineHeight: `${lineHeight}px`, letterSpacing: `${letterSpacing}px`, fontFamily: `${fontFamily}`, maxWidth: `${lineLength}ch`}}
-            itemProp="articleBody"
-          />
-        }
-        <hr />
-      </article>
-      <div className="back-to-top">
-        <a href='#toc'>&uarr; {intl.formatMessage({id: 'Back to Top'})}</a>
-      </div>
-      {/* <nav className="blog-post-nav">
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav> */}
+          </div>{/* /info */}
+          {/* <div
+            className="table-content"
+            dangerouslySetInnerHTML={{ __html: post.tableOfContents }}
+            itemProp="contentTable"
+          /> */}
+          { post.headings &&
+          <ul className='table-of-contents' id="toc">
+            {post.headings.map(h => {
+              return <li key={h.id} className={`depth-${h.depth}`}><a href={`#${h.id}`}>{h.value}</a></li>
+            })}
+          </ul>
+          }
+          {post.html && 
+            <section
+              dangerouslySetInnerHTML={{ __html: post.html }}
+              className={`blog-post-content ${post.frontmatter.lang}`}
+              style={{fontSize: `${fontSize}px`, lineHeight: `${lineHeight}px`, letterSpacing: `${letterSpacing}px`, fontFamily: `${fontFamily}`, maxWidth: `${lineLength}ch`}}
+              itemProp="articleBody"
+            />
+          }
+          <hr />
+        </article>
+        <div className="back-to-top">
+          <a href='#toc'>&uarr; {intl.formatMessage({id: 'Back to Top'})}</a>
+        </div>
+        {/* <nav className="blog-post-nav">
+          <ul
+            style={{
+              display: `flex`,
+              flexWrap: `wrap`,
+              justifyContent: `space-between`,
+              listStyle: `none`,
+              padding: 0,
+            }}
+          >
+            <li>
+              {previous && (
+                <Link to={previous.fields.slug} rel="prev">
+                  ← {previous.frontmatter.title}
+                </Link>
+              )}
+            </li>
+            <li>
+              {next && (
+                <Link to={next.fields.slug} rel="next">
+                  {next.frontmatter.title} →
+                </Link>
+              )}
+            </li>
+          </ul>
+        </nav> */}
+      </PageTransition>
     </Layout>
   )
 }

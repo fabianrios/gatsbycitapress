@@ -43,7 +43,7 @@ Oh, and here's a great quote from this Wikipedia on
 > salted duck eggs have a briny aroma, a gelatin-like egg white and a
 > firm-textured, round yolk that is bright orange-red in color.
 
-![yellos paper](./yellowwallpaper.png)
+![caffeine neuroscincces](./coffee-brain-caffeine-neuroscincces.webp)
 
 You can also write code blocks here!
 

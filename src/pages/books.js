@@ -4,6 +4,7 @@ import { injectIntl, Link } from "gatsby-plugin-intl"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout/layout"
+import PageTransition from 'gatsby-plugin-page-transitions';
 import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location, intl }) => {
@@ -22,6 +23,7 @@ const BlogIndex = ({ data, location, intl }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <PageTransition>
       <ul className="main-list">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
@@ -54,6 +56,7 @@ const BlogIndex = ({ data, location, intl }) => {
           )
         })}
       </ul>
+      </PageTransition>
     </Layout>
   )
 }
