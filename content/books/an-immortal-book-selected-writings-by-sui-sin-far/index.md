@@ -24,8 +24,8 @@ theme:
   - race
   - politics
 lang: en
-description: '"Cita Press’ An Immortal Book: Selected Writings by Sui Sin Far
-  brings together autobiographical essays and short stories from different
+description: '"Cita Press’ An Immortal Book: Selected Writings by <i>Sui Sin<i>
+  Far brings together autobiographical essays and short stories from different
   periods in Eaton’s career, showcasing her range as a storyteller, thinker, and
   stylist. Revered for her contributions to Asian American and Asian Canadian
   literature, Sui Sin Far is also a key figure in early women’s journalism,
@@ -183,8 +183,6 @@ During the past year I have been engaged in writing my first book, and completed
 To accomplish this work, or to enable me to have the leisure in which to accomplish it, I was obliged to obtain some financial assistance, for one cannot live upon air and water alone, even if one is half-Chinese. Two of my lawyer friends in Montreal kindly contributed toward this end. I hope soon to be in a position to repay them.
 My people in Montreal, my mother in particular, my Chinese friends in Boston and also American friends are looking forward to the advent of “Mrs Spring Fragrance” with, I believe, some enthusiasm. I am myself quite excited over the prospect. Would not any one be who had worked as hard as I have—and waited as long as I have—for a book?
 
-
-
 ### The Persecution and Oppression of Me
 
 *Editor’s note and content warning: This essay was originally published anonymously under the byline “By a Half Chinese.” It contains slurs and racist rhetoric against Black and Chinese people (recounting racism the author encountered in her life).* 
@@ -269,29 +267,21 @@ I cannot, however, blame any one for being jealous of and persecuting me for hav
 
 > “*Love, to Miss Confucius*
 >
->
 > “How cold and irresponsive is this Chinese:
->
 >
 > Of all the Shes
 >
->
 > I’ve pled to—Maid Confucius—
->
 >
 > Thou art most curious,
 >
->
 > That Love quite fails to touch thy wisdom;
 >
->
 > There does not come
->
 >
 > A word responsive to its plea.  Farewell, thou 
 >
 > coldness!
->
 >
 > As bloodless as thy China’s oldness.”
 
@@ -1941,7 +1931,8 @@ The Heart’s Desire
 A Chinese Boy-Girl
 What About the Cat?
 
-Bibliography
+#### Bibliography
+
 Resources that helped inform the selection of texts included in this volume:
 Ammons, Elizabeth, James Doyle, Amy Ling, S.E. Solberg, and Annette White-Parks. “Critical Extracts, Sui Sin Far or Edith Maude Eaton.” In American Women Fiction Writers, 1900-1960, Volume Three, edited by Harold Bloom, 156-177. Philadelphia: Chelsea House Publishers, 1998. https://archive.org/details/americanwomenfic00bloo_2/page/n7/mode/2up\
 Chapman, Mary. “A ‘Revolution in Ink’: Sui Sin Far and Chinese Reform Discourse.” American Quarterly 60, no. 4 (2008): 975–1001. http://www.jstor.org/stable/40068558. 
