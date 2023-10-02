@@ -107,6 +107,18 @@ footer {
 .cita-heading {
   font-size: 44px;
   margin: 0;
+  a {
+    &:after {
+      content: ':';
+      display: inline-block;
+      transition: all 0.3s ease;
+    }
+    &:hover {
+      &:after {
+        transform: translate(5px);
+      }
+    }
+  }
 }
 
 .center {
@@ -134,6 +146,16 @@ footer {
     }
     a {
       font-size: 22px;
+      &:after {
+        content: ':';
+        display: inline-block;
+        transition: all 0.3s ease;
+      }
+      &:hover {
+        &:after {
+          transform: translate(5px);
+        }
+      }
     }
   }
   &.open {

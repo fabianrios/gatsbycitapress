@@ -12,14 +12,14 @@ const Layout = ({ location, children, intl, where }) => {
   let header = (
     <div className={clicked ? "flex main-heading" : "flex main-heading open"}>
       <h1 className="cita-heading">
-        <Link to="/">{clicked ? 'cita': ''}:</Link>
+        <Link to="/">{clicked ? 'cita': ''}</Link>
       </h1>
       <ul className="navigation">
-        <li><Link to="/about"><FormattedMessage id="about" />:</Link></li>
-        <li><Link to="/books"><FormattedMessage id="books" />:</Link></li>
-        <li><Link to="/people"><FormattedMessage id="people" />:</Link></li>
-        <li><Link to="/news"><FormattedMessage id="news" />:</Link></li>
-        <li><Link to="/contact"><FormattedMessage id="contact" />:</Link></li>
+        <li><Link to="/about"><FormattedMessage id="about" /></Link></li>
+        <li><Link to="/books"><FormattedMessage id="books" /></Link></li>
+        <li><Link to="/people"><FormattedMessage id="people" /></Link></li>
+        <li><Link to="/news"><FormattedMessage id="news" /></Link></li>
+        <li><Link to="/contact"><FormattedMessage id="contact" /></Link></li>
       </ul>
       <button className="btn btn-secondary menu-button" onClick={() => setClicked(!clicked)}>Menu</button>
     </div>
