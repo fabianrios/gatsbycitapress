@@ -24,8 +24,8 @@ theme:
   - race
   - politics
 lang: en
-description: '"Cita Press’ An Immortal Book: Selected Writings by Sui Sin Far
-  brings together autobiographical essays and short stories from different
+description: '"Cita Press’ An Immortal Book: Selected Writings by <i>Sui Sin<i>
+  Far brings together autobiographical essays and short stories from different
   periods in Eaton’s career, showcasing her range as a storyteller, thinker, and
   stylist. Revered for her contributions to Asian American and Asian Canadian
   literature, Sui Sin Far is also a key figure in early women’s journalism,
@@ -182,8 +182,6 @@ During the past year I have been engaged in writing my first book, and completed
 
 To accomplish this work, or to enable me to have the leisure in which to accomplish it, I was obliged to obtain some financial assistance, for one cannot live upon air and water alone, even if one is half-Chinese. Two of my lawyer friends in Montreal kindly contributed toward this end. I hope soon to be in a position to repay them.
 My people in Montreal, my mother in particular, my Chinese friends in Boston and also American friends are looking forward to the advent of “Mrs Spring Fragrance” with, I believe, some enthusiasm. I am myself quite excited over the prospect. Would not any one be who had worked as hard as I have—and waited as long as I have—for a book?
-
-
 
 ### The Persecution and Oppression of Me
 
@@ -565,9 +563,8 @@ There once lived a very amiable young man. The reason why I call him an amiable 
 
 One evening, while deeply meditating upon this subject, an apparition appeared upon him, (Apparitions from the unknown world often appear to spiritual, noble-minded young men, even at the present day.) Well, this mysterious being, divining the thoughts which were puzzling the brain of my hero, addressed him in this wise: "Young man, your great and laudable ambition shall be gratified. A woman's happiness is comprised in one little word, and that word is LOVE. Do not all the great writers of the past and present endorse my opinion? Yea, even though her love be unrequited, she is happier for having felt that noble sentiment. Tennyson says: 
 
-> ‘Tis better to have loved and lost 
->
-> Than never to have loved at all. 
+> ‘Tis better to have loved and lost\
+> Than never to have loved at all.
 
 Therefore, young man, if you really wish to make them happy, you must have the power to win their love, which power I am able to give you, saying which the spirit laid its hands upon the young man's head and kept them there while he concluded his speech in the following words: 
 
@@ -620,14 +617,12 @@ Laura burst into tears. “That is the walk,” she sobbed, “Kai Tzu and I so 
 
 “Now, Little Sister,” comforted Mrs. Spring Fragrance, “you really must not grieve like that. Is there not a beautiful American poem written by a noble American named Tennyson, which says:
 
-> “’Tis better to have loved and lost,
->
+> “’Tis better to have loved and lost,\
 > Than never to have loved at all?”
 
 Mrs. Spring Fragrance was unaware that Mr. Spring Fragrance, having returned from the city, tired with the day’s business, had thrown himself down on the bamboo settee on the veranda, and that although his eyes were engaged in scanning the pages of the *Chinese World*, his ears could not help receiving the words which were borne to him through the open window.
 
-> “’Tis better to have loved and lost,
->
+> “’Tis better to have loved and lost,\
 > Than never to have loved at all,”
 
 repeated Mr. Spring Fragrance. Not wishing to hear more of the secret talk of women, he arose and sauntered around the veranda to the other side of the house. Two pigeons circled around his head. He felt in his pocket for a li-chi which he usually carried for their pecking. His fingers touched a little box. It contained a jadestone pendant, which Mrs. Spring Fragrance had particularly admired the last time she was down town. It was the fifth anniversary of Mr. and Mrs. Spring Fragrance’s wedding day.
@@ -643,9 +638,8 @@ A young man came out of the back door of the house at Mr. Spring Fragrance’s l
 “Certainly,” returned the young man with a genial smile. He was a star student at the University of Washington, and had not the slightest doubt that he could explain the meaning of all things in the universe.
 “Well,” said Mr. Spring Fragrance, “it is this:
 
-> `&`nbsp;“’Tis better to have loved and lost,
->
-> <&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>Than never to have loved at all.”
+> “’Tis better to have loved and lost,\
+> Than never to have loved at all.”
 
 “Ah!” responded the young man with an air of profound wisdom. “That, Mr. Spring Fragrance, means that it is a good thing to love anyway—even if we can’t get what we love, or, as the poet tells us, lose what we love. Of course, one needs experience to feel the truth of this teaching.”
 
@@ -1924,7 +1918,8 @@ The Heart’s Desire
 A Chinese Boy-Girl
 What About the Cat?
 
-Bibliography
+#### Bibliography
+
 Resources that helped inform the selection of texts included in this volume:
 Ammons, Elizabeth, James Doyle, Amy Ling, S.E. Solberg, and Annette White-Parks. “Critical Extracts, Sui Sin Far or Edith Maude Eaton.” In American Women Fiction Writers, 1900-1960, Volume Three, edited by Harold Bloom, 156-177. Philadelphia: Chelsea House Publishers, 1998. https://archive.org/details/americanwomenfic00bloo_2/page/n7/mode/2up\
 Chapman, Mary. “A ‘Revolution in Ink’: Sui Sin Far and Chinese Reform Discourse.” American Quarterly 60, no. 4 (2008): 975–1001. http://www.jstor.org/stable/40068558. 
