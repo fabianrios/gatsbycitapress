@@ -340,6 +340,7 @@ footer {
     width: 100%;
     margin: 0 auto;
     @media screen and (min-width: 768px) {
+      width: 30%;
       margin: 0;
       max-width: 380px;
     }
@@ -350,6 +351,7 @@ footer {
     justify-content: space-between;
   }
   .info {
+    width: 70%;
     h1, h2 {
       margin: 0;
     }
@@ -388,6 +390,12 @@ footer {
       align-items: center;
       gap: 20px;
     }
+  }
+}
+
+.blog-post {
+  em {
+    color: $blue;
   }
 }
 
