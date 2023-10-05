@@ -168,7 +168,7 @@ const BookPostReadTemplate = ({
           <hr />
         </article>
         <div className="back-to-top">
-          <a href='#toc'>&uarr; {intl.formatMessage({id: 'Back to Top'})}</a>
+          <a href='#toc'>&uarr; <span>{intl.formatMessage({id: 'Back to Top'})}</span></a>
         </div>
         {/* <nav className="blog-post-nav">
           <ul

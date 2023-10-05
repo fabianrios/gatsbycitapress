@@ -4619,19 +4619,10 @@ there again, I wish you'd ask her to come home, for I want to see her; but
 if you put her in jail, or tell her you'll cut her head off, I'll tell her
 to go right back."
 
+---
 
-<br /><br />
+## XXII. Christmas Festivities.
 
-<hr />
-
-<a name="link2H_4_0026" id="link2H_4_0026"> </a>
-
-<div style="height: 4em;">
-<br /><br /><br /><br />
-</div>
-<h2>
-XXII. Christmas Festivities.
-</h2>
 
 Christmas was approaching. Grandmother brought me materials, and I busied
 myself making some new garments and little playthings for my children.
@@ -6635,7 +6626,7 @@ to the steamboat. Neither were they aware that all the particulars of aunt
 Nancy's death and burial were conveyed to me at the time they occurred. I
 have kept the letter, of which I herewith subjoin a copy:&mdash;
 
-<pre xml:space="preserve">
+<pre>
 Your letter to sister was received a few days ago. I gather from
 it that you are desirous of returning to your native place, among
 your friends and relatives. We were all gratified with the

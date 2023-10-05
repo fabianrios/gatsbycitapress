@@ -351,12 +351,14 @@ footer {
     justify-content: space-between;
   }
   .info {
-    width: 70%;
     h1, h2 {
       margin: 0;
     }
     h1 {
       margin-bottom: 15px;
+    }
+    @media screen and (min-width: 768px) {
+      width: 70%;
     }
   }
   .reference {
@@ -396,6 +398,24 @@ footer {
 .blog-post {
   em {
     color: $blue;
+  }
+  pre {
+    text-wrap: wrap;
+  }
+}
+
+.text-config-btn {
+  background: none;
+  border: 0 solid #000;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  &:hover {
+    svg {
+      fill: $blue;
+    }
   }
 }
 
@@ -560,7 +580,22 @@ span.gif-link {
 }
 
 .back-to-top {
-  margin: 40px 20px;
-  width: 90%;
-  text-align: right;
+  background: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  text-align: center;
+  position: fixed;
+  bottom: 70px;
+  right: 10px;
+  span {
+    display: none;
+  }
+  @media screen and (min-width: 768px) {
+    width: auto;
+    span {
+      display: inline-block;
+      right: 20px;
+    }
+  }
 }
