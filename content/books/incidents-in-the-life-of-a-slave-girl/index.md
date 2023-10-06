@@ -2025,11 +2025,11 @@ mistress; she may have a lover, whose good opinion and peace of mind are
 dear to her heart; or the profligate men who have power over her may be
 exceedingly odious to her. But resistance is hopeless.
 
-<pre xml:space="preserve">
+
 The poor worm
 Shall prove her contest vain. Life's little day
 Shall pass, and she is gone!
-</pre>
+
 
 The slaveholder's sons are, of course, vitiated, even while boys, by the
 unclean influences every where around them. Nor do the master's daughters
@@ -2748,7 +2748,7 @@ Samaritans, and pass by on the other side.
 The slaves generally compose their own songs and hymns; and they do not
 trouble their heads much about the measure. They often sing the following verses:
 
-<pre xml:space="preserve">
+
    Old Satan is one busy ole man;
    He rolls dem blocks all in my way;
    But Jesus is my bosom friend;
@@ -2758,7 +2758,7 @@ trouble their heads much about the measure. They often sing the following verses
    Den how my stam'ring tongue would have sung;
    But I am ole, and now I stand
    A narrow chance for to tread dat heavenly land.
-</pre>
+
 
 I well remember one occasion when I attended a Methodist class meeting. I went with a burdened spirit, and happened to sit next a poor, bereaved
 mother, whose heart was still heavier than mine. The class leader was the
@@ -2791,7 +2791,7 @@ divine will may be sanctified to the good of your poor needy soul!"
 The congregation struck up a hymn, and sung as though they were as free as
 the birds that warbled round us,&mdash;
 
-<pre xml:space="preserve">
+
    Ole Satan thought he had a mighty aim;
    He missed my soul, and caught my sins.
    Cry Amen, cry Amen, cry Amen to God!
@@ -2803,7 +2803,7 @@ the birds that warbled round us,&mdash;
    Ole Satan's church is here below.
    Up to God's free church I hope to go.
    Cry Amen, cry Amen, cry Amen to God!
-</pre>
+
 
 Precious are such moments to the poor slaves. If you were to hear them at
 such times, you might think they were happy. But can that hour of singing
@@ -2989,10 +2989,10 @@ master, and you shall obey me."
 
 No wonder the slaves sing,&mdash;
     
-<pre xml:space="preserve">
+
    Ole Satan's church is here below;
    Up to God's free church I hope to go.
-</pre>
+
 
 ## XIV. Another Link To Life.
 
@@ -4662,13 +4662,13 @@ Christmas donations frequently amount to twenty or thirty dollars. It is
 seldom that any white man or child refuses to give them a trifle. If he
 does, they regale his ears with the following song:&mdash;
 
-<pre xml:space="preserve">
+
 Poor massa, so dey say;
 Down in de heel, so dey say;
 Got no money, so dey say;
 Not one shillin, so dey say;
 God A'mighty bress you, so dey say.
-</pre>
+
 
 Christmas is a day of feasting, both with white and colored people.
 Slaves, who are lucky enough to have a few shillings, are sure to spend
@@ -5027,7 +5027,7 @@ He broke the seal, and I heard him read it. The old villain! He had
 suppressed the letter I wrote to grandmother, and prepared a substitute of
 his own, the purport of which was as follows:&mdash;
 
-<pre xml:space="preserve">
+
 Dear Grandmother: I have long wanted to write to you; but the
 disgraceful manner in which I left you and my children made me
 ashamed to do it. If you knew how much I have suffered since I
@@ -5040,7 +5040,7 @@ New York or Philadelphia, whichever place best suits my uncle's
 convenience. Write as soon as possible to your unhappy daughter,
 
 Linda.
-</pre>
+
 
 "It is very much as I expected it would be," said the old hypocrite,
 rising to go. "You see the foolish girl has repented of her rashness, and
@@ -6675,7 +6675,7 @@ you may choose in our community. You will please answer this as
 soon as possible, and let us know your decision. Sister sends
 much love to you. In the mean time believe me your sincere friend
 and well wisher.
-</pre>
+
 
 This letter was signed by Emily's brother, who was as yet a mere lad. I
 knew, by the style, that it was not written by a person of his age, and
@@ -7164,7 +7164,7 @@ guide and protect him.
 Not long after my return, I received the following letter from Miss Emily
 Flint, now Mrs. Dodge:&mdash;
 
-<pre xml:space="preserve">
+
 In this you will recognize the hand of your friend and mistress.
 Having heard that you had gone with a family to Europe, I have
 waited to hear of your return to write to you. I should have
@@ -7184,16 +7184,16 @@ friends, then come to me in Norfolk, Virginia. Think this over,
 and write as soon as possible, and let me know the conclusion.
 Hoping that your children are well, I remain your friend and
 mistress.
-</pre>
+
 
 Of course I did not write to return thanks for this cordial invitation. I
 felt insulted to be thought stupid enough to be caught by such
 professions.
 
-<pre xml:space="preserve">
+
 "Come up into my parlor," said the spider to the fly;
 "Tis the prettiest little parlor that ever you did spy."
-</pre>
+
 
 It was plain that Dr. Flint's family were apprised of my movements, since
 they knew of my voyage to Europe. I expected to have further trouble from
@@ -7505,7 +7505,7 @@ From time to time I received news from my good old grandmother. She could
 not write; but she employed others to write for her. The following is an
 extract from one of her last letters:&mdash;
 
-<pre xml:space="preserve">
+
 Dear Daughter: I cannot hope to see you again on earth; but I
 pray to God to unite us above, where pain will no more rack this
 feeble body of mine; where sorrow and parting from my children
@@ -7518,7 +7518,7 @@ the Father's kingdom. Love to Ellen and Benjamin. Don't neglect
 him. Tell him for me, to be a good boy. Strive, my child, to
 train them for God's children. May he protect and provide for
 you, is the prayer of your loving old mother.
-</pre>
+
 
 These letters both cheered and saddened me. I was always glad to have
 tidings from the kind, faithful old friend of my unhappy youth; but her
@@ -7820,7 +7820,7 @@ hospitable roof.
 
 ### L.M.C.
 
-<pre xml:space="preserve">
+
 The author of this book is my highly-esteemed friend. If its
 readers knew her as I know her, they could not fail to be deeply
 interested in her story. She was a beloved inmate of our family
@@ -7884,13 +7884,13 @@ laws and customs which make the experiences of the present more
 strange than any fictions of the past.
 
 Amy Post. Rochester, N.Y., Oct. 30th, 1859.
-</pre>
+
     
 The following testimonial is from a man who is now a highly respectable colored citizen of Boston.
 
 ### L.M.C.
 
-<pre xml:space="preserve">
+
    This narrative contains some incidents so extraordinary, that,
    doubtless, many persons, under whose eyes it may chance to fall,
    will be ready to believe that it is colored highly, to serve a
@@ -7905,7 +7905,7 @@ The following testimonial is from a man who is now a highly respectable colored 
    of this interesting narrative.
 
    George W. Lowther.
-</pre>
+
 
 1 (<a href="#linknoteref-1" id="linknote-1">return</a>)[The poison of a snake is a powerful acid, and is counteracted by powerful alkalies, such as potash,
 ammonia, &amp;c. The Indians are accustomed to apply wet ashes, or plunge
