@@ -4,7 +4,6 @@ import { injectIntl, Link } from "gatsby-plugin-intl"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout/layout"
-import PageTransition from 'gatsby-plugin-page-transitions';
 
 const ThemeBookPostTemplate = ({
   data,
@@ -17,39 +16,37 @@ const ThemeBookPostTemplate = ({
 
   return (
     <Layout location={location} title={siteTitle}>
-      <PageTransition>
-        <h1 className="bluu">{intl.formatMessage({id: theme})}</h1>
-        <ul className="main-list">
-          {posts.map(post => {
-            const title = post.frontmatter.title || post.fields.slug
-            const image = getImage(post.frontmatter.square_image);
+      <h1 className="bluu">{intl.formatMessage({id: theme})}</h1>
+      <ul className="main-list">
+        {posts.map(post => {
+          const title = post.frontmatter.title || post.fields.slug
+          const image = getImage(post.frontmatter.square_image);
 
-            return (
-              <li key={post.fields.slug}>
-                <article
-                  className="post-list-item"
-                  itemScope
-                  itemType="http://schema.org/Article"
-                >
-                  <header>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <GatsbyImage image={image} alt={title} />
-                    </Link>
-                  </header>
-                  <section className="d-none">
-                    <p
-                      dangerouslySetInnerHTML={{
-                        __html: post.frontmatter.description || post.excerpt,
-                      }}
-                      itemProp="description"
-                    />
-                  </section>
-                </article>
-              </li>
-            )
-          })}
-        </ul>
-      </PageTransition>
+          return (
+            <li key={post.fields.slug}>
+              <article
+                className="post-list-item"
+                itemScope
+                itemType="http://schema.org/Article"
+              >
+                <header>
+                  <Link to={post.fields.slug} itemProp="url">
+                    <GatsbyImage image={image} alt={title} />
+                  </Link>
+                </header>
+                <section className="d-none">
+                  <p
+                    dangerouslySetInnerHTML={{
+                      __html: post.frontmatter.description || post.excerpt,
+                    }}
+                    itemProp="description"
+                  />
+                </section>
+              </article>
+            </li>
+          )
+        })}
+      </ul>
     </Layout>
   )
 }

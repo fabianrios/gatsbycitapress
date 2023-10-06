@@ -6,7 +6,6 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout/layout"
 import Seo from "../components/seo"
 import BooksList from "../components/bookList/bookList"
-import PageTransition from 'gatsby-plugin-page-transitions';
 
 const BookPostTemplate = ({
   data: { site, markdownRemark: post, allMarkdownRemark },
@@ -19,63 +18,61 @@ const BookPostTemplate = ({
 
   return (
     <Layout location={location} title={siteTitle} where={where}>
-      <PageTransition>
-        <article
-          className={'blog-post'}
-          itemScope
-          itemType="http://schema.org/Article"
-        >
-          <header className="post-header">
-            <div className="portrait">
-              <GatsbyImage image={image} alt={post.frontmatter.title} />
-            </div>
-            <div className="info">
-              <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
-              <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
-              <div className="reference">
-                { post.frontmatter.download_ebook &&
-                  <a href={`/downloads/${post.frontmatter.download_ebook}`} target="_blank" rel="noreferrer" className="btn btn-primary">Download Free eBook</a>
-                }
-                <ul>
-                  <li>ISBN: {post.frontmatter.isbn}</li>
-                  <li>{intl.formatMessage({id: 'First published'})}: {intl.formatDate(post.frontmatter.release, {
-                          year: "numeric",
-                          month: "long",
-                          day: "2-digit",
-                        })}</li>
-                  <li>{intl.formatMessage({id: 'Publication date'})}: {intl.formatDate(post.frontmatter.publication, {
-                          year: "numeric",
-                          month: "long",
-                          day: "2-digit",
-                        })}</li>
-                </ul>
-              </div>{/* /reference */}
-              { post.frontmatter.description &&
-                <div className="description"
-                  dangerouslySetInnerHTML={{ __html: post.frontmatter.description }}
-                  itemProp="foreword"
-                >
-                </div>
+      <article
+        className={'blog-post'}
+        itemScope
+        itemType="http://schema.org/Article"
+      >
+        <header className="post-header">
+          <div className="portrait">
+            <GatsbyImage image={image} alt={post.frontmatter.title} />
+          </div>
+          <div className="info">
+            <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
+            <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
+            <div className="reference">
+              { post.frontmatter.download_ebook &&
+                <a href={`/downloads/${post.frontmatter.download_ebook}`} target="_blank" rel="noreferrer" className="btn btn-primary">Download Free eBook</a>
               }
-              { post.frontmatter.foreword &&
-                <section
-                  className="foreword"
-                  dangerouslySetInnerHTML={{ __html: post.frontmatter.foreword }}
-                  itemProp="foreword"
-                />
-              }
-              <div className="actions">
-                <Link to={`${post.fields.slug}read`} itemProp="url" className={"btn btn-secondary"}>Read Online</Link>
-                <a href={post.frontmatter.download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>Download Guide</a>
+              <ul>
+                <li>ISBN: {post.frontmatter.isbn}</li>
+                <li>{intl.formatMessage({id: 'First published'})}: {intl.formatDate(post.frontmatter.release, {
+                        year: "numeric",
+                        month: "long",
+                        day: "2-digit",
+                      })}</li>
+                <li>{intl.formatMessage({id: 'Publication date'})}: {intl.formatDate(post.frontmatter.publication, {
+                        year: "numeric",
+                        month: "long",
+                        day: "2-digit",
+                      })}</li>
+              </ul>
+            </div>{/* /reference */}
+            { post.frontmatter.description &&
+              <div className="description"
+                dangerouslySetInnerHTML={{ __html: post.frontmatter.description }}
+                itemProp="foreword"
+              >
               </div>
-            </div>{/* /info */}
-          </header>
-          <hr />
-        </article>
-        <div className="related-articles">
-          <BooksList data={allMarkdownRemark.nodes} />
-        </div>
-      </PageTransition>
+            }
+            { post.frontmatter.foreword &&
+              <section
+                className="foreword"
+                dangerouslySetInnerHTML={{ __html: post.frontmatter.foreword }}
+                itemProp="foreword"
+              />
+            }
+            <div className="actions">
+              <Link to={`${post.fields.slug}read`} itemProp="url" className={"btn btn-secondary"}>Read Online</Link>
+              <a href={post.frontmatter.download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>Download Guide</a>
+            </div>
+          </div>{/* /info */}
+        </header>
+        <hr />
+      </article>
+      <div className="related-articles">
+        <BooksList data={allMarkdownRemark.nodes} />
+      </div>
     </Layout>
   )
 }
