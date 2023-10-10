@@ -34,7 +34,7 @@ description: '"Cita Press’ An Immortal Book: Selected Writings by Sui Sin Far
   and politics in ways that still resonate today."'
 foreword: >-
   Foreword: Victoria Namkung is a novelist, journalist, and speaker based in Los
-  Angeles, CA.
+  Angeles, CA. |
 
   Cover: Shuhua Xiong is an interdisciplinary artist from Shanghai, now based in Queens, New York.
 ---
