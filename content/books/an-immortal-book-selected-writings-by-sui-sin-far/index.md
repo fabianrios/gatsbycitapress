@@ -24,8 +24,8 @@ theme:
   - race
   - politics
 lang: en
-description: '"Cita Press’ An Immortal Book: Selected Writings by <i>Sui Sin<i>
-  Far brings together autobiographical essays and short stories from different
+description: '"Cita Press’ An Immortal Book: Selected Writings by Sui Sin Far
+  brings together autobiographical essays and short stories from different
   periods in Eaton’s career, showcasing her range as a storyteller, thinker, and
   stylist. Revered for her contributions to Asian American and Asian Canadian
   literature, Sui Sin Far is also a key figure in early women’s journalism,
@@ -265,8 +265,7 @@ I live alone, and as my means are limited, entertain not at all.  When I go out 
 But some women can never forgive another woman for attracting any notice, either from the high or the low.  Not even when the notice she received is only because of her nationality, which they claim to despise.
 I cannot, however, blame any one for being jealous of and persecuting me for having inspired the following, chosen out of a bright variety of such effusions.  The picture drawn is so true of me and so flattering to my vanity that I give it to the world with my high regards to the author:
 
-> “*Love, to Miss Confucius*\
-> How cold and irresponsive is this Chinese:\
+> “*Love, to Miss Confucius* | How cold and irresponsive is this Chinese:\
 > Of all the Shes\
 > I’ve pled to—Maid Confucius—\
 > Thou art most curious,\
