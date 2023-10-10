@@ -289,7 +289,7 @@ Yet these women, failing to see things as I see them, are consumed with a foolis
 
 So I stand. It is all very amusing, of course; but at the same time, very distressing.
 
-*Originally published in The Independent (August 24, 1911)*
+*<sup>Originally published in The Independent (August 24, 1911)</sup>*
 
 ### Leaves from the Mental Portfolio of an Eurasian
 
