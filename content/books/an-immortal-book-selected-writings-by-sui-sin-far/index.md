@@ -543,7 +543,7 @@ A couple of business men are discussing politics in a corner. It seems to me to 
 
 Now, I have reached my destination and must say good-bye, hoping sometime to have the pleasure of another trip with you. 
 
-**Montreal.			EDITH EATON**
+**Montreal.&nbsp;&nbsp;&nbsp;&nbsp;  			EDITH EATON**
 
 <i>Originally published in</i> Dominion Illustrated<i> (October 1888).</>
 
