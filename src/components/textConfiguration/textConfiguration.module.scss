@@ -3,22 +3,20 @@
 .config-body {
   position: fixed;
   background: white;
-  border-radius: 100%;
   right: 10px;
   bottom: 120px;
   height: 40px;
   padding: 5px;
   display: flex;
   align-items: center;
+  z-index: 9;
   @media screen and (min-width: 768px) {
     display: block;
-    border-radius: 0;
-    bottom: 35%;
+    bottom: 26vh;
     height: auto;
     padding: 20px;
-    border: 1px solid #000;
+    border: 2px solid #000;
     right: 20px;
-    border-radius: 0;
   }
   label {
     margin-bottom: 10px;
@@ -26,7 +24,7 @@
     font-size: 15px;
   }
   .tools {
-    width: 110px;
+    width: auto;
     display: none;
     @media screen and (min-width: 768px) {
       display: block; 
@@ -35,12 +33,35 @@
   &.config-body-open {
     padding: 20px;
     border-radius: 0;
-    border: 1px solid #000;
+    border: 2px solid #000;
     height: auto;
     align-items: flex-end;
+
+    .text-config-btn {
+      border: 0 solid #000 !important;
+    }
     .tools {
       display: block !important;
     }
+  }
+}
+
+
+.text-config-btn {
+  display: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: none;
+  border: 2px solid #000;
+  text-align: center;
+  display: block;
+  width: 44px;
+  line-height: 46px;
+  height: 44px;
+  cursor: pointer;
+  @media screen and (min-width: 768px) {
+    display: none;
   }
 }
 
@@ -48,6 +69,10 @@
   display: flex;
   justify-content: space-between;
   button {
+    border-radius: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
     border: 2px solid black;
     background: none;
     font-size: 20px;

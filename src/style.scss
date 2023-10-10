@@ -17,6 +17,9 @@ h1, h2, h3, h4, p {
 
 a {
   color: $primary-color;
+  &:hover {
+    color: $blue;
+  }
 }
 
 ul {
@@ -101,7 +104,7 @@ footer {
 }
 
 .description {
-  margin: 20px 0;
+  margin: 30px 0;
 }
 
 .cita-heading {
@@ -224,18 +227,19 @@ footer {
   margin: 10px 0;
   @media screen and (min-width: 768px) {
     margin: 20px 0;
-    min-height: 220px;
+    min-height: 150px;
   }
   li {
     display: inline-block;
     margin-right: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     a {
       text-decoration: none;
       background-color: #D9D9D9;
       padding: 5px 10px;
       text-transform: uppercase;
-      font-weight: 200;
+      font-weight: 400;
+      font-size: 15px;
       &:hover {
         background-color: #C0C7FB;
       }
@@ -356,6 +360,7 @@ footer {
     }
     h1 {
       margin-bottom: 15px;
+      line-height: 1.2;
     }
     @media screen and (min-width: 768px) {
       width: 70%;
@@ -381,8 +386,8 @@ footer {
     flex-direction: column;
     gap: 5%;
     color: #8E8E8E;
+    margin-top: 30px;
     a.btn {
-      margin-bottom: 10px;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -396,6 +401,11 @@ footer {
 }
 
 .blog-post {
+  .title-info {
+    @media screen and (min-width: 768px) {
+      margin: 60px 0 30px 0;
+    }
+  }
   em {
     color: $blue;
   }
@@ -404,23 +414,40 @@ footer {
   }
 }
 
-.text-config-btn {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-  background: none;
-  border: 0 solid #000;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px;
-  height: 40px;
-  cursor: pointer;
-  &:hover {
-    svg {
-      fill: $blue;
+.post-list-item {
+  a {
+    .gatsby-image-wrapper {
+      img {
+        transition: all 300ms ease;
+      }
     }
+    &:hover {
+      .gatsby-image-wrapper {
+        img {
+          transform: scale(1.1);
+        }
+      }
+    }
+  }
+}
+
+.blog-post-content {
+  a {
+    /* These are technically the same, but use both */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    -ms-word-break: break-all;
+    /* This is the dangerous one in WebKit, as it breaks things wherever */
+    word-break: break-all;
+    /* Instead use this non-standard one: */
+    word-break: break-word;
+
+    /* Adds a hyphen where the word breaks, if supported (No Blink) */
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
   }
 }
 
@@ -451,6 +478,7 @@ footer {
     color: black;
     &:hover {
       background-color: #F3DD28;
+      color: black;
     }
   }
   &-big {
@@ -588,16 +616,28 @@ span.gif-link {
   background: #fff;
   width: 40px;
   height: 40px;
+  line-height: 40px;
   border-radius: 100%;
   text-align: center;
   position: fixed;
-  bottom: 70px;
-  right: 10px;
+  bottom: 80px;
+  right: 20px;
   span {
     display: none;
   }
+  a.btn {
+    padding: 0;
+    height: 40px;
+    width: 40px;
+  }
   @media screen and (min-width: 768px) {
     width: auto;
+    a.btn {
+      padding: 2px 20px;
+      font-size: 0.9em;
+      height: 40px;
+      width: auto;
+    }
     span {
       display: inline-block;
       right: 20px;

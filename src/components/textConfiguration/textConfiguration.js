@@ -47,7 +47,7 @@ const TextConfiguration = ({ onChangeSize, onChangeLine, onChangeSpacing, onChan
           <button onClick={(e) => fontChange('garamond')} className="garamond">A</button>
         </div>
       </div>
-      <button class="text-config-btn" onClick={() => setText(!text)}>
+      <button class={classes.textConfigBtn} onClick={() => setText(!text)}>
         <img src="/img/cogwheel-outline.svg" width="25px" height="25px" alt="font-config" />
       </button>
     </div>

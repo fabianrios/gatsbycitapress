@@ -139,7 +139,7 @@ const BookPostReadTemplate = ({
               </div>
             </div>
         </header>
-        <div className="info">
+        <div className="title-info">
           <h1 className="bluu" itemProp="headline">{post.frontmatter.title}</h1>
           <h2 className="bluu" itemProp="headline">{post.frontmatter.author}</h2>
         </div>{/* /info */}
@@ -166,7 +166,7 @@ const BookPostReadTemplate = ({
         <hr />
       </article>
       <div className="back-to-top">
-        <a href='#toc'>&uarr; <span>{intl.formatMessage({id: 'Back to Top'})}</span></a>
+        <a className="btn btn-secondary" href='#toc'>&uarr; <span>{intl.formatMessage({id: 'Back to Top'})}</span></a>
       </div>
       {/* <nav className="blog-post-nav">
         <ul
