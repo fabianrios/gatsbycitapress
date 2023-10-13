@@ -221,6 +221,16 @@ footer {
   min-height: 85vh;
   font-size: 1.3em;
   line-height: 1.6em;
+  &.shop {
+    padding: 100px 0;
+    .internal-wrapper {
+      padding: 0;
+    }
+  }
+}
+
+.w-sitelogo {
+  display: none;
 }
 
 .tags {
@@ -398,6 +408,11 @@ footer {
       gap: 20px;
     }
   }
+}
+
+iframe{
+  box-shadow: none !important;
+  min-height: 100vh;
 }
 
 .blog-post {

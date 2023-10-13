@@ -7,6 +7,7 @@ import * as classes from "./layout.module.scss"
 const Layout = ({ location, children, intl, where }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
+  const pathnamestriped = location.pathname.replace(/\//g, '')
   const [clicked, setClicked] = useState(true)
   
   let header = (
@@ -20,6 +21,7 @@ const Layout = ({ location, children, intl, where }) => {
         <li><Link to="/people"><FormattedMessage id="people" /></Link></li>
         <li><Link to="/news"><FormattedMessage id="news" /></Link></li>
         <li><Link to="/contact"><FormattedMessage id="contact" /></Link></li>
+        <li><Link to="/shop"><FormattedMessage id="shop" /></Link></li>
       </ul>
       <button className="btn btn-secondary menu-button" onClick={() => setClicked(!clicked)}>Menu</button>
     </div>
@@ -28,7 +30,7 @@ const Layout = ({ location, children, intl, where }) => {
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className={`${classes.globalHeader} bluu`}>{header}</header>
-      <main className="main-wrapper">
+      <main className={`main-wrapper ${pathnamestriped}`}>
         <div className='internal-wrapper'>{children}</div>
       </main>
       <footer>
