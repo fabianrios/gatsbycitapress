@@ -39,7 +39,41 @@ foreword: >-
 
   <p>Cover: Shuhua Xiong is an interdisciplinary artist from Shanghai, now based in Queens, New York.</p>
 ---
-  <section id="foreword">
+     <h1>An Immortal Book: Selected Writings by Sui Sin Far</h1>
+        <!-- Name of author-->
+    <h2>Sui Sin Far (Edith Maude Eaton)</h2>
+  </section>
+  <!-- Table of Content Starts Here-->
+  <OL TYPE=”I”><section id = "toc">
+  
+    <li><a href="#foreword">FOREWORD</a></li>
+     <!-- If book has chapters use the following example to link to chapters. Check that the type of tag corresponds to the one used by Project Gutemberg. If the book has no chapters, erase the following lines until the next ul tag-->
+      <li><a href="#Essays">ESSAYS</a></li>
+      <ul class="toc"><section id = "toc">
+      <li><a href="#chapter1">Sui Sin Far, the Half Chinese Writer, Tells of Her Career</a></li>
+      <li><a href="#chapter2">The Persecution and Oppression of Me</a></li>
+      <li><a href="#chapter3">Leaves from the Mental Portfolio of an Eurasian</a></li>
+      <li><a href="#chapter4">A Trip in a Horse Car</a></li></ul>
+      <li><a href="#Fiction">STORIES</a></li>
+      <ul><li><a href="#chapter5">Misunderstood, or the Story of a Young Man</a></li>
+      <li><a href="#chapter6">Mrs. Spring Fragrance</a></li>
+      <li><a href="#chapter7">The Inferior Woman</a></li>
+      <li><a href="#chapter8">In the Land of the Free</a></li>
+       <li><a href="#chapter9">The Americanizing of Pau Tsu</a></li>
+         <li><a href="#chapter10">The Chinese Lily</a></li>
+         <li><a href="#chapter11">The Three Souls of Ah So Nan</a></li>
+         <li><a href="#chapter12">"Its Wavering Image"</a></li>
+         <li><a href="#chapter13">The Smuggling of Tie Co</a></li>
+         <li><a href="#chapter14">Tian Shan's Kindred Spirit</a></li>
+         <li><a href="#chapter15">Woo-Ma and I</a></li></ul>
+      <li><a href="#Children">"TALES OF CHINESE CHILDREN"</a></li>
+      <ul><li><a href="#chapter16">The Heart's Desire</a></li>
+      <li><a href="#chapter17">A Chinese Boy-Girl</a></li>
+      <li><a href="#chapter18">What About the Cat?</a></li></ul>
+      <li><a href="#Acknowledgements">ACKNOWLEDGEMENTS</a></li><li>
+        <a href="#Text Sources">TEXT SOURCES</a></li>
+        <li><a href="#Bibliography">BIBLIOGRAPHY</a></li>
+</ol> <section id="foreword">
     <h2> FOREWORD </h2>
     <h3>By Victoria Namkung </h3>
     <p>
