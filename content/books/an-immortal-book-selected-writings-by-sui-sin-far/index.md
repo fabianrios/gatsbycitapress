@@ -974,960 +974,1023 @@ There was a slight gleam of amusement in the young man’s eyes as he answered: 
 <p>But the young person shook her head.</p>
 <p>“No,” she repeated. “I will not be your wife unless your mother welcomes me with pride and with pleasure.”</p>
 <p>The night air was still sweet with the perfume of roses as Will Carman passed out of the little cottage door; but he drew in no deep breath of inspiration. His impetuous Irish heart was too heavy with disappointment. It might have been a little lighter, however, had he known that the eyes of the young person who gazed after him were misty with a love and yearning beyond expression.</p>
-III
-Will Carman has failed to snare his bird,” said Mr. Spring Fragrance to Mrs. Spring Fragrance.
-Their neighbor’s son had just passed their veranda without turning to bestow upon them his usual cheerful greeting.
-“It is too bad,” sighed Mrs. Spring Fragrance sympathetically. She clasped her hands together and exclaimed:
-“Ah, these Americans! These mysterious, inscrutable, incomprehensible Americans! Had I the divine right of learning I would put them into an immortal book!”
-“The divine right of learning,” echoed Mr. Spring Fragrance, “Humph!”
-Mrs. Spring Fragrance looked up into her husband’s face in wonderment.
-“Is not the authority of the scholar, the student, almost divine?” she queried.
-“So ’tis said,” responded he. “So it seems.”
-The evening before, Mr. Spring Fragrance, together with several Seattle and San Francisco merchants, had given a dinner to a number of young students who had just arrived from China. The morning papers had devoted several columns to laudation of the students, prophecies as to their future, and the great influence which they would exercise over the destiny of their nation; but no comment whatever was made on the givers of the feast, and Mr. Spring Fragrance was therefore feeling somewhat unappreciated. Were not he and his brother merchants worthy of a little attention? If the students had come to learn things in America, they, the merchants, had accomplished things. There were those amongst them who had been instrumental in bringing several of the students to America. One of the boys was Mr. Spring Fragrance’s own young brother, for whose maintenance and education he had himself sent the wherewithal every year for many years. Mr. Spring Fragrance, though well read in the Chinese classics, was not himself a scholar. As a boy he had come to the shores of America, worked his way up, and by dint of painstaking study after working hours acquired the Western language and Western business ideas. He had made money, saved money, and sent money home. The years had flown, his business had grown. Through his efforts trade between his native town and the port city in which he lived had greatly increased. A school in Canton was being builded in part with funds furnished by him, and a railway syndicate, for the purpose of constructing a line of railway from the big city of Canton to his own native town, was under process of formation, with the name of Spring Fragrance at its head.
-No wonder then that Mr. Spring Fragrance muttered “Humph!” when Mrs. Spring Fragrance dilated upon the “divine right of learning,” and that he should feel irritated and humiliated, when, after explaining to her his grievances, she should quote in the words of Confutze: “Be not concerned that men do not know you; be only concerned that you do not know them.” And he had expected wifely sympathy.
-He was about to leave the room in a somewhat chilled state of mind when she surprised him again by pattering across to him and following up a low curtsy with these words:
-“I bow to you as the grass bends to the wind. Allow me to detain you for just one moment.”
-Mr. Spring Fragrance eyed her for a moment with suspicion.
-“As I have told you, O Great Man,” continued Mrs. Spring Fragrance, “I desire to write an immortal book, and now that I have learned from you that it is not necessary to acquire the ‘divine right of learning’ in order to accomplish things, I will begin the work without delay. My first subject will be ‘The Inferior Woman of America.’ Please advise me how I shall best inform myself concerning her.”
-Mr. Spring Fragrance, perceiving that his wife was now serious, and being easily mollified, sat himself down and rubbed his head. After thinking for a few moments he replied:
-“It is the way in America, when a person is to be illustrated, for the illustrator to interview the person’s friends. Perhaps, my dear, you had better confer with the Superior Woman.”
-“Surely,” cried Mrs. Spring Fragrance, “no sage was ever so wise as my Great Man.”
-“But I lack the ‘divine right of learning,’” dryly deplored Mr. Spring Fragrance.
-“I am happy to hear it,” answered Mrs. Spring Fragrance. “If you were a scholar you would have no time to read American poetry and American newspapers.”
-Mr. Spring Fragrance laughed heartily.
-“You are no Chinese woman,” he teased. “You are an American.”
-“Please bring me my parasol and my folding fan,” said Mrs. Spring Fragrance. “I am going out for a walk.”
-And Mr. Spring Fragrance obeyed her.
-IV
-This is from Mary Carman, who is in Portland,” said the mother of the Superior Woman, looking up from the reading of a letter, as her daughter came in from the garden.
-“Indeed,” carelessly responded Miss Evebrook.
-“Yes, it’s chiefly about Will.”
-“Oh, is it? Well, read it then, dear. I’m interested in Will Carman, because of Alice Winthrop.”
-“I had hoped, Ethel, at one time that you would have been interested in him for his own sake. However, this is what she writes:
-“I came here chiefly to rid myself of a melancholy mood which has taken possession of me lately, and also because I cannot bear to see my boy so changed towards me, owing to his infatuation for Alice Winthrop. It is incomprehensible to me how a son of mine can find any pleasure whatever in the society of such a girl. I have traced her history, and find that she is not only uneducated in the ordinary sense, but her environment, from childhood up, has been the sordid and demoralizing one of extreme poverty and ignorance. This girl, Alice, entered a law office at the age of fourteen, supposedly to do the work of an office boy. Now, after seven years in business, through the friendship and influence of men far above her socially, she holds the position of private secretary to the most influential man in Washington—a position which by rights belongs only to a well-educated young woman of good family. Many such applied. I myself sought to have Jane Walker appointed. Is it not disheartening to our woman’s cause to be compelled to realize that girls such as this one can win men over to be their friends and lovers, when there are so many splendid young women who have been carefully trained to be companions and comrades of educated men?”
-“Pardon me, mother,” interrupted Miss Evebrook, “but I have heard enough. Mrs. Carman is your friend and a well-meaning woman sometimes; but a woman suffragist, in the true sense, she certainly is not. Mark my words: If any young man had accomplished for himself what Alice Winthrop has accomplished, Mrs. Carman could not have said enough in his praise. It is women such as Alice Winthrop who, in spite of every drawback, have raised themselves to the level of those who have had every advantage, who are the pride and glory of America. There are thousands of them, all over this land: women who have been of service to others all their years and who have graduated from the university of life with honor. Women such as I, who are called the Superior Women of America, are after all nothing but schoolgirls in comparison.”
-Mrs. Evebrook eyed her daughter mutinously. “I don’t see why you should feel like that,” said she. “Alice is a dear bright child, and it is prejudice engendered by Mary Carman’s disappointment about you and Will which is the real cause of poor Mary’s bitterness towards her; but to my mind, Alice does not compare with my daughter. She would be frightened to death if she had to make a speech.”
-“You foolish mother!” rallied Miss Evebrook. “To stand upon a platform at woman suffrage meetings and exploit myself is certainly a great recompense to you and father for all the sacrifices you have made in my behalf. But since it pleases you, I do it with pleasure even on the nights when my beau should ‘come a courting.’”
-“There is many a one who would like to come, Ethel. You’re the handsomest girl in this Western town—and you know it.”
-“Stop that, mother. You know very well I have set my mind upon having ten years’ freedom; ten years in which to love, live, suffer, see the world, and learn about men (not schoolboys) before I choose one.”
-“Alice Winthrop is the same age as you are, and looks like a child beside you.”
-“Physically, maybe; but her heart and mind are better developed. She has been out in the world all her life, I only a few months.”
-“Your lecture last week on ‘The Opposite Sex’ was splendid.”
-“Of course. I have studied one hundred books on the subject and attended fifty lectures. All that was necessary was to repeat in an original manner what was not by any means original.”
-Miss Evebrook went over to a desk and took a paper therefrom.
-“This,” said she, “is what Alice has written me in reply to my note suggesting that she attend next week the suffrage meeting, and give some of the experiences of her business career. The object I had in view when I requested the relation of her experiences was to use them as illustrations of the suppression and oppression of women by men. Strange to say, Alice and I have never conversed on this particular subject. If we had I would not have made this request of her, nor written her as I did. Listen:
-“I should dearly love to please you, but I am afraid that my experiences, if related, would not help the cause. It may be, as you say, that men prevent women from rising to their level; but if there are such men, I have not met them. Ever since, when a little girl, I walked into a law office and asked for work, and the senior member kindly looked me over through his spectacles and inquired if I thought I could learn to index books, and the junior member glanced under my hat and said: “This is a pretty little girl and we must be pretty to her,” I have loved and respected the men amongst whom I have worked and wherever I have worked. I may have been exceptionally fortunate, but I know this: the men for whom I have worked and amongst whom I have spent my life, whether they have been business or professional men, students or great lawyers and politicians, all alike have upheld me, inspired me, advised me, taught me, given me a broad outlook upon life for a woman; interested me in themselves and in their work. As to corrupting my mind and my morals, as you say so many men do, when they have young and innocent girls to deal with: As a woman I look back over my years spent amongst business and professional men, and see myself, as I was at first, an impressionable, ignorant little girl, born a Bohemian, easy to lead and easy to win, but borne aloft and morally supported by the goodness of my brother men, the men amongst whom I worked. That is why, dear Ethel, you will have to forgive me, because I cannot carry out your design, and help your work, as otherwise I would like to do.”
-“That, mother,” declared Miss Evebrook, “answers all Mrs. Carman’s insinuations, and should make her ashamed of herself. Can any one know the sentiments which little Alice entertains toward men, and wonder at her winning out as she has?”
-Mrs. Evebrook was about to make reply, when her glance happening to stray out of the window, she noticed a pink parasol.
-“Mrs. Spring Fragrance!” she ejaculated, while her daughter went to the door and invited in the owner of the pink parasol, who was seated in a veranda rocker calmly writing in a note-book.
-“I’m so sorry that we did not hear your ring, Mrs. Spring Fragrance,” said she.
-“There is no necessity for you to sorrow,” replied the little Chinese woman. “I did not expect you to hear a ring which rang not. I failed to pull the bell.”
-“You forgot, I suppose,” suggested Ethel Evebrook.
-“Is it wise to tell secrets?” ingenuously inquired Mrs. Spring Fragrance.
-“Yes, to your friends. Oh, Mrs. Spring Fragrance, you are so refreshing.”
-“I have pleasure, then, in confiding to you. I have an ambition to accomplish an immortal book about the Americans, and the conversation I heard through the window was so interesting to me that I thought I would take some of it down for my book before I intruded myself. With your kind permission I will translate for your correction.”
-“I shall be delighted—honored,” said Miss Evebrook, her cheeks glowing and her laugh rippling, “if you will promise me, that you will also translate for our friend, Mrs. Carman.”
-“Ah, yes, poor Mrs. Carman! My heart is so sad for her,” murmured the little Chinese woman.
-V
-When the mother of Will Carman returned from Portland, the first person upon whom she called was Mrs. Spring Fragrance. Having lived in China while her late husband was in the customs service there, Mrs. Carman’s prejudices did not extend to the Chinese, and ever since the Spring Fragrances had become the occupants of the villa beside the Carmans, there had been social good feeling between the American and Chinese families. Indeed, Mrs. Carman was wont to declare that amongst all her acquaintances there was not one more congenial and interesting than little Mrs. Spring Fragrance. So after she had sipped a cup of delicious tea, tasted some piquant candied limes, and told Mrs. Spring Fragrance all about her visit to the Oregon city and the Chinese people she had met there, she reverted to a personal trouble confided to Mrs. Spring Fragrance some months before and dwelt upon it for more than half an hour. Then she checked herself and gazed at Mrs. Spring Fragrance in surprise. Hitherto she had found the little Chinese woman sympathetic and consoling. Chinese ideas of filial duty chimed in with her own. But today Mrs. Spring Fragrance seemed strangely uninterested and unresponsive.
-“Perhaps,” gently suggested the American woman, who was nothing if not sensitive, “you have some trouble yourself. If so, my dear, tell me all about it.”
-“Oh, no!” answered Mrs. Spring Fragrance brightly. “I have no troubles to tell; but all the while I am thinking about the book I am writing.”
-“A book!”
-“Yes, a book about Americans, an immortal book.”
-“My dear Mrs. Spring Fragrance!” exclaimed her visitor in amazement.
-“The American woman writes books about the Chinese. Why not a Chinese woman write books about the Americans?”
-“I see what you mean. Why, yes, of course. What an original idea!”
-“Yes, I think that is what it is. My book I shall take from the words of others.”
-“What do you mean, my dear?”
-“I listen to what is said, I apprehend, I write it down. Let me illustrate by the ‘Inferior Woman’ subject. The Inferior Woman is most interesting to me because you have told me that your son is in much love with her. My husband advised me to learn about the Inferior Woman from the Superior Woman. I go to see the Superior Woman. I sit on the veranda of the Superior Woman’s house. I listen to her converse with her mother about the Inferior Woman. With the speed of flames I write down all I hear. When I enter the house the Superior Woman advises me that what I write is correct. May I read to you?”
-“I shall be pleased to hear what you have written; but I do not think you were wise in your choice of subject,” returned Mrs. Carman somewhat primly.
-“I am sorry I am not wise. Perhaps I had better not read?” said Mrs. Spring Fragrance with humility.
-“Yes, yes, do, please.”
-There was eagerness in Mrs. Carman’s voice. What could Ethel Evebrook have to say about that girl!
-When Mrs. Spring Fragrance had finished reading, she looked up into the face of her American friend—a face in which there was nothing now but tenderness.
-“Mrs. Mary Carman,” said she, “you are so good as to admire my husband because he is what the Americans call ‘a man who has made himself.’ Why then do you not admire the Inferior Woman who is a woman who has made herself?”
-“I think I do,” said Mrs. Carman slowly.
-VI
-It was an evening that invited to reverie. The far stretches of the sea were gray with mist, and the city itself, lying around the sweep of the Bay, seemed dusky and distant. From her cottage window Alice Winthrop looked silently at the open world around her. It seemed a long time since she had heard Will Carman’s whistle. She wondered if he were still angry with her. She was sorry that he had left her in anger, and yet not sorry. If she had not made him believe that she was proud and selfish, the parting would have been much harder; and perhaps had he known the truth and realized that it was for his sake, and not for her own, that she was sending him away from her, he might have refused to leave her at all. His was such an imperious nature. And then they would have married—right away. Alice caught her breath a little, and then she sighed. But they would not have been happy. No, that could not have been possible if his mother did not like her. When a gulf of prejudice lies between the wife and mother of a man, that man’s life is not what it should be. And even supposing she and Will could have lost themselves in each other, and been able to imagine themselves perfectly satisfied with life together, would it have been right? The question of right and wrong was a very real one to Alice Winthrop. She put herself in the place of the mother of her lover—a lonely elderly woman, a widow with an only son, upon whom she had expended all her love and care ever since, in her early youth, she had been bereaved of his father. What anguish of heart would be hers if that son deserted her for one whom she, his mother, deemed unworthy! Prejudices are prejudices. They are like diseases.
-The poor, pale, elderly woman, who cherished bitter and resentful feelings towards the girl whom her son loved, was more an object of pity than condemnation to the girl herself.
-She lifted her eyes to the undulating line of hills beyond the water. From behind them came a silver light. “Yes,” said she aloud to herself—and, though she knew it not, there was an infinite pathos in such philosophy from one so young—“if life cannot be bright and beautiful for me, at least it can be peaceful and contented.”
-The light behind the hills died away; darkness crept over the sea. Alice withdrew from the window and went and knelt before the open fire in her sitting-room. Her cottage companion, the young woman who rented the place with her, had not yet returned from town.
-Alice did not turn on the light. She was seeing pictures in the fire, and in every picture was the same face and form—the face and form of a fine, handsome young man with love and hope in his eyes. No, not always love and hope. In the last picture of all there was an expression which she wished she could forget. And yet she would remember—ever—always—and with it, these words: “Is it nothing to you—nothing—to tell a man that you love him, and then to bid him go?”
-Yes, but when she had told him she loved him she had not dreamed that her love for him and his for her would estrange him from one who, before ever she had come to this world, had pillowed his head on her breast.
-Suddenly this girl, so practical, so humorous, so clever in every-day life, covered her face with her hands and sobbed like a child. Two roads of life had lain before her and she had chosen the hardest.
-The warning bell of an automobile passing the cross-roads checked her tears. That reminded her that Nellie Blake would soon be home. She turned on the light and went to the bedroom and bathed her eyes. Nellie must have forgotten her key. There she was knocking.
-The chill sea air was sweet with the scent of roses as Mary Carman stood upon the threshold of the little cottage, and beheld in the illumination from within the young girl whom she had called “the Inferior Woman.”
-“I have come, Miss Winthrop,” said she, “to beg of you to return home with me. Will, reckless boy, met with a slight accident while out shooting, so could not come for you himself. He has told me that he loves you, and if you love him, I want to arrange for the prettiest wedding of the season. Come, dear!”
-“I am so glad,” said Mrs. Spring Fragrance, “that Will Carman’s bird is in his nest and his felicity is assured.”
-“What about the Superior Woman?” asked Mr. Spring Fragrance.
-“Ah, the Superior Woman! Radiantly beautiful, and gifted with the divine right of learning! I love well the Inferior Woman; but, O Great Man, when we have a daughter, may Heaven ordain that she walk in the groove of the Superior Woman.”
-From Mrs. Spring Fragrance (1912); originally published in Hampton’s 24 (May 1910). See the alternate ending from the original publication in the Cita reader.
-In the Land of the Free
-Editor’s note: This story originally appeared in weekly New York magazine The Independent. It included this note from the author: “Our readers will recall the autobiography of Sui Sin Far in our issue of January 21, entitled ‘Leaves from the Mental Portfolio of an Eurasian.’  Tho the following article is cast in the form of fiction we are obliged to confess it is the fiction that is often less strange and cruel than the truth.—Eaton.”]
 
-I
-See, Little One—the hills in the morning sun. There is thy home for years to come. It is very beautiful and thou wilt be very happy there.”
-The Little One looked up into his mother’s face in perfect faith. He was engaged in the pleasant occupation of sucking a sweetmeat; but that did not prevent him from gurgling responsively.
-“Yes, my olive bud; there is where thy father is making a fortune for thee. Thy father! Oh, wilt thou not be glad to behold his dear face. ’Twas for thee I left him.”
-The Little One ducked his chin sympathetically against his mother’s knee. She lifted him on to her lap. He was two years old, a round, dimple-cheeked boy with bright brown eyes and a sturdy little frame.
+<h3>III</h3>
+
+<p>"Will Carman has failed to snare his bird,” said Mr. Spring Fragrance to Mrs. Spring Fragrance.</p>
+<p>Their neighbor’s son had just passed their veranda without turning to bestow upon them his usual cheerful greeting.</p>
+<p>“It is too bad,” sighed Mrs. Spring Fragrance sympathetically. She clasped her hands together and exclaimed:</p>
+<p>“Ah, these Americans! These mysterious, inscrutable, incomprehensible Americans! Had I the divine right of learning I would put them into an immortal book!”</p>
+<p>“The divine right of learning,” echoed Mr. Spring Fragrance, “Humph!”
+Mrs. Spring Fragrance looked up into her husband’s face in wonderment.</p>
+<p>“Is not the authority of the scholar, the student, almost divine?” she queried.</p>
+<p>“So ’tis said,” responded he. “So it seems.”</p>
+<p>The evening before, Mr. Spring Fragrance, together with several Seattle and San Francisco merchants, had given a dinner to a number of young students who had just arrived from China. The morning papers had devoted several columns to laudation of the students, prophecies as to their future, and the great influence which they would exercise over the destiny of their nation; but no comment whatever was made on the givers of the feast, and Mr. Spring Fragrance was therefore feeling somewhat unappreciated. Were not he and his brother merchants worthy of a little attention? If the students had come to learn things in America, they, the merchants, had accomplished things. There were those amongst them who had been instrumental in bringing several of the students to America. One of the boys was Mr. Spring Fragrance’s own young brother, for whose maintenance and education he had himself sent the wherewithal every year for many years. Mr. Spring Fragrance, though well read in the Chinese classics, was not himself a scholar. As a boy he had come to the shores of America, worked his way up, and by dint of painstaking study after working hours acquired the Western language and Western business ideas. He had made money, saved money, and sent money home. The years had flown, his business had grown. Through his efforts trade between his native town and the port city in which he lived had greatly increased. A school in Canton was being builded in part with funds furnished by him, and a railway syndicate, for the purpose of constructing a line of railway from the big city of Canton to his own native town, was under process of formation, with the name of Spring Fragrance at its head.</p>
+<p>No wonder then that Mr. Spring Fragrance muttered “Humph!” when Mrs. Spring Fragrance dilated upon the “divine right of learning,” and that he should feel irritated and humiliated, when, after explaining to her his grievances, she should quote in the words of Confutze: “Be not concerned that men do not know you; be only concerned that you do not know them.” And he had expected wifely sympathy.</p>
+<p>He was about to leave the room in a somewhat chilled state of mind when she surprised him again by pattering across to him and following up a low curtsy with these words:</p>
+<p>“I bow to you as the grass bends to the wind. Allow me to detain you for just one moment.”</p>
+<p>Mr. Spring Fragrance eyed her for a moment with suspicion.</p>
+<p>“As I have told you, O Great Man,” continued Mrs. Spring Fragrance, “I desire to write an immortal book, and now that I have learned from you that it is not necessary to acquire the ‘divine right of learning’ in order to accomplish things, I will begin the work without delay. My first subject will be ‘The Inferior Woman of America.’ Please advise me how I shall best inform myself concerning her.”</p>
+<p>Mr. Spring Fragrance, perceiving that his wife was now serious, and being easily mollified, sat himself down and rubbed his head. After thinking for a few moments he replied:</p>
+<p>“It is the way in America, when a person is to be illustrated, for the illustrator to interview the person’s friends. Perhaps, my dear, you had better confer with the Superior Woman.”</p>
+<p>“Surely,” cried Mrs. Spring Fragrance, “no sage was ever so wise as my Great Man.”</p>
+<p>“But I lack the ‘divine right of learning,’” dryly deplored Mr. Spring Fragrance.</p>
+<p>“I am happy to hear it,” answered Mrs. Spring Fragrance. “If you were a scholar you would have no time to read American poetry and American newspapers.”</p>
+<p>Mr. Spring Fragrance laughed heartily.</p>
+<p>“You are no Chinese woman,” he teased. “You are an American.”</p>
+<p>“Please bring me my parasol and my folding fan,” said Mrs. Spring Fragrance. “I am going out for a walk.”</p>
+<p>And Mr. Spring Fragrance obeyed her.</p>
+
+<h3>IV</h3>
+<p>"This is from Mary Carman, who is in Portland,” said the mother of the Superior Woman, looking up from the reading of a letter, as her daughter came in from the garden.</p>
+<p>“Indeed,” carelessly responded Miss Evebrook.</p>
+<p>“Yes, it’s chiefly about Will.”</p>
+<p>“Oh, is it? Well, read it then, dear. I’m interested in Will Carman, because of Alice Winthrop.”</p>
+<p>“I had hoped, Ethel, at one time that you would have been interested in him for his own sake. However, this is what she writes:</p>
+<p>“I came here chiefly to rid myself of a melancholy mood which has taken possession of me lately, and also because I cannot bear to see my boy so changed towards me, owing to his infatuation for Alice Winthrop. It is incomprehensible to me how a son of mine can find any pleasure whatever in the society of such a girl. I have traced her history, and find that she is not only uneducated in the ordinary sense, but her environment, from childhood up, has been the sordid and demoralizing one of extreme poverty and ignorance. This girl, Alice, entered a law office at the age of fourteen, supposedly to do the work of an office boy. Now, after seven years in business, through the friendship and influence of men far above her socially, she holds the position of private secretary to the most influential man in Washington—a position which by rights belongs only to a well-educated young woman of good family. Many such applied. I myself sought to have Jane Walker appointed. Is it not disheartening to our woman’s cause to be compelled to realize that girls such as this one can win men over to be their friends and lovers, when there are so many splendid young women who have been carefully trained to be companions and comrades of educated men?”</p>
+<p>“Pardon me, mother,” interrupted Miss Evebrook, “but I have heard enough. Mrs. Carman is your friend and a well-meaning woman sometimes; but a woman suffragist, in the true sense, she certainly is not. Mark my words: If any young man had accomplished for himself what Alice Winthrop has accomplished, Mrs. Carman could not have said enough in his praise. It is women such as Alice Winthrop who, in spite of every drawback, have raised themselves to the level of those who have had every advantage, who are the pride and glory of America. There are thousands of them, all over this land: women who have been of service to others all their years and who have graduated from the university of life with honor. Women such as I, who are called the Superior Women of America, are after all nothing but schoolgirls in comparison.”</p>
+<p>Mrs. Evebrook eyed her daughter mutinously. “I don’t see why you should feel like that,” said she. “Alice is a dear bright child, and it is prejudice engendered by Mary Carman’s disappointment about you and Will which is the real cause of poor Mary’s bitterness towards her; but to my mind, Alice does not compare with my daughter. She would be frightened to death if she had to make a speech.”</p>
+<p>“You foolish mother!” rallied Miss Evebrook. “To stand upon a platform at woman suffrage meetings and exploit myself is certainly a great recompense to you and father for all the sacrifices you have made in my behalf. But since it pleases you, I do it with pleasure even on the nights when my beau should ‘come a courting.’”</p>
+<p>“There is many a one who would like to come, Ethel. You’re the handsomest girl in this Western town—and you know it.”</p>
+"“Stop that, mother. You know very well I have set my mind upon having ten years’ freedom; ten years in which to love, live, suffer, see the world, and learn about men (not schoolboys) before I choose one.”</p>
+<p>“Alice Winthrop is the same age as you are, and looks like a child beside you.”</p>
+<p>“Physically, maybe; but her heart and mind are better developed. She has been out in the world all her life, I only a few months.”</p>
+<p>“Your lecture last week on ‘The Opposite Sex’ was splendid.”</p>
+<p>“Of course. I have studied one hundred books on the subject and attended fifty lectures. All that was necessary was to repeat in an original manner what was not by any means original.”</p>
+<p>Miss Evebrook went over to a desk and took a paper therefrom.</p>
+<p>“This,” said she, “is what Alice has written me in reply to my note suggesting that she attend next week the suffrage meeting, and give some of the experiences of her business career. The object I had in view when I requested the relation of her experiences was to use them as illustrations of the suppression and oppression of women by men. Strange to say, Alice and I have never conversed on this particular subject. If we had I would not have made this request of her, nor written her as I did. Listen:</p>
+<div class="quote"><p>“I should dearly love to please you, but I am afraid that my experiences, if related, would not help the cause. It may be, as you say, that men prevent women from rising to their level; but if there are such men, I have not met them. Ever since, when a little girl, I walked into a law office and asked for work, and the senior member kindly looked me over through his spectacles and inquired if I thought I could learn to index books, and the junior member glanced under my hat and said: “This is a pretty little girl and we must be pretty to her,” I have loved and respected the men amongst whom I have worked and wherever I have worked. I may have been exceptionally fortunate, but I know this: the men for whom I have worked and amongst whom I have spent my life, whether they have been business or professional men, students or great lawyers and politicians, all alike have upheld me, inspired me, advised me, taught me, given me a broad outlook upon life for a woman; interested me in themselves and in their work. As to corrupting my mind and my morals, as you say so many men do, when they have young and innocent girls to deal with: As a woman I look back over my years spent amongst business and professional men, and see myself, as I was at first, an impressionable, ignorant little girl, born a Bohemian, easy to lead and easy to win, but borne aloft and morally supported by the goodness of my brother men, the men amongst whom I worked. That is why, dear Ethel, you will have to forgive me, because I cannot carry out your design, and help your work, as otherwise I would like to do.”</p></div>
+<p>“That, mother,” declared Miss Evebrook, “answers all Mrs. Carman’s insinuations, and should make her ashamed of herself. Can any one know the sentiments which little Alice entertains toward men, and wonder at her winning out as she has?”</p>
+<p>Mrs. Evebrook was about to make reply, when her glance happening to stray out of the window, she noticed a pink parasol.</p>
+<p>“Mrs. Spring Fragrance!” she ejaculated, while her daughter went to the door and invited in the owner of the pink parasol, who was seated in a veranda rocker calmly writing in a note-book.</p>
+<p>“I’m so sorry that we did not hear your ring, Mrs. Spring Fragrance,” said she.</p>
+<p>“There is no necessity for you to sorrow,” replied the little Chinese woman. “I did not expect you to hear a ring which rang not. I failed to pull the bell.”</p>
+<p>“You forgot, I suppose,” suggested Ethel Evebrook.</p>
+<p>“Is it wise to tell secrets?” ingenuously inquired Mrs. Spring Fragrance.</p>
+<p>“Yes, to your friends. Oh, Mrs. Spring Fragrance, you are <i>so </i>refreshing.”</p>
+<p>“I have pleasure, then, in confiding to you. I have an ambition to accomplish an immortal book about the Americans, and the conversation I heard through the window was so interesting to me that I thought I would take some of it down for my book before I intruded myself. With your kind permission I will translate for your correction.”</p>
+<p>“I shall be delighted—honored,” said Miss Evebrook, her cheeks glowing and her laugh rippling, “if you will promise me, that you will also translate for our friend, Mrs. Carman.”</p>
+<p>“Ah, yes, poor Mrs. Carman! My heart is so sad for her,” murmured the little Chinese woman.</p>
+<h3>V</h3>
+<p>When the mother of Will Carman returned from Portland, the first person upon whom she called was Mrs. Spring Fragrance. Having lived in China while her late husband was in the customs service there, Mrs. Carman’s prejudices did not extend to the Chinese, and ever since the Spring Fragrances had become the occupants of the villa beside the Carmans, there had been social good feeling between the American and Chinese families. Indeed, Mrs. Carman was wont to declare that amongst all her acquaintances there was not one more congenial and interesting than little Mrs. Spring Fragrance. So after she had sipped a cup of delicious tea, tasted some piquant candied limes, and told Mrs. Spring Fragrance all about her visit to the Oregon city and the Chinese people she had met there, she reverted to a personal trouble confided to Mrs. Spring Fragrance some months before and dwelt upon it for more than half an hour. Then she checked herself and gazed at Mrs. Spring Fragrance in surprise. Hitherto she had found the little Chinese woman sympathetic and consoling. Chinese ideas of filial duty chimed in with her own. But today Mrs. Spring Fragrance seemed strangely uninterested and unresponsive.</p>
+<p>“Perhaps,” gently suggested the American woman, who was nothing if not sensitive, “you have some trouble yourself. If so, my dear, tell me all about it.”</p>
+<p>“Oh, no!” answered Mrs. Spring Fragrance brightly. “I have no troubles to tell; but all the while I am thinking about the book I am writing.”</p>
+<p>“A book!”</p>
+<p>“Yes, a book about Americans, an immortal book.”</p>
+<p>“My dear Mrs. Spring Fragrance!” exclaimed her visitor in amazement.</p>
+<p>“The American woman writes books about the Chinese. Why not a Chinese woman write books about the Americans?”</p>
+<p>“I see what you mean. Why, yes, of course. What an original idea!”</p>
+<p>“Yes, I think that is what it is. My book I shall take from the words of others.”</p>
+<p>“What do you mean, my dear?”</p>
+<p>“I listen to what is said, I apprehend, I write it down. Let me illustrate by the ‘Inferior Woman’ subject. The Inferior Woman is most interesting to me because you have told me that your son is in much love with her. My husband advised me to learn about the Inferior Woman from the Superior Woman. I go to see the Superior Woman. I sit on the veranda of the Superior Woman’s house. I listen to her converse with her mother about the Inferior Woman. With the speed of flames I write down all I hear. When I enter the house the Superior Woman advises me that what I write is correct. May I read to you?”</p>
+<p>“I shall be pleased to hear what you have written; but I do not think you were wise in your choice of subject,” returned Mrs. Carman somewhat primly.</p>
+<p>“I am sorry I am not wise. Perhaps I had better not read?” said Mrs. Spring Fragrance with humility.</p>
+<p>“Yes, yes, do, please.”</p>
+<p>There was eagerness in Mrs. Carman’s voice. What could Ethel Evebrook have to say about that girl!</p>
+<p>When Mrs. Spring Fragrance had finished reading, she looked up into the face of her American friend—a face in which there was nothing now but tenderness.</p>
+<p>“Mrs. Mary Carman,” said she, “you are so good as to admire my husband because he is what the Americans call ‘a man who has made himself.’ Why then do you not admire the Inferior Woman who is a woman who has made herself?”</p>
+<p>“I think I do,” said Mrs. Carman slowly.</p>
+<h3>VI</h3>
+<p>It was an evening that invited to reverie. The far stretches of the sea were gray with mist, and the city itself, lying around the sweep of the Bay, seemed dusky and distant. From her cottage window Alice Winthrop looked silently at the open world around her. It seemed a long time since she had heard Will Carman’s whistle. She wondered if he were still angry with her. She was sorry that he had left her in anger, and yet not sorry. If she had not made him believe that she was proud and selfish, the parting would have been much harder; and perhaps had he known the truth and realized that it was for his sake, and not for her own, that she was sending him away from her, he might have refused to leave her at all. His was such an imperious nature. And then they would have married—right away. Alice caught her breath a little, and then she sighed. But they would not have been happy. No, that could not have been possible if his mother did not like her. When a gulf of prejudice lies between the wife and mother of a man, that man’s life is not what it should be. And even supposing she and Will could have lost themselves in each other, and been able to imagine themselves perfectly satisfied with life together, would it have been right? The question of right and wrong was a very real one to Alice Winthrop. She put herself in the place of the mother of her lover—a lonely elderly woman, a widow with an only son, upon whom she had expended all her love and care ever since, in her early youth, she had been bereaved of his father. What anguish of heart would be hers if that son deserted her for one whom she, his mother, deemed unworthy! Prejudices are prejudices. They are like diseases.</p>
+<p>The poor, pale, elderly woman, who cherished bitter and resentful feelings towards the girl whom her son loved, was more an object of pity than condemnation to the girl herself.</p>
+<p>She lifted her eyes to the undulating line of hills beyond the water. From behind them came a silver light. “Yes,” said she aloud to herself—and, though she knew it not, there was an infinite pathos in such philosophy from one so young—“if life cannot be bright and beautiful for me, at least it can be peaceful and contented.”</p>
+<p>The light behind the hills died away; darkness crept over the sea. Alice withdrew from the window and went and knelt before the open fire in her sitting-room. Her cottage companion, the young woman who rented the place with her, had not yet returned from town.</p>
+<p>Alice did not turn on the light. She was seeing pictures in the fire, and in every picture was the same face and form—the face and form of a fine, handsome young man with love and hope in his eyes. No, not always love and hope. In the last picture of all there was an expression which she wished she could forget. And yet she would remember—ever—always—and with it, these words: “Is it nothing to you—nothing—to tell a man that you love him, and then to bid him go?”</p>
+<p>Yes, but when she had told him she loved him she had not dreamed that her love for him and his for her would estrange him from one who, before ever she had come to this world, had pillowed his head on her breast.</p>
+<p>Suddenly this girl, so practical, so humorous, so clever in every-day life, covered her face with her hands and sobbed like a child. Two roads of life had lain before her and she had chosen the hardest.</p>
+<p>The warning bell of an automobile passing the cross-roads checked her tears. That reminded her that Nellie Blake would soon be home. She turned on the light and went to the bedroom and bathed her eyes. Nellie must have forgotten her key. There she was knocking.</p>
+<p>The chill sea air was sweet with the scent of roses as Mary Carman stood upon the threshold of the little cottage, and beheld in the illumination from within the young girl whom she had called “the Inferior Woman.”</p>
+<p>“I have come, Miss Winthrop,” said she, “to beg of you to return home with me. Will, reckless boy, met with a slight accident while out shooting, so could not come for you himself. He has told me that he loves you, and if you love him, I want to arrange for the prettiest wedding of the season. Come, dear!”</p>
+<p>“I am so glad,” said Mrs. Spring Fragrance, “that Will Carman’s bird is in his nest and his felicity is assured.”</p>
+<p>“What about the Superior Woman?” asked Mr. Spring Fragrance.</p>
+<p>“Ah, the Superior Woman! Radiantly beautiful, and gifted with the divine right of learning! I love well the Inferior Woman; but, O Great Man, when we have a daughter, may Heaven ordain that she walk in the groove of the Superior Woman.”</p>
+<p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>Hampton’s<i> 24 (May 1910). See the alternate ending from the original publication in our downloable Cita Reader.</i></p></small>
+
+ <p><a href="#toc">Back to the Start</a><p>
+
+    <h2 id="chapter8"> In the Land of the Free </h2>
+
+  <p><i>  Editor’s note: This story originally appeared in weekly New York magazine </i>The Independent<i>. It included this note from the author: “Our readers will recall the autobiography of Sui Sin Far in our issue of January 21, entitled ‘Leaves from the Mental Portfolio of an Eurasian.’  Tho the following article is cast in the form of fiction we are obliged to confess it is the fiction that is often less strange and cruel than the truth.—Eaton."</i></p>
+
+<h3>I</h3>
+"See, Little One—the hills in the morning sun. There is thy home for years to come. It is very beautiful and thou wilt be very happy there.”</p>
+<p>The Little One looked up into his mother’s face in perfect faith. He was engaged in the pleasant occupation of sucking a sweetmeat; but that did not prevent him from gurgling responsively.</p>
+<p>“Yes, my olive bud; there is where thy father is making a fortune for thee. Thy father! Oh, wilt thou not be glad to behold his dear face. ’Twas for thee I left him.”</p>
+<p>The Little One ducked his chin sympathetically against his mother’s knee. She lifted him on to her lap. He was two years old, a round, dimple-cheeked boy with bright brown eyes and a sturdy little frame.
 “Ah! Ah! Ah! Ooh! Ooh! Ooh!” puffed he, mocking a tugboat steaming by.
-San Francisco’s waterfront was lined with ships and steamers, while other craft, large and small, including a couple of white transports from the Philippines, lay at anchor here and there off shore. It was some time before the Eastern Queen could get docked, and even after that was accomplished, a lone Chinaman who had been waiting on the wharf for an hour was detained that much longer by men with the initials U. S. C. on their caps, before he could board the steamer and welcome his wife and child.
-“This is thy son,” announced the happy Lae Choo.
-Hom Hing lifted the child, felt of his little body and limbs, gazed into his face with proud and joyous eyes; then turned inquiringly to a customs officer at his elbow.
-“That’s a fine boy you have there,” said the man. “Where was he born?”
-“In China,” answered Hom Hing, swinging the Little One on his right shoulder, preparatory to leading his wife off the steamer.
-“Ever been to America before?”
-“No, not he,” answered the father with a happy laugh.
-The customs officer beckoned to another.
-“This little fellow,” said he, “is visiting America for the first time.”
-The other customs officer stroked his chin reflectively.
-“Good day,” said Hom Hing.
-“Wait!” commanded one of the officers. “You cannot go just yet.”
-“What more now?” asked Hom Hing.
-“I’m afraid,” said the first customs officer, “that we cannot allow the boy to go ashore. There is nothing in the papers that you have shown us—your wife’s papers and your own—having any bearing upon the child.”
-“There was no child when the papers were made out,” returned Hom Hing. He spoke calmly; but there was apprehension in his eyes and in his tightening grip on his son.
-“What is it? What is it?” quavered Lae Choo, who understood a little English.
-The second customs officer regarded her pityingly.
-“I don’t like this part of the business,” he muttered.
-The first officer turned to Hom Hing and in an official tone of voice, said:
-“Seeing that the boy has no certificate entitling him to admission to this country you will have to leave him with us.”
-“Leave my boy!” exclaimed Hom Hing.
-“Yes; he will be well taken care of, and just as soon as we can hear from Washington he will be handed over to you.”
-“But,” protested Hom Hing, “he is my son.”
-“We have no proof,” answered the man with a shrug of his shoulders; “and even if so we cannot let him pass without orders from the Government.”
-“He is my son,” reiterated Hom Hing, slowly and solemnly. “I am a Chinese merchant and have been in business in San Francisco for many years. When my wife told to me one morning that she dreamed of a green tree with spreading branches and one beautiful red flower growing thereon, I answered her that I wished my son to be born in our country, and for her to prepare to go to China. My wife complied with my wish. After my son was born my mother fell sick and my wife nursed and cared for her; then my father, too, fell sick, and my wife also nursed and cared for him. For twenty moons my wife care for and nurse the old people, and when they die they bless her and my son, and I send for her to return to me. I had no fear of trouble. I was a Chinese merchant and my son was my son.”
-“Very good, Hom Hing,” replied the first officer. “Nevertheless, we take your son.”
-“No, you not take him; he my son too.”
-It was Lae Choo. Snatching the child from his father’s arms she held and covered him with her own.
-The officers conferred together for a few moments; then one drew Hom Hing aside and spoke in his ear.
-Resignedly Hom Hing bowed his head, then approached his wife. “’Tis the law,” said he, speaking in Chinese, “and ’twill be but for a little while—until tomorrow’s sun arises.”
-“You, too,” reproached Lae Choo in a voice eloquent with pain. But accustomed to obedience she yielded the boy to her husband, who in turn delivered him to the first officer. The Little One protested lustily against the transfer; but his mother covered her face with her sleeve and his father silently led her away. Thus was the law of the land complied with.
-II
-Day was breaking. Lae Choo, who had been awake all night, dressed herself, then awoke her husband.
-“’Tis the morn,” she cried. “Go, bring our son.”
-The man rubbed his eyes and arose upon his elbow so that he could see out of the window. A pale star was visible in the sky. The petals of a lily in a bowl on the window-sill were unfurled.
-“’Tis not yet time,” said he, laying his head down again.
-“Not yet time. Ah, all the time that I lived before yesterday is not so much as the time that has been since my little one was taken from me.”
-The mother threw herself down beside the bed and covered her face.
-Hom Hing turned on the light, and touching his wife’s bowed head with a sympathetic hand inquired if she had slept.
-“Slept!” she echoed, weepingly. “Ah, how could I close my eyes with my arms empty of the little body that has filled them every night for more than twenty moons! You do not know—man—what it is to miss the feel of the little fingers and the little toes and the soft round limbs of your little one. Even in the darkness his darling eyes used to shine up to mine, and often have I fallen into slumber with his pretty babble at my ear. And now, I see him not; I touch him not; I hear him not. My baby, my little fat one!”
-“Now! Now! Now!” consoled Hom Hing, patting his wife’s shoulder reassuringly; “there is no need to grieve so; he will soon gladden you again. There cannot be any law that would keep a child from its mother!”
-Lae Choo dried her tears.
-“You are right, my husband,” she meekly murmured. She arose and stepped about the apartment, setting things to rights. The box of presents she had brought for her California friends had been opened the evening before; and silks, embroideries, carved ivories, ornamental lacquer-ware, brasses, camphorwood boxes, fans, and chinaware were scattered around in confused heaps. In the midst of unpacking the thought of her child in the hands of strangers had overpowered her, and she had left everything to crawl into bed and weep.
-Having arranged her gifts in order she stepped out on to the deep balcony.
-The star had faded from view and there were bright streaks in the western sky. Lae Choo looked down the street and around. Beneath the flat occupied by her and her husband were quarters for a number of bachelor Chinamen, and she could hear them from where she stood, taking their early morning breakfast. Below their dining-room was her husband’s grocery store. Across the way was a large restaurant. Last night it had been resplendent with gay colored lanterns and the sound of music. The rejoicings over “the completion of the moon,” by Quong Sum’s firstborn, had been long and loud, and had caused her to tie a handkerchief over her ears. She, a bereaved mother, had it not in her heart to rejoice with other parents. This morning the place was more in accord with her mood. It was still and quiet. The revellers had dispersed or were asleep.
-A roly-poly woman in black sateen, with long pendant earrings in her ears, looked up from the street below and waved her a smiling greeting. It was her old neighbor, Kuie Hoe, the wife of the gold embosser, Mark Sing. With her was a little boy in a yellow jacket and lavender pantaloons. Lae Choo remembered him as a baby. She used to like to play with him in those days when she had no child of her own. What a long time ago that seemed! She caught her breath in a sigh, and laughed instead.
-“Why are you so merry?” called her husband from within.
-“Because my Little One is coming home,” answered Lae Choo. “I am a happy mother—a happy mother.”
-She pattered into the room with a smile on her face.
-The noon hour had arrived. The rice was steaming in the bowls and a fragrant dish of chicken and bamboo shoots was awaiting Hom Hing. Not for one moment had Lae Choo paused to rest during the morning hours; her activity had been ceaseless. Every now and again, however, she had raised her eyes to the gilded clock on the curiously carved mantelpiece. Once, she had exclaimed:
-“Why so long, oh! why so long?” Then apostrophizing herself: “Lae Choo, be happy. The Little One is coming! The Little One is coming!” Several times she burst into tears and several times she laughed aloud.
-Hom Hing entered the room; his arms hung down by his side.
-“The Little One!” shrieked Lae Choo.
-“They bid me call tomorrow.”
-With a moan the mother sank to the floor.
-The noon hour passed. The dinner remained on the table.
-III
-The winter rains were over: the spring had come to California, flushing the hills with green and causing an ever-changing pageant of flowers to pass over them. But there was no spring in Lae Choo’s heart, for the Little One remained away from her arms. He was being kept in a mission. White women were caring for him, and though for one full moon he had pined for his mother and refused to be comforted he was now apparently happy and contented. Five moons or five months had gone by since the day he had passed with Lae Choo through the Golden Gate; but the great Government at Washington still delayed sending the answer which would return him to his parents.
-Hom Hing was disconsolately rolling up and down the balls in his abacus box when a keen-faced young man stepped into his store.
-“What news?” asked the Chinese merchant.
-“This!” The young man brought forth a typewritten letter. Hom Hing read the words:
-“Re Chinese child, alleged to be the son of Hom Hing, Chinese merchant, doing business at 425 Clay street, San Francisco.
-“Same will have attention as soon as possible.”
-Hom Hing returned the letter, and without a word continued his manipulation of the counting machine.
-“Have you anything to say?” asked the young man.
-“Nothing. They have sent the same letter fifteen times before. Have you not yourself showed it to me?”
-“True!” The young man eyed the Chinese merchant furtively. He had a proposition to make and he was pondering whether or not the time was opportune.
-“How is your wife?” he inquired solicitously—and diplomatically.
-Hom Hing shook his head mournfully.
-“She seems less every day,” he replied. “Her food she takes only when I bid her and her tears fall continually. She finds no pleasure in dress or flowers and cares not to see her friends. Her eyes stare all night. I think before another moon she will pass into the land of spirits.”
-“No!” exclaimed the young man, genuinely startled.
-“If the boy not come home I lose my wife sure,” continued Hom Hing with bitter sadness.
-“It’s not right,” cried the young man indignantly. Then he made his proposition.
-The Chinese father’s eyes brightened exceedingly.
-“Will I like you to go to Washington and make them give you the paper to restore my son?” cried he. “How can you ask when you know my heart’s desire?”
-“Then,” said the young fellow, “I will start next week. I am anxious to see this thing through if only for the sake of your wife’s peace of mind.”
-“I will call her. To hear what you think to do will make her glad,” said Hom Hing.
-He called a message to Lae Choo upstairs through a tube in the wall.
-In a few moments she appeared, listless, wan, and hollow-eyed; but when her husband told her the young lawyer’s suggestion she became as one electrified; her form straightened, her eyes glistened; the color flushed to her cheeks.
-“Oh,” she cried, turning to James Clancy, “You are a hundred man good!”
-The young man felt somewhat embarrassed; his eyes shifted a little under the intense gaze of the Chinese mother.
-“Well, we must get your boy for you,” he responded. “Of course”—turning to Hom Hing—“it will cost a little money. You can’t get fellows to hurry the Government for you without gold in your pocket.”
-Hom Hing stared blankly for a moment. Then: “How much do you want, Mr. Clancy?” he asked quietly.
-“Well, I will need at least five hundred to start with.”
-Hom Hing cleared his throat.
-“I think I told to you the time I last paid you for writing letters for me and seeing the Custom boss here that nearly all I had was gone!”
-“Oh, well then we won’t talk about it, old fellow. It won’t harm the boy to stay where he is, and your wife may get over it all right.”
-“What that you say?” quavered Lae Choo.
-James Clancy looked out of the window.
-“He says,” explained Hom Hing in English, “that to get our boy we have to have much money.”
-“Money! Oh, yes.”
-Lae Choo nodded her head.
-“I have not got the money to give him.”
-For a moment Lae Choo gazed wonderingly from one face to the other; then, comprehension dawning upon her, with swift anger, pointing to the lawyer, she cried: “You not one hundred man good; you just common white man.”
-“Yes, ma’am,” returned James Clancy, bowing and smiling ironically.
-Hom Hing pushed his wife behind him and addressed the lawyer again: “I might try,” said he, “to raise something; but five hundred—it is not possible.”
-“What about four?”
-“I tell you I have next to nothing left and my friends are not rich.”
-“Very well!”
-The lawyer moved leisurely toward the door, pausing on its threshold to light a cigarette.
-“Stop, white man; white man, stop!”
-Lae Choo, panting and terrified, had started forward and now stood beside him, clutching his sleeve excitedly.
-“You say you can go to get paper to bring my Little One to me if Hom Hing give you five hundred dollars?”
-The lawyer nodded carelessly; his eyes were intent upon the cigarette which would not take the fire from the match.
-“Then you go get paper. If Hom Hing not can give you five hundred dollars—I give you perhaps what more that much.”
-She slipped a heavy gold bracelet from her wrist and held it out to the man. Mechanically he took it.
-“I go get more!”
-She scurried away, disappearing behind the door through which she had come.
-“Oh, look here, I can’t accept this,” said James Clancy, walking back to Hom Hing and laying down the bracelet before him.
-“It’s all right,” said Hom Hing, seriously, “pure China gold. My wife’s parent give it to her when we married.”
-“But I can’t take it anyway,” protested the young man.
-“It is all same as money. And you want money to go to Washington,” replied Hom Hing in a matter of fact manner.
-“See, my jade earrings—my gold buttons—my hairpins—my comb of pearl and my rings—one, two, three, four, five rings; very good—very good—all same much money. I give them all to you. You take and bring me paper for my Little One.”
-Lae Choo piled up her jewels before the lawyer.
-Hom Hing laid a restraining hand upon her shoulder. “Not all, my wife,” he said in Chinese. He selected a ring—his gift to Lae Choo when she dreamed of the tree with the red flower. The rest of the jewels he pushed toward the white man.
-“Take them and sell them,” said he. “They will pay your fare to Washington and bring you back with the paper.”
-For one moment James Clancy hesitated. He was not a sentimental man; but something within him arose against accepting such payment for his services.
-“They are good, good,” pleadingly asserted Lae Choo, seeing his hesitation.
-Whereupon he seized the jewels, thrust them into his coat pocket, and walked rapidly away from the store.
-IV
-Lae Choo followed after the missionary woman through the mission nursery school. Her heart was beating so high with happiness that she could scarcely breathe. The paper had come at last—the precious paper which gave Hom Hing and his wife the right to the possession of their own child. It was ten months now since he had been taken from them—ten months since the sun had ceased to shine for Lae Choo.
-The room was filled with children—most of them wee tots, but none so wee as her own. The mission woman talked as she walked. She told Lae Choo that little Kim, as he had been named by the school, was the pet of the place, and that his little tricks and ways amused and delighted every one. He had been rather difficult to manage at first and had cried much for his mother; “but children so soon forget, and after a month he seemed quite at home and played around as bright and happy as a bird.”
-“Yes,” responded Lae Choo. “Oh, yes, yes!”
-But she did not hear what was said to her. She was walking in a maze of anticipatory joy.
-“Wait here, please,” said the mission woman, placing Lae Choo in a chair. “The very youngest ones are having their breakfast.”
-She withdrew for a moment—it seemed like an hour to the mother—then she reappeared leading by the hand a little boy dressed in blue cotton overalls and white-soled shoes. The little boy’s face was round and dimpled and his eyes were very bright.
-“Little One, ah, my Little One!” cried Lae Choo.
-She fell on her knees and stretched her hungry arms toward her son.
-But the Little One shrunk from her and tried to hide himself in the folds of the white woman’s skirt.
-“Go’way, go’way!” he bade his mother.
-From Mrs. Spring Fragrance (1912); originally published in The Independent 67 (1909).
+San Francisco’s waterfront was lined with ships and steamers, while other craft, large and small, including a couple of white transports from the Philippines, lay at anchor here and there off shore. It was some time before the Eastern Queen could get docked, and even after that was accomplished, a lone Chinaman who had been waiting on the wharf for an hour was detained that much longer by men with the initials U. S. C. on their caps, before he could board the steamer and welcome his wife and child.</p>
+<p>“This is thy son,” announced the happy Lae Choo.</p>
+<p>Hom Hing lifted the child, felt of his little body and limbs, gazed into his face with proud and joyous eyes; then turned inquiringly to a customs officer at his elbow.</p>
+<p>“That’s a fine boy you have there,” said the man. “Where was he born?”</p>
+<p>“In China,” answered Hom Hing, swinging the Little One on his right shoulder, preparatory to leading his wife off the steamer.</p>
+<p>“Ever been to America before?”</p>
+<p>“No, not he,” answered the father with a happy laugh.</p>
+<p>The customs officer beckoned to another.</p>
+<p>“This little fellow,” said he, “is visiting America for the first time.”</p>
+<p>The other customs officer stroked his chin reflectively.</p>
+<p>“Good day,” said Hom Hing.</p>
+<p>“Wait!” commanded one of the officers. “You cannot go just yet.”</p>
+<p>“What more now?” asked Hom Hing.</p>
+<p>“I’m afraid,” said the first customs officer, “that we cannot allow the boy to go ashore. There is nothing in the papers that you have shown us—your wife’s papers and your own—having any bearing upon the child.”</p>
+<p>“There was no child when the papers were made out,” returned Hom Hing. He spoke calmly; but there was apprehension in his eyes and in his tightening grip on his son.</p>
+<p>“What is it? What is it?” quavered Lae Choo, who understood a little English.</p>
+<p>The second customs officer regarded her pityingly.</p>
+<p>“I don’t like this part of the business,” he muttered.</p>
+<p>The first officer turned to Hom Hing and in an official tone of voice, said:</p>
+<p>“Seeing that the boy has no certificate entitling him to admission to this country you will have to leave him with us.”</p>
+<p>“Leave my boy!” exclaimed Hom Hing.</p>
+<p>“Yes; he will be well taken care of, and just as soon as we can hear from Washington he will be handed over to you.”</p>
+<p>“But,” protested Hom Hing, “he is my son.”</p>
+<p>“We have no proof,” answered the man with a shrug of his shoulders; “and even if so we cannot let him pass without orders from the Government.”</p>
+<p>“He is my son,” reiterated Hom Hing, slowly and solemnly. “I am a Chinese merchant and have been in business in San Francisco for many years. When my wife told to me one morning that she dreamed of a green tree with spreading branches and one beautiful red flower growing thereon, I answered her that I wished my son to be born in our country, and for her to prepare to go to China. My wife complied with my wish. After my son was born my mother fell sick and my wife nursed and cared for her; then my father, too, fell sick, and my wife also nursed and cared for him. For twenty moons my wife care for and nurse the old people, and when they die they bless her and my son, and I send for her to return to me. I had no fear of trouble. I was a Chinese merchant and my son was my son.”</p>
+<p>“Very good, Hom Hing,” replied the first officer. “Nevertheless, we take your son.”</p>
+<p>“No, you not take him; he my son too.”</p>
+<p>It was Lae Choo. Snatching the child from his father’s arms she held and covered him with her own.</p>
+<p>The officers conferred together for a few moments; then one drew Hom Hing aside and spoke in his ear.</p>
+<p>Resignedly Hom Hing bowed his head, then approached his wife. “’Tis the law,” said he, speaking in Chinese, “and ’twill be but for a little while—until tomorrow’s sun arises.”</p>
+<p>“You, too,” reproached Lae Choo in a voice eloquent with pain. But accustomed to obedience she yielded the boy to her husband, who in turn delivered him to the first officer. The Little One protested lustily against the transfer; but his mother covered her face with her sleeve and his father silently led her away. Thus was the law of the land complied with.</p>
+<h3>II</h3>
+<p>Day was breaking. Lae Choo, who had been awake all night, dressed herself, then awoke her husband.</p>
+<p>“’Tis the morn,” she cried. “Go, bring our son.”</p>
+<p>The man rubbed his eyes and arose upon his elbow so that he could see out of the window. A pale star was visible in the sky. The petals of a lily in a bowl on the window-sill were unfurled.</p>
+<p>“’Tis not yet time,” said he, laying his head down again.</p>
+<p>“Not yet time. Ah, all the time that I lived before yesterday is not so much as the time that has been since my little one was taken from me.”</p>
+<p>The mother threw herself down beside the bed and covered her face.
+Hom Hing turned on the light, and touching his wife’s bowed head with a sympathetic hand inquired if she had slept.</p>
+<p>“Slept!” she echoed, weepingly. “Ah, how could I close my eyes with my arms empty of the little body that has filled them every night for more than twenty moons! You do not know—man—what it is to miss the feel of the little fingers and the little toes and the soft round limbs of your little one. Even in the darkness his darling eyes used to shine up to mine, and often have I fallen into slumber with his pretty babble at my ear. And now, I see him not; I touch him not; I hear him not. My baby, my little fat one!”</p>
+<p>“Now! Now! Now!” consoled Hom Hing, patting his wife’s shoulder reassuringly; “there is no need to grieve so; he will soon gladden you again. There cannot be any law that would keep a child from its mother!”</p>
+<p>Lae Choo dried her tears.</p>
+<p>“You are right, my husband,” she meekly murmured. She arose and stepped about the apartment, setting things to rights. The box of presents she had brought for her California friends had been opened the evening before; and silks, embroideries, carved ivories, ornamental lacquer-ware, brasses, camphorwood boxes, fans, and chinaware were scattered around in confused heaps. In the midst of unpacking the thought of her child in the hands of strangers had overpowered her, and she had left everything to crawl into bed and weep.</p>
+<p>Having arranged her gifts in order she stepped out on to the deep balcony.</p>
+<p>The star had faded from view and there were bright streaks in the western sky. Lae Choo looked down the street and around. Beneath the flat occupied by her and her husband were quarters for a number of bachelor Chinamen, and she could hear them from where she stood, taking their early morning breakfast. Below their dining-room was her husband’s grocery store. Across the way was a large restaurant. Last night it had been resplendent with gay colored lanterns and the sound of music. The rejoicings over “the completion of the moon,” by Quong Sum’s firstborn, had been long and loud, and had caused her to tie a handkerchief over her ears. She, a bereaved mother, had it not in her heart to rejoice with other parents. This morning the place was more in accord with her mood. It was still and quiet. The revellers had dispersed or were asleep.</p>
+<p>A roly-poly woman in black sateen, with long pendant earrings in her ears, looked up from the street below and waved her a smiling greeting. It was her old neighbor, Kuie Hoe, the wife of the gold embosser, Mark Sing. With her was a little boy in a yellow jacket and lavender pantaloons. Lae Choo remembered him as a baby. She used to like to play with him in those days when she had no child of her own. What a long time ago that seemed! She caught her breath in a sigh, and laughed instead.</p>
+<p>“Why are you so merry?” called her husband from within.</p>
+<p>“Because my Little One is coming home,” answered Lae Choo. “I am a happy mother—a happy mother.”</p>
+<p>She pattered into the room with a smile on her face.</p>
+<p>The noon hour had arrived. The rice was steaming in the bowls and a fragrant dish of chicken and bamboo shoots was awaiting Hom Hing. Not for one moment had Lae Choo paused to rest during the morning hours; her activity had been ceaseless. Every now and again, however, she had raised her eyes to the gilded clock on the curiously carved mantelpiece. Once, she had exclaimed:</p>
+<p>“Why so long, oh! why so long?” Then apostrophizing herself: “Lae Choo, be happy. The Little One is coming! The Little One is coming!” </p>
+<p>Several times she burst into tears and several times she laughed aloud.</p>
+<p>Hom Hing entered the room; his arms hung down by his side.</p>
+<p>“The Little One!” shrieked Lae Choo.</p>
+<p>“They bid me call tomorrow.”</p>
+<p>With a moan the mother sank to the floor.</p>
+<p>The noon hour passed. The dinner remained on the table.</p>
+<h3>III</h3>
+<p>The winter rains were over: the spring had come to California, flushing the hills with green and causing an ever-changing pageant of flowers to pass over them. But there was no spring in Lae Choo’s heart, for the Little One remained away from her arms. He was being kept in a mission. White women were caring for him, and though for one full moon he had pined for his mother and refused to be comforted he was now apparently happy and contented. Five moons or five months had gone by since the day he had passed with Lae Choo through the Golden Gate; but the great Government at Washington still delayed sending the answer which would return him to his parents.</p>
+<p>Hom Hing was disconsolately rolling up and down the balls in his abacus box when a keen-faced young man stepped into his store.</p>
+<p>“What news?” asked the Chinese merchant.</p>
+<p>“This!” The young man brought forth a typewritten letter. Hom Hing read the words:</p>
+<p>“Re Chinese child, alleged to be the son of Hom Hing, Chinese merchant, doing business at 425 Clay street, San Francisco.</p>
+<p>“Same will have attention as soon as possible.”</p>
+<p>Hom Hing returned the letter, and without a word continued his manipulation of the counting machine.</p>
+<p>“Have you anything to say?” asked the young man.</p>
+<p>“Nothing. They have sent the same letter fifteen times before. Have you not yourself showed it to me?”</p>
+<p>“True!” The young man eyed the Chinese merchant furtively. He had a proposition to make and he was pondering whether or not the time was opportune.</p>
+<p>“How is your wife?” he inquired solicitously—and diplomatically.</p>
+<p>Hom Hing shook his head mournfully.</p>
+<p>“She seems less every day,” he replied. “Her food she takes only when I bid her and her tears fall continually. She finds no pleasure in dress or flowers and cares not to see her friends. Her eyes stare all night. I think before another moon she will pass into the land of spirits.”</p>
+<p>“No!” exclaimed the young man, genuinely startled.</p>
+<p>“If the boy not come home I lose my wife sure,” continued Hom Hing with bitter sadness.</p>
+<p>“It’s not right,” cried the young man indignantly. Then he made his proposition.</p>
+<p>The Chinese father’s eyes brightened exceedingly.</p>
+<p>“Will I like you to go to Washington and make them give you the paper to restore my son?” cried he. “How can you ask when you know my heart’s desire?”</p>
+<p>“Then,” said the young fellow, “I will start next week. I am anxious to see this thing through if only for the sake of your wife’s peace of mind.”</p>
+<p>“I will call her. To hear what you think to do will make her glad,” said Hom Hing.</p>
+<p>He called a message to Lae Choo upstairs through a tube in the wall.
+In a few moments she appeared, listless, wan, and hollow-eyed; but when her husband told her the young lawyer’s suggestion she became as one electrified; her form straightened, her eyes glistened; the color flushed to her cheeks.</p>
+<p>“Oh,” she cried, turning to James Clancy, “You are a hundred man good!”</p>
+<p>The young man felt somewhat embarrassed; his eyes shifted a little under the intense gaze of the Chinese mother.</p>
+<p>“Well, we must get your boy for you,” he responded. “Of course”—turning to Hom Hing—“it will cost a little money. You can’t get fellows to hurry the Government for you without gold in your pocket.”</p>
+<p>Hom Hing stared blankly for a moment. Then: “How much do you want, Mr. Clancy?” he asked quietly.</p>
+<p>“Well, I will need at least five hundred to start with.”
+Hom Hing cleared his throat.</p>
+<p>“I think I told to you the time I last paid you for writing letters for me and seeing the Custom boss here that nearly all I had was gone!”
+“Oh, well then we won’t talk about it, old fellow. It won’t harm the boy to stay where he is, and your wife may get over it all right.”</p>
+<p>“What that you say?” quavered Lae Choo.</p>
+<p>James Clancy looked out of the window.</p>
+<p>“He says,” explained Hom Hing in English, “that to get our boy we have to have much money.”</p>
+<p>“Money! Oh, yes.”</p>
+<p>Lae Choo nodded her head.</p>
+<p>“I have not got the money to give him.”</p>
+<p>For a moment Lae Choo gazed wonderingly from one face to the other; then, comprehension dawning upon her, with swift anger, pointing to the lawyer, she cried: “You not one hundred man good; you just common white man.”</p>
+<p>“Yes, ma’am,” returned James Clancy, bowing and smiling ironically.</p>
+<p>Hom Hing pushed his wife behind him and addressed the lawyer again: “I might try,” said he, “to raise something; but five hundred—it is not possible.”</p>
+<p>“What about four?”</p>
+<p>“I tell you I have next to nothing left and my friends are not rich.”</p>
+<p>“Very well!”</p>
+<p>The lawyer moved leisurely toward the door, pausing on its threshold to light a cigarette.</p>
+<p>“Stop, white man; white man, stop!”</p>
+<p>Lae Choo, panting and terrified, had started forward and now stood beside him, clutching his sleeve excitedly.</p>
+<p>“You say you can go to get paper to bring my Little One to me if Hom Hing give you five hundred dollars?”</p>
+<p>The lawyer nodded carelessly; his eyes were intent upon the cigarette which would not take the fire from the match.</p>
+<p>“Then you go get paper. If Hom Hing not can give you five hundred dollars—I give you perhaps what more that much.”</p>
+<p>She slipped a heavy gold bracelet from her wrist and held it out to the man. Mechanically he took it.</p>
+<p>“I go get more!”</p>
+<p>She scurried away, disappearing behind the door through which she had come.</p>
+<p>“Oh, look here, I can’t accept this,” said James Clancy, walking back to Hom Hing and laying down the bracelet before him.</p>
+<p>“It’s all right,” said Hom Hing, seriously, “pure China gold. My wife’s parent give it to her when we married.”</p>
+<p>“But I can’t take it anyway,” protested the young man.</p>
+<p>“It is all same as money. And you want money to go to Washington,” replied Hom Hing in a matter of fact manner.</p>
+<p>“See, my jade earrings—my gold buttons—my hairpins—my comb of pearl and my rings—one, two, three, four, five rings; very good—very good—all same much money. I give them all to you. You take and bring me paper for my Little One.”</p>
+<p>Lae Choo piled up her jewels before the lawyer.</p>
+<p>Hom Hing laid a restraining hand upon her shoulder. “Not all, my wife,” he said in Chinese. He selected a ring—his gift to Lae Choo when she dreamed of the tree with the red flower. The rest of the jewels he pushed toward the white man.</p>
+<p>“Take them and sell them,” said he. “They will pay your fare to Washington and bring you back with the paper.”</p>
+<p>For one moment James Clancy hesitated. He was not a sentimental man; but something within him arose against accepting such payment for his services.</p>
+<p>“They are good, good,” pleadingly asserted Lae Choo, seeing his hesitation.</p>
+<p>Whereupon he seized the jewels, thrust them into his coat pocket, and walked rapidly away from the store.</p>
+<h3>IV</h3>
+<p>Lae Choo followed after the missionary woman through the mission nursery school. Her heart was beating so high with happiness that she could scarcely breathe. The paper had come at last—the precious paper which gave Hom Hing and his wife the right to the possession of their own child. It was ten months now since he had been taken from them—ten months since the sun had ceased to shine for Lae Choo.</p>
+<p>The room was filled with children—most of them wee tots, but none so wee as her own. The mission woman talked as she walked. She told Lae Choo that little Kim, as he had been named by the school, was the pet of the place, and that his little tricks and ways amused and delighted every one. He had been rather difficult to manage at first and had cried much for his mother; “but children so soon forget, and after a month he seemed quite at home and played around as bright and happy as a bird.”</p>
+<p>“Yes,” responded Lae Choo. “Oh, yes, yes!”</p>
+<p>But she did not hear what was said to her. She was walking in a maze of anticipatory joy.</p>
+<p>“Wait here, please,” said the mission woman, placing Lae Choo in a chair. “The very youngest ones are having their breakfast.”</p>
+<p>She withdrew for a moment—it seemed like an hour to the mother—then she reappeared leading by the hand a little boy dressed in blue cotton overalls and white-soled shoes. The little boy’s face was round and dimpled and his eyes were very bright.</p>
+<p>“Little One, ah, my Little One!” cried Lae Choo.</p>
+<p>She fell on her knees and stretched her hungry arms toward her son.
+But the Little One shrunk from her and tried to hide himself in the folds of the white woman’s skirt.</p>
+<p>“Go’way, go’way!” he bade his mother.</p>
+<p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>The Independent<i> 67 (1909).</i></small></p>
 
-The Americanizing of Pau Tsu
-I
-When Wan Hom Hing came to Seattle to start a branch of the merchant business which his firm carried on so successfully in the different ports of China, he brought with him his nephew, Wan Lin Fo, then eighteen years of age. Wan Lin Fo was a well-educated Chinese youth, with bright eyes and keen ears. In a few years’ time he knew as much about the business as did any of the senior partners. Moreover, he learned to speak and write the American language with such fluency that he was never at a loss for an answer, when the white man, as was sometimes the case, sought to pose him. “All work and no play,” however, is as much against the principles of a Chinese youth as it is against those of a young American, and now and again Lin Fo would while away an evening at the Chinese Literary Club, above the Chinese restaurant, discussing with some chosen companions the works and merits of Chinese sages—and some other things. New Year’s Day, or rather, Week, would also see him, business forgotten, arrayed in national costume of finest silk, and color “the blue of the sky after rain,” visiting with his friends, both Chinese and American, and scattering silver and gold coin amongst the youngsters of the families visited.
-It was on the occasion of one of these New Year’s visits that Wan Lin Fo first made known to the family of his firm’s silent American partner, Thomas Raymond, that he was betrothed. It came about in this wise: One of the young ladies of the house, who was fair and frank of face and friendly and cheery in manner, observing as she handed him a cup of tea that Lin Fo’s eyes wore a rather wistful expression, questioned him as to the wherefore:
-“Miss Adah,” replied Lin Fo, “may I tell you something?”
-“Certainly, Mr. Wan,” replied the girl. “You know how I enjoy hearing your tales.”
-“But this is no tale. Miss Adah, you have inspired in me a love—”
-Adah Raymond started. Wan Lin Fo spake slowly.
-“For the little girl in China to whom I am betrothed.”
-“Oh, Mr. Wan! That is good news. But what have I to do with it?”
-“This, Miss Adah! Every time I come to this house, I see you, so good and so beautiful, dispensing tea and happiness to all around, and I think, could I have in my home and ever by my side one who is also both good and beautiful, what a felicitious life mine would be!”
-“You must not flatter me, Mr. Wan!”
-“All that I say is founded on my heart. But I will speak not of you. I will speak of Pau Tsu.”
-“Pau Tsu?”
-“Yes. That is the name of my future wife. It means a pearl.”
-“How pretty! Tell me all about her!”
-“I was betrothed to Pau Tsu before leaving China. My parents adopted her to be my wife. As I remember, she had shining eyes and the good-luck color was on her cheek. Her mouth was like a red vine leaf, and her eyebrows most exquisitely arched. As slender as a willow was her form, and when she spoke, her voice lilted from note to note in the sweetest melody.”
-Adah Raymond softly clapped her hands.
-“Ah! You were even then in love with her.”
-“No,” replied Lin Fo thoughtfully. “I was too young to be in love—sixteen years of age. Pau Tsu was thirteen. But, as I have confessed, you have caused me to remember and love her.”
-Adah Raymond was not a self-conscious girl, but for the life of her she could think of no reply to Lin Fo’s speech.
-“I am twenty-two years old now,” he continued. “Pau Tsu is eighteen. Tomorrow I will write to my parents and persuade them to send her to me at the time of the spring festival. My elder brother was married last year, and his wife is now under my parents’ roof, so that Pau Tsu, who has been the daughter of the house for so many years, can now be spared to me.”
-“What a sweet little thing she must be,” commented Adah Raymond.
-“You will say that when you see her,” proudly responded Lin Fo. “My parents say she is always happy. There is not a bird or flower or dewdrop in which she does not find some glad meaning.”
-“I shall be so glad to know her. Can she speak English?”
-Lin Fo’s face fell.
-“No,” he replied, “but,”—brightening—“when she comes I will have her learn to speak like you—and be like you.”
-II
-Pau Tsu came with the spring, and Wan Lin Fo was one of the happiest and proudest of bridegrooms. The tiny bride was really very pretty—even to American eyes. In her peach and plum colored robes, her little arms and hands sparkling with jewels, and her shiny black head decorated with wonderful combs and pins, she appeared a bit of Eastern coloring amidst the Western lights and shades.
-Lin Fo had not been forgotten, and her eyes under their downcast lids discovered him at once, as he stood awaiting her amongst a group of young Chinese merchants on the deck of the vessel.
-The apartments he had prepared for her were furnished in American style, and her birdlike little figure in Oriental dress seemed rather out of place at first. It was not long, however, before she brought forth from the great box, which she had brought over seas, screens and fans, vases, panels, Chinese matting, artificial flowers and birds, and a number of exquisite carvings and pieces of antique porcelain. With these she transformed the American flat into an Oriental bower, even setting up in her sleeping-room a little chapel, enshrined in which was an image of the Goddess of Mercy, two ancestral tablets, and other emblems of her faith in the Gods of her fathers.
-The Misses Raymond called upon her soon after arrival, and she smiled and looked pleased. She shyly presented each girl with a Chinese cup and saucer, also a couple of antique vases, covered with whimsical pictures, which Lin Fo tried his best to explain.
-The girls were delighted with the gifts, and having fallen, as they expressed themselves, in love with the little bride, invited her through her husband to attend a launch party, which they intended giving the following Wednesday on Lake Washington.
-Lin Fo accepted the invitation in behalf of himself and wife. He was quite at home with the Americans and, being a young man, enjoyed their rather effusive appreciation of him as an educated Chinaman. Moreover, he was of the opinion that the society of the American young ladies would benefit Pau Tsu in helping her to acquire the ways and language of the land in which he hoped to make a fortune.
-Wan Lin Fo was a true son of the Middle Kingdom and secretly pitied all those who were born far away from its influences; but there was much about the Americans that he admired. He also entertained sentiments of respect for a motto which hung in his room which bore the legend: “When in Rome, do as the Romans do.”
-“What is best for men is also best for women in this country,” he told Pau Tsu when she wept over his suggestion that she should take some lessons in English from a white woman.
-“It may be best for a man who goes out in the street,” she sobbed, “to learn the new language, but of what importance is it to a woman who lives only within the house and her husband’s heart?”
-It was seldom, however, that she protested against the wishes of Lin Fo. As her mother-in-law had said, she was a docile, happy little creature. Moreover, she loved her husband.
-But as the days and weeks went by the girl bride whose life hitherto had been spent in the quiet retirement of a Chinese home in the performance of filial duties, in embroidery work and lute playing, in sipping tea and chatting with gentle girl companions, felt very much bewildered by the novelty and stir of the new world into which she had been suddenly thrown. She could not understand, for all Lin Fo’s explanations, why it was required of her to learn the strangers’ language and adopt their ways. Her husband’s tongue was the same as her own. So also her little maid’s. It puzzled her to be always seeing this and hearing that—sights and sounds which as yet had no meaning for her. Why also was it necessary to receive visitors nearly every evening?—visitors who could neither understand nor make themselves understood by her, for all their curious smiles and stares, which she bore like a second Vashti—or rather, Esther. And why, oh! why should she be constrained to eat her food with clumsy, murderous looking American implements instead of with her own elegant and easily manipulated ivory chopsticks?
-Adah Raymond, who at Lin Fo’s request was a frequent visitor to the house, could not fail to observe that Pau Tsu’s small face grew daily smaller and thinner, and that the smile with which she invariably greeted her, though sweet, was tinged with melancholy. Her woman’s instinct told her that something was wrong, but what it was the light within her failed to discover. She would reach over to Pau Tsu and take within her own firm, white hand the small, trembling fingers, pressing them lovingly and sympathetically; and the little Chinese woman would look up into the beautiful face bent above hers and think to herself: “No wonder he wishes me to be like her!”
-If Lin Fo happened to come in before Adah Raymond left he would engage the visitor in bright and animated conversation. They had so much of common interest to discuss, as is always the way with young people who have lived any length of time in a growing city of the West. But to Pau Tsu, pouring tea and dispensing sweetmeats, it was all Greek, or rather, all American.
-“Look, my pearl, what I have brought you,” said Lin Fo one afternoon as he entered his wife’s apartments, followed by a messenger-boy, who deposited in the middle of the room a large cardboard box.
-With murmurs of wonder Pau Tsu drew near, and the messenger-boy having withdrawn Lin Fo cut the string, and drew forth a beautiful lace evening dress and dark blue walking costume, both made in American style.
-For a moment there was silence in the room. Lin Fo looked at his wife in surprise. Her face was pale and her little body was trembling, while her hands were drawn up into her sleeves.
-“Why, Pau Tsu!” he exclaimed, “I thought to make you glad.”
-At these words the girl bent over the dress of filmy lace, and gathering the flounce in her hand smoothed it over her knee; then lifting a smiling face to her husband, replied: “Oh, you are too good, too kind to your unworthy Pau Tsu. My speech is slow, because I am overcome with happiness.”
-Then with exclamations of delight and admiration she lifted the dresses out of the box and laid them carefully over the couch.
-“I wish you to dress like an American woman when we go out or receive,” said her husband. “It is the proper thing in America to do as the Americans do. You will notice, light of my eyes, that it is only on New Year and our national holidays that I wear the costume of our country and attach a queue. The wife should follow the husband in all things.”
-A ripple of laughter escaped Pau Tsu’s lips.
-“When I wear that dress,” said she, touching the walking costume, “I will look like your friend, Miss Raymond.”
-She struck her hands together gleefully, but when her husband had gone to his business she bowed upon the floor and wept pitifully.
-III
-During the rainy season Pau Tsu was attacked with a very bad cough. A daughter of Southern China, the chill, moist climate of the Puget Sound winter was very hard on her delicate lungs. Lin Fo worried much over the state of her health, and meeting Adah Raymond on the street one afternoon told her of his anxiety. The kind-hearted girl immediately returned with him to the house. Pau Tsu was lying on her couch, feverish and breathing hard. The American girl felt her hands and head.
-“She must have a doctor,” said she, mentioning the name of her family’s physician.
-Pau Tsu shuddered. She understood a little English by this time.
-“No! No! Not a man, not a man!” she cried.
-Adah Raymond looked up at Lin Fo.
-“I understand,” said she. “There are several women doctors in this town. Let us send for one.”
-But Lin Fo’s face was set.
-“No!” he declared. “We are in America. Pau Tsu shall be attended to by your physician.”
-Adah Raymond was about to protest against this dictum when the sick wife, who had also heard it, touched her hand and whispered: “I not mind now. Man all right.”
-So the other girl closed her lips, feeling that if the wife would not dispute her husband’s will it was not her place to do so; but her heart ached with compassion as she bared Pau Tsu’s chest for the stethoscope.
-“It was like preparing a lamb for slaughter,” she told her sister afterwards. “Pau Tsu 155was motionless, her eyes closed and her lips sealed, while the doctor remained; but after he had left and we two were alone she shuddered and moaned like one bereft of reason. I honestly believe that the examination was worse than death to that little Chinese woman. The modesty of generations of maternal ancestors was crucified as I rolled down the neck of her silk tunic.”
-It was a week after the doctor’s visit, and Pau Tsu, whose cough had yielded to treatment, though she was still far from well, was playing on her lute, and whisperingly singing this little song, said to have been written on a fan which was presented to an ancient Chinese emperor by one of his wives:
-“Of fresh new silk,
-All snowy white,
-And round as a harvest moon,
-A pledge of purity and love,
-A small but welcome boon.
-While summer lasts,
-When borne in hand,
-Or folded on thy breast,
-’Twill gently soothe thy burning brow,
-And charm thee to thy rest.
-But, oh, when Autumn winds blow chill,
-And days are bleak and cold,
-No longer sought, no longer loved,
-’Twill lie in dust and mould.
-This silken fan then deign accept,
-Sad emblem of my lot,
-Caressed and cherished for an hour,
-Then speedily forgot.”
-“Why so melancholy, my pearl?” asked Lin Fo, entering from the street.
-“When a bird is about to die, its notes are sad,” returned Pau Tsu.
-“But thou art not for death—thou art for life,” declared Lin Fo, drawing her towards him and gazing into a face which day by day seemed to grow finer and more transparent.
-IV
-A Chinese messenger-boy ran up the street, entered the store of Wan Hom Hing & Co. and asked for the junior partner. When Lin Fo came forward he handed him a dainty, flowered missive, neatly folded and addressed. The receiver opened it and read:
-Dear and Honored Husband,—Your unworthy Pau Tsu lacks the courage to face the ordeal before her. She has, therefore, left you and prays you to obtain a divorce, as is the custom in America, so that you may be happy with the Beautiful One, who is so much your Pau Tsu’s superior. This, she acknowledges, for she sees with your eyes, in which, like a star, the Beautiful One shineth. Else, why should you have your Pau Tsu follow in her footsteps? She has tried to obey your will and to be as an American woman; but now she is very weary, and the terror of what is before her has overcome.
-Your stupid thorn,
-Pau Tsu
-Mechanically Lin Fo folded the letter and thrust it within his breast pocket. A customer inquired of him the price of a lacquered tray. “I wish you good morning,” he replied, reaching for his hat. The customer and clerks gaped after him as he left the store.
-Out in the street, as fate would have it, he met Adah Raymond. He would have turned aside had she not spoken to him.
-“Whatever is the matter with you, Mr. Wan?” she inquired. “You don’t look yourself at all.”
-“The density of my difficulties you cannot understand,” he replied, striding past her.
-But Adah Raymond was persistent. She had worried lately over Pau Tsu.
-“Something is wrong with your wife,” she declared.
-Lin Fo wheeled around.
-“Do you know where she is?” he asked with quick suspicion.
-“Why, no!” exclaimed the girl in surprise.
-“Well, she has left me.”
-Adah Raymond stood incredulous for a moment, then with indignant eyes she turned upon the deserted husband.
-“You deserve it!” she cried, “I have seen it for some time: your cruel, arbitrary treatment of the dearest, sweetest little soul in the world.”
-“I beg your pardon, Miss Adah,” returned Lin Fo, “but I do not understand. Pau Tsu is heart of my heart. How then could I be cruel to her?”
-“Oh, you stupid!” exclaimed the girl. “You’re a Chinaman, but you’re almost as stupid as an American. Your cruelty consisted in forcing Pau Tsu to be—what nature never intended her to be—an American woman; to adapt and adopt in a few months’ time all our ways and customs. I saw it long ago, but as Pau Tsu was too sweet and meek to see any faults in her man I had not the heart to open her eyes—or yours. Is it not true that she has left you for this reason?”
-“Yes,” murmured Lin Fo. He was completely crushed. “And some other things.”
-“What other things?”
-“She—is—afraid—of—the—doctor.”
-“She is!”—fiercely—“Shame upon you!”
-Lin Fo began to walk on, but the girl kept by his side and continued:
-“You wanted your wife to be an American woman while you remained a Chinaman. For all your clever adaptation of our American ways you are a thorough Chinaman. Do you think an American would dare treat his wife as you have treated yours?”
-Wan Lin Fo made no response. He was wondering how he could ever have wished his gentle Pau Tsu to be like this angry woman. Now his Pau Tsu was gone. His anguish for the moment made him oblivious to the presence of his companion and the words she was saying. His silence softened the American girl. After all, men, even Chinamen, were nothing but big, clumsy boys, and she didn’t believe in kicking a man after he was down.
-“But, cheer up, you’re sure to find her,” said she, suddenly changing her tone. “Probably her maid has friends in Chinatown who have taken them in.”
-“If I find her,” said Lin Fo fervently, “I will not care if she never speaks an American word, and I will take her for a trip to China, so that our son may be born in the country that Heaven loves.”
-“You cannot make too much amends for all she has suffered. As to Americanizing Pau Tsu—that will come in time. I am quite sure that were I transferred to your country and commanded to turn myself into a Chinese woman in the space of two or three months I would prove a sorry disappointment to whomever built their hopes upon me.”
-Many hours elapsed before any trace could be found of the missing one. All the known friends and acquaintances of little Pau Tsu were called upon and questioned; but if they had knowledge of the young wife’s hiding place they refused to divulge it. Though Lin Fo’s face was grave with an unexpressed fear, their sympathies were certainly not with him.
-The seekers were about giving up the search in despair when a little boy, dangling in his hands a string of blue beads, arrested the attention of the young husband. He knew the necklace to be a gift from Pau Tsu to the maid, A-Toy. He had bought it himself. Stopping and questioning the little fellow he learned to his great joy that his wife and her maid were at the boy’s home, under the care of his grandmother, who was a woman learned in herb lore.
-Adah Raymond smiled in sympathy with her companion’s evident great relief.
-“Everything will now be all right,” said she, following Lin Fo as he proceeded to the house pointed out by the lad. Arrived there, she suggested that the husband enter first and alone. She would wait a few moments.
-“Miss Adah,” said Lin Fo, “ten thousand times I beg your pardon, but perhaps you will come to see my wife some other time—not today?”
-He hesitated, embarrassed and humiliated.
-In one silent moment Adah Raymond grasped the meaning of all the morning’s trouble—of all Pau Tsu’s sadness.
-“Lord, what fools we mortals be!” she soliloquized as she walked home alone. “I ought to have known. What else could Pau Tsu have thought?—coming from a land where women have no men friends save their husbands. How she must have suffered under her smiles! Poor, brave little soul!”
-From Mrs. Spring Fragrance (1912). A previous publication has not been identified as of August 2023.
+<p><a href="#toc">Back to the Start</a><p>
 
-The Chinese Lily
-Mermei lived in an upstairs room of a Chinatown dwelling-house. There were other little Chinese women living on the same floor, but Mermei never went amongst them. She was not as they were. She was a cripple. A fall had twisted her legs so that she moved around with difficulty and scarred her face so terribly that none save Lin John cared to look upon it. Lin John, her brother, was a laundryman, working for another of his countrymen. Lin John and Mermei had come to San Francisco with their parents when they were small children. Their mother had died the day she entered the foreign city, and the father the week following, both having contracted a fever on the steamer. Mermei and Lin John were then taken in charge by their father’s brother, and although he was a poor man he did his best for them until called away by death.
-Long before her Uncle died Mermei had met with the accident that had made her not as other girls; but that had only strengthened her brother’s affection, and old Lin Wan died happy in the knowledge that Lin John would ever put Mermei before himself.
-So Mermei lived in her little upstairs room, cared for by Lin John, and scarcely an evening passed that he did not call to see her. One evening, however, Lin John failed to appear, and Mermei began to feel very sad and lonely. Mermei could embroider all day in contented silence if she knew that in the evening someone would come to whom she could communicate all the thoughts that filled a small black head that knew nothing of life save what it saw from an upstairs window. Mermei’s window looked down upon the street, and she would sit for hours, pressed close against it, watching those who passed below and all that took place. That day she had seen many things which she had put into her mental portfolio for Lin John’s edification when evening should come. Two yellow-robed priests had passed below on their way to the joss house in the next street; a little bird with a white breast had fluttered against the window pane; a man carrying an image of a Gambling Cash Tiger had entered the house across the street; and six young girls of about her own age, dressed gaily as if to attend a wedding, had also passed over the same threshold.
-But when nine o’clock came and no Lin John, the girl began to cry softly. She did not often shed tears, but for some reason unknown to Mermei herself, the sight of those joyous girls caused sad reflections. In the midst of her weeping a timid knock was heard. It was not Lin John. He always gave a loud rap, then entered without waiting to be bidden. Mermei hobbled to the door, pulled it open, and there, in the dim light of the hall without, beheld a young girl—the most beautiful young girl that Mermei had ever seen—and she stood there extending to Mermei a blossom from a Chinese lily plant. Mermei understood the meaning of the offered flower, and accepting it, beckoned for her visitor to follow her into her room.
-What a delightful hour that was to Mermei! She forgot that she was scarred and crippled, and she and the young girl chattered out their little hearts to one another. “Lin John is dear, but one can’t talk to a man, even if he is a brother, as one can to one the same as oneself,” said Mermei to Sin Far—her new friend, and Sin Far, the meaning of whose name was Pure Flower, or Chinese Lily, answered:
+<h2 id="chapter9"> The Americanizing of Pau Tsu </h2>
+
+<h3>I</h3>
+<p>When Wan Hom Hing came to Seattle to start a branch of the merchant business which his firm carried on so successfully in the different ports of China, he brought with him his nephew, Wan Lin Fo, then eighteen years of age. Wan Lin Fo was a well-educated Chinese youth, with bright eyes and keen ears. In a few years’ time he knew as much about the business as did any of the senior partners. Moreover, he learned to speak and write the American language with such fluency that he was never at a loss for an answer, when the white man, as was sometimes the case, sought to pose him. “All work and no play,” however, is as much against the principles of a Chinese youth as it is against those of a young American, and now and again Lin Fo would while away an evening at the Chinese Literary Club, above the Chinese restaurant, discussing with some chosen companions the works and merits of Chinese sages—and some other things. New Year’s Day, or rather, Week, would also see him, business forgotten, arrayed in national costume of finest silk, and color “the blue of the sky after rain,” visiting with his friends, both Chinese and American, and scattering silver and gold coin amongst the youngsters of the families visited.</p>
+<p>It was on the occasion of one of these New Year’s visits that Wan Lin Fo first made known to the family of his firm’s silent American partner, Thomas Raymond, that he was betrothed. It came about in this wise: One of the young ladies of the house, who was fair and frank of face and friendly and cheery in manner, observing as she handed him a cup of tea that Lin Fo’s eyes wore a rather wistful expression, questioned him as to the wherefore:</p>
+<p>“Miss Adah,” replied Lin Fo, “may I tell you something?”</p>
+<p>“Certainly, Mr. Wan,” replied the girl. “You know how I enjoy hearing your tales.”</p>
+<p>“But this is no tale. Miss Adah, you have inspired in me a love—”</p>
+<p>Adah Raymond started. Wan Lin Fo spake slowly.</p>
+<p>“For the little girl in China to whom I am betrothed.”</p>
+<p>“Oh, Mr. Wan! That is good news. But what have I to do with it?”</p>
+<p>“This, Miss Adah! Every time I come to this house, I see you, so good and so beautiful, dispensing tea and happiness to all around, and I think, could I have in my home and ever by my side one who is also both good and beautiful, what a felicitious life mine would be!”</p>
+<p>“You must not flatter me, Mr. Wan!”</p>
+<p>“All that I say is founded on my heart. But I will speak not of you. I will speak of Pau Tsu.”</p>
+<p>“Pau Tsu?”</p>
+<p>“Yes. That is the name of my future wife. It means a pearl.”</p>
+<p>“How pretty! Tell me all about her!”</p>
+<p>“I was betrothed to Pau Tsu before leaving China. My parents adopted her to be my wife. As I remember, she had shining eyes and the good-luck color was on her cheek. Her mouth was like a red vine leaf, and her eyebrows most exquisitely arched. As slender as a willow was her form, and when she spoke, her voice lilted from note to note in the sweetest melody.”</p>
+<p>Adah Raymond softly clapped her hands.</p>
+<p>“Ah! You were even then in love with her.”</p>
+<p>“No,” replied Lin Fo thoughtfully. “I was too young to be in love—sixteen years of age. Pau Tsu was thirteen. But, as I have confessed, you have caused me to remember and love her.”</p>
+<p>Adah Raymond was not a self-conscious girl, but for the life of her she could think of no reply to Lin Fo’s speech.</p>
+<p>“I am twenty-two years old now,” he continued. “Pau Tsu is eighteen. Tomorrow I will write to my parents and persuade them to send her to me at the time of the spring festival. My elder brother was married last year, and his wife is now under my parents’ roof, so that Pau Tsu, who has been the daughter of the house for so many years, can now be spared to me.”</p>
+<p>“What a sweet little thing she must be,” commented Adah Raymond.
+“You will say that when you see her,” proudly responded Lin Fo. “My parents say she is always happy. There is not a bird or flower or dewdrop in which she does not find some glad meaning.”</p>
+<p>“I shall be so glad to know her. Can she speak English?”</p>
+<p>Lin Fo’s face fell.</p>
+<p>“No,” he replied, “but,”—brightening—“when she comes I will have her learn to speak like you—and be like you.”</p>
+<h3>II</h3>
+<p>Pau Tsu came with the spring, and Wan Lin Fo was one of the happiest and proudest of bridegrooms. The tiny bride was really very pretty—even to American eyes. In her peach and plum colored robes, her little arms and hands sparkling with jewels, and her shiny black head decorated with wonderful combs and pins, she appeared a bit of Eastern coloring amidst the Western lights and shades.</p>
+<p>Lin Fo had not been forgotten, and her eyes under their downcast lids discovered him at once, as he stood awaiting her amongst a group of young Chinese merchants on the deck of the vessel.</p>
+<p>The apartments he had prepared for her were furnished in American style, and her birdlike little figure in Oriental dress seemed rather out of place at first. It was not long, however, before she brought forth from the great box, which she had brought over seas, screens and fans, vases, panels, Chinese matting, artificial flowers and birds, and a number of exquisite carvings and pieces of antique porcelain. With these she transformed the American flat into an Oriental bower, even setting up in her sleeping-room a little chapel, enshrined in which was an image of the Goddess of Mercy, two ancestral tablets, and other emblems of her faith in the Gods of her fathers.</p>
+<p>The Misses Raymond called upon her soon after arrival, and she smiled and looked pleased. She shyly presented each girl with a Chinese cup and saucer, also a couple of antique vases, covered with whimsical pictures, which Lin Fo tried his best to explain.</p>
+<p>The girls were delighted with the gifts, and having fallen, as they expressed themselves, in love with the little bride, invited her through her husband to attend a launch party, which they intended giving the following Wednesday on Lake Washington.</p>
+<p>Lin Fo accepted the invitation in behalf of himself and wife. He was quite at home with the Americans and, being a young man, enjoyed their rather effusive appreciation of him as an educated Chinaman. Moreover, he was of the opinion that the society of the American young ladies would benefit Pau Tsu in helping her to acquire the ways and language of the land in which he hoped to make a fortune.</p>
+<p>Wan Lin Fo was a true son of the Middle Kingdom and secretly pitied all those who were born far away from its influences; but there was much about the Americans that he admired. He also entertained sentiments of respect for a motto which hung in his room which bore the legend: “When in Rome, do as the Romans do.”</p>
+<p>“What is best for men is also best for women in this country,” he told Pau Tsu when she wept over his suggestion that she should take some lessons in English from a white woman.</p>
+<p>“It may be best for a man who goes out in the street,” she sobbed, “to learn the new language, but of what importance is it to a woman who lives only within the house and her husband’s heart?”</p>
+<p>It was seldom, however, that she protested against the wishes of Lin Fo. As her mother-in-law had said, she was a docile, happy little creature. Moreover, she loved her husband.</p>
+<p>But as the days and weeks went by the girl bride whose life hitherto had been spent in the quiet retirement of a Chinese home in the performance of filial duties, in embroidery work and lute playing, in sipping tea and chatting with gentle girl companions, felt very much bewildered by the novelty and stir of the new world into which she had been suddenly thrown. She could not understand, for all Lin Fo’s explanations, why it was required of her to learn the strangers’ language and adopt their ways. Her husband’s tongue was the same as her own. So also her little maid’s. It puzzled her to be always seeing this and hearing that—sights and sounds which as yet had no meaning for her. Why also was it necessary to receive visitors nearly every evening?—visitors who could neither understand nor make themselves understood by her, for all their curious smiles and stares, which she bore like a second Vashti—or rather, Esther. And why, oh! why should she be constrained to eat her food with clumsy, murderous looking American implements instead of with her own elegant and easily manipulated ivory chopsticks?</p>
+<p>Adah Raymond, who at Lin Fo’s request was a frequent visitor to the house, could not fail to observe that Pau Tsu’s small face grew daily smaller and thinner, and that the smile with which she invariably greeted her, though sweet, was tinged with melancholy. Her woman’s instinct told her that something was wrong, but what it was the light within her failed to discover. She would reach over to Pau Tsu and take within her own firm, white hand the small, trembling fingers, pressing them lovingly and sympathetically; and the little Chinese woman would look up into the beautiful face bent above hers and think to herself: “No wonder he wishes me to be like her!”</p>
+<p>If Lin Fo happened to come in before Adah Raymond left he would engage the visitor in bright and animated conversation. They had so much of common interest to discuss, as is always the way with young people who have lived any length of time in a growing city of the West. But to Pau Tsu, pouring tea and dispensing sweetmeats, it was all Greek, or rather, all American.</p>
+<p>“Look, my pearl, what I have brought you,” said Lin Fo one afternoon as he entered his wife’s apartments, followed by a messenger-boy, who deposited in the middle of the room a large cardboard box.</p>
+<p>With murmurs of wonder Pau Tsu drew near, and the messenger-boy having withdrawn Lin Fo cut the string, and drew forth a beautiful lace evening dress and dark blue walking costume, both made in American style.</p>
+<p>For a moment there was silence in the room. Lin Fo looked at his wife in surprise. Her face was pale and her little body was trembling, while her hands were drawn up into her sleeves.</p>
+<p>“Why, Pau Tsu!” he exclaimed, “I thought to make you glad.”</p>
+<p>At these words the girl bent over the dress of filmy lace, and gathering the flounce in her hand smoothed it over her knee; then lifting a smiling face to her husband, replied: “Oh, you are too good, too kind to your unworthy Pau Tsu. My speech is slow, because I am overcome with happiness.”</p>
+<p>Then with exclamations of delight and admiration she lifted the dresses out of the box and laid them carefully over the couch.</p>
+<p>“I wish you to dress like an American woman when we go out or receive,” said her husband. “It is the proper thing in America to do as the Americans do. You will notice, light of my eyes, that it is only on New Year and our national holidays that I wear the costume of our country and attach a queue. The wife should follow the husband in all things.”</p>
+<p>A ripple of laughter escaped Pau Tsu’s lips.</p>
+<p>“When I wear that dress,” said she, touching the walking costume, “I will look like your friend, Miss Raymond.”</p>
+<p>She struck her hands together gleefully, but when her husband had gone to his business she bowed upon the floor and wept pitifully.</p>
+<h3>III</h3>
+<p>During the rainy season Pau Tsu was attacked with a very bad cough. A daughter of Southern China, the chill, moist climate of the Puget Sound winter was very hard on her delicate lungs. Lin Fo worried much over the state of her health, and meeting Adah Raymond on the street one afternoon told her of his anxiety. The kind-hearted girl immediately returned with him to the house. Pau Tsu was lying on her couch, feverish and breathing hard. The American girl felt her hands and head.</p>
+<p>“She must have a doctor,” said she, mentioning the name of her family’s physician.</p>
+<p>Pau Tsu shuddered. She understood a little English by this time.</p>
+<p>“No! No! Not a man, not a man!” she cried.</p>
+<p>Adah Raymond looked up at Lin Fo.</p>
+<p>“I understand,” said she. “There are several women doctors in this town. Let us send for one.”</p>
+<p>But Lin Fo’s face was set.</p>
+<p>“No!” he declared. “We are in America. Pau Tsu shall be attended to by your physician.”</p>
+<p>Adah Raymond was about to protest against this dictum when the sick wife, who had also heard it, touched her hand and whispered: “I not mind now. Man all right.”</p>
+<p>So the other girl closed her lips, feeling that if the wife would not dispute her husband’s will it was not her place to do so; but her heart ached with compassion as she bared Pau Tsu’s chest for the stethoscope.</p>
+<p>“It was like preparing a lamb for slaughter,” she told her sister afterwards. “Pau Tsu was motionless, her eyes closed and her lips sealed, while the doctor remained; but after he had left and we two were alone she shuddered and moaned like one bereft of reason. I honestly believe that the examination was worse than death to that little Chinese woman. The modesty of generations of maternal ancestors was crucified as I rolled down the neck of her silk tunic.”</p>
+<p>It was a week after the doctor’s visit, and Pau Tsu, whose cough had yielded to treatment, though she was still far from well, was playing on her lute, and whisperingly singing this little song, said to have been written on a fan which was presented to an ancient Chinese emperor by one of his wives:</p>
+<p style="margin-left: 120px">“Of fresh new silk,<br>
+All snowy white,<br>
+And round as a harvest moon,<br>
+A pledge of purity and love,<br>
+A small but welcome boon.<br>
+While summer lasts,<br>
+When borne in hand,<br>
+Or folded on thy breast,<br>
+Twill gently soothe thy burning brow,<br>
+And charm thee to thy rest.<br>
+But, oh, when Autumn winds blow chill,<br>
+And days are bleak and cold,<br>
+No longer sought, no longer loved,<br>
+’Twill lie in dust and mould.<br>
+This silken fan then deign accept,<br>
+Sad emblem of my lot,<br>
+Caressed and cherished for an hour,<br>
+Then speedily forgot.”</p>
+<p>“Why so melancholy, my pearl?” asked Lin Fo, entering from the street.</p>
+<p>“When a bird is about to die, its notes are sad,” returned Pau Tsu.</p>
+<p>“But thou art not for death—thou art for life,” declared Lin Fo, drawing her towards him and gazing into a face which day by day seemed to grow finer and more transparent.</p>
+<h3>IV</h3>
+<p>A Chinese messenger-boy ran up the street, entered the store of Wan Hom Hing & Co. and asked for the junior partner. When Lin Fo came forward he handed him a dainty, flowered missive, neatly folded and addressed. The receiver opened it and read:</p>
+<p>DEAR AND HONORED HUSBAND,—Your unworthy Pau Tsu lacks the courage to face the ordeal before her. She has, therefore, left you and prays you to obtain a divorce, as is the custom in America, so that you may be happy with the Beautiful One, who is so much your Pau Tsu’s superior. This, she acknowledges, for she sees with your eyes, in which, like a star, the Beautiful One shineth. Else, why should you have your Pau Tsu follow in her footsteps? She has tried to obey your will and to be as an American woman; but now she is very weary, and the terror of what is before her has overcome.</p>
+<p style="margin-left: 1020px">Your stupid thorn,<br>
+PAU TSU</p>
+<p>Mechanically Lin Fo folded the letter and thrust it within his breast pocket. A customer inquired of him the price of a lacquered tray. “I wish you good morning,” he replied, reaching for his hat. The customer and clerks gaped after him as he left the store.</p>
+<p>Out in the street, as fate would have it, he met Adah Raymond. He would have turned aside had she not spoken to him.</p>
+<p>“Whatever is the matter with you, Mr. Wan?” she inquired. “You don’t look yourself at all.”</p>
+<p>“The density of my difficulties you cannot understand,” he replied, striding past her.</p>
+<p>But Adah Raymond was persistent. She had worried lately over Pau Tsu.</p>
+<p>“Something is wrong with your wife,” she declared.</p>
+<p>Lin Fo wheeled around.</p>
+<p>“Do you know where she is?” he asked with quick suspicion.</p>
+<p>“Why, no!” exclaimed the girl in surprise.</p>
+<p>“Well, she has left me.”</p>
+<p>Adah Raymond stood incredulous for a moment, then with indignant eyes she turned upon the deserted husband.</p>
+<p>“You deserve it!” she cried, “I have seen it for some time: your cruel, arbitrary treatment of the dearest, sweetest little soul in the world.”</p>
+<p>“I beg your pardon, Miss Adah,” returned Lin Fo, “but I do not understand. Pau Tsu is heart of my heart. How then could I be cruel to her?”</p>
+<p>“Oh, you stupid!” exclaimed the girl. “You’re a Chinaman, but you’re almost as stupid as an American. Your cruelty consisted in forcing Pau Tsu to be—what nature never intended her to be—an American woman; to adapt and adopt in a few months’ time all our ways and customs. I saw it long ago, but as Pau Tsu was too sweet and meek to see any faults in her man I had not the heart to open her eyes—or yours. Is it not true that she has left you for this reason?”</p>
+<p>“Yes,” murmured Lin Fo. He was completely crushed. “And some other things.”</p>
+<p>“What other things?”</p>
+<p>“She—is—afraid—of—the—doctor.”</p>
+<p>“She is!”—fiercely—“Shame upon you!”</p>
+<p>Lin Fo began to walk on, but the girl kept by his side and continued:</p>
+<p>“You wanted your wife to be an American woman while you remained a Chinaman. For all your clever adaptation of our American ways you are a thorough Chinaman. Do you think an American would dare treat his wife as you have treated yours?”</p>
+<p>Wan Lin Fo made no response. He was wondering how he could ever have wished his gentle Pau Tsu to be like this angry woman. Now his Pau Tsu was gone. His anguish for the moment made him oblivious to the presence of his companion and the words she was saying. His silence softened the American girl. After all, men, even Chinamen, were nothing but big, clumsy boys, and she didn’t believe in kicking a man after he was down.</p>
+<p>“But, cheer up, you’re sure to find her,” said she, suddenly changing her tone. “Probably her maid has friends in Chinatown who have taken them in.”</p>
+<p>“If I find her,” said Lin Fo fervently, “I will not care if she never speaks an American word, and I will take her for a trip to China, so that our son may be born in the country that Heaven loves.”
+“You cannot make too much amends for all she has suffered. As to Americanizing Pau Tsu—that will come in time. I am quite sure that were I transferred to your country and commanded to turn myself into a Chinese woman in the space of two or three months I would prove a sorry disappointment to whomever built their hopes upon me.”</p>
+<p>Many hours elapsed before any trace could be found of the missing one. All the known friends and acquaintances of little Pau Tsu were called upon and questioned; but if they had knowledge of the young wife’s hiding place they refused to divulge it. Though Lin Fo’s face was grave with an unexpressed fear, their sympathies were certainly not with him.</p>
+<p>The seekers were about giving up the search in despair when a little boy, dangling in his hands a string of blue beads, arrested the attention of the young husband. He knew the necklace to be a gift from Pau Tsu to the maid, A-Toy. He had bought it himself. Stopping and questioning the little fellow he learned to his great joy that his wife and her maid were at the boy’s home, under the care of his grandmother, who was a woman learned in herb lore.</p>
+<p>Adah Raymond smiled in sympathy with her companion’s evident great relief.</p>
+<p>“Everything will now be all right,” said she, following Lin Fo as he proceeded to the house pointed out by the lad. Arrived there, she suggested that the husband enter first and alone. She would wait a few moments.</p>
+<p>“Miss Adah,” said Lin Fo, “ten thousand times I beg your pardon, but perhaps you will come to see my wife some other time—not today?”
+He hesitated, embarrassed and humiliated.</p>
+<p>In one silent moment Adah Raymond grasped the meaning of all the morning’s trouble—of all Pau Tsu’s sadness.</p>
+<p>“Lord, what fools we mortals be!” she soliloquized as she walked home alone. “I ought to have known. What else could Pau Tsu have thought?—coming from a land where women have no men friends save their husbands. How she must have suffered under her smiles! Poor, brave little soul!”</p>
+<p><i><small>From </i>Mrs. Spring Fragrance<i> (1912). A previous publication has not been identified as of August 2023.</i></small></p>
+
+<p><a href="#toc">Back to the Start</a><p>
+
+<h2 id="chapter10"> The Chinese Lily </h2>
+<p>Mermei lived in an upstairs room of a Chinatown dwelling-house. There were other little Chinese women living on the same floor, but Mermei never went amongst them. She was not as they were. She was a cripple. A fall had twisted her legs so that she moved around with difficulty and scarred her face so terribly that none save Lin John cared to look upon it. Lin John, her brother, was a laundryman, working for another of his countrymen. Lin John and Mermei had come to San Francisco with their parents when they were small children. Their mother had died the day she entered the foreign city, and the father the week following, both having contracted a fever on the steamer. Mermei and Lin John were then taken in charge by their father’s brother, and although he was a poor man he did his best for them until called away by death.</p>
+<p>Long before her Uncle died Mermei had met with the accident that had made her not as other girls; but that had only strengthened her brother’s affection, and old Lin Wan died happy in the knowledge that Lin John would ever put Mermei before himself.</p>
+<p>So Mermei lived in her little upstairs room, cared for by Lin John, and scarcely an evening passed that he did not call to see her. One evening, however, Lin John failed to appear, and Mermei began to feel very sad and lonely. Mermei could embroider all day in contented silence if she knew that in the evening someone would come to whom she could communicate all the thoughts that filled a small black head that knew nothing of life save what it saw from an upstairs window. Mermei’s window looked down upon the street, and she would sit for hours, pressed close against it, watching those who passed below and all that took place. That day she had seen many things which she had put into her mental portfolio for Lin John’s edification when evening should come. Two yellow-robed priests had passed below on their way to the joss house in the next street; a little bird with a white breast had fluttered against the window pane; a man carrying an image of a Gambling Cash Tiger had entered the house across the street; and six young girls of about her own age, dressed gaily as if to attend a wedding, had also passed over the same threshold.</p>
+<p>But when nine o’clock came and no Lin John, the girl began to cry softly. She did not often shed tears, but for some reason unknown to Mermei herself, the sight of those joyous girls caused sad reflections. In the midst of her weeping a timid knock was heard. It was not Lin John. He always gave a loud rap, then entered without waiting to be bidden. Mermei hobbled to the door, pulled it open, and there, in the dim light of the hall without, beheld a young girl—the most beautiful young girl that Mermei had ever seen—and she stood there extending to Mermei a blossom from a Chinese lily plant. Mermei understood the meaning of the offered flower, and accepting it, beckoned for her visitor to follow her into her room.</p>
+<p>What a delightful hour that was to Mermei! She forgot that she was scarred and crippled, and she and the young girl chattered out their little hearts to one another. “Lin John is dear, but one can’t talk to a man, even if he is a brother, as one can to one the same as oneself,” said Mermei to Sin Far—her new friend, and Sin Far, the meaning of whose name was Pure Flower, or Chinese Lily, answered:
 “Yes, indeed. The woman must be the friend of the woman, and the man the friend of the man. Is it not so in the country that Heaven loves?”
 “What beneficent spirit moved you to come to my door?” asked Mermei.
-“I know not,” replied Sin Far, “save that I was lonely. We have but lately moved here, my sister, my sister’s husband, and myself. My sister is a bride, and there is much to say between her and her husband. Therefore, in the evening, when the day’s duties are done, I am alone. Several times, hearing that you were sick, I ventured to your door; but failed to knock, because always when I drew near, I heard the voice of him whom they call your brother. Tonight, as I returned from an errand for my sister, I heard only the sound of weeping—so I hastened to my room and plucked the lily for you.”
-The next evening when Lin John explained how he had been obliged to work the evening before Mermei answered brightly that that was all right. She loved him just as much as ever and was just as glad to see him as ever; but if work prevented him from calling he was not to worry. She had found a friend who would cheer her loneliness.
-Lin John was surprised, but glad to hear such news, and it came to pass that when he beheld Sin Far, her sweet and gentle face, her pretty drooped eyelids and arched eyebrows, he began to think of apple and peach and plum trees showering their dainty blossoms in the country that Heaven loves.
-It was about four o’clock in the afternoon. Lin John, working in his laundry, paid little attention to the street uproar and the clang of the engines rushing by. He had no thought of what it meant to him and would have continued at his work undisturbed had not a boy put his head into the door and shouted:
-“Lin John, the house in which your sister lives is on fire!”
-The tall building was in flames when Lin John reached it. The uprising tongues licked his face as he sprung up the ladder no other man dared ascend.
-“I will not go. It is best for me to die,” and Mermei resisted her friend with all her puny strength.
-“The ladder will not bear the weight of both of us. You are his sister,” calmly replied Sin Far.
-“But he loves you best. You and he can be happy together. I am not fit to live.”
-“May Lin John decide, Mermei?”
-“Yes, Lin John may decide.”
-Lin John reached the casement. For one awful second he wavered. Then his eyes sought the eyes of his sister’s friend.
-“Come, Mermei,” he called.
-“Where is Sin Far?” asked Mermei when she became conscious.
-“Sin Far is in the land of happy spirits.”
-“And I am still in this sad, dark world.”
-“Speak not so, little one. Your brother loves you and will protect you from the darkness.”
-“But you loved Sin Far better—and she loved you.”
-Lin John bowed his head.
-“Alas!” wept Mermei. “That I should live to make others sad!”
-“Nay,” said Lin John, “Sin Far is happy. And I—I did my duty with her approval, aye, at her bidding. How then, little sister, can I be sad?”
-From Mrs. Spring Fragrance (1912); originally published in Out West 28 (1908).
+“I know not,” replied Sin Far, “save that I was lonely. We have but lately moved here, my sister, my sister’s husband, and myself. My sister is a bride, and there is much to say between her and her husband. Therefore, in the evening, when the day’s duties are done, I am alone. Several times, hearing that you were sick, I ventured to your door; but failed to knock, because always when I drew near, I heard the voice of him whom they call your brother. Tonight, as I returned from an errand for my sister, I heard only the sound of weeping—so I hastened to my room and plucked the lily for you.”</p>
+<p>The next evening when Lin John explained how he had been obliged to work the evening before Mermei answered brightly that that was all right. She loved him just as much as ever and was just as glad to see him as ever; but if work prevented him from calling he was not to worry. She had found a friend who would cheer her loneliness.</p>
+<p>Lin John was surprised, but glad to hear such news, and it came to pass that when he beheld Sin Far, her sweet and gentle face, her pretty drooped eyelids and arched eyebrows, he began to think of apple and peach and plum trees showering their dainty blossoms in the country that Heaven loves.</p>
+<p>It was about four o’clock in the afternoon. Lin John, working in his laundry, paid little attention to the street uproar and the clang of the engines rushing by. He had no thought of what it meant to him and would have continued at his work undisturbed had not a boy put his head into the door and shouted:</p>
+<p>“Lin John, the house in which your sister lives is on fire!”</p>
+<p>The tall building was in flames when Lin John reached it. The uprising tongues licked his face as he sprung up the ladder no other man dared ascend.</p>
+<p>“I will not go. It is best for me to die,” and Mermei resisted her friend with all her puny strength.</p>
+<p>“The ladder will not bear the weight of both of us. You are his sister,” calmly replied Sin Far.</p>
+<p>“But he loves you best. You and he can be happy together. I am not fit to live.”</p>
+<p>“May Lin John decide, Mermei?”</p>
+<p>“Yes, Lin John may decide.”</p>
+<p>Lin John reached the casement. For one awful second he wavered. Then his eyes sought the eyes of his sister’s friend.</p>
+<p>“Come, Mermei,” he called.</p>
+<p>“Where is Sin Far?” asked Mermei when she became conscious.</p>
+<p>“Sin Far is in the land of happy spirits.”</p>
+<p>“And I am still in this sad, dark world.”</p>
+<p>“Speak not so, little one. Your brother loves you and will protect you from the darkness.”</p>
+<p>“But you loved Sin Far better—and she loved you.”</p>
+<p>Lin John bowed his head.</p>
+<p>“Alas!” wept Mermei. “That I should live to make others sad!”</p>
+<p>“Nay,” said Lin John, “Sin Far is happy. And I—I did my duty with her approval, aye, at her bidding. How then, little sister, can I be sad?”</p>
+<p><i><small>From </i>Mrs. Spring Fragrance <i>(1912); originally published in </i>Out West<i> 28 (1908).</i></p></small>
 
-The Three Souls of Ah So Nan
-I
-The sun was conquering the morning fog, dappling with gold the gray waters of San Francisco’s bay, and throwing an emerald radiance over the islands around.
-Close to the long line of wharves lay motionless brigs and schooners, while farther off in the harbor were ships of many nations riding at anchor.
-A fishing fleet was steering in from the open sea, scudding before the wind like a flock of seabirds. All night long had the fishers toiled in the deep. Now they were returning with the results of their labor.
-A young Chinese girl, watching the fleet from the beach of Fisherman’s Cove, shivered in the morning air. Over her blue cotton blouse she wore no wrap; on her head, no covering. All her interest was centred in one lone boat which lagged behind the rest, being heavier freighted. The fisherman was of her own race. When his boat was beached he sprang to her side.
-“O’Yam, what brings you here?” he questioned low, for the curious eyes of his fellow fishermen were on her.
-“Your mother is dying,” she answered.
-The young man spake a few words in English to a Greek whose boat lay alongside his. The Greek answered in the same tongue. Then Fou Wang threw down his nets and, with the girl following, walked quickly along the waterfront, past the wharves, the warehouses, and the grogshops, up a zigzag hill and into the heart of Chinatown. Neither spoke until they reached their destination, a dingy three-storied building.
-The young man began to ascend the stairs, the girl to follow. Fou Wang looked back and shook his head. The girl paused on the lowest step.
-“May I not come?” she pleaded.
-“Today is for sorrow,” returned Fou Wang. “I would, for a time, forget all that belongs to the joy of life.”
-The girl threw her sleeve over her head and backed out of the open door.
-“What is the matter?” inquired a kind voice, and a woman laid her hand upon her shoulder.
-O’Yam’s bosom heaved.
-“Oh, Liuchi,” she cried, “the mother of Fou Wang is dying, and you know what that means to me.”
-The woman eyed her compassionately.
-“Your father, I know,” said she, as she unlocked a door and led her companion into a room opening on to the street, “has long wished for an excuse to set at naught your betrothal to Fou Wang; but I am sure the lad to whom you are both sun and moon will never give him one.”
-She offered O’Yam some tea, but the girl pushed it aside. “You know not Fou Wang,” she replied, sadly yet proudly. “He will follow his conscience, though he lose the sun, the moon, and the whole world.”
-A young woman thrust her head through the door.
-“The mother of Fou Wang is dead,” cried she.
-“She was a good woman—a kind and loving mother,” said Liuchi, as she gazed down upon the still features of her friend.
-The young daughter of Ah So Nan burst into fresh weeping. Her pretty face was much swollen. Ah So Nan had been well loved by her children, and the falling tears were not merely waters of ceremony.
-At the foot of the couch upon which the dead was laid, stood Fou Wang, his face stern and immovable, his eye solemn, yet luminous with a steadfast fire. Over his head was thrown a white cloth. From morn till eve had he stood thus, contemplating the serene countenance of his mother and vowing that nothing should be left undone which could be done to prove his filial affection and desire to comfort her spirit in the land to which it had flown. “Three years, O mother, will I give to thee and grief. Three years will I minister to thy three souls,” he vowed within himself, remembering how sacred to the dead woman were the customs and observances of her own country. They were also sacred to him. Living in America, in the midst of Americans and Americanized Chinese, the family of Fou Wang, with the exception of one, had clung tenaciously to the beliefs of their forefathers.
-“All the living must die, and dying, return to the ground. The limbs and the flesh moulder away below, and hidden away, become the earth of the fields; but the spirit issues forth and is displayed on high in a condition of glorious brightness,” quoted a yellow-robed priest, swinging an incense burner before a small candle-lighted altar.
-It was midnight when the mourning friends of the family of Fou Wang left the chief mourner alone with his dead mother.
-His sister, Fin Fan, and the girl who was his betrothed wife brushed his garments as they passed him by. The latter timidly touched his hand—an involuntary act of sympathy—but if he were conscious of that sympathy, he paid no heed to it, and his gaze never wavered from the face of the dead.
-II
-“My girl, Moy Ding Fong is ready if Fou Wang is not, and you must marry this year. I have sworn you shall.”
-Kien Lung walked out of the room with a determined step. He was an Americanized Chinese and had little regard for what he derided as “the antiquated customs of China,” save when it was to his interest to follow them. He was also a widower desirous of marrying again, but undesirous of having two women of like years, one his wife, the other his daughter, under the same roof-tree.
-Left alone, O’Yam’s thoughts became sorrowful, almost despairing. Six moons had gone by since Ah So Nan had passed away, yet the son of Ah So Nan had not once, during that time, spoken one word to his betrothed wife. Occasionally she had passed him on the street; but always he had gone by with uplifted countenance, and in his eyes the beauty of piety and peace. At least, so it seemed to the girl, and the thought of marriage with him had seemed almost sacrilegious. But now it had come to this. If Fou Wang adhered to his resolve to mourn three years for his mother, what would become of her? She thought of old Moy Ding Fong and shuddered. It was bitter, bitter.
-There was a rapping at the door. A young girl lifted the latch and stepped in. It was Fin Fan, the sister of her betrothed.
-“I have brought my embroidery work,” said she, “I thought we could have a little talk before sundown when I must away to prepare the evening meal.”
-O’Yam, who was glad to see her visitor, brewed some fresh tea and settled down for an exchange of confidences.
-“I am not going to abide by it,” said Fin Fan at last. “Hom Hing is obliged to return to China two weeks hence, and with or without Fou Wang’s consent I go with the man to whom my mother betrothed me.”
-“Without Fou Wang’s consent!” echoed O’Yam.
-“Yes,” returned Fin Fan, snapping off a thread. “Without my honorable brother’s consent.”
-“And your mother gone but six moons!”
-O’Yam’s face wore a shocked expression.
-“Does the fallen leaf grieve because the green one remains on the tree?” queried Fin Fan.
-“You must love Hom Hing well,” murmured O’Yam—“more than Fou Wang loves me.”
-“Nay,” returned her companion, “Fou Wang’s love for you is as big as mine for Hom Hing. It is my brother’s conscience alone that stands between him and you. You know that.”
-“He loves not me,” sighed O’Yam.
-“If he does not love you,” returned Fin Fan, “why, when we heard that you were unwell, did he sleeplessly pace his room night after night until the news came that you were restored to health? Why does he treasure a broken fan you have cast aside?”
-“Ah, well!” smiled O’Yam.
-Fin Fan laughed softly.
-“Fou Wang is not as other men,” said she. “His conscience is an inheritance from his great-great-grandfather.” Her face became pensive as she added: “It is sad to go across the sea without an elder brother’s blessing.”
-She repeated this to Liuchi and Mai Gwi Far, the widow, whom she met on her way home.
-“Why should you,” inquired the latter, “when there is a way by which to obtain it?”
-“How?”
-“Did Ah So Nan leave no garments behind her—such garments as would well fit her three souls—and is it not always easy to delude the serious and the wise?”
-“Ah!”
-III
+<p><a href="#toc">Back to the Start</a><p>
+<h2 id="chapter11"> The Three Souls of Ah So Nan </h2>
 
-O’Yam climbed the stairs to the joss house. The desire for solitude brought her there; but when she had closed the door upon herself, she found that she was not alone. Fou Wang was there. Before the images of the Three Wise Ones he stood, silent, motionless.
-“He is communing with his mother’s spirit,” thought O’Yam. She beheld him through a mist of tears. Love filled her whole being. She dared not move, because she was afraid he would turn and see her, and then, of course, he would go away. She would stay near him for a few moments and then retire.
-The dim light of the place, the quietness in the midst of noise, the fragrance of some burning incense, soothed and calmed her. It was as if all the sorrow and despair that had overwhelmed her when her father had told her to prepare for her wedding with Moy Ding Fong had passed away.
-After a few moments she stepped back softly towards the door. But she was too late. Fou Wang turned and beheld her.
-She fluttered like a bird until she saw that, surprised by her presence, he had forgotten death and thought only of life—of life and love. A glad, eager light shone in his eyes. He made a swift step towards her. Then—he covered his face with his hands.
-“Fou Wang!” cried O’Yam, love at last overcoming superstition, “must I become the wife of Moy Ding Fong?”
-“No, ah no!” he moaned.
-“Then,” said the girl in desperation, “take me to yourself.”
-Fou Wang’s hands fell to his side. For a moment he looked into that pleading face—and wavered.
-A little bird flew in through an open window, and perching itself upon an altar, began twittering.
-Fou Wang started back, the expression on his face changing.
-“A warning from the dead,” he muttered, “a warning from the dead!”
-An iron hand gripped O’Yam’s heart. Life itself seemed to have closed upon her.
-IV
-It was afternoon before evening, and the fog was rolling in from the sea. Quietness reigned in the plot of ground sacred to San Francisco’s Chinese dead when Fou Wang deposited a bundle at the foot of his mother’s grave and prepared for the ceremony of ministering to her three souls.
-The fragrance from a wall of fir trees near by stole to his nostrils as he cleared the weeds and withered leaves from his parent’s resting place. As he placed the bowls of rice and chicken and the vase of incense where he was accustomed to place it, he became dimly conscious of a presence or presences behind the fir wall.
-He sighed deeply. No doubt the shade of his parent was restless, because—
-“Fou Wang,” spake a voice, low but distinct.
-The young man fell upon his knees.
-“Honored Mother!” he cried.
-“Fou Wang,” repeated the voice, “though my name is on thy lips, O’Yam’s is in thy heart.”
-Conscience-stricken, Fou Wang yet retained spirit enough to gasp:
-“Have I not been a dutiful son? Have I not sacrificed all for thee, O Mother! Why, then, dost thou reproach me?”
-“I do not reproach thee,” chanted three voices, and Fou Wang, lifting his head, saw three figures emerge from behind the fir wall. “I do not reproach thee. Thou hast been a most dutiful son, and thy offerings at my grave and in the temple have been fully appreciated. Far from reproaching thee, I am here to say to thee that the dead have regard for the living who faithfully mourn and minister to them, and to bid thee sacrifice no more until thou hast satisfied thine own heart by taking to wife the daughter of Kien Lung and given to thy sister and thy sister’s husband an elder brother’s blessing. Thy departed mother requires not the sacrifice of a broken heart. The fallen leaf grieves not because the green leaf still clings to the bough.”
-Saying this, the three figures flapped the loose sleeves of the well-known garments of Ah So Nan and faded from his vision.
-For a moment Fou Wang gazed after them as if spellbound. Then he arose and rushed towards the fir wall, behind which they seemed to have vanished.
-“Mother, honored parent! Come back and tell me of the new birth!” he cried.
-But there was no response.
-Fou Wang returned to the grave and lighted the incense. But he did not wait to see its smoke ascend. Instead he hastened to the house of Kien Lung and said to the girl who met him at the door:
-“No more shall my longing for thee take the fragrance from the flowers and the light from the sun and moon.”
-From  Mrs. Spring Fragrance (1912); originally published as “The Three Souls of Ho Kiang: A Story of the Pacific Coast” in Traveler (1899).
+<h3>I</h3>
+<p>The sun was conquering the morning fog, dappling with gold the gray waters of San Francisco’s bay, and throwing an emerald radiance over the islands around.</p>
+<p>Close to the long line of wharves lay motionless brigs and schooners, while farther off in the harbor were ships of many nations riding at anchor.</p>
+<p>A fishing fleet was steering in from the open sea, scudding before the wind like a flock of seabirds. All night long had the fishers toiled in the deep. Now they were returning with the results of their labor.</p>
+<p>A young Chinese girl, watching the fleet from the beach of Fisherman’s Cove, shivered in the morning air. Over her blue cotton blouse she wore no wrap; on her head, no covering. All her interest was centred in one lone boat which lagged behind the rest, being heavier freighted. The fisherman was of her own race. When his boat was beached he sprang to her side.</p>
+<p>“O’Yam, what brings you here?” he questioned low, for the curious eyes of his fellow fishermen were on her.</p>
+<p>“Your mother is dying,” she answered.</p>
+<p>The young man spake a few words in English to a Greek whose boat lay alongside his. The Greek answered in the same tongue. Then Fou Wang threw down his nets and, with the girl following, walked quickly along the waterfront, past the wharves, the warehouses, and the grogshops, up a zigzag hill and into the heart of Chinatown. Neither spoke until they reached their destination, a dingy three-storied building.</p>
+<p>The young man began to ascend the stairs, the girl to follow. Fou Wang looked back and shook his head. The girl paused on the lowest step.</p>
+<p>“May I not come?” she pleaded.</p>
+<p>“Today is for sorrow,” returned Fou Wang. “I would, for a time, forget all that belongs to the joy of life.”</p>
+<p>The girl threw her sleeve over her head and backed out of the open door.</p>
+<p>“What is the matter?” inquired a kind voice, and a woman laid her hand upon her shoulder.</p>
+<p>O’Yam’s bosom heaved.</p>
+<p>“Oh, Liuchi,” she cried, “the mother of Fou Wang is dying, and you know what that means to me.”</p>
+<p>The woman eyed her compassionately.</p>
+<p>“Your father, I know,” said she, as she unlocked a door and led her companion into a room opening on to the street, “has long wished for an excuse to set at naught your betrothal to Fou Wang; but I am sure the lad to whom you are both sun and moon will never give him one.”
+She offered O’Yam some tea, but the girl pushed it aside. “You know not Fou Wang,” she replied, sadly yet proudly. “He will follow his conscience, though he lose the sun, the moon, and the whole world.”</p>
+<p>A young woman thrust her head through the door.</p>
+<p>“The mother of Fou Wang is dead,” cried she.</p>
+<p>“She was a good woman—a kind and loving mother,” said Liuchi, as she gazed down upon the still features of her friend.</p>
+<p>The young daughter of Ah So Nan burst into fresh weeping. Her pretty face was much swollen. Ah So Nan had been well loved by her children, and the falling tears were not merely waters of ceremony.</p>
+<p>At the foot of the couch upon which the dead was laid, stood Fou Wang, his face stern and immovable, his eye solemn, yet luminous with a steadfast fire. Over his head was thrown a white cloth. From morn till eve had he stood thus, contemplating the serene countenance of his mother and vowing that nothing should be left undone which could be done to prove his filial affection and desire to comfort her spirit in the land to which it had flown. “Three years, O mother, will I give to thee and grief. Three years will I minister to thy three souls,” he vowed within himself, remembering how sacred to the dead woman were the customs and observances of her own country. They were also sacred to him. Living in America, in the midst of Americans and Americanized Chinese, the family of Fou Wang, with the exception of one, had clung tenaciously to the beliefs of their forefathers.</p>
+<p>“All the living must die, and dying, return to the ground. The limbs and the flesh moulder away below, and hidden away, become the earth of the fields; but the spirit issues forth and is displayed on high in a condition of glorious brightness,” quoted a yellow-robed priest, swinging an incense burner before a small candle-lighted altar.
+It was midnight when the mourning friends of the family of Fou Wang left the chief mourner alone with his dead mother.</p>
+<p>His sister, Fin Fan, and the girl who was his betrothed wife brushed his garments as they passed him by. The latter timidly touched his hand—an involuntary act of sympathy—but if he were conscious of that sympathy, he paid no heed to it, and his gaze never wavered from the face of the dead.</p>
+<h3>II</h3>
+<p>“My girl, Moy Ding Fong is ready if Fou Wang is not, and you must marry this year. I have sworn you shall.”</p>
+<p>Kien Lung walked out of the room with a determined step. He was an Americanized Chinese and had little regard for what he derided as “the antiquated customs of China,” save when it was to his interest to follow them. He was also a widower desirous of marrying again, but undesirous of having two women of like years, one his wife, the other his daughter, under the same roof-tree.</p>
+<p>Left alone, O’Yam’s thoughts became sorrowful, almost despairing. Six moons had gone by since Ah So Nan had passed away, yet the son of Ah So Nan had not once, during that time, spoken one word to his betrothed wife. Occasionally she had passed him on the street; but always he had gone by with uplifted countenance, and in his eyes the beauty of piety and peace. At least, so it seemed to the girl, and the thought of marriage with him had seemed almost sacrilegious. But now it had come to this. If Fou Wang adhered to his resolve to mourn three years for his mother, what would become of her? She thought of old Moy Ding Fong and shuddered. It was bitter, bitter.</p>
+<p>There was a rapping at the door. A young girl lifted the latch and stepped in. It was Fin Fan, the sister of her betrothed.</p>
+<p>“I have brought my embroidery work,” said she, “I thought we could have a little talk before sundown when I must away to prepare the evening meal.”</p>
+<p>O’Yam, who was glad to see her visitor, brewed some fresh tea and settled down for an exchange of confidences.</p>
+<p>“I am not going to abide by it,” said Fin Fan at last. “Hom Hing is obliged to return to China two weeks hence, and with or without Fou Wang’s consent I go with the man to whom my mother betrothed me.”</p>
+<p>“Without Fou Wang’s consent!” echoed O’Yam.</p>
+<p>“Yes,” returned Fin Fan, snapping off a thread. “Without my honorable brother’s consent.”</p>
+<p>“And your mother gone but six moons!”</p>
+<p>O’Yam’s face wore a shocked expression.</p>
+<p>“Does the fallen leaf grieve because the green one remains on the tree?” queried Fin Fan.</p>
+<p>“You must love Hom Hing well,” murmured O’Yam—“more than Fou Wang loves me.”</p>
+<p>“Nay,” returned her companion, “Fou Wang’s love for you is as big as mine for Hom Hing. It is my brother’s conscience alone that stands between him and you. You know that.”</p>
+<p>“He loves not me,” sighed O’Yam.</p>
+<p>“If he does not love you,” returned Fin Fan, “why, when we heard that you were unwell, did he sleeplessly pace his room night after night until the news came that you were restored to health? Why does he treasure a broken fan you have cast aside?”</p>
+<p>“Ah, well!” smiled O’Yam.</p>
+<p>Fin Fan laughed softly.</p>
+<p>“Fou Wang is not as other men,” said she. “His conscience is an inheritance from his great-great-grandfather.” Her face became pensive as she added: “It is sad to go across the sea without an elder brother’s blessing.”</p>
+<p>She repeated this to Liuchi and Mai Gwi Far, the widow, whom she met on her way home.</p>
+<p>“Why should you,” inquired the latter, “when there is a way by which to obtain it?”</p>
+<p>“How?”</p>
+<p>“Did Ah So Nan leave no garments behind her—such garments as would well fit her three souls—and is it not always easy to delude the serious and the wise?”</p>
+<p>“Ah!”</p>
+<h3>III</h3>
 
-“Its Wavering Image”
-I
-Pan was a half white, half Chinese girl. Her mother was dead, and Pan lived with her father who kept an Oriental Bazaar on Dupont Street. All her life had Pan lived in Chinatown, and if she were different in any sense from those around her, she gave little thought to it. It was only after the coming of Mark Carson that the mystery of her nature began to trouble her.
-They met at the time of the boycott of the Sam Yups by the See Yups. After the heat and dust and unsavoriness of the highways and byways of Chinatown, the young reporter who had been sent to find a story, had stepped across the threshold of a cool, deep room, fragrant with the odor of dried lilies and sandalwood, and found Pan.
-She did not speak to him, nor he to her. His business was with the spectacled merchant, who, with a pointed brush, was making up accounts in brown paper books and rolling balls in an abacus box. As to Pan, she always turned from whites. With her father’s people she was natural and at home; but in the presence of her mother’s she felt strange and constrained, shrinking from their curious scrutiny as she would from the sharp edge of a sword.
-When Mark Carson returned to the office, he asked some questions concerning the girl who had puzzled him. What was she? Chinese or white? The city editor answered him, adding: “She is an unusually bright girl, and could tell more stories about the Chinese than any other person in this city—if she would.”
-Mark Carson had a determined chin, clever eyes, and a tone to his voice which easily won for him the confidence of the unwary. In the reporter’s room he was spoken of as “a man who would sell his soul for a story.”
-After Pan’s first shyness had worn off, he found her bewilderingly frank and free with him; but he had all the instincts of a gentleman save one, and made no ordinary mistake about her. He was Pan’s first white friend. She was born a Bohemian, exempt from the conventional restrictions imposed upon either the white or Chinese woman; and the Oriental who was her father mingled with his affection for his child so great a respect for and trust in the daughter of the dead white woman, that everything she did or said was right to him. And Pan herself! A white woman might pass over an insult; a Chinese woman fail to see one. But Pan! He would be a brave man indeed who offered one to childish little Pan.
-All this Mark Carson’s clear eyes perceived, and with delicate tact and subtlety he taught the young girl that, all unconscious until his coming, she had lived her life alone. So well did she learn this lesson that it seemed at times as if her white self must entirely dominate and trample under foot her Chinese.
-Meanwhile, in full trust and confidence, she led him about Chinatown, initiating him into the simple mystery and history of many things, for which she, being of her father’s race, had a tender regard and pride. For her sake he was received as a brother by the yellow-robed priest in the joss house, the Astrologer of Prospect Place, and other conservative Chinese. The Water Lily Club opened its doors to him when she knocked, and the Sublimely Pure Brothers’ organization admitted him as one of its honorary members, thereby enabling him not only to see but to take part in a ceremony in which no American had ever before participated. With her by his side, he was welcomed wherever he went. Even the little Chinese women in the midst of their babies, received him with gentle smiles, and the children solemnly munched his candies and repeated nursery rhymes for his edification.
-He enjoyed it all, and so did Pan. They were both young and light-hearted. And when the afternoon was spent, there was always that high room open to the stars, with its China bowls full of flowers and its big colored lanterns, shedding a mellow light.
-Sometimes there was music. A Chinese band played three evenings a week in the gilded restaurant beneath them, and the louder the gongs sounded and the fiddlers fiddled, the more delighted was Pan. Just below the restaurant was her father’s bazaar. Occasionally Mun You would stroll upstairs and inquire of the young couple if there was anything needed to complete their felicity, and Pan would answer: “Thou only.” Pan was very proud of her Chinese father. “I would rather have a Chinese for a father than a white man,” she often told Mark Carson. The last time she had said that he had asked whom she would prefer for a husband, a white man or a Chinese. And Pan, for the first time since he had known her, had no answer for him.
-II
-It was a cool, quiet evening, after a hot day. A new moon was in the sky.
-“How beautiful above! How unbeautiful below!” exclaimed Mark Carson involuntarily.
-He and Pan had been gazing down from their open retreat into the lantern-lighted, motley-thronged street beneath them.
-“Perhaps it isn’t very beautiful,” replied Pan, “but it is here I live. It is my home.” Her voice quivered a little.
-He leaned towards her suddenly and grasped her hands.
-“Pan,” he cried, “you do not belong here. You are white—white.”
-“No! no!” protested Pan.
-“You are,” he asserted. “You have no right to be here.”
-“I was born here,” she answered, “and the Chinese people look upon me as their own.”
-“But they do not understand you,” he went on. “Your real self is alien to them. What interest have they in the books you read—the thoughts you think?”
-“They have an interest in me,” answered faithful Pan. “Oh, do not speak in that way any more.”
-“But I must,” the young man persisted. “Pan, don’t you see that you have got to decide what you will be—Chinese or white? You cannot be both.”
-“Hush! Hush!” bade Pan. “I do not love you when you talk to me like that.”
-A little Chinese boy brought tea and saffron cakes. He was a picturesque little fellow with a quaint manner of speech. Mark Carson jested merrily with him, while Pan holding a tea-bowl between her two small hands laughed and sipped.
-When they were alone again, the silver stream and the crescent moon became the objects of their study. It was a very beautiful evening.
-After a while Mark Carson, his hand on Pan’s shoulder, sang:
-“And forever, and forever,
-As long as the river flows,
-As long as the heart has passions,
-As long as life has woes,
-The moon and its broken reflection,
-And its shadows shall appear,
-As the symbol of love in heaven,
-And its wavering image here.”
-Listening to that irresistible voice singing her heart away, the girl broke down and wept. She was so young and so happy.
-“Look up at me,” bade Mark Carson. “Oh, Pan! Pan! Those tears prove that you are white.”
-Pan lifted her wet face.
-“Kiss me, Pan,” said he. It was the first time.
-Next morning Mark Carson began work on the special-feature article which he had been promising his paper for some weeks.
-III
-Cursed be his ancestors,” bayed Man You.
-He cast a paper at his daughter’s feet and left the room.
-Startled by her father’s unwonted passion, Pan picked up the paper, and in the clear passionless light of the afternoon read that which forever after was blotted upon her memory.
-“Betrayed! Betrayed! Betrayed to be a betrayer!”
-It burnt red hot; agony unrelieved by words, unassuaged by tears.
-So till evening fell. Then she stumbled up the dark stairs which led to the high room open to the stars and tried to think it out. Someone had hurt her. Who was it? She raised her eyes. There shone: “Its Wavering Image.” It helped her to lucidity. He had done it. Was it unconsciously dealt—that cruel blow? Ah, well did he know that the sword which pierced her through others, would carry with it to her own heart, the pain of all those others. None knew better than he that she, whom he had called “a white girl, a white woman,” would rather that her own naked body and soul had been exposed, than that things, sacred and secret to those who loved her, should be cruelly unveiled and ruthlessly spread before the ridiculing and uncomprehending foreigner. And knowing all this so well, so well, he had carelessly sung her heart away, and with her kiss upon his lips, had smilingly turned and stabbed her. She, who was of the race that remembers.
-IV
-Mark Carson, back in the city after an absence of two months, thought of Pan. He would see her that very evening. Dear little Pan, pretty Pan, clever Pan, amusing Pan; Pan, who was always so frankly glad to have him come to her; so eager to hear all that he was doing; so appreciative, so inspiring, so loving. She would have forgotten that article by now. Why should a white woman care about such things? Her true self was above it all. Had he not taught her that during the weeks in which they had seen so much of one another? True, his last lesson had been a little harsh, and as yet he knew not how she had taken it; but even if its roughness had hurt and irritated, there was a healing balm, a wizard’s oil which none knew so well as he how to apply.
-But for all these soothing reflections, there was an undercurrent of feeling which caused his steps to falter on his way to Pan. He turned into Portsmouth Square and took a seat on one of the benches facing the fountain erected in memory of Robert Louis Stevenson. Why had Pan failed to answer the note he had written telling her of the assignment which would keep him out of town for a couple of months and giving her his address? Would Robert Louis Stevenson have known why? Yes—and so did Mark Carson. But though Robert Louis Stevenson would have boldly answered himself the question, Mark Carson thrust it aside, arose, and pressed up the hill.
-“I knew they would not blame you, Pan!”
-“Yes.”
-“And there was no word of you, dear. I was careful about that, not only for your sake, but for mine.”
-Silence.
-“It is mere superstition anyway. These things have got to be exposed and done away with.”
-Still silence.
-Mark Carson felt strangely chilled. Pan was not herself tonight. She did not even look herself. He had been accustomed to seeing her in American dress. Tonight she wore the Chinese costume. But for her clear-cut features she might have been a Chinese girl. He shivered.
-“Pan,” he asked, “why do you wear that dress?”
-Within her sleeves Pan’s small hands struggled together; but her face and voice were calm.
-“Because I am a Chinese woman,” she answered.
-“You are not,” cried Mark Carson, fiercely. “You cannot say that now, Pan. You are a white woman—white. Did your kiss not promise me that?”
-“A white woman!” echoed Pan her voice rising high and clear to the stars above them. “I would not be a white woman for all the world. You are a white man. And what is a promise to a white man!”
-When she was lying low, the element of Fire having raged so fiercely within her that it had almost shriveled up the childish frame, there came to the house of Man You a little toddler who could scarcely speak. Climbing upon Pan’s couch, she pressed her head upon the sick girl’s bosom. The feel of that little head brought tears.
-“Lo!” said the mother of the toddler. “Thou wilt bear a child thyself some day, and all the bitterness of this will pass away.”
-And Pan, being a Chinese woman, was comforted.
-From Mrs. Spring Fragrance (1912). A previous publication has not been identified as of August 2023.
+<p>O’Yam climbed the stairs to the joss house. The desire for solitude brought her there; but when she had closed the door upon herself, she found that she was not alone. Fou Wang was there. Before the images of the Three Wise Ones he stood, silent, motionless.</p>
+<p>“He is communing with his mother’s spirit,” thought O’Yam. She beheld him through a mist of tears. Love filled her whole being. She dared not move, because she was afraid he would turn and see her, and then, of course, he would go away. She would stay near him for a few moments and then retire.</p>
+<p>The dim light of the place, the quietness in the midst of noise, the fragrance of some burning incense, soothed and calmed her. It was as if all the sorrow and despair that had overwhelmed her when her father had told her to prepare for her wedding with Moy Ding Fong had passed away.</p>
+<p>After a few moments she stepped back softly towards the door. But she was too late. Fou Wang turned and beheld her.</p>
+<p>She fluttered like a bird until she saw that, surprised by her presence, he had forgotten death and thought only of life—of life and love. A glad, eager light shone in his eyes. He made a swift step towards her. Then—he covered his face with his hands.</p>
+<p>“Fou Wang!” cried O’Yam, love at last overcoming superstition, “must I become the wife of Moy Ding Fong?”</p>
+<p>“No, ah no!” he moaned.</p>
+<p>“Then,” said the girl in desperation, “take me to yourself.”</p>
+<p>Fou Wang’s hands fell to his side. For a moment he looked into that pleading face—and wavered.</p>
+<p>A little bird flew in through an open window, and perching itself upon an altar, began twittering.</p>
+<p>Fou Wang started back, the expression on his face changing.</p>
+<p>“A warning from the dead,” he muttered, “a warning from the dead!”</p>
+<p>An iron hand gripped O’Yam’s heart. Life itself seemed to have closed upon her.</p>
+<h3>IV</h3>
+<p>It was afternoon before evening, and the fog was rolling in from the sea. Quietness reigned in the plot of ground sacred to San Francisco’s Chinese dead when Fou Wang deposited a bundle at the foot of his mother’s grave and prepared for the ceremony of ministering to her three souls.</p>
+<p>The fragrance from a wall of fir trees near by stole to his nostrils as he cleared the weeds and withered leaves from his parent’s resting place. As he placed the bowls of rice and chicken and the vase of incense where he was accustomed to place it, he became dimly conscious of a presence or presences behind the fir wall.</p>
+<p>He sighed deeply. No doubt the shade of his parent was restless, because—</p>
+<p>“Fou Wang,” spake a voice, low but distinct.</p>
+<p>The young man fell upon his knees.</p>
+<p>“Honored Mother!” he cried.</p>
+<p>“Fou Wang,” repeated the voice, “though my name is on thy lips, O’Yam’s is in thy heart.”</p>
+<p>Conscience-stricken, Fou Wang yet retained spirit enough to gasp:</p>
+<p>“Have I not been a dutiful son? Have I not sacrificed all for thee, O Mother! Why, then, dost thou reproach me?”</p>
+<p>“I do not reproach thee,” chanted three voices, and Fou Wang, lifting his head, saw three figures emerge from behind the fir wall. “I do not reproach thee. Thou hast been a most dutiful son, and thy offerings at my grave and in the temple have been fully appreciated. Far from reproaching thee, I am here to say to thee that the dead have regard for the living who faithfully mourn and minister to them, and to bid thee sacrifice no more until thou hast satisfied thine own heart by taking to wife the daughter of Kien Lung and given to thy sister and thy sister’s husband an elder brother’s blessing. Thy departed mother requires not the sacrifice of a broken heart. The fallen leaf grieves not because the green leaf still clings to the bough.”</p>
+<p>Saying this, the three figures flapped the loose sleeves of the well-known garments of Ah So Nan and faded from his vision.</p>
+<p>For a moment Fou Wang gazed after them as if spellbound. Then he arose and rushed towards the fir wall, behind which they seemed to have vanished.</p>
+<p>“Mother, honored parent! Come back and tell me of the new birth!” he cried.</p>
+<p>But there was no response.</p>
+<p>Fou Wang returned to the grave and lighted the incense. But he did not wait to see its smoke ascend. Instead he hastened to the house of Kien Lung and said to the girl who met him at the door:</p>
+<p>“No more shall my longing for thee take the fragrance from the flowers and the light from the sun and moon.”</p>
+<p><i><small>From  </i>Mrs. Spring Fragrance<i> (1912); originally published as “The Three Souls of Ho Kiang: A Story of the Pacific Coast” in </i>Traveler <i>(1899).</i></p></small>
 
-The Smuggling of Tie Co
-Editor’s note: This story was originally published in Land of Sunshine in July of 1900, making it one of the earlier stories to later appear in Mrs. Spring Fragrance. Eaton was still working out her pen name; this story was credited to “Sui Sin Fah.”
-Amongst the daring men who engage in contrabanding Chinese from Canada into the United States Jack Fabian ranks as the boldest in deed, the cleverest in scheming, and the most successful in outwitting Government officers.
-Uncommonly strong in person, tall and well built, with fine features and a pair of keen, steady blue eyes, gifted with a sort of rough eloquence and of much personal fascination, it is no wonder that we fellows regard him as our chief and are bound to follow where he leads. With Fabian at our head we engage in the wildest adventures and find such places of concealment for our human goods as none but those who take part in a desperate business would dare to dream of.
-Jack, however, is not in search of glory—money is his object. One day when a romantic friend remarked that it was very kind of him to help the poor Chinamen over the border, a cynical smile curled his moustache.
-“Kind!” he echoed. “Well, I haven’t yet had time to become sentimental over the matter. It is merely a matter of dollars and cents, though, of course, to a man of my strict principles, there is a certain pleasure to be derived from getting ahead of the Government. A poor devil does now and then like to take a little out of those millionaire concerns.”
-It was last summer and Fabian was somewhat down on his luck. A few months previously, to the surprise of us all, he had made a blunder, which resulted in his capture by American officers, and he and his companion, together with five uncustomed Chinamen, had been lodged in a county jail to await trial.
-But loafing behind bars did not agree with Fabian’s energetic nature, so one dark night, by means of a saw which had been given to him by a very innocent-looking visitor the day before, he made good his escape, and after a long, hungry, detective-hunted tramp through woods and bushes, found himself safe in Canada.
-He had had a three months’ sojourn in prison, and during that time some changes had taken place in smuggling circles. Some ingenious lawyers had devised a scheme by which any young Chinaman on payment of a couple of hundred dollars could procure a father which father would swear the young Chinaman was born in America—thus proving him to be an American citizen with the right to breathe United States air. And the Chinese themselves, assisted by some white men, were manufacturing certificates establishing their right to cross the border, and in that way were crossing over in large batches.
-That sort of trick naturally spoiled our fellows’ business, but we all know that “Yankee sharper” games can hold good only for a short while; so we bided our time and waited in patience.
-Not so Fabian. He became very restless and wandered around with glowering looks. He was sitting one day in a laundry, the proprietor of which had sent out many a boy through our chief’s instrumentality. Indeed, Fabian is said to have “rushed over” to “Uncle Sam” himself some five hundred Celestials, and if Fabian had not been an exceedingly generous fellow he might now be a gentleman of leisure instead of an unimmortalized Rob Roy.
-Well, Fabian was sitting in the laundry of Chen Ting Lung & Co., telling a nice-looking young Chinaman that he was so broke that he’d be willing to take over even one man at a time.
-The young Chinaman looked thoughtfully into Fabian’s face. “Would you take me?” he inquired.
-“Take you!” echoed Fabian. “Why, you are one of the ‘bosses’ here. You don’t mean to say that you are hankering after a place where it would take you years to get as high up in the ‘washee, washee’ business as you are now?”
-“Yes, I want go,” replied Tie Co. “I want go to New York and I will pay you fifty dollars and all expense if you take me, and not say you take me to my partners.”
-“There’s no accounting for a Chinaman,” muttered Fabian; but he gladly agreed to the proposal and a night was fixed.
-“What is the name of the firm you are going to?” inquired the white man.
-Chinamen who intend being smuggled always make arrangements with some Chinese firm in the States to receive them.
-Tie Co hesitated, then mumbled something which sounded like “Quong Wo Yuen” or “Long Lo Toon,” Fabian was not sure which, but did not repeat the question, not being sufficiently interested.
-He left the laundry, nodding goodbye to Tie Co as he passed outside the window, and the Chinaman nodded back, a faint smile on his small, delicate face lingering until Fabian’s receding form was lost to view.
-It was a pleasant night on which the two men set out. Fabian had a rig waiting at the corner of the street; Tie Co, dressed in citizen’s clothes, stepped into it unobserved, and the smuggler and would-be-smuggled were soon out of the city. They had a merry drive, for Fabian’s liking for Tie Co was very real; he had known him for several years, and the lad’s quick intelligence interested him.
-The second day they left their horse at a farmhouse, where Fabian would call for it on his return trip, crossed a river in a row-boat before the sun was up, and plunged into a wood in which they would remain till evening. It was raining, but through mud and wind and rain they trudged slowly and heavily.
-Tie Co paused now and then to take breath. Once Fabian remarked:
-“You are not a very strong lad, Tie Co. It’s a pity you have to work as you do for your living,” and Tie Co had answered:
-“Work velly good! No work, Tie Co die.”
-Fabian looked at the lad protectingly, wondering in a careless way why this Chinaman seemed to him so different from the others.
-“Wouldn’t you like to be back in China?” he asked.
-“No,” said Tie Co decidedly.
-“Why?”
-“I not know why,” answered Tie Co.
-Fabian laughed.
-“Haven’t you got a nice little wife at home?” he continued. “I hear you people marry very young.”
-“No, I no wife,” asserted his companion with a choky little laugh. “I never have no wife.”
-“Nonsense,” joked Fabian. “Why, Tie Co, think how nice it would be to have a little woman cook your rice and to love you.”
-“I not have wife,” repeated Tie Co seriously. “I not like woman, I like man.”
-“You confirmed old bachelor!” ejaculated Fabian.
-“I like you,” said Tie Co, his boyish voice sounding clear and sweet in the wet woods. “I like you so much that I want go to New York, so you make fifty dollars. I no flend in New York.”
-“What!” exclaimed Fabian.
-“Oh, I solly I tell you, Tie Co velly solly,” and the Chinese boy shuffled on with bowed head.
-“Look here, Tie Co,” said Fabian; “I won’t have you do this for my sake. You have been very foolish, and I don’t care for your fifty dollars. I do not need it half as much as you do. Good God! how ashamed you make me feel—I who have blown in my thousands in idle pleasures cannot take the little you have slaved for. We are in New York State now. When we get out of this wood we will have to walk over a bridge which crosses a river. On the other side, not far from where we cross, there is a railway station. Instead of buying you a ticket for the city of New York I shall take train with you for Toronto.”
-Tie Co did not answer—he seemed to be thinking deeply. Suddenly he pointed to where some fallen trees lay.
-“Two men run away behind there,” cried he.
-Fabian looked round them anxiously; his keen eyes seemed to pierce the gloom in his endeavor to catch a glimpse of any person; but no man was visible, and, save the dismal sighing of the wind among the trees, all was quiet.
-“There’s no one,” he said somewhat gruffly—he was rather startled, for they were a mile over the border and he knew that the Government officers were on a sharp lookout for him, and felt, despite his strength, if any trick or surprise were attempted it would go hard with him.
-“If they catch you with me it be too bad,” sententiously remarked Tie Co. It seemed as if his words were in answer to Fabian’s thoughts.
-“But they will not catch us; so cheer up your heart, my boy,” replied the latter, more heartily than he felt.
-“If they come, and I not with you, they not take you and it be all lite.”
-“Yes,” assented Fabian, wondering what his companion was thinking about.
-They emerged from the woods in the dusk of the evening and were soon on the bridge crossing the river. When they were near the centre Tie Co stopped and looked into Fabian’s face.
-“Man come for you, I not here, man no hurt you.” And with the words he whirled like a flash over the rail.
-In another flash Fabian was after him. But though a first-class swimmer, the white man’s efforts were of no avail, and Tie Co was borne away from him by the swift current.
-Cold and dripping wet, Fabian dragged himself up the bank and found himself a prisoner.
-“So your Chinaman threw himself into the river. What was that for?” asked one of the Government officers.
-“I think he was out of his head,” replied Fabian. And he fully believed what he uttered.
-“We tracked you right through the woods,” said another of the captors. “We thought once the boy caught sight of us.”
-Fabian remained silent.
-Tie Co’s body was picked up the next day. Tie Co’s body, and yet not Tie Co, for Tie Co was a youth, and the body found with Tie Co’s face and dressed in Tie Co’s clothes was the body of a girl—a woman.
-Nobody in the laundry of Chen Ting Lung & Co.—no Chinaman in Canada or New York—could explain the mystery. Tie Co had come out to Canada with a number of other youths. Though not very strong he had always been a good worker and “very smart.” He had been quiet and reserved among his own countrymen; had refused to smoke tobacco or opium, and had been a regular attendant at Sunday schools and a great favorite with Mission ladies.
-Fabian was released in less than a week. “No evidence against him,” said the Commissioner, who was not aware that the prisoner was the man who had broken out of jail but a month before.
-Fabian is now very busy; there are lots of boys taking his helping hand over the border, but none of them are like Tie Co; and sometimes, between whiles, Fabian finds himself pondering long and earnestly over the mystery of Tie Co’s life—and death.
-From Mrs. Spring Fragrance (1912); originally published in Land of Sunshine (July 1900).
+<p><a href="#toc">Back to the Start</a><p>
 
-Tian Shan’s Kindred Spirit
-Had Tian Shan been an American and China to him a forbidden country, his daring exploits and thrilling adventures would have furnished inspiration for many a newspaper and magazine article, novel, and short story. As a hero, he would certainly have far outshone Dewey, Peary, or Cook. Being, however, a Chinese, and the forbidden country America, he was simply recorded by the American press as “a wily Oriental, who, ‘by ways that are dark and tricks that are vain,’ is eluding the vigilance of our brave customs officers.” As to his experiences, the only one who took any particular interest in them was Fin Fan.
-Fin Fan was Tian Shan’s kindred spirit. She was the daughter of a Canadian Chinese storekeeper and the object of much concern to both Protestant Mission ladies and good Catholic sisters.
-“I like learn talk and dress like you,” she would respond to attempts to bring her into the folds, “but I not want think like you. Too much discuss.” And when it was urged upon her that her father was a convert—the Mission ladies declaring, to the Protestant faith, and the nuns, to the Catholic—she would calmly answer: “That so? Well, I not my father. Beside I think my father just say he Catholic (or Protestant) for sake of be amiable to you. He good-natured man and want to please you.”
-This independent and original stand led Fin Fan to live, as it were, in an atmosphere of outlawry even amongst her own countrywomen, for all proper Chinese females in Canada and America, unless their husbands are men of influence in their own country, conform upon request to the religion of the women of the white race.
-Fin Fan sat on her father’s doorstep amusing herself with a ball of yarn and a kitten. She was a pretty girl, with the delicate features, long slanting eyes, and pouting mouth of the women of Soo Chow, to which province her dead mother had belonged.
-Tian Shan came along.
-“Will you come for a walk around the mountain?” asked he.
-“I don’t know,” answered Fin Fan.
-“Do!” he urged.
-The walk around the mountain is enjoyable at all seasons, but particularly so in the fall of the year when the leaves on the trees are turning all colors, making the mount itself look like one big posy.
-The air was fresh, sweet, and piny. As Tian Shan and Fin Fan walked, they chatted gaily—not so much of Tian Shan or Fin Fan as of the brilliant landscape, the sun shining through a grove of black-trunked trees with golden leaves, the squirrels that whisked past them, the birds twittering and soliloquizing over their vanishing homes, and many other objects of nature. Tian Shan’s roving life had made him quite a woodsman, and Fin Fan—well, Fin Fan was his kindred spirit.
-A large oak, looking like a smouldering pyre, invited them to a seat under its boughs.
-After happily munching half a dozen acorns, Fin Fan requested to be told all about Tian Shan’s last adventure. Every time he crossed the border, he was obliged to devise some new scheme by which to accomplish his object, and as he usually succeeded, there was always a new story to tell whenever he returned to Canada.
-This time he had run across the river a mile above the Lachine Rapids in an Indian war canoe, and landed in a cove surrounded by reefs, where pursuit was impossible. It had been a perilous undertaking, for he had had to make his way right through the swift current of the St. Lawrence, the turbulent rapids so near that it seemed as if indeed he must yield life to the raging cataract. But with indomitable courage he had forged ahead, the canoe, with every plunge of his paddles, rising on the swells and cutting through the whitecaps, until at last he reached the shore for which he had risked so much.
-Fin Fan was thoughtful for a few moments after listening to his narration.
-“Why,” she queried at last, “when you can make so much more money in the States than in Canada, do you come so often to this side and endanger your life as you do when returning?”
-Tian Shan was puzzled himself. He was not accustomed to analyzing the motives for his actions.
-Seeing that he remained silent, Fin Fan went on:
-“I think,” said she, “that it is very foolish of you to keep running backwards and forwards from one country to another, wasting your time and accomplishing nothing.”
-Tian Shan dug up some soft, black earth with the heels of his boots.
-“Perhaps it is,” he observed.
-That night Tian Shan’s relish for his supper was less keen than usual, and when he laid his head upon his pillow, instead of sleeping, he could only think of Fin Fan. Fin Fan! Fin Fan! Her face was before him, her voice in his ears. The clock ticked Fin Fan; the cat purred it; a little mouse squeaked it; a night-bird sang it. He tossed about, striving to think what ailed him. With the first glimmer of morning came knowledge of his condition. He loved Fin Fan, even as the American man loves the girl he would make his wife.
-Now Tian Shan, unlike most Chinese, had never saved money and, therefore, had no home to offer Fin Fan. He knew, also, that her father had his eye upon a young merchant in Montreal, who would make a very desirable son-in-law.
-In the early light of the morning Tian Shan arose and wrote a letter. In this letter, which was written with a pointed brush on long yellow sheets of paper, he told Fin Fan that, as she thought it was foolish, he was going to relinquish the pleasure of running backwards and forwards across the border, for some time at least. He was possessed of a desire to save money so that he could have a wife and a home. In a year, perhaps, he would see her again.
-Lee Ping could hardly believe that his daughter was seriously opposed to becoming the wife of such a good-looking, prosperous young merchant as Wong Ling. He tried to bring her to reason, but instead of yielding her will to the parental, she declared that she would take a place as a domestic to some Canadian lady with whom she had become acquainted at the Mission sooner than wed the man her father had chosen.
-“Is not Wong Ling a proper man?” inquired the amazed parent.
-“Whether he is proper or improper makes no difference to me,” returned Fin Fan. “I will not marry him, and the law in this country is so that you cannot compel me to wed against my will.”
-Lee Ping’s good-natured face became almost pitiful as he regarded his daughter. Only a hen who has hatched a duckling and sees it take to the water for the first time could have worn such an expression.
-Fin Fan’s heart softened. She was as fond of her father as he of her. Sidling up to him, she began stroking his sleeve in a coaxing fashion.
-“For a little while longer I wish only to stay with you,” said she.
-Lee Ping shook his head, but gave in.
-“You must persuade her yourself,” said he to Wong Ling that evening. “We are in a country where the sacred laws and customs of China are as naught.”
-So Wong Ling pressed his own suit. He was not a bad-looking fellow, and knew well also how to honey his speech. Moreover, he believed in paving his way with offerings of flowers, trinkets, sweetmeats.
-Fin Fan looked, listened, and accepted. Every gift that could be kept was carefully put by in a trunk which she hoped some day to take to New York. “They will help to furnish Tian Shan’s home,” said she.
-Twelve moons had gone by since Tian Shan had begun to think of saving and once again he was writing to Fin Fan.
-“I have made and I have saved,” wrote he. “Shall I come for you?”
-And by return mail came an answer which was not “No.”
-Of course, Fin Fan’s heart beat high with happiness when Tian Shan walked into her father’s store; but to gratify some indescribable feminine instinct she simply nodded coolly in his direction, and continued what might be called a flirtation with Wong Ling, who had that morning presented her with the first Chinese lily of the season and a box of the best preserved ginger.
-Tian Shan sat himself down on a box of dried mushrooms and glowered at his would-be rival, who, unconscious of the fact that he was making a third when there was needed but a two, chattered on like a running stream. Thoughtlessly and kittenishly Fin Fan tossed a word, first to this one, and next to that; and whilst loving with all her heart one man, showed much more favor to the other.
-Finally Tian Shan arose from the mushrooms and marched over to the counter.
-“These yours?” he inquired of Wong Ling, indicating the lily and the box of ginger.
-“Miss Fin Fan has done me the honor of accepting them,” blandly replied Wong Ling.
-“Very good,” commented Tian Shan. He picked up the gifts and hurled them into the street.
-A scene of wild disorder followed. In the midst of it the father of Fin Fan, who had been downtown, appeared at the door.
-“What is the meaning of this?” he demanded.
-“Oh, father, father, they are killing one another! Separate them, oh, separate them!” pleaded Fin Fan.
-But her father’s interference was not needed. Wong Ling swerved to one side, and falling, struck the iron foot of the stove. Tian Shan, seeing his rival unconscious, rushed out of the store.
-The moon hung in the sky like a great yellow pearl and the night was beautiful and serene. But Fin Fan, miserable and unhappy, could not rest.
-“All your fault! All your fault!” declared the voice of conscience.
-“Fin Fan,” spake a voice near to her.
-Could it be? Yes, it surely was Tian Shan.
-She could not refrain from a little scream.
-“Sh! Sh!” bade Tian Shan. “Is he dead?”
-“No,” replied Fin Fan, “he is very sick, but he will recover.”
-“I might have been a murderer,” mused Tian Shan. “As it is I am liable to arrest and imprisonment for years.”
-“I am the cause of all the trouble,” wept Fin Fan.
-Tian Shan patted her shoulder in an attempt at consolation, but a sudden footfall caused her to start away from him.
-“They are hunting you!” she cried. “Go! Go!”
-And Tian Shan, casting upon her one long farewell look, strode with rapid steps away.
-Poor Fin Fan! She had indeed lost every one, and added to that shame, was the secret sorrow and remorse of her own heart. All the hopes and the dreams which had filled the year that was gone were now as naught, and he, around whom they had been woven, was, because of her, a fugitive from justice, even in Canada.
-One day she picked up an American newspaper which a customer had left on the counter, and, more as a habit than for any other reason, began spelling out the paragraphs.
-A Chinese, who has been unlawfully breathing United States air for several years, was captured last night crossing the border, a feat which he is said to have successfully accomplished more than a dozen times during the last few years. His name is Tian Shan, and there is no doubt whatever that he will be deported to China as soon as the necessary papers can be made out.
-Fin Fan lifted her head. Fresh air and light had come into her soul. Her eyes sparkled. In the closet behind her hung a suit of her father’s clothes. Fin Fan was a tall and well-developed young woman.
-“You are to have company,” said the guard, pausing in front of Tian Shan’s cage. “A boy without certificate was caught this morning by two of our men this side of Rouse’s Point. He has been unable to give an account of himself, so we are putting him in here with you. You will probably take the trip to China together.”
-Tian Shan continued reading a Chinese paper which he had been allowed to retain. He was not at all interested in the companion thrust upon him. He would have preferred to be left alone. The face of the absent one is so much easier conjured in silence and solitude. It was a foregone conclusion with Tian Shan that he would never again behold Fin Fan, and with true Chinese philosophy he had begun to reject realities and accept dreams as the stuff upon which to live. Life itself was hard, bitter, and disappointing. Only dreams are joyous and smiling.
-One star after another had appeared until the heavens were patterned with twinkling lights. Through his prison bars Tian Shan gazed solemnly upon the firmament.
-Some one touched his elbow. It was his fellow-prisoner.
-So far the boy had not intruded himself, having curled himself up in a corner of the cell and slept soundly apparently, ever since his advent.
-“What do you want?” asked Tian Shan not unkindly.
-“To go to China with you and to be your wife,” was the softly surprising reply.
-“Fin Fan!” exclaimed Tian Shan. “Fin Fan!”
-The boy pulled off his cap.
-“Aye,” said he. “’Tis Fin Fan!”
+<h2 id="chapter12"> "Its Wavering Image" </h2>
 
-From Mrs. Spring Fragrance (1912). A previous publication has not been identified as of August 2023.
+  <h3>I</h3>
+<p>Pan was a half white, half Chinese girl. Her mother was dead, and Pan lived with her father who kept an Oriental Bazaar on Dupont Street. All her life had Pan lived in Chinatown, and if she were different in any sense from those around her, she gave little thought to it. It was only after the coming of Mark Carson that the mystery of her nature began to trouble her.</p>
+<p>They met at the time of the boycott of the Sam Yups by the See Yups. After the heat and dust and unsavoriness of the highways and byways of Chinatown, the young reporter who had been sent to find a story, had stepped across the threshold of a cool, deep room, fragrant with the odor of dried lilies and sandalwood, and found Pan.</p>
+<p>She did not speak to him, nor he to her. His business was with the spectacled merchant, who, with a pointed brush, was making up accounts in brown paper books and rolling balls in an abacus box. As to Pan, she always turned from whites. With her father’s people she was natural and at home; but in the presence of her mother’s she felt strange and constrained, shrinking from their curious scrutiny as she would from the sharp edge of a sword.</p>
+<p>When Mark Carson returned to the office, he asked some questions concerning the girl who had puzzled him. What was she? Chinese or white? The city editor answered him, adding: “She is an unusually bright girl, and could tell more stories about the Chinese than any other person in this city—if she would.”</p>
+<p>Mark Carson had a determined chin, clever eyes, and a tone to his voice which easily won for him the confidence of the unwary. In the reporter’s room he was spoken of as “a man who would sell his soul for a story.”</p>
+<p>After Pan’s first shyness had worn off, he found her bewilderingly frank and free with him; but he had all the instincts of a gentleman save one, and made no ordinary mistake about her. He was Pan’s first white friend. She was born a Bohemian, exempt from the conventional restrictions imposed upon either the white or Chinese woman; and the Oriental who was her father mingled with his affection for his child so great a respect for and trust in the daughter of the dead white woman, that everything she did or said was right to him. And Pan herself! A white woman might pass over an insult; a Chinese woman fail to see one. But Pan! He would be a brave man indeed who offered one to childish little Pan.</p>
+<p>All this Mark Carson’s clear eyes perceived, and with delicate tact and subtlety he taught the young girl that, all unconscious until his coming, she had lived her life alone. So well did she learn this lesson that it seemed at times as if her white self must entirely dominate and trample under foot her Chinese.</p>
+<p>Meanwhile, in full trust and confidence, she led him about Chinatown, initiating him into the simple mystery and history of many things, for which she, being of her father’s race, had a tender regard and pride. For her sake he was received as a brother by the yellow-robed priest in the joss house, the Astrologer of Prospect Place, and other conservative Chinese. The Water Lily Club opened its doors to him when she knocked, and the Sublimely Pure Brothers’ organization admitted him as one of its honorary members, thereby enabling him not only to see but to take part in a ceremony in which no American had ever before participated. With her by his side, he was welcomed wherever he went. Even the little Chinese women in the midst of their babies, received him with gentle smiles, and the children solemnly munched his candies and repeated nursery rhymes for his edification.</p>
+<p>He enjoyed it all, and so did Pan. They were both young and light-hearted. And when the afternoon was spent, there was always that high room open to the stars, with its China bowls full of flowers and its big colored lanterns, shedding a mellow light.</p>
+<p>Sometimes there was music. A Chinese band played three evenings a week in the gilded restaurant beneath them, and the louder the gongs sounded and the fiddlers fiddled, the more delighted was Pan. Just below the restaurant was her father’s bazaar. Occasionally Mun You would stroll upstairs and inquire of the young couple if there was anything needed to complete their felicity, and Pan would answer: “Thou only.” Pan was very proud of her Chinese father. “I would rather have a Chinese for a father than a white man,” she often told Mark Carson. The last time she had said that he had asked whom she would prefer for a husband, a white man or a Chinese. And Pan, for the first time since he had known her, had no answer for him.</p>
+<h3>II</h3>
+<p>It was a cool, quiet evening, after a hot day. A new moon was in the sky.</p>
+<p>“How beautiful above! How unbeautiful below!” exclaimed Mark Carson involuntarily.</p>
+<p>He and Pan had been gazing down from their open retreat into the lantern-lighted, motley-thronged street beneath them.</p>
+<p>“Perhaps it isn’t very beautiful,” replied Pan, “but it is here I live. It is my home.” Her voice quivered a little.</p>
+<p>He leaned towards her suddenly and grasped her hands.</p>
+<p>“Pan,” he cried, “you do not belong here. You are white—white.”</p>
+<p>“No! no!” protested Pan.</p>
+<p>“You are,” he asserted. “You have no right to be here.”</p>
+<p>“I was born here,” she answered, “and the Chinese people look upon me as their own.”</p>
+<p>“But they do not understand you,” he went on. “Your real self is alien to them. What interest have they in the books you read—the thoughts you think?”</p>
+<p>“They have an interest in me,” answered faithful Pan. “Oh, do not speak in that way any more.”</p>
+<p>“But I must,” the young man persisted. “Pan, don’t you see that you have got to decide what you will be—Chinese or white? You cannot be both.”</p>
+<p>“Hush! Hush!” bade Pan. “I do not love you when you talk to me like that.”</p>
+<p>A little Chinese boy brought tea and saffron cakes. He was a picturesque little fellow with a quaint manner of speech. Mark Carson jested merrily with him, while Pan holding a tea-bowl between her two small hands laughed and sipped.</p>
+<p>When they were alone again, the silver stream and the crescent moon became the objects of their study. It was a very beautiful evening.
+After a while Mark Carson, his hand on Pan’s shoulder, sang:</p>
+<p style="margin-left: 120px"> “And forever, and forever,<br>
+As long as the river flows,<br>
+As long as the heart has passions,<br>
+As long as life has woes,<br>
+The moon and its broken reflection,<br>
+And its shadows shall appear,<br>
+As the symbol of love in heaven,<br>
+And its wavering image here.”</p>
 
-Woo-Ma and I
-Introduction
-Woo-Ma and I were the daughters of a Chinaman who had been brought up and educated in California, where, when he had attained to the age of twenty-four, he married my mother, then a pretty American girl of Irish and English descent. We were therefore Anglo-Chinese. We were not at all alike, either in appearance or character. I was small and chubby with scarcely any nose to speak of, black eyed, black haired, brown skinned and rosy cheeked. My eyes were pointed at the corners like Chinese eyes, and on the whole, I favored my father, only, of course, much prettier than he could ever be. When born, I was so small, so dark and so queer, that the nurse actually forgot to exclaim, as is the custom on such occasions."What a fine child!"Indeed, my mother, as soon as her eyes fell on me, cried,"Oh, nurse, what a homely little creature, take it away."And my mother's opinion was approved of and endorsed by all who beheld me, and even my father, who gave me perhaps my warmest welcome, could not refrain from mournfully prophesying,"It will never get a husband."
-However, as the vanity of a young female, whose age is summed up by days and hours, is scarcely as sensitive as when the years are added to its life, the uncomplimentary remarks had very little effect upon my constitution. In fact, I laughed in the face of them, and by the time my mother had become accustomed to my homeliness, had grown quite a good looking child.
-Woo-Ma was more like mother; she was taller than I and slenderer. Her features were straight and her eyes wide open and gray-blue in color; her hair was a pretty soft brown and curled naturally; she had dear little hands and her skin could almost have been called fair.
-On account of our parentage childhood's days had not been made easy for Woo-Ma and I. It is a dreadful confession to make, but from the age of seven to twelve, I believe I hardly ever went out of the house without getting into trouble and returning with scratched hands and face and disordered hair. For me to be a"proper"little girl was an absolute impossibility. The sneers and taunting words which seem to be the birthright in America of any child who has a drop of Chinese blood in its veins used to madden me beyond endurance, and I would turn upon my tormentors and scratch and bite until utterly exhausted.
-As Woo-Ma did not feel constrained to twist her hair into a tight pig-tail, constitute herself the champion of all unfortunate Chinamen, and state at the beginning of an acquaintance in a defiant and aggressive manner that she was Chinese, she naturally escaped many of the misfortunes which befell me. Nevertheless, I have seen her turn white and tremble with excitement and pain on hearing the mocking cry, "Chinese! Chinese!"
-Mother was a Methodist and Woo-Ma and I were brought up in the Methodist church, but Father seemed to have no religion at all, which fact greatly disturbed my peace of mind.
-"Father," I said one day, "are you a heathen?” "Run away and don't bother me," answered Father.
-I, however, carried my perplexities to Woo-Ma and asked for her opinion as to whether or not Father was a heathen. Woo-Ma reflected for a few minutes, then replied:
-“No, I don't think he is exactly a heathen; I believe he is what is called a Free Thinker."
-I was not satisfied with this answer and continued troubled in spirit until the next day, when I prevailed upon Woo-Ma to write two poems, one entitled "The Dying Christian," the other "The Dying Atheist." The former depicted in glowing words the happiness of dying a Christian; the latter, the awful horror which a man who has lived the life of an unbeliever experiences when his last hour has come.
-These two poems I addressed to my father and mailed the next morning. I expected to hear from him concerning them, but was disappointed, and evidently my delicate attempt to convert him was unappreciated.
-And thus Woo-Ma and I grew up — in the outskirts of Chinatown.
-I
-We had visitors. They were: Mr. Christopher Hartley, a man of about thirty years of age, with manners ingratiating and smile fascinating; Jim Nesbit, an old school friend of ours; Joo Pei, my betrothed; Wong Lee, a friend of his; and Richard Forman, introduced by Jim as "one of the boys."
-The conversation had been general until Mr. Hartley and my sister separated themselves and, withdrawing to the large window seat at the end of the hall, began to converse together in low tones. This I did not like at all. I knew that Woo-Ma was deeply in love with Christopher Hartley and I had come to the conclusion that he was only making her miserable.
-“I suppose," said Jim Nesbit, addressing Wong Lee, "that you have but lately come from China."
-“I have come here ten years ago," replied Wong.
-“You are naturalized, then," rattled on Jim, who was trying to divert his mind from Woo-Ma.
-“I got a 'high up' lawyer to make me natural two years after I first come," calmly asserted our Chinese friend.
-“And is this little boy your eldest son?" continued Jim, pointing to a cute little fellow in long braided queue and a broidered silk blouse who stood by Wong Lee's knee.
-"No, my eldest is the son of my first wife," replied Wong Lee. "This is the son of my third wife. I wrote to China for them to send her to me here and I paid one thousand dollars to her grandmother for her and sent as well eight hundred dollars with which to buy her trousseau."
-"Were you not married in China?" Jim asked.
- "Yes, three times," replied Wong Lee.
-"How long is it since your first wife died?"
-"She is not dead; she is living in China with her mother," Wong Lee answered.
-“Are you divorced from her?" ventured Jim.
-“How can you be so inquisitive, Jim? You shall not ask Mr. Wong Lee any more questions," I put in.
-"He does not care," answered Jim. "When I want some information and a person is willing to give it, I do not see why I should remain in ignorance. You have no objection to answering my question, have you, Wong Lee?"
-"I like to tell what you like to hear," said Wong Lee politely.
-"So it is all right," said Jim triumphantly. "Are you divorced from your first wife, Wong Lee?"
-"No."
-"Then, how is it that you have been married three times?" asked Jim.
-"In China, a man can have as many wives as he can afford to keep, but if he cannot keep one wife he cannot have one."
-"Can a Chinese lady have more than one husband?"
-"No," answered Wong Lee very decidedly. "That would not be right at all."
-Said Jim, "Is it true, Mr. Wong Lee, that Chinese ladies are so averse to marriage that there is a custom prevalent amongst them of gathering together, when any of their young friends is about to become a bride, for the purpose of weeping and mourning over her impending fate?"
-"I think sometimes the Chinese women do that, but men don't bother about it," returned Wong Lee.
-"Ah, then," mused Jim aloud. "The Chinese women, poor things, cannot be very happy."
-Father, who had entered the room very quietly, now ranged himself with Wong Lee and answered for him. Father could talk well when he wished. This is what he said:
-"The Chinese women are happy enough. You see, a daughter has no inheritance, neither does she receive any marriage portion from her parents. She is bought from them by her future husband and his relations, who send presents according to their means. I read in the Bible of Abraham sending a steward to buy a wife for his son, Isaac, and that the steward took with him jewels of silver and gold and raiment which he presented to Rebekah's friends when he asked for her as a bride for his young master. It is just in that way that the Chinamen get their wives, and after they are sent to them they are obliged to support and care for them. A Chinese girl is obliged to marry whenever her father or guardian so wishes; she has no option."
-"Poor Chinese brides!" I softly said.
-"Well," said Father, turning to me. "Perhaps the Chinese do not show quite as much consideration for their women as daughters and wives as do the people of this country, but as mothers the Chinese women are treated with the greatest respect by their children, who, even when themselves advanced in years, pay the utmost deference to the commands and counsels of an aged parent."
-There was somewhat in Father's expression as he made the last remark which made me feel that his conscience was reproaching him for deserting in his early youth his own parents. Father had run away from his home when only ten years of age and had been brought to California by a troupe of strolling players.
-"How did you become acquainted with these Chinese gentlemen?" inquired Richard Forman in an undertone.
-"They are my father's friends," I answered. "My father is a Chinaman."
-"Indeed, I am deeply interested." Quick to resent being patronized I retorted: "Thanks for your interest, but I am afraid that I cannot pay it back.”
-I was ashamed of myself immediately; but Richard Forman did not seem to heed the flash and sitting down beside me, said:
-"You remind me of a sister of mine who died two years ago in England."
-I made no reply, and he continued:
-"She was just about as old as you when she died. She was then my only living relative."
-"Did she live with you?" I inquired.
-"Yes," said he. "She was always with me. She was the only person who ever felt for me a spark of affection."
-"You must miss her." "Rather." "Are you English?"
-"Well, I'm as much English as anything, though I call myself American. I'm a mixture. My father was half German, half English; my mother was French and Irish. I was born in the United States, but we returned to Europe when I was about ten years old, and since then I've lived all over. My father was a professor of music, my mother was, at one time, an actress. They both died when I was a lad and left me with Alice. She, as I told you, died last year when we were in England. There, you have my whole family history."
-"Thank you for giving it to me; but I did not ask you to," I answered gayly, for I was touched.
-"Who said you did?" brusquely replied Richard Forman. "An hour ago we were perfect strangers; but you looked so unsympathetic, so unlikely a person to condole with me, so unsentimental, that I felt drawn towards you, and am crossing with you at our first meeting the bridge which leads from acquaintanceship to friendship."
-"Oh!" I ejaculated.
-"Yes, we are great friends," said Richard Forman with conviction. Again I became suspicious.
-"I never flirt," I said.
-"Neither do I," he answered. "Shake hands."
-"Do you like the Chinese?" I inquired irrelevantly.
-"I do," replied Richard Forman most impressively.
-I felt that I had made a mistake and tried to rectify it by another.
-"Oh!" I said, "I mean as a nation."
-"I'm afraid," said Richard Forman reflectively, "that I am not capable of liking any nation. A nation is too large; my heart is not capacious enough to take it in — but I tell you what — to my mind a clever Chinaman is more than a stupid American and a brilliant American is more than a dull Chinaman. Individuality is more than nationality."
-"That's a nice speech," I approved. "Mr. Forman, tell me, what do you do — who are you ? Jim has introduced to us so many of ‘the boys,' as he calls them, but none of them is like–”
-"I'm a failure," Richard Forman interrupted with a queer smile. "Does that suit you ? I have failed in all I ever attempted. I have built many castles in the air — but all have fallen to pieces. I have no money, no friends, no hopes even."
-"You have no wife to bother your life, no lover to prove untrue," I laughingly replied.
-Just then Joo Pei came up and I introduced the two men. Joo Pei was the best looking Chinaman I have ever known. He was also a perfect gentleman and we were to be married in less than two months, when I was to return with him to China. I was sure that as his wife I should love him devotedly; he was so clever, so good and so kind.
-That night I spoke long and earnestly to Woo-Ma and warned her about Mr. Hartley, but she seemed neither to hear nor heed and her expression was that of a person in a happy trance.
-II
-"Farewell," said Joo Pei; "your father you obey, and I go to return, never."
-"Farewell," I replied, whilst the tears blinded my eyes.
-Joo Pei lifted my hand. I could not see him, but I felt his gaze and heard:
-"My desire in this world, little bird, is for you a cheerful heart to have."
-Then he was gone, and for me the sun had ceased to shine.
-Just one month before the day fixed for my wedding, Woo-Ma had disappeared and father had become an embittered man. His love for me assumed a strange form, for he broke my engagement in order to keep me with him. Poor Father! I saw the years creep over his face when they told him Woo-Ma was gone, and when I at first refused to do as he wished and said that the betrothal he himself had sealed should not be broken, he had answered with a glance of the eye that was so eloquent of pain and sorrow that I had felt myself a criminal, and despite Joo Pei's loving arguments, refused to return with him to China when he was recalled by the government.
-III
-Woo-Ma had written to me. After more than two years' separation I was to see her again, my dearly loved only sister. I went to the meeting place she had designated, and found her changed almost beyond recognition. I embraced her in a passion of grief. Then we talked.
-"It was just about two months before father betrothed you to Joo Pei that I forgot you, Father, everything, every one but him, and gave up all."
-As Woo-Ma spoke, a wave of swift and sudden anger swept over me.
-"What," I cried, "you gave up all knowing him to be the man he was? Without excuse of any kind you became — a bad woman?"
-Woo-Ma laughed mirthlessly. "Yes, without excuse of any kind I became that which you name."
-"Oh, my God, my God," I cried— "and this is my sister- and I have been so proud!"
-"I did, however," went on the clear voice, "believe that he loved me, and I thought that by the sacrifice of self, I would save him from the wiles of worthless women, teach him to believe in the unselfishness of love, and in a sense, bind him to me. He looked forward to rising to a high position, and I knew that in order to succeed politically, he must succeed socially, and to succeed socially a man must not have a wife who will cause curious smiles to appear on the faces of his friends. I loved him too well to subject him to the humiliation of having a Chinese wife."
-"Shame on you, Woo-Ma, for that speech," I cried. "Shame, shame to be ashamed!"
-"Have mercy, A- Toy, I can stand this no longer," pleaded Woo-Ma.
-I had not known until then how cruel I could be.
-"Never mind me," I said penitently. "We are sisters, Woo-Ma, and it is because I am so sorrowful and indignant for your sake that I speak as I do. Tell me all and I promise that no bitter word shall escape my lips."
-She went on:
-"For a brief period I lived in Paradise. None knew of my sin, and I – I could not regard it as a sin. I was so sadly happy. But before long I perceived a change which drove me frantic. From different sources I learned that he was paying attention to other women. I became wild with jealousy. I wrote imploring him to come and see me. What had I done to offend him — was he offended? He did not reply. I went to him and he received me as ever, called me his darling and offered to kiss me. How loathsome are such caresses. I would have none of them, for I clearly perceived I had been but the ʻlove of a day,' with whom he had finished forever.
-"Long before it had come to that, yet after I was his, Father had told me that he had made arrangements for a marriage between myself and Joo Pei. Had I any objection to the proposal? If I had, he would substitute you as bride in my place; but he preferred to keep you. You were always Father's favorite. I was bewildered. What! I marry Joo Pei, I, who belonged to Christopher Hartley. No, such a marriage could never be! but if I refused, you would be sacrificed, and you, I knew, would not say no. I shuddered to think of my sister being wife to one whom I believed then you could never love. The customs and manners of the Chinese people were not ours; you were not born to be the toy of an Oriental, and such you would be if you married the man Father had selected. I scarcely knew what to do or say; but finally I told Father I could never be wife to any man. He did not understand and was disappointed. Then you became engaged to Joo Pei, and I disappeared– disappeared because I knew father would not part with his one daughter and my loss would save you…As to me, what mattered my fate?"
-"Then it was for my sake you left home?"
-I could not add to Woo-Ma's pain the knowledge that her sacrifice had but injured me.
-"Yes, A-Toy, but not wholly for your sake. I had proof of Christopher's unfaithfulness. I could not bear my life at home and sooner or later I would have had to leave or die."
-"Oh, Woo-Ma," I cried. "Whatever has happened, you are still the best and dearest. You are not bad; the sin does not lie with you; it is with that Christopher Hartley whom I hate."
-"Nay, A-Toy," replied my sister sadly. "Affection prompts you to speak thus; but my own conscience tells me that I have done evil. I would never have left Christopher Hartley had he not first abandoned me, and what he has brought home to me is my just punishment."
-"Well, Woo-Ma," I asserted. "Chistopher Hartley is a devil. It was satanic of him to win your love for pleasure and throw it away for the same reason. The loss was all yours.”
-And poor Woo-Ma answered:
-"There are times when to lose is a pleasure. I loved to lose for him. Some human beings have a genius for painting, some for music, some for poetry. I had a genius for loving."
-"And I have a genius for hating," I retorted. "No, Woo-Ma, defend him as you please, worship him as you please; be a worm under his feet forever; but do not expect me to act and feel likewise. Because I am half white you thought that I was too good to be the wife of a Chinese gentleman. Because you are half Chinese I think that you are too good for such a man as Christopher Hartley."
-Then remembering my promise to say no bitter words and overcome with remorse, I laid my head on my sister's shoulder and burst into tears. As to Woo-Ma, she threw her arms around my neck and bending her head over mine, wept with me. Thus, with mingled tears and mingled feelings we became sisters once more.
-Ah! poor, romantic Woo-Ma! Sweeter and more unselfish, lost girl as she was, than any other woman in this hard cold world. Well do I remember when we were girls of fifteen and sixteen reading together Macauley's account of the Duke of Monmouth's execution, and how in his last moments, the "darling of the English people" had spoken of his beloved Henrietta, the Countess of Wentworth, as being pure and good beyond other women and as having reclaimed him from a life of debauchery by the sacrifice of herself. Woo-Ma had remarked on that occasion, "I would have been prouder to be that lady than the most honored wife in England." And I had replied, "But every man is not a Duke of Monmouth."
-IV
-I made Father comfortable in a big arm chair in my own room and seating myself on an ottoman at his feet, laid my head on his knees. We remained silent for some minutes, but I felt his hand stroking my hair and there was balm in the touch, for my heart was aching, for loving kindness and unshared troubles had lately made us seem almost like strangers to one another. We were in the apartment which had been given over to Woo-Ma and me after mother's death. Mother had had it furnished in half Chinese, half American style, and silk panels, incense burners, Chinese mattings, jade stone and ivory curios, and more than all, the sweet perfume of the Chinese lily, impressed me always with the fact that I was not an ordinary American girl.
-"Does the fan which I bought you for Jim's sister please you, A-Toy?" Father asked.
-"Yes," I replied, "It is beautiful and Polly will wear it at her wedding."
-"When will that be?"
- "Eh? Oh, I think next Wednesday."
- "Your mind is not with your words," remarked Father.
-I knew it was not. 'Twas far away — with Woo-Ma. Father understood and asked very gently if she was coming home.
-"Yes," I replied. "She said she would- some day."
-Father's face worked strangely; but he bade me say no more, and then a visitor was ushered in–Jim Nesbit. He had a letter to deliver to me from one who was on his way to South Africa. I knew the hand writing, and on opening it, read:
-"Dear little A-Toy: –
-You will never see or hear from me again, and this letter is simply to repeat once more that I love you, though I have no right, knowing all, to say such words. Do you remember when we first met — three years ago ? Well, even at that first meeting, I felt the impulse to ask you to love me; there was something so fresh and genial in your manner, so shy yet trustful in your glance. I knew you were not for me and I left you. Chance brought us together again. I became too fond of you. I can picture you curling your lip and saying half aloud with your shrewd, yet innocent, smile, 'Oh, he's been drinking, but if ever I was sober in my life, I am now, as I write, as many a poor fellow has done before,' Good- bye, sweetheart, good- bye.'”
-With all his cleverness Richard Forman had been unable to comprehend that it was just as natural for a daughter of a Chinaman to love a Chinaman as it is for the daughter of a white man to care for one of her father's race. He had made a great mistake. Nevertheless, a tear fell on that little note. How criss-cross the lines of life run!
-"A-Toy," said Jim, when he rose to go. "I have seen Woo-Ma."
-I followed him into the hall and closed the room door behind us before I said :
-"And will she come home to us? Father wants her more than ever. She promised to come some day; and why not now?"
-Jim's brow clouded and he sighed heavily.
-"A-Toy, "said he, "Woo-Ma is with the smugglers of Chinamen. She has taken to that reckless adventurous life because she says \[it] helps her to forget and she believes she would go mad were she obliged to live quietly at home. Dressed as a youth, with a peaked cap pulled over her pretty brown hair which she has cut short, she takes many a boy over the border."
-I covered my face with my hands. "Oh, Woo-Ma, Woo-Ma!" I moaned.
-That night there was little rest for me; but about three o'clock in the morning I fell asleep and dreamed. This was my dream: A dark, starless sky, a road unlevelled and desolate, a lumbering van, from under the rough covering of which peered the faces of three men with Mongolian features. Two men, in the uniform of custom house officers, riding at full speed after the van.
-My dream changed; the van, the custom house officers had disappeared. I saw but a youth; he was alone and dying. Turning a face that I knew to the sky, he cried:
-"Oh, God, Thou who gavest me my life, forgive me that I do not seek to preserve it. Thou knowest my strange origin, the forces that blend in me, the forces that war in me. Thou knowest my weakness, my pride, my jealousy- Thou knowest that I was loved — that I believed I was loved- Thou knowest I loved. Is it Thou or the Devil that sayest, 'Thou shalt love’? Thou knowest that all has been taken from me — Thou knowest my shame and my grief. Thou knowest that I am in much pain and there is nothing left to live for — Thou knowest only Thou knowest—”
-Here my dream became indistinct and I knew no more, until out of a dark blur there appeared to my dream- consciousness a face the face of Woo-Ma–dead.
-That was all of my dream. I was awakened by the mechanical repetition by my own lips of the last two lines of Hood's "Bridge of Sighs":
-"Owning her weakness — her evil behavior,
-And leaving with meekness her sins to her Saviour."
-A heavy shadow seemed to oppress me all of that day. Dreams are such mysteries. I could not get the "Bridge of Sighs" out of my mind. I found the poem and read it through from beginning to end, thinking thus to work it off; but the gloom would not be dispelled. The piteous spectacle of the wronged girl rose ever before me — with Woo-Ma's face.
-Toward evening Jim Nesbit came in, followed by Father; so haggard, so old, so stern- looking, that the words on my lips were arrested.
-Then Father spoke, and if his face was changed, so also was his voice.
-"I have a telegram," said he. "Woo-Ma is coming home."
-He paused and stared fixedly at me. I felt my blood congealing. But though I tried to speak, words refused to come.
-"My God Almighty!" cried Jim, "You know!The blackness of night encompassed me.
 
-* They buried Woo-Ma whilst I lay deliriously babbling of childhood's days — of pleasures which leave no sting. When I was able to sit up, they brought me a youth's suit of clothes and a peaked cap. They had been worn by my sister and I keep them in memory of her. How criss-cross the lines of life run!
-  Originally published in The Bohemian (January 1906).
+<p>Listening to that irresistible voice singing her heart away, the girl broke down and wept. She was so young and so happy.</p>
+<p>“Look up at me,” bade Mark Carson. “Oh, Pan! Pan! Those tears prove that you are white.”</p>
+<p>Pan lifted her wet face.</p>
+<p>“Kiss me, Pan,” said he. It was the first time.</p>
+<p>Next morning Mark Carson began work on the special-feature article which he had been promising his paper for some weeks.</p>
+<h3>III</h3>
+<p>"Cursed be his ancestors,” bayed Man You.</p>
+<p>He cast a paper at his daughter’s feet and left the room.</p>
+<p>Startled by her father’s unwonted passion, Pan picked up the paper, and in the clear passionless light of the afternoon read that which forever after was blotted upon her memory.</p>
+<p>“Betrayed! Betrayed! Betrayed to be a betrayer!”</p>
+<p>It burnt red hot; agony unrelieved by words, unassuaged by tears.
+So till evening fell. Then she stumbled up the dark stairs which led to the high room open to the stars and tried to think it out. Someone had hurt her. Who was it? She raised her eyes. There shone: “Its Wavering Image.” It helped her to lucidity. He had done it. Was it unconsciously dealt—that cruel blow? Ah, well did he know that the sword which pierced her through others, would carry with it to her own heart, the pain of all those others. None knew better than he that she, whom he had called “a white girl, a white woman,” would rather that her own naked body and soul had been exposed, than that things, sacred and secret to those who loved her, should be cruelly unveiled and ruthlessly spread before the ridiculing and uncomprehending foreigner. And knowing all this so well, so well, he had carelessly sung her heart away, and with her kiss upon his lips, had smilingly turned and stabbed her. She, who was of the race that remembers.</p>
+<h3>IV</h3>
+<p>Mark Carson, back in the city after an absence of two months, thought of Pan. He would see her that very evening. Dear little Pan, pretty Pan, clever Pan, amusing Pan; Pan, who was always so frankly glad to have him come to her; so eager to hear all that he was doing; so appreciative, so inspiring, so loving. She would have forgotten that article by now. Why should a white woman care about such things? Her true self was above it all. Had he not taught her that during the weeks in which they had seen so much of one another? True, his last lesson had been a little harsh, and as yet he knew not how she had taken it; but even if its roughness had hurt and irritated, there was a healing balm, a wizard’s oil which none knew so well as he how to apply.</p>
+<p>But for all these soothing reflections, there was an undercurrent of feeling which caused his steps to falter on his way to Pan. He turned into Portsmouth Square and took a seat on one of the benches facing the fountain erected in memory of Robert Louis Stevenson. Why had Pan failed to answer the note he had written telling her of the assignment which would keep him out of town for a couple of months and giving her his address? Would Robert Louis Stevenson have known why? Yes—and so did Mark Carson. But though Robert Louis Stevenson would have boldly answered himself the question, Mark Carson thrust it aside, arose, and pressed up the hill.</p>
+<p>“I knew they would not blame you, Pan!”</p>
+<p>“Yes.”</p>
+<p>“And there was no word of you, dear. I was careful about that, not only for your sake, but for mine.”</p>
+<p>Silence.</p>
+<p>“It is mere superstition anyway. These things have got to be exposed and done away with.”</p>
+<p>Still silence.</p>
+<p>Mark Carson felt strangely chilled. Pan was not herself tonight. She did not even look herself. He had been accustomed to seeing her in American dress. Tonight she wore the Chinese costume. But for her clear-cut features she might have been a Chinese girl. He shivered.</p>
+<p>“Pan,” he asked, “why do you wear that dress?”</p>
+<p>Within her sleeves Pan’s small hands struggled together; but her face and voice were calm.</p>
+<p>“Because I am a Chinese woman,” she answered.</p>
+<p>“You are not,” cried Mark Carson, fiercely. “You cannot say that now, Pan. You are a white woman—white. Did your kiss not promise me that?”</p>
+<p>“A white woman!” echoed Pan her voice rising high and clear to the stars above them. “I would not be a white woman for all the world. You are a white man. And what is a promise to a white man!”</p>
+<p>When she was lying low, the element of Fire having raged so fiercely within her that it had almost shriveled up the childish frame, there came to the house of Man You a little toddler who could scarcely speak. Climbing upon Pan’s couch, she pressed her head upon the sick girl’s bosom. The feel of that little head brought tears.</p>
+<p>“Lo!” said the mother of the toddler. “Thou wilt bear a child thyself some day, and all the bitterness of this will pass away.”</p>
+<p>And Pan, being a Chinese woman, was comforted.</p>
 
-“Tales of Chinese Children”
-The Heart’s Desire
-She was dainty, slender, and of waxen pallor. Her eyes were long and drooping, her eyebrows finely arched. She had the tiniest Golden Lily feet and the glossiest black hair. Her name was Li Chung O’Yam, and she lived in a sad, beautiful old palace surrounded by a sad, beautiful old garden, situated on a charming island in the middle of a lake. This lake was spanned by marble bridges, entwined with green creepers, reaching to the mainland. No boats were ever seen on its waters, but the pink lotus lily floated thereon and swans of marvellous whiteness.
-Li Chung O’Yam wore priceless silks and radiant jewels. The rarest flowers bloomed for her alone. Her food and drink were of the finest flavors and served in the purest gold and silver plates and goblets. The sweetest music lulled her to sleep.
-Yet Li Chung O’Yam was not happy. In the midst of the grandeur of her enchanted palace, she sighed for she knew not what.
-“She is weary of being alone,” said one of the attendants. And he who ruled all within the palace save Li Chung O’Yam, said: “Bring her a father!”
-A portly old mandarin was brought to O’Yam. She made humble obeisance, and her august father inquired ceremoniously as to the state of her health, but she sighed and was still weary.
-“We have made a mistake; it is a mother she needs,” said they.
-A comely matron, robed in rich silks and waving a beautiful peacock feather fan, was presented to O’Yam as her mother. The lady delivered herself of much good advice and wise instruction as to deportment and speech, but O’Yam turned herself on her silken cushions and wished to say goodbye to her mother.
-Then they led O’Yam into a courtyard which was profusely illuminated with brilliant lanterns and flaring torches. There were a number of little boys of about her own age dancing on stilts. One little fellow, dressed all in scarlet and flourishing a small sword, was pointed out to her as her brother. O’Yam was amused for a few moments, but in a little while she was tired of the noise and confusion.
-In despair, they who lived but to please her consulted amongst themselves. O’Yam, overhearing them, said: “Trouble not your minds. I will find my own heart’s ease.”
-Then she called for her carrier dove, and had an attendant bind under its wing a note which she had written. The dove went forth and flew with the note to where a little girl named Ku Yum, with a face as round as a harvest moon, and a mouth like a red vine leaf, was hugging a cat to keep her warm and sucking her finger to prevent her from being hungry. To this little girl the dove delivered O’Yam’s message, then returned to its mistress.
-“Bring me my dolls and my cats, and attire me in my brightest and best,” cried O’Yam.
-When Ku Yum came slowly over one of the marble bridges towards the palace wherein dwelt Li Chung O’Yam, she wore a blue cotton blouse, carried a peg doll in one hand and her cat in another. O’Yam ran to greet her and brought her into the castle hall. Ku Yum looked at O’Yam, at her radiant apparel, at her cats and her dolls.
-“Ah!” she exclaimed. “How beautifully you are robed! In the same colors as I. And behold, your dolls and your cats, are they not much like mine?”
-“Indeed they are,” replied O’Yam, lifting carefully the peg doll and patting the rough fur of Ku Yum’s cat.
-Then she called her people together and said to them:
-“Behold, I have found my heart’s desire—a little sister.”
-And forever after O’Yam and Ku Yum lived happily together in a glad, beautiful old palace, surrounded by a glad, beautiful old garden, on a charming little island in the middle of a lake.
-From Mrs. Spring Fragrance (1912). Originally appeared in Good Housekeeping (May 1908); also reprinted in The Third Reader (ed. Kate Louise Brown, 1911), Chester Times (November 4, 1910), Columbus Daily Enquirer (November 6, 1910), Fort Wayne Journal Gazette (November 6, 1910), and Colorado Springs Gazette (February 5, 1911).
+<p><i><small>From </i>Mrs. Spring Fragrance <i>(1912). A previous publication has not been identified as of August 2023.</i></small></p>
 
-A Chinese Boy-Girl
-I
-The warmth was deep and all-pervading. The dust lay on the leaves of the palms and the other tropical plants that tried to flourish in the Plaza. The persons of mixed nationalities lounging on the benches within and without the square appeared to be even more listless and unambitious than usual. The Italians who ran the peanut and fruit stands at the corners were doing no business to speak of. The Chinese merchants’ stores in front of the Plaza looked as quiet and respectable and drowsy as such stores always do. Even the bowling alleys, billiard halls, and saloons seemed under the influence of the heat, and only a subdued clinking of glasses and roll of balls could be heard from behind the half-open doors. It was almost as hot as an August day in New York City, and that is unusually sultry for Southern California.
-A little Chinese girl, with bright eyes and round cheeks, attired in blue cotton garments, and wearing her long, shining hair in a braid interwoven with silks of many colors, paused beside a woman tourist who was making a sketch of the old Spanish church. The tourist and the little Chinese girl were the only persons visible who did not seem to be affected by the heat. They might have been friends; but the lady, fearing for her sketch, bade the child run off. Whereupon the little thing shuffled across the Plaza, and in less than five minutes was at the door of the Los Angeles Chinatown school for children.
-“Come in, little girl, and tell me what they call you,” said the young American teacher, who was new to the place.
-“Ku Yum be my name,” was the unhesitating reply; and said Ku Yum walked into the room, seated herself complacently on an empty bench in the first row, and informed the teacher that she lived on Apablaza street, that her parents were well, but her mother was dead, and her father, whose name was Ten Suie, had a wicked and tormenting spirit in his foot.
-The teacher gave her a slate and pencil, and resumed the interrupted lesson by indicating with her rule ten lichis (called “Chinese nuts” by people in America) and counting them aloud.
-“One, two, three, four, five, six, seven, eight, nine, ten,” the baby class repeated.
-After having satisfied herself by dividing the lichis unequally among the babies, that they might understand the difference between a singular and a plural number, Miss Mason began a catechism on the features of the face. Nose, eyes, lips, and cheeks were properly named, but the class was mute when it came to the forehead.
-“What is this?” Miss Mason repeated, posing her finger on the fore part of her head.
-“Me say, me say,” piped a shrill voice, and the new pupil stepped to the front, and touching the forehead of the nearest child with the tips of her fingers, christened it “one,” named the next in like fashion “two,” a third “three,” then solemnly pronounced the fourth a “four head.”
-Thus Ku Yum made her début in school, and thus began the trials and tribulations of her teacher.
-Ku Yum was bright and learned easily, but she seemed to be possessed with the very spirit of mischief; to obey orders was to her an impossibility, and though she entered the school a voluntary pupil, one day at least out of every week found her a truant.
-“Where is Ku Yum?” Miss Mason would ask on some particularly alluring morning, and a little girl with the air of one testifying to having seen a murder committed, would reply: “She is running around with the boys.” Then the rest of the class would settle themselves back in their seats like a jury that has found a prisoner guilty of some heinous offense, and, judging by the expression on their faces, were repeating a silent prayer somewhat in the strain of “O Lord, I thank thee that I am not as Ku Yum is!” For the other pupils were demure little maidens who, after once being gathered into the fold, were very willing to remain.
-But if ever the teacher broke her heart over any one it was over Ku Yum. When she first came, she took an almost unchildlike interest in the rules and regulations, even at times asking to have them repeated to her; but her study of such rules seemed only for the purpose of finding a means to break them, and that means she never failed to discover and put into effect.
-After a disappearance of a day or so she would reappear, bearing a gorgeous bunch of flowers. These she would deposit on Miss Mason’s desk with a little bow; and though one would have thought that the sweetness of the gift and the apparent sweetness of the giver needed but a gracious acknowledgment, something like the following conversation would ensue:
-“Teacher, I plucked these flowers for you from the Garden of Heaven.” (They were stolen from some park.)
-“Oh, Ku Yum, whatever shall I do with you?”
-“Maybe you better see my father.”
-“You are a naughty girl. You shall be punished. Take those flowers away.”
-“Teacher, the eyebrow over your little eye is very pretty.”
-But the child was most exasperating when visitors were present. As she was one of the brightest scholars, Miss Mason naturally expected her to reflect credit on the school at the examinations. On one occasion she requested her to say some verses which the little Chinese girl could repeat as well as any young American, and with more expression than most. Great was the teacher’s chagrin when Ku Yum hung her head and said only: “Me ’shamed, me ’shamed!”
-“Poor little thing,” murmured the bishop’s wife. “She is too shy to recite in public.”
-But Miss Mason, knowing that of all children Ku Yum was the least troubled with shyness, was exceedingly annoyed.
-Ku Yum had been with Miss Mason about a year when she became convinced that some steps would have to be taken to discipline the child, for after school hours she simply ran wild on the streets of Chinatown, with boys for companions. She felt that she had a duty to perform towards the motherless little girl; and as the father, when apprised of the fact that his daughter was growing up in ignorance of all home duties, and, worse than that, shared the sports of boy children on the street, only shrugged his shoulders and drawled: “Too bad! Too bad!” she determined to act.
-She was interested in Ku Yum’s case the president of the Society for the Prevention of Cruelty to Children, the matron of the Rescue Home, and the most influential ministers, and the result, after a month’s work, that an order went forth from the Superior Court of the State decreeing that Ku Yum, the child of Ten Suie, should be removed from the custody of her father, and, under the auspices of the Society for the Prevention of Cruelty to Children, be put into a home for Chinese girls in San Francisco.
-Her object being accomplished, strange to say, Miss Mason did not experience that peaceful content which usually follows a benevolent action. Instead, the question as to whether, after all, it was right, under the circumstances, to deprive a father of the society of his child, and a child of the love and care of a parent, disturbed her mind, morning, noon, and night. What had previously seemed her distinct duty no longer appeared so, and she began to wish with all her heart that she had not interfered in the matter.
-II
-Ku Yum had not been seen for weeks and those who were deputed to bring her into the sheltering home were unable to find her. It was suspected that the little thing purposely kept out of the way—no difficult matter, all Chinatown being in sympathy with her and arrayed against Miss Mason. Where formerly the teacher had met with smiles and pleased greetings, she now beheld averted faces and downcast eyes, and her school had within a week dwindled from twenty-four scholars to four. Verily, though acting with the best of intentions, she had shown a lack of diplomacy.
-It was about nine o’clock in the evening. She had been visiting little Lae Choo, who was lying low with typhoid fever. As she wended her way home through Chinatown, she did not feel at all easy in mind; indeed, as she passed one of the most unsavory corners and observed some men frown and mutter among themselves as they recognized her, she lost her dignity in a little run. As she stopped to take breath, she felt her skirt pulled from behind and heard a familiar little voice say:
-“Teacher, be you afraid?”
-“Oh, Ku Yum,” she exclaimed, “is that you?” Then she added reprovingly: “Do you think it is right for a little Chinese girl to be out alone at this time of the night?”
-“I be not alone,” replied the little creature, and in the gloom Miss Mason, could distinguish behind her two boyish figures.
-She shook her head.
-“Ku Yum, will you promise me that you will try to be a good little girl?” she asked.
-Ku Yum answered solemnly:
-“Ku Yum never be a good girl.”
-Her heart hardened. After all, it was best that the child should be placed where she would be compelled to behave herself.
-“Come, see my father,” said Ku Yum pleadingly.
-Her voice was soft, and her expression was so subdued that the teacher could hardly believe that the moment before she had defiantly stated that she would never be a good girl. She paused irresolutely. Should she make one more appeal to the parent to make her a promise which would be a good excuse for restraining the order of the Court? Ah, if he only would, and she only could prevent the carrying out of that order!
-They found Ten Suie among his curiosities, smoking a very long pipe with a very small, ivory bowl. He calmly surveyed the teacher through a pair of gold-rimmed goggles, and under such scrutiny it was hard indeed for her to broach the subject that was on her mind. However, after admiring the little carved animals, jars, vases, bronzes, dishes, pendants, charms, and snuff-boxes displayed in his handsome showcase, she took courage.
-“Mr. Ten Suie,” she began, “I have come to speak to you about Ku Yum.”
-Ten Suie laid down his pipe and leaned over the counter. Under his calm exterior some strong excitement was working, for his eyes glittered exceedingly.
-“Perhaps you speak too much about Ku Yum alleady,” he said. “Ku Yum be my child. I bling him up, as I please. Now, teacher, I tell you something. One, two, three, four, five, seven, eight, nine years go by, I have five boy. One, two, three, four, five, six, seven years go, I have four boy. One, two, three, four, five, six years go by, I have one boy. Every year for three year evil spirit come, look at my boy, and take him. Well, one, two, three, four, five, six years go by, I see but one boy, he four year old. I say to me: Ten Suie, evil spirit be jealous. I be ’flaid he want my one boy. I dless him like one girl. Evil spirit think him one girl, and go away; no want girl.”
-Ten Suie ceased speaking, and settled back into his seat.
-For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten Suie’s words dawned upon her, and she turned to Ku Yum, and taking the child’s little hand in hers, said:
-“Goodbye, Ku Yum. Your father, by passing you off as a girl, thought to keep an evil spirit away from you; but just by that means he brought another, and one which nearly took you from him too.”
-“Goodbye, teacher,” said Ku Yum, smiling wistfully. “I never be good girl, but perhaps I be good boy.”
-From Mrs. Spring Fragrance (1912); originally published in Century Magazine (April 1904).
+<p><a href="#toc">Back to the Start</a><p>
 
-What About the Cat?
-What about the cat?” asked the little princess of her eldest maid.
-“It is sitting on the sunny side of the garden wall, watching the butterflies. It meowed for three of the prettiest to fall into its mouth, and would you believe it, that is just what happened. A green, a blue, a pink shaded with gold, all went down pussy’s red throat.”
-The princess smiled. “What about the cat?” she questioned her second maid.
-“She is seated in your honorable father’s chair of state, and your honorable father’s first body-slave is scratching her back with your father’s own back-scratcher, made of the purest gold and ivory.”
-The princess laughed outright. She pattered gracefully into another room. There she saw the youngest daughter of her foster-mother.
-“What about the cat?” she asked for the third time.
-“The cat! Oh, she has gone to Shinku’s duck farm. The ducks love her so that when they see her, they swim to shore and embrace her with their wings. Four of them combined to make a raft and she got upon their backs and went down-stream with them. They met some of the ducklings on the way and she patted them to death with her paws. How the big ducks quacked!”
-“That is a good story,” quoth the princess.
-She went into the garden and, seeing one of the gardeners, said: “What about the cat?”
-“It is frisking somewhere under the cherry tree, but you would not know it if you saw it,” replied the gardener.
-“Why?” asked the princess.
-“Because, Your Highness, I gave it a strong worm porridge for its dinner, and as soon as it ate it, its white fur coat became a glossy green, striped with black. It looks like a giant caterpillar, and all the little caterpillars are going to hold a festival tonight in its honor.”
-“Deary me! What a great cat!” exclaimed the princess.
-A little further on she met one of the chamberlains of the palace. “What about the cat?” she asked.
-“It is dancing in the ballroom in a dress of elegant cobwebs and a necklace of pearl rice. For partner, she has the yellow dragon in the hall, come to life, and they take such pretty steps together that all who behold them shriek in ecstasy. Three little mice hold up her train as she dances, and another sits perched on the tip of the dragon’s curled tail.”
-At this the princess quivered like a willow tree and was obliged to seek her apartments. When there, she recovered herself, and placing a blossom on her exquisite eyebrow, commanded that all those of whom she had inquired concerning the cat should be brought before her. When they appeared she looked at them very severely and said:
-“You have all told me different stories when I have asked you: ‘What about the cat?’ Which of these stories is true?”
-No one answered. All trembled and paled.
-“They are all untrue,” announced the princess.
-She lifted her arm and there crawled out of her sleeve her white cat. It had been there all the time.
-Then the courtly chamberlain advanced towards her, kotowing three times. “Princess,” said he, “would a story be a story if it were true? Would you have been as well entertained this morning if, instead of our stories, we, your unworthy servants, had simply told you that the cat was up your sleeve?”
-The princess lost her severity in hilarity. “Thank you, my dear servants,” said she. “I appreciate your desire to amuse me.”
-She looked at her cat, thought of all it had done and been in the minds of her servants, and laughed like a princess again and again.
-From Mrs. Spring Fragrance (1912); originally published in Good Housekeeping 46.5 (March 1908); also reprinted in Colorado Springs Gazette (January 22 1911).
+<h2 id="chapter13"> The Smuggling of Tie Co </h2>
 
-Acknowledgements
-The book is made possible by our fiscal sponsor, Educopia Institute, and the generous support of the Mellon Foundation.
-Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (DDD) for their support in creating new digital formats for the Cita Press library. DDD provided EPUB and PDF conversion, OCR, and accessibility remediation. Visit DPLA’s Palace Bookshelf to find this volume and other Open Bookshelf books.
-This collection exists thanks to decades of work by scholars and writers dedicated to recovering, preserving, and bringing greater recognition to Sui Sin Far/Edith Eaton’s writing. We are especially indebted to Mary Chapman, Amy Ling, and Annette White-Parks, and highly recommend the collections they have edited to anyone who would like to read more of Eaton’s work. We also recommend Episode 15 of the Lost Ladies of Lit podcast, featuring foreword writer Victoria Namkung in conversation with Kim Askew and Amy Helmes Fowler, as a companion to this book. (Details on references in Bibliography.)
-Finally, we extend gratitude to Cita Press Advisory Board members (past and present) for their support and guidance: Janneke Adema, Vicky Checo, Katherine Maher, Jessica Meyerson, and Mindy Seu.
-Text Sources
-Special thanks to Project Gutenberg and the Internet Archive for providing a treasure trove of original material for researchers, readers, and publishers like us.
-Far, Sui Sin (signed Edith Eaton). “A Trip in a Horse Car.” The Dominion Illustrated (Montreal and Toronto) 1, no. 15 (October 13, 1888). <https://archive.org/details/dominion_llustrated_oct1888/page/n25/mode/2up>
-Far, Sui Sin (signed Edith Eaton). “Misunderstood: The Story of a Young Man.” The Dominion Illustrated (Montreal and Toronto) 1, no. 20 (November 17, 1888). <https://archive.org/details/DominionIllustratedNov1888/page/n41/mode/2up>
-Far, Sui Sin. “Woo-Ma and I.” The Bohemian 10 (January 1906). <https://babel.hathitrust.org/cgi/pt?id=nyp.33433081996914&view=1up&seq=80&q1=sui+sin+far>
-Far, Sui Sin. “Leaves from the Mental Portfolio of an Eurasian.” The Independent (New York) 66, no. 3138 (January 21, 1909). <https://archive.org/details/sim_independent_1909-01-21_66_3138/page/124/mode/2up>
-Far, Sui Sin (signed “A Half Chinese”). “The Persecution and Oppression of Me.” The Independent 71, no. 3273 (August 24, 1911). <https://archive.org/details/sim_independent_1911-08-24_71_3273/page/420/mode/2up>
-Far, Sui Sin. “Sui Sin Far, the Half Chinese Writer, Tells of Her Career.” Boston Daily Globe (1872-1922); May 5, 1912; ProQuest Historical Newspapers: The Boston Globe. Access provided by the Boston Public Library.
-Far, Sui Sin (also signed “\[Edith Eaton]”). Mrs. Spring Fragrance. Chicago: A.C. McClurg & Co, May 1912; Project Gutenberg, August 16, 2020, <https://www.gutenberg.org/files/62940/62940-h/62940-h.htm>.
-Mrs. Spring Fragrance - Originally
-The Inferior Woman
-In the Land of the Free
-The Americanizing of Pau Tsu
-The Chinese Lily
-The Three Souls of Ah So Nan
-“Its Wavering Image”
-The Smuggling of Tie Co
-Tian Shah’s Kindred Spirit
-The Heart’s Desire
-A Chinese Boy-Girl
-What About the Cat?
+<p><i>Editor’s note: This story was originally published in </i>Land of Sunshine <i> in July of 1900. At the time of initial publication, Eaton was still working out her pen name; this story was credited to “Sui Sin Fah.”</i></p>
 
-#### Bibliography
+<p>Amongst the daring men who engage in contrabanding Chinese from Canada into the United States Jack Fabian ranks as the boldest in deed, the cleverest in scheming, and the most successful in outwitting Government officers.</p>
+<p>Uncommonly strong in person, tall and well built, with fine features and a pair of keen, steady blue eyes, gifted with a sort of rough eloquence and of much personal fascination, it is no wonder that we fellows regard him as our chief and are bound to follow where he leads. With Fabian at our head we engage in the wildest adventures and find such places of concealment for our human goods as none but those who take part in a desperate business would dare to dream of.</p>
+<p>Jack, however, is not in search of glory—money is his object. One day when a romantic friend remarked that it was very kind of him to help the poor Chinamen over the border, a cynical smile curled his moustache.</p>
+<p>“Kind!” he echoed. “Well, I haven’t yet had time to become sentimental over the matter. It is merely a matter of dollars and cents, though, of course, to a man of my strict principles, there is a certain pleasure to be derived from getting ahead of the Government. A poor devil does now and then like to take a little out of those millionaire concerns.”</p>
+<p>It was last summer and Fabian was somewhat down on his luck. A few months previously, to the surprise of us all, he had made a blunder, which resulted in his capture by American officers, and he and his companion, together with five uncustomed Chinamen, had been lodged in a county jail to await trial.</p>
+<p>But loafing behind bars did not agree with Fabian’s energetic nature, so one dark night, by means of a saw which had been given to him by a very innocent-looking visitor the day before, he made good his escape, and after a long, hungry, detective-hunted tramp through woods and bushes, found himself safe in Canada.</p>
+<p>He had had a three months’ sojourn in prison, and during that time some changes had taken place in smuggling circles. Some ingenious lawyers had devised a scheme by which any young Chinaman on payment of a couple of hundred dollars could procure a father which father would swear the young Chinaman was born in America—thus proving him to be an American citizen with the right to breathe United States air. And the Chinese themselves, assisted by some white men, were manufacturing certificates establishing their right to cross the border, and in that way were crossing over in large batches.</p>
+<p>That sort of trick naturally spoiled our fellows’ business, but we all know that “Yankee sharper” games can hold good only for a short while; so we bided our time and waited in patience.</p>
+<p>Not so Fabian. He became very restless and wandered around with glowering looks. He was sitting one day in a laundry, the proprietor of which had sent out many a boy through our chief’s instrumentality. Indeed, Fabian is said to have “rushed over” to “Uncle Sam” himself some five hundred Celestials, and if Fabian had not been an exceedingly generous fellow he might now be a gentleman of leisure instead of an unimmortalized Rob Roy.</p>
+<p>Well, Fabian was sitting in the laundry of Chen Ting Lung & Co., telling a nice-looking young Chinaman that he was so broke that he’d be willing to take over even one man at a time.</p>
+<p>The young Chinaman looked thoughtfully into Fabian’s face. “Would you take me?” he inquired.</p>
+<p>“Take you!” echoed Fabian. “Why, you are one of the ‘bosses’ here. You don’t mean to say that you are hankering after a place where it would take you years to get as high up in the ‘washee, washee’ business as you are now?”</p>
+<p>“Yes, I want go,” replied Tie Co. “I want go to New York and I will pay you fifty dollars and all expense if you take me, and not say you take me to my partners.”</p>
+<p>“There’s no accounting for a Chinaman,” muttered Fabian; but he gladly agreed to the proposal and a night was fixed.</p>
+<p>“What is the name of the firm you are going to?” inquired the white man.</p>
+<p>Chinamen who intend being smuggled always make arrangements with some Chinese firm in the States to receive them.</p>
+<p>Tie Co hesitated, then mumbled something which sounded like “Quong Wo Yuen” or “Long Lo Toon,” Fabian was not sure which, but did not repeat the question, not being sufficiently interested.</p>
+<p>He left the laundry, nodding goodbye to Tie Co as he passed outside the window, and the Chinaman nodded back, a faint smile on his small, delicate face lingering until Fabian’s receding form was lost to view.</p>
+<p>It was a pleasant night on which the two men set out. Fabian had a rig waiting at the corner of the street; Tie Co, dressed in citizen’s clothes, stepped into it unobserved, and the smuggler and would-be-smuggled were soon out of the city. They had a merry drive, for Fabian’s liking for Tie Co was very real; he had known him for several years, and the lad’s quick intelligence interested him.</p>
+<p>The second day they left their horse at a farmhouse, where Fabian would call for it on his return trip, crossed a river in a row-boat before the sun was up, and plunged into a wood in which they would remain till evening. It was raining, but through mud and wind and rain they trudged slowly and heavily.</p>
+<p>Tie Co paused now and then to take breath. Once Fabian remarked:</p>
+<p>“You are not a very strong lad, Tie Co. It’s a pity you have to work as you do for your living,” and Tie Co had answered:</p>
+<p>“Work velly good! No work, Tie Co die.”</p>
+<p>Fabian looked at the lad protectingly, wondering in a careless way why this Chinaman seemed to him so different from the others.</p>
+<p>“Wouldn’t you like to be back in China?” he asked.</p>
+<p>“No,” said Tie Co decidedly.</p>
+<p>“Why?”</p>
+<p>“I not know why,” answered Tie Co.</p>
+<p>Fabian laughed.</p>
+<p>“Haven’t you got a nice little wife at home?” he continued. “I hear you people marry very young.”</p>
+<p>“No, I no wife,” asserted his companion with a choky little laugh. “I never have no wife.”</p>
+<p>“Nonsense,” joked Fabian. “Why, Tie Co, think how nice it would be to have a little woman cook your rice and to love you.”</p>
+<p>“I not have wife,” repeated Tie Co seriously. “I not like woman, I like man.”</p>
+<p>“You confirmed old bachelor!” ejaculated Fabian.</p>
+<p>“I like you,” said Tie Co, his boyish voice sounding clear and sweet in the wet woods. “I like you so much that I want go to New York, so you make fifty dollars. I no flend in New York.”</p>
+<p>“What!” exclaimed Fabian.</p>
+<p>“Oh, I solly I tell you, Tie Co velly solly,” and the Chinese boy shuffled on with bowed head.</p>
+<p>“Look here, Tie Co,” said Fabian; “I won’t have you do this for my sake. You have been very foolish, and I don’t care for your fifty dollars. I do not need it half as much as you do. Good God! how ashamed you make me feel—I who have blown in my thousands in idle pleasures cannot take the little you have slaved for. We are in New York State now. When we get out of this wood we will have to walk over a bridge which crosses a river. On the other side, not far from where we cross, there is a railway station. Instead of buying you a ticket for the city of New York I shall take train with you for Toronto.”</p>
+<p>Tie Co did not answer—he seemed to be thinking deeply. Suddenly he pointed to where some fallen trees lay.</p>
+<p>“Two men run away behind there,” cried he.</p>
+<p>Fabian looked round them anxiously; his keen eyes seemed to pierce the gloom in his endeavor to catch a glimpse of any person; but no man was visible, and, save the dismal sighing of the wind among the trees, all was quiet.</p>
+<p>“There’s no one,” he said somewhat gruffly—he was rather startled, for they were a mile over the border and he knew that the Government officers were on a sharp lookout for him, and felt, despite his strength, if any trick or surprise were attempted it would go hard with him.</p>
+<p>“If they catch you with me it be too bad,” sententiously remarked Tie Co. It seemed as if his words were in answer to Fabian’s thoughts.</p>
+<p>“But they will not catch us; so cheer up your heart, my boy,” replied the latter, more heartily than he felt.</p>
+<p>“If they come, and I not with you, they not take you and it be all lite.”</p>
+<p>“Yes,” assented Fabian, wondering what his companion was thinking about.</p>
+<p>They emerged from the woods in the dusk of the evening and were soon on the bridge crossing the river. When they were near the centre Tie Co stopped and looked into Fabian’s face.</p>
+<p>“Man come for you, I not here, man no hurt you.” And with the words he whirled like a flash over the rail.</p>
+<p>In another flash Fabian was after him. But though a first-class swimmer, the white man’s efforts were of no avail, and Tie Co was borne away from him by the swift current.</p>
+<p>Cold and dripping wet, Fabian dragged himself up the bank and found himself a prisoner.</p>
+<p>“So your Chinaman threw himself into the river. What was that for?” asked one of the Government officers.</p>
+<p>“I think he was out of his head,” replied Fabian. And he fully believed what he uttered.</p>
+<p>“We tracked you right through the woods,” said another of the captors. “We thought once the boy caught sight of us.”</p>
+<p>Fabian remained silent.</p>
+<p>Tie Co’s body was picked up the next day. Tie Co’s body, and yet not Tie Co, for Tie Co was a youth, and the body found with Tie Co’s face and dressed in Tie Co’s clothes was the body of a girl—a woman.</p>
+<p>Nobody in the laundry of Chen Ting Lung & Co.—no Chinaman in Canada or New York—could explain the mystery. Tie Co had come out to Canada with a number of other youths. Though not very strong he had always been a good worker and “very smart.” He had been quiet and reserved among his own countrymen; had refused to smoke tobacco or opium, and had been a regular attendant at Sunday schools and a great favorite with Mission ladies.</p>
+<p>Fabian was released in less than a week. “No evidence against him,” said the Commissioner, who was not aware that the prisoner was the man who had broken out of jail but a month before.</p>
+<p>Fabian is now very busy; there are lots of boys taking his helping hand over the border, but none of them are like Tie Co; and sometimes, between whiles, Fabian finds himself pondering long and earnestly over the mystery of Tie Co’s life—and death.</p>
+<p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>Land of Sunshine <i>(July 1900).</i></small></p>
 
-Resources that helped inform the selection of texts included in this volume:
-Ammons, Elizabeth, James Doyle, Amy Ling, S.E. Solberg, and Annette White-Parks. “Critical Extracts, Sui Sin Far or Edith Maude Eaton.” In American Women Fiction Writers, 1900-1960, Volume Three, edited by Harold Bloom, 156-177. Philadelphia: Chelsea House Publishers, 1998. <https://archive.org/details/americanwomenfic00bloo_2/page/n7/mode/2up\>
-Chapman, Mary. “A ‘Revolution in Ink’: Sui Sin Far and Chinese Reform Discourse.” American Quarterly 60, no. 4 (2008): 975–1001. <http://www.jstor.org/stable/40068558>.
-Cutter, Martha J. “Sui Sin Far’s Letters to Charles Lummis: Contextualizing Publication Practices for the Asian American Subject at the Turn of the Century.” American Literary Realism 38, no. 3 (2006): 259–75. <http://www.jstor.org/stable/27747220>.
-Far, Sui Sin. Becoming Sui Sin Far: Early Fiction and Travel Writing by Edith Maude Eaton. Ed. Mary Chapman. Montreal: McGill-Queen’s University Press, 2016.
-Far, Sui Sin. Mrs. Spring Fragrance and Other Writings. Eds. Amy Ling and. Annette White-Parks. Urbana and Chicago: University of Illinois Press, 1995.
-Ling, Amy. ““Edith Eaton: Pioneer Chinamerican Writer and Feminist.” American Literary Realism, 1870-1910 16, no. 2 (1983): 287–98. <http://www.jstor.org/stable/27746105>.
-Macellaro, Kimberly. “Sui Sin Far’s Jekyll and Hyde: Divided Subjects and Utopian Alternatives.” Modern Fiction Studies 61, no. 1 (2015): 47–68. <https://www.jstor.org/stable/26421773>.
-Namkung, Victoria. “Sui Sin Far – Mrs. Spring Fragrance with Victoria Namkung.”  Interview with Kim Askew and Amy Helmes Fowler. Lost Ladies of Lit. Podcast audio. December 29, 2020. <https://www.lostladiesoflit.com/podcast/15-sui-sin-far-mrs-spring-fragrance-with-victoria-namkung>.
-Nguyen, Viet Thanh. “On the Origins of Asian American Literature: The Eaton Sisters and the Hybrid Body.” In Race and Resistance: literature & politics in Asian America. New York: Oxford University Press, 2002.
-Sibara, Jennifer Barager. “Disease, Disability, and the Alien Body in the Literature of Sui Sin Far.” MELUS 39, no. 1 (2014): 56–81. <http://www.jstor.org/stable/24569891>.
-White-Parks, Annette. Sui Sin Far: A Literary Biography. Urbana: University of Illinois Press, 1995. <https://archive.org/details/suisinfaredithma0000whit/page/n13/mode/2up>.
+<p><a href="#toc">Back to the Start</a><p>
+
+<h2 id="chapter14"> Tian Shan's Kindred Spirit </h2>
+
+<p>Had Tian Shan been an American and China to him a forbidden country, his daring exploits and thrilling adventures would have furnished inspiration for many a newspaper and magazine article, novel, and short story. As a hero, he would certainly have far outshone Dewey, Peary, or Cook. Being, however, a Chinese, and the forbidden country America, he was simply recorded by the American press as “a wily Oriental, who, ‘by ways that are dark and tricks that are vain,’ is eluding the vigilance of our brave customs officers.” As to his experiences, the only one who took any particular interest in them was Fin Fan.</p>
+<p>Fin Fan was Tian Shan’s kindred spirit. She was the daughter of a Canadian Chinese storekeeper and the object of much concern to both Protestant Mission ladies and good Catholic sisters.</p>
+<p>“I like learn talk and dress like you,” she would respond to attempts to bring her into the folds, “but I not want think like you. Too much discuss.” And when it was urged upon her that her father was a convert—the Mission ladies declaring, to the Protestant faith, and the nuns, to the Catholic—she would calmly answer: “That so? Well, I not my father. Beside I think my father just say he Catholic (or Protestant) for sake of be amiable to you. He good-natured man and want to please you.”</p>
+<p>This independent and original stand led Fin Fan to live, as it were, in an atmosphere of outlawry even amongst her own countrywomen, for all proper Chinese females in Canada and America, unless their husbands are men of influence in their own country, conform upon request to the religion of the women of the white race.</p>
+<p>Fin Fan sat on her father’s doorstep amusing herself with a ball of yarn and a kitten. She was a pretty girl, with the delicate features, long slanting eyes, and pouting mouth of the women of Soo Chow, to which province her dead mother had belonged.</p>
+<p>Tian Shan came along.</p>
+<p>“Will you come for a walk around the mountain?” asked he.</p>
+<p>“I don’t know,” answered Fin Fan.</p>
+<p>“Do!” he urged.</p>
+<p>The walk around the mountain is enjoyable at all seasons, but particularly so in the fall of the year when the leaves on the trees are turning all colors, making the mount itself look like one big posy.
+The air was fresh, sweet, and piny. As Tian Shan and Fin Fan walked, they chatted gaily—not so much of Tian Shan or Fin Fan as of the brilliant landscape, the sun shining through a grove of black-trunked trees with golden leaves, the squirrels that whisked past them, the birds twittering and soliloquizing over their vanishing homes, and many other objects of nature. Tian Shan’s roving life had made him quite a woodsman, and Fin Fan—well, Fin Fan was his kindred spirit.</p>
+<p>A large oak, looking like a smouldering pyre, invited them to a seat under its boughs.</p>
+<p>After happily munching half a dozen acorns, Fin Fan requested to be told all about Tian Shan’s last adventure. Every time he crossed the border, he was obliged to devise some new scheme by which to accomplish his object, and as he usually succeeded, there was always a new story to tell whenever he returned to Canada.</p>
+<p>This time he had run across the river a mile above the Lachine Rapids in an Indian war canoe, and landed in a cove surrounded by reefs, where pursuit was impossible. It had been a perilous undertaking, for he had had to make his way right through the swift current of the St. Lawrence, the turbulent rapids so near that it seemed as if indeed he must yield life to the raging cataract. But with indomitable courage he had forged ahead, the canoe, with every plunge of his paddles, rising on the swells and cutting through the whitecaps, until at last he reached the shore for which he had risked so much.</p>
+<p>Fin Fan was thoughtful for a few moments after listening to his narration.</p>
+<p>“Why,” she queried at last, “when you can make so much more money in the States than in Canada, do you come so often to this side and endanger your life as you do when returning?”</p>
+<p>Tian Shan was puzzled himself. He was not accustomed to analyzing the motives for his actions.</p>
+<p>Seeing that he remained silent, Fin Fan went on:</p>
+<p>“I think,” said she, “that it is very foolish of you to keep running backwards and forwards from one country to another, wasting your time and accomplishing nothing.”</p>
+<p>Tian Shan dug up some soft, black earth with the heels of his boots.
+“Perhaps it is,” he observed.</p>
+<p>That night Tian Shan’s relish for his supper was less keen than usual, and when he laid his head upon his pillow, instead of sleeping, he could only think of Fin Fan. Fin Fan! Fin Fan! Her face was before him, her voice in his ears. The clock ticked Fin Fan; the cat purred it; a little mouse squeaked it; a night-bird sang it. He tossed about, striving to think what ailed him. With the first glimmer of morning came knowledge of his condition. He loved Fin Fan, even as the American man loves the girl he would make his wife.</p>
+<p>Now Tian Shan, unlike most Chinese, had never saved money and, therefore, had no home to offer Fin Fan. He knew, also, that her father had his eye upon a young merchant in Montreal, who would make a very desirable son-in-law.</p>
+<p>In the early light of the morning Tian Shan arose and wrote a letter. In this letter, which was written with a pointed brush on long yellow sheets of paper, he told Fin Fan that, as she thought it was foolish, he was going to relinquish the pleasure of running backwards and forwards across the border, for some time at least. He was possessed of a desire to save money so that he could have a wife and a home. In a year, perhaps, he would see her again.</p>
+<p>Lee Ping could hardly believe that his daughter was seriously opposed to becoming the wife of such a good-looking, prosperous young merchant as Wong Ling. He tried to bring her to reason, but instead of yielding her will to the parental, she declared that she would take a place as a domestic to some Canadian lady with whom she had become acquainted at the Mission sooner than wed the man her father had chosen.</p>
+<p>“Is not Wong Ling a proper man?” inquired the amazed parent.</p>
+<p>“Whether he is proper or improper makes no difference to me,” returned Fin Fan. “I will not marry him, and the law in this country is so that you cannot compel me to wed against my will.”</p>
+<p>Lee Ping’s good-natured face became almost pitiful as he regarded his daughter. Only a hen who has hatched a duckling and sees it take to the water for the first time could have worn such an expression.</p>
+<p>Fin Fan’s heart softened. She was as fond of her father as he of her. Sidling up to him, she began stroking his sleeve in a coaxing fashion.</p>
+<p>“For a little while longer I wish only to stay with you,” said she.</p>
+<p>Lee Ping shook his head, but gave in.</p>
+<p>“You must persuade her yourself,” said he to Wong Ling that evening. “We are in a country where the sacred laws and customs of China are as naught.”</p>
+<p>So Wong Ling pressed his own suit. He was not a bad-looking fellow, and knew well also how to honey his speech. Moreover, he believed in paving his way with offerings of flowers, trinkets, sweetmeats.</p>
+<p>Fin Fan looked, listened, and accepted. Every gift that could be kept was carefully put by in a trunk which she hoped some day to take to New York. “They will help to furnish Tian Shan’s home,” said she.
+Twelve moons had gone by since Tian Shan had begun to think of saving and once again he was writing to Fin Fan.</p>
+<p>“I have made and I have saved,” wrote he. “Shall I come for you?”</p>
+<p>And by return mail came an answer which was not “No.”</p>
+<p>Of course, Fin Fan’s heart beat high with happiness when Tian Shan walked into her father’s store; but to gratify some indescribable feminine instinct she simply nodded coolly in his direction, and continued what might be called a flirtation with Wong Ling, who had that morning presented her with the first Chinese lily of the season and a box of the best preserved ginger.</p>
+<p>Tian Shan sat himself down on a box of dried mushrooms and glowered at his would-be rival, who, unconscious of the fact that he was making a third when there was needed but a two, chattered on like a running stream. Thoughtlessly and kittenishly Fin Fan tossed a word, first to this one, and next to that; and whilst loving with all her heart one man, showed much more favor to the other.</p>
+<p>Finally Tian Shan arose from the mushrooms and marched over to the counter.</p>
+<p>“These yours?” he inquired of Wong Ling, indicating the lily and the box of ginger.</p>
+<p>“Miss Fin Fan has done me the honor of accepting them,” blandly replied Wong Ling.</p>
+<p>“Very good,” commented Tian Shan. He picked up the gifts and hurled them into the street.</p>
+<p>A scene of wild disorder followed. In the midst of it the father of Fin Fan, who had been downtown, appeared at the door.</p>
+<p>“What is the meaning of this?” he demanded.</p>
+<p>“Oh, father, father, they are killing one another! Separate them, oh, separate them!” pleaded Fin Fan.</p>
+<p>But her father’s interference was not needed. Wong Ling swerved to one side, and falling, struck the iron foot of the stove. Tian Shan, seeing his rival unconscious, rushed out of the store.</p>
+<p>The moon hung in the sky like a great yellow pearl and the night was beautiful and serene. But Fin Fan, miserable and unhappy, could not rest.</p>
+<p>“All your fault! All your fault!” declared the voice of conscience.</p>
+<p>“Fin Fan,” spake a voice near to her.</p>
+<p>Could it be? Yes, it surely was Tian Shan.</p>
+<p>She could not refrain from a little scream.</p>
+<p>“Sh! Sh!” bade Tian Shan. “Is he dead?”</p>
+<p>“No,” replied Fin Fan, “he is very sick, but he will recover.”</p>
+<p>“I might have been a murderer,” mused Tian Shan. “As it is I am liable to arrest and imprisonment for years.”</p>
+<p>“I am the cause of all the trouble,” wept Fin Fan.</p>
+<p>Tian Shan patted her shoulder in an attempt at consolation, but a sudden footfall caused her to start away from him.</p>
+<p>“They are hunting you!” she cried. “Go! Go!”</p>
+<p>And Tian Shan, casting upon her one long farewell look, strode with rapid steps away.</p>
+<p>Poor Fin Fan! She had indeed lost every one, and added to that shame, was the secret sorrow and remorse of her own heart. All the hopes and the dreams which had filled the year that was gone were now as naught, and he, around whom they had been woven, was, because of her, a fugitive from justice, even in Canada.</p>
+<p>One day she picked up an American newspaper which a customer had left on the counter, and, more as a habit than for any other reason, began spelling out the paragraphs.</p>
+<p>A Chinese, who has been unlawfully breathing United States air for several years, was captured last night crossing the border, a feat which he is said to have successfully accomplished more than a dozen times during the last few years. His name is Tian Shan, and there is no doubt whatever that he will be deported to China as soon as the necessary papers can be made out.</p>
+<p>Fin Fan lifted her head. Fresh air and light had come into her soul. Her eyes sparkled. In the closet behind her hung a suit of her father’s clothes. Fin Fan was a tall and well-developed young woman.</p>
+<p>“You are to have company,” said the guard, pausing in front of Tian Shan’s cage. “A boy without certificate was caught this morning by two of our men this side of Rouse’s Point. He has been unable to give an account of himself, so we are putting him in here with you. You will probably take the trip to China together.”</p>
+<p>Tian Shan continued reading a Chinese paper which he had been allowed to retain. He was not at all interested in the companion thrust upon him. He would have preferred to be left alone. The face of the absent one is so much easier conjured in silence and solitude. It was a foregone conclusion with Tian Shan that he would never again behold Fin Fan, and with true Chinese philosophy he had begun to reject realities and accept dreams as the stuff upon which to live. Life itself was hard, bitter, and disappointing. Only dreams are joyous and smiling.</p>
+<p>One star after another had appeared until the heavens were patterned with twinkling lights. Through his prison bars Tian Shan gazed solemnly upon the firmament.</p>
+<p>Some one touched his elbow. It was his fellow-prisoner.</p>
+<p>So far the boy had not intruded himself, having curled himself up in a corner of the cell and slept soundly apparently, ever since his advent.</p>
+<p>“What do you want?” asked Tian Shan not unkindly.</p>
+<p>“To go to China with you and to be your wife,” was the softly surprising reply.</p>
+<p>“Fin Fan!” exclaimed Tian Shan. “Fin Fan!”</p>
+<p>The boy pulled off his cap.</p>
+<p>“Aye,” said he. “’Tis Fin Fan!”</p>
+
+<p><small><i>From</i> Mrs. Spring Fragrance<i> (1912). A previous publication has not been identified as of August 2023.</i></small></p>
+
+<p><a href="#toc">Back to the Start</a><p>
+
+  <h2 id="chapter15"> Woo-Ma and I </h2>
+
+ <h3> Introduction</h3>
+<p>Woo-Ma and I were the daughters of a Chinaman who had been brought up and educated in California, where, when he had attained to the age of twenty-four, he married my mother, then a pretty American girl of Irish and English descent. We were therefore Anglo-Chinese. We were not at all alike, either in appearance or character. I was small and chubby with scarcely any nose to speak of, black eyed, black haired, brown skinned and rosy cheeked. My eyes were pointed at the corners like Chinese eyes, and on the whole, I favored my father, only, of course, much prettier than he could ever be. When born, I was so small, so dark and so queer, that the nurse actually forgot to exclaim, as is the custom on such occasions."What a fine child!" Indeed, my mother, as soon as her eyes fell on me, cried,"Oh, nurse, what a homely little creature, take it away."And my mother's opinion was approved of and endorsed by all who beheld me, and even my father, who gave me perhaps my warmest welcome, could not refrain from mournfully prophesying,"It will never get a husband."</p>
+<p>However, as the vanity of a young female, whose age is summed up by days and hours, is scarcely as sensitive as when the years are added to its life, the uncomplimentary remarks had very little effect upon my constitution. In fact, I laughed in the face of them, and by the time my mother had become accustomed to my homeliness, had grown quite a good looking child.</p>
+<p>Woo-Ma was more like mother; she was taller than I and slenderer. Her features were straight and her eyes wide open and gray-blue in color; her hair was a pretty soft brown and curled naturally; she had dear little hands and her skin could almost have been called fair.</p>
+<p>On account of our parentage childhood's days had not been made easy for Woo-Ma and I. It is a dreadful confession to make, but from the age of seven to twelve, I believe I hardly ever went out of the house without getting into trouble and returning with scratched hands and face and disordered hair. For me to be a "proper" little girl was an absolute impossibility. The sneers and taunting words which seem to be the birthright in America of any child who has a drop of Chinese blood in its veins used to madden me beyond endurance, and I would turn upon my tormentors and scratch and bite until utterly exhausted.</p>
+<p>As Woo-Ma did not feel constrained to twist her hair into a tight pig-tail, constitute herself the champion of all unfortunate Chinamen, and state at the beginning of an acquaintance in a defiant and aggressive manner that she was Chinese, she naturally escaped many of the misfortunes which befell me. Nevertheless, I have seen her turn white and tremble with excitement and pain on hearing the mocking cry, "Chinese! Chinese!"</p>
+<p>Mother was a Methodist and Woo-Ma and I were brought up in the Methodist church, but Father seemed to have no religion at all, which fact greatly disturbed my peace of mind.</p>
+<p>"Father," I said one day, "are you a heathen?” "Run away and don't bother me," answered Father.</p>
+<p>I, however, carried my perplexities to Woo-Ma and asked for her opinion as to whether or not Father was a heathen. Woo-Ma reflected for a few minutes, then replied:</p>
+<p>“No, I don't think he is exactly a heathen; I believe he is what is called a Free Thinker."</p>
+<p>I was not satisfied with this answer and continued troubled in spirit until the next day, when I prevailed upon Woo-Ma to write two poems, one entitled "The Dying Christian," the other "The Dying Atheist." The former depicted in glowing words the happiness of dying a Christian; the latter, the awful horror which a man who has lived the life of an unbeliever experiences when his last hour has come.
+These two poems I addressed to my father and mailed the next morning. I expected to hear from him concerning them, but was disappointed, and evidently my delicate attempt to convert him was unappreciated.</p>
+<p>And thus Woo-Ma and I grew up — in the outskirts of Chinatown.</p>
+<h3>I</h3>
+<p>We had visitors. They were: Mr. Christopher Hartley, a man of about thirty years of age, with manners ingratiating and smile fascinating; Jim Nesbit, an old school friend of ours; Joo Pei, my betrothed; Wong Lee, a friend of his; and Richard Forman, introduced by Jim as "one of the boys."</p>
+<p>The conversation had been general until Mr. Hartley and my sister separated themselves and, withdrawing to the large window seat at the end of the hall, began to converse together in low tones. This I did not like at all. I knew that Woo-Ma was deeply in love with Christopher Hartley and I had come to the conclusion that he was only making her miserable.</p>
+<p>“I suppose," said Jim Nesbit, addressing Wong Lee, "that you have but lately come from China."</p>
+<p>“I have come here ten years ago," replied Wong.</p>
+<p>“You are naturalized, then," rattled on Jim, who was trying to divert his mind from Woo-Ma.</p>
+<p>“I got a 'high up' lawyer to make me natural two years after I first come," calmly asserted our Chinese friend.</p>
+<p>“And is this little boy your eldest son?" continued Jim, pointing to a cute little fellow in long braided queue and a broidered silk blouse who stood by Wong Lee's knee.</p>
+<p>"No, my eldest is the son of my first wife," replied Wong Lee. </p>
+<p>"This is the son of my third wife. I wrote to China for them to send her to me here and I paid one thousand dollars to her grandmother for her and sent as well eight hundred dollars with which to buy her trousseau."</p>
+<p>"Were you not married in China?" Jim asked.</p>
+ <p>"Yes, three times," replied Wong Lee. </p>
+<p>"How long is it since your first wife died?"</p>
+<p>"She is not dead; she is living in China with her mother," Wong Lee answered.</p>
+<p>“Are you divorced from her?" ventured Jim.</p>
+<p>“How can you be so inquisitive, Jim? You shall not ask Mr. Wong Lee any more questions," I put in.</p>
+<p>"He does not care," answered Jim. "When I want some information and a person is willing to give it, I do not see why I should remain in ignorance. You have no objection to answering my question, have you, Wong Lee?"</p>
+<p>"I like to tell what you like to hear," said Wong Lee politely.</p>
+<p>"So it is all right," said Jim triumphantly. "Are you divorced from your first wife, Wong Lee?"</p>
+<p>"No."</p>
+<p>"Then, how is it that you have been married three times?" asked Jim.
+"In China, a man can have as many wives as he can afford to keep, but if he cannot keep one wife he cannot have one."</p>
+<p>"Can a Chinese lady have more than one husband?"</p>
+<p>"No," answered Wong Lee very decidedly. "That would not be right at all."</p>
+<p>Said Jim, "Is it true, Mr. Wong Lee, that Chinese ladies are so averse to marriage that there is a custom prevalent amongst them of gathering together, when any of their young friends is about to become a bride, for the purpose of weeping and mourning over her impending fate?"</p>
+<p>"I think sometimes the Chinese women do that, but men don't bother about it," returned Wong Lee.</p>
+<p>"Ah, then," mused Jim aloud. "The Chinese women, poor things, cannot be very happy."</p>
+<p>Father, who had entered the room very quietly, now ranged himself with Wong Lee and answered for him. Father could talk well when he wished. This is what he said:</p>
+<p>"The Chinese women are happy enough. You see, a daughter has no inheritance, neither does she receive any marriage portion from her parents. She is bought from them by her future husband and his relations, who send presents according to their means. I read in the Bible of Abraham sending a steward to buy a wife for his son, Isaac, and that the steward took with him jewels of silver and gold and raiment which he presented to Rebekah's friends when he asked for her as a bride for his young master. It is just in that way that the Chinamen get their wives, and after they are sent to them they are obliged to support and care for them. A Chinese girl is obliged to marry whenever her father or guardian so wishes; she has no option."</p>
+<p>"Poor Chinese brides!" I softly said.</p>
+<p>"Well," said Father, turning to me. "Perhaps the Chinese do not show quite as much consideration for their women as daughters and wives as do the people of this country, but as mothers the Chinese women are treated with the greatest respect by their children, who, even when themselves advanced in years, pay the utmost deference to the commands and counsels of an aged parent."</p>
+<p>There was somewhat in Father's expression as he made the last remark which made me feel that his conscience was reproaching him for deserting in his early youth his own parents. Father had run away from his home when only ten years of age and had been brought to California by a troupe of strolling players.</p>
+<p>"How did you become acquainted with these Chinese gentlemen?" inquired Richard Forman in an undertone.</p>
+<p>"They are my father's friends," I answered. "My father is a Chinaman."</p>
+<p>"Indeed, I am deeply interested." Quick to resent being patronized I retorted: "Thanks for your interest, but I am afraid that I cannot pay it back.”</p>
+<p>I was ashamed of myself immediately; but Richard Forman did not seem to heed the flash and sitting down beside me, said:</p>
+<p>"You remind me of a sister of mine who died two years ago in England."</p>
+<p>I made no reply, and he continued:</p>
+<p>"She was just about as old as you when she died. She was then my only living relative."</p>
+<p>"Did she live with you?" I inquired.</p>
+<p>"Yes," said he. "She was always with me. She was the only person who ever felt for me a spark of affection."</p>
+<p>"You must miss her." "Rather." "Are you English?"</p>
+<p>"Well, I'm as much English as anything, though I call myself American. I'm a mixture. My father was half German, half English; my mother was French and Irish. I was born in the United States, but we returned to Europe when I was about ten years old, and since then I've lived all over. My father was a professor of music, my mother was, at one time, an actress. They both died when I was a lad and left me with Alice. She, as I told you, died last year when we were in England. There, you have my whole family history."</p>
+<p>"Thank you for giving it to me; but I did not ask you to," I answered gayly, for I was touched.</p>
+<p>"Who said you did?" brusquely replied Richard Forman. "An hour ago we were perfect strangers; but you looked so unsympathetic, so unlikely a person to condole with me, so unsentimental, that I felt drawn towards you, and am crossing with you at our first meeting the bridge which leads from acquaintanceship to friendship."</p>
+<p>"Oh!" I ejaculated. </p>
+<p>"Yes, we are great friends," said Richard Forman with conviction. Again I became suspicious.</p>
+<p>"I never flirt," I said.</p> 
+<p>"Neither do I," he answered. "Shake hands." </p>
+<p>"Do you like the Chinese?" I inquired irrelevantly. </p>
+<p>"I do," replied Richard Forman most impressively. </p>
+<p>I felt that I had made a mistake and tried to rectify it by another. </p>
+<p>"Oh!" I said, "I mean as a nation."</p>
+<p>"I'm afraid," said Richard Forman reflectively, "that I am not capable of liking any nation. A nation is too large; my heart is not capacious enough to take it in — but I tell you what — to my mind a clever Chinaman is more than a stupid American and a brilliant American is more than a dull Chinaman. Individuality is more than nationality."</p>
+<p>"That's a nice speech," I approved. "Mr. Forman, tell me, what do you do — who are you? Jim has introduced to us so many of ‘the boys,' as he calls them, but none of them is like–”</p>
+<p>"I'm a failure," Richard Forman interrupted with a queer smile. "Does that suit you ? I have failed in all I ever attempted. I have built many castles in the air — but all have fallen to pieces. I have no money, no friends, no hopes even."</p>
+<p>"You have no wife to bother your life, no lover to prove untrue," I laughingly replied.</p>
+<p>Just then Joo Pei came up and I introduced the two men. Joo Pei was the best looking Chinaman I have ever known. He was also a perfect gentleman and we were to be married in less than two months, when I was to return with him to China. I was sure that as his wife I should love him devotedly; he was so clever, so good and so kind.</p>
+<p>That night I spoke long and earnestly to Woo-Ma and warned her about Mr. Hartley, but she seemed neither to hear nor heed and her expression was that of a person in a happy trance.</p>
+<h3>II</h3>
+<p>"Farewell," said Joo Pei; "your father you obey, and I go to return, never."</p>
+<p>"Farewell," I replied, whilst the tears blinded my eyes.</p>
+<p>Joo Pei lifted my hand. I could not see him, but I felt his gaze and heard:</p>
+<p>"My desire in this world, little bird, is for you a cheerful heart to have."</p>
+<p>Then he was gone, and for me the sun had ceased to shine.</p>
+<p>Just one month before the day fixed for my wedding, Woo-Ma had disappeared and father had become an embittered man. His love for me assumed a strange form, for he broke my engagement in order to keep me with him. Poor Father! I saw the years creep over his face when they told him Woo-Ma was gone, and when I at first refused to do as he wished and said that the betrothal he himself had sealed should not be broken, he had answered with a glance of the eye that was so eloquent of pain and sorrow that I had felt myself a criminal, and despite Joo Pei's loving arguments, refused to return with him to China when he was recalled by the government.</p>
+<h3>III</h3>
+<p>Woo-Ma had written to me. After more than two years' separation I was to see her again, my dearly loved only sister. I went to the meeting place she had designated, and found her changed almost beyond recognition. I embraced her in a passion of grief. Then we talked.</p>
+<p>"It was just about two months before father betrothed you to Joo Pei that I forgot you, Father, everything, every one but him, and gave up all."</p>
+<p>As Woo-Ma spoke, a wave of swift and sudden anger swept over me.</p>
+<p>"What," I cried, "you gave up all knowing him to be the man he was? Without excuse of any kind you became — a bad woman?"</p>
+<p>Woo-Ma laughed mirthlessly. "Yes, without excuse of any kind I became that which you name."</p>
+<p>"Oh, my God, my God," I cried— "and this is my sister- and I have been so proud!"</p>
+<p>"I did, however," went on the clear voice, "believe that he loved me, and I thought that by the sacrifice of self, I would save him from the wiles of worthless women, teach him to believe in the unselfishness of love, and in a sense, bind him to me. He looked forward to rising to a high position, and I knew that in order to succeed politically, he must succeed socially, and to succeed socially a man must not have a wife who will cause curious smiles to appear on the faces of his friends. I loved him too well to subject him to the humiliation of having a Chinese wife."</p>
+<p>"Shame on you, Woo-Ma, for that speech," I cried. "Shame, shame to be ashamed!"</p>
+<p>"Have mercy, A- Toy, I can stand this no longer," pleaded Woo-Ma. 
+I had not known until then how cruel I could be. </p>
+<p>"Never mind me," I said penitently. "We are sisters, Woo-Ma, and it is because I am so sorrowful and indignant for your sake that I speak as I do. Tell me all and I promise that no bitter word shall escape my lips."</p>
+<p>She went on:</p>
+<p>"For a brief period I lived in Paradise. None knew of my sin, and I – I could not regard it as a sin. I was so sadly happy. But before long I perceived a change which drove me frantic. From different sources I learned that he was paying attention to other women. I became wild with jealousy. I wrote imploring him to come and see me. What had I done to offend him — was he offended? He did not reply. I went to him and he received me as ever, called me his darling and offered to kiss me. How loathsome are such caresses. I would have none of them, for I clearly perceived I had been but the ʻlove of a day,' with whom he had finished forever.</p>
+<p>"Long before it had come to that, yet after I was his, Father had told me that he had made arrangements for a marriage between myself and Joo Pei. Had I any objection to the proposal? If I had, he would substitute you as bride in my place; but he preferred to keep you. You were always Father's favorite. I was bewildered. What! I marry Joo Pei, I, who belonged to Christopher Hartley. No, such a marriage could never be! but if I refused, you would be sacrificed, and you, I knew, would not say no. I shuddered to think of my sister being wife to one whom I believed then you could never love. The customs and manners of the Chinese people were not ours; you were not born to be the toy of an Oriental, and such you would be if you married the man Father had selected. I scarcely knew what to do or say; but finally I told Father I could never be wife to any man. He did not understand and was disappointed. Then you became engaged to Joo Pei, and I disappeared– disappeared because I knew father would not part with his one daughter and my loss would save you…As to me, what mattered my fate?"</p>
+<p>"Then it was for my sake you left home?"</p>
+<p>I could not add to Woo-Ma's pain the knowledge that her sacrifice had but injured me.</p>
+<p>"Yes, A-Toy, but not wholly for your sake. I had proof of Christopher's unfaithfulness. I could not bear my life at home and sooner or later I would have had to leave or die."</p>
+<p>"Oh, Woo-Ma," I cried. "Whatever has happened, you are still the best and dearest. You are not bad; the sin does not lie with you; it is with that Christopher Hartley whom I hate."</p>
+<p>"Nay, A-Toy," replied my sister sadly. "Affection prompts you to speak thus; but my own conscience tells me that I have done evil. I would never have left Christopher Hartley had he not first abandoned me, and what he has brought home to me is my just punishment."</p>
+<p>"Well, Woo-Ma," I asserted. "Chistopher Hartley is a devil. It was satanic of him to win your love for pleasure and throw it away for the same reason. The loss was all yours.”</p>
+<p>And poor Woo-Ma answered:</p>
+<p>"There are times when to lose is a pleasure. I loved to lose for him. Some human beings have a genius for painting, some for music, some for poetry. I had a genius for loving."</p>
+<p>"And I have a genius for hating," I retorted. "No, Woo-Ma, defend him as you please, worship him as you please; be a worm under his feet forever; but do not expect me to act and feel likewise. Because I am half white you thought that I was too good to be the wife of a Chinese gentleman. Because you are half Chinese I think that you are too good for such a man as Christopher Hartley."</p>
+<p>Then remembering my promise to say no bitter words and overcome with remorse, I laid my head on my sister's shoulder and burst into tears. As to Woo-Ma, she threw her arms around my neck and bending her head over mine, wept with me. Thus, with mingled tears and mingled feelings we became sisters once more.</p>
+<p>Ah! poor, romantic Woo-Ma! Sweeter and more unselfish, lost girl as she was, than any other woman in this hard cold world. Well do I remember when we were girls of fifteen and sixteen reading together Macauley's account of the Duke of Monmouth's execution, and how in his last moments, the "darling of the English people" had spoken of his beloved Henrietta, the Countess of Wentworth, as being pure and good beyond other women and as having reclaimed him from a life of debauchery by the sacrifice of herself. Woo-Ma had remarked on that occasion, "I would have been prouder to be that lady than the most honored wife in England." And I had replied, "But every man is not a Duke of Monmouth."</p>
+<h3>IV</h3>
+<p>I made Father comfortable in a big arm chair in my own room and seating myself on an ottoman at his feet, laid my head on his knees. We remained silent for some minutes, but I felt his hand stroking my hair and there was balm in the touch, for my heart was aching, for loving kindness and unshared troubles had lately made us seem almost like strangers to one another. We were in the apartment which had been given over to Woo-Ma and me after mother's death. Mother had had it furnished in half Chinese, half American style, and silk panels, incense burners, Chinese mattings, jade stone and ivory curios, and more than all, the sweet perfume of the Chinese lily, impressed me always with the fact that I was not an ordinary American girl.</p>
+<p>"Does the fan which I bought you for Jim's sister please you, A-Toy?" Father asked.</p>
+<p>"Yes," I replied, "It is beautiful and Polly will wear it at her wedding."</p>
+<p>"When will that be?"</p>
+ <p>"Eh? Oh, I think next Wednesday."</p>
+ <p>"Your mind is not with your words," remarked Father.</p>
+<p>I knew it was not. 'Twas far away — with Woo-Ma. Father understood and asked very gently if she was coming home. </p>
+<p>"Yes," I replied. "She said she would — some day."</p>
+<p>Father's face worked strangely; but he bade me say no more, and then a visitor was ushered in–Jim Nesbit. He had a letter to deliver to me from one who was on his way to South Africa. I knew the hand writing, and on opening it, read: </p>
+<p>"Dear little A-Toy: – </p>
+<p>You will never see or hear from me again, and this letter is simply to repeat once more that I love you, though I have no right, knowing all, to say such words. Do you remember when we first met — three years ago? Well, even at that first meeting, I felt the impulse to ask you to love me; there was something so fresh and genial in your manner, so shy yet trustful in your glance. I knew you were not for me and I left you. Chance brought us together again. I became too fond of you. I can picture you curling your lip and saying half aloud with your shrewd, yet innocent, smile, 'Oh, he's been drinking, but if ever I was sober in my life, I am now, as I write, as many a poor fellow has done before,' Good-bye, sweetheart, good-bye.'”</p>
+<p>With all his cleverness Richard Forman had been unable to comprehend that it was just as natural for a daughter of a Chinaman to love a Chinaman as it is for the daughter of a white man to care for one of her father's race. He had made a great mistake. Nevertheless, a tear fell on that little note. How criss-cross the lines of life run!</p>
+<p>"A-Toy," said Jim, when he rose to go. "I have seen Woo-Ma."</p>
+<p>I followed him into the hall and closed the room door behind us before I said:</p>
+<p>"And will she come home to us? Father wants her more than ever. She promised to come some day; and why not now?"</p>
+<p>Jim's brow clouded and he sighed heavily.</p>
+<p>"A-Toy, "said he, "Woo-Ma is with the smugglers of Chinamen. She has taken to that reckless adventurous life because she says [it] helps her to forget and she believes she would go mad were she obliged to live quietly at home. Dressed as a youth, with a peaked cap pulled over her pretty brown hair which she has cut short, she takes many a boy over the border."</p>
+<p>I covered my face with my hands. "Oh, Woo-Ma, Woo-Ma!" I moaned.</p>
+<p>That night there was little rest for me; but about three o'clock in the morning I fell asleep and dreamed. This was my dream: A dark, starless sky, a road unlevelled and desolate, a lumbering van, from under the rough covering of which peered the faces of three men with Mongolian features. Two men, in the uniform of custom house officers, riding at full speed after the van.</p>
+<p>My dream changed; the van, the custom house officers had disappeared. I saw but a youth; he was alone and dying. Turning a face that I knew to the sky, he cried:</p>
+<p>"Oh, God, Thou who gavest me my life, forgive me that I do not seek to preserve it. Thou knowest my strange origin, the forces that blend in me, the forces that war in me. Thou knowest my weakness, my pride, my jealousy- Thou knowest that I was loved — that I believed I was loved- Thou knowest I loved. Is it Thou or the Devil that sayest, 'Thou shalt love’? Thou knowest that all has been taken from me — Thou knowest my shame and my grief. Thou knowest that I am in much pain and there is nothing left to live for — Thou knowest only Thou knowest—”
+Here my dream became indistinct and I knew no more, until out of a dark blur there appeared to my dream- consciousness a face the face of Woo-Ma–dead. </p>
+<p>That was all of my dream. I was awakened by the mechanical repetition by my own lips of the last two lines of Hood's "Bridge of Sighs":</p>
+<p style="margin-left: 120px"> "Owning her weakness — her evil behavior, <br>
+And leaving with meekness her sins to her Saviour."</p>
+<p>A heavy shadow seemed to oppress me all of that day. Dreams are such mysteries. I could not get the "Bridge of Sighs" out of my mind. I found the poem and read it through from beginning to end, thinking thus to work it off; but the gloom would not be dispelled. The piteous spectacle of the wronged girl rose ever before me — with Woo-Ma's face.
+Toward evening Jim Nesbit came in, followed by Father; so haggard, so old, so stern- looking, that the words on my lips were arrested.</p>
+<p>Then Father spoke, and if his face was changed, so also was his voice.</p>
+<p>"I have a telegram," said he. "Woo-Ma is coming home."</p>
+<p>He paused and stared fixedly at me. I felt my blood congealing. But though I tried to speak, words refused to come.</p>
+<p>"My God Almighty!" cried Jim, <i>"You know!"</i></p>
+<p>The blackness of night encompassed me.</p>
+<h3>*</h3>
+<p>They buried Woo-Ma whilst I lay deliriously babbling of childhood's days — of pleasures which leave no sting. When I was able to sit up, they brought me a youth's suit of clothes and a peaked cap. They had been worn by my sister and I keep them in memory of her. How criss-cross the lines of life run!</p>
+<p><i><small>Originally published in</i> The Bohemian<i> (January 1906).</i></small></p>
+
+<p><a href="#toc">Back to the Start</a><p>
+
+
+<h1 id="Children">
+Part III: "TALES OF CHINESE CHILDREN" </h1>
+<p><i>Editor’s note: There is debate about whether Sui Sin Far’s “Tales of Chinese Children" were written for or about children (or both!). This selection contains just a few of these stories, in which she employed strategies and tropes of children's literature of the time to tackle complex themes and subvert adult expectations around identity. </i></p>
+
+ <h2 id="chapter16"> The Heart's Desire</h2>
+
+<p>She was dainty, slender, and of waxen pallor. Her eyes were long and drooping, her eyebrows finely arched. She had the tiniest Golden Lily feet and the glossiest black hair. Her name was Li Chung O’Yam, and she lived in a sad, beautiful old palace surrounded by a sad, beautiful old garden, situated on a charming island in the middle of a lake. This lake was spanned by marble bridges, entwined with green creepers, reaching to the mainland. No boats were ever seen on its waters, but the pink lotus lily floated thereon and swans of marvellous whiteness.</p>
+<p>Li Chung O’Yam wore priceless silks and radiant jewels. The rarest flowers bloomed for her alone. Her food and drink were of the finest flavors and served in the purest gold and silver plates and goblets. The sweetest music lulled her to sleep.</p>
+<p>Yet Li Chung O’Yam was not happy. In the midst of the grandeur of her enchanted palace, she sighed for she knew not what.</p>
+<p>“She is weary of being alone,” said one of the attendants. And he who ruled all within the palace save Li Chung O’Yam, said: “Bring her a father!”</p>
+<p>A portly old mandarin was brought to O’Yam. She made humble obeisance, and her august father inquired ceremoniously as to the state of her health, but she sighed and was still weary.</p>
+<p>“We have made a mistake; it is a mother she needs,” said they.</p>
+<p>A comely matron, robed in rich silks and waving a beautiful peacock feather fan, was presented to O’Yam as her mother. The lady delivered herself of much good advice and wise instruction as to deportment and speech, but O’Yam turned herself on her silken cushions and wished to say goodbye to her mother.</p>
+<p>Then they led O’Yam into a courtyard which was profusely illuminated with brilliant lanterns and flaring torches. There were a number of little boys of about her own age dancing on stilts. One little fellow, dressed all in scarlet and flourishing a small sword, was pointed out to her as her brother. O’Yam was amused for a few moments, but in a little while she was tired of the noise and confusion.</p>
+<p>In despair, they who lived but to please her consulted amongst themselves. O’Yam, overhearing them, said: “Trouble not your minds. I will find my own heart’s ease.”</p>
+<p>Then she called for her carrier dove, and had an attendant bind under its wing a note which she had written. The dove went forth and flew with the note to where a little girl named Ku Yum, with a face as round as a harvest moon, and a mouth like a red vine leaf, was hugging a cat to keep her warm and sucking her finger to prevent her from being hungry. To this little girl the dove delivered O’Yam’s message, then returned to its mistress.</p>
+<p>“Bring me my dolls and my cats, and attire me in my brightest and best,” cried O’Yam.</p>
+<p>When Ku Yum came slowly over one of the marble bridges towards the palace wherein dwelt Li Chung O’Yam, she wore a blue cotton blouse, carried a peg doll in one hand and her cat in another. O’Yam ran to greet her and brought her into the castle hall. Ku Yum looked at O’Yam, at her radiant apparel, at her cats and her dolls.</p>
+<p>“Ah!” she exclaimed. “How beautifully you are robed! In the same colors as I. And behold, your dolls and your cats, are they not much like mine?”</p>
+<p>“Indeed they are,” replied O’Yam, lifting carefully the peg doll and patting the rough fur of Ku Yum’s cat.</p>
+<p>Then she called her people together and said to them:
+“Behold, I have found my heart’s desire—a little sister.”</p>
+<p>And forever after O’Yam and Ku Yum lived happily together in a glad, beautiful old palace, surrounded by a glad, beautiful old garden, on a charming little island in the middle of a lake.</p>
+<p><i><small>From </i>Mrs. Spring Fragrance<i> (1912). Originally appeared in </i>Good Housekeeping<i> (May 1908); also reprinted in </i>The Third Reader <i>(ed. Kate Louise Brown, 1911), </i>Chester Times<i> (November 4, 1910), </i>Columbus Daily Enquirer<i> (November 6, 1910),</i>i> Fort Wayne Journal Gazette <i>(November 6, 1910), and </i>Colorado Springs Gazette<i> (February 5, 1911). </i></small></p>
+
+<p><a href="#toc">Back to the Start</a><p>
+
+  <h2 id="chapter17"> A Chinese Boy-Girl</h2> 
+
+ <h3> I</h3>
+<p>The warmth was deep and all-pervading. The dust lay on the leaves of the palms and the other tropical plants that tried to flourish in the Plaza. The persons of mixed nationalities lounging on the benches within and without the square appeared to be even more listless and unambitious than usual. The Italians who ran the peanut and fruit stands at the corners were doing no business to speak of. The Chinese merchants’ stores in front of the Plaza looked as quiet and respectable and drowsy as such stores always do. Even the bowling alleys, billiard halls, and saloons seemed under the influence of the heat, and only a subdued clinking of glasses and roll of balls could be heard from behind the half-open doors. It was almost as hot as an August day in New York City, and that is unusually sultry for Southern California.</p>
+<p>A little Chinese girl, with bright eyes and round cheeks, attired in blue cotton garments, and wearing her long, shining hair in a braid interwoven with silks of many colors, paused beside a woman tourist who was making a sketch of the old Spanish church. The tourist and the little Chinese girl were the only persons visible who did not seem to be affected by the heat. They might have been friends; but the lady, fearing for her sketch, bade the child run off. Whereupon the little thing shuffled across the Plaza, and in less than five minutes was at the door of the Los Angeles Chinatown school for children.</p>
+<p>“Come in, little girl, and tell me what they call you,” said the young American teacher, who was new to the place.</p>
+<p>“Ku Yum be my name,” was the unhesitating reply; and said Ku Yum walked into the room, seated herself complacently on an empty bench in the first row, and informed the teacher that she lived on Apablaza street, that her parents were well, but her mother was dead, and her father, whose name was Ten Suie, had a wicked and tormenting spirit in his foot.</p>
+<p>The teacher gave her a slate and pencil, and resumed the interrupted lesson by indicating with her rule ten lichis (called “Chinese nuts” by people in America) and counting them aloud.</p>
+<p>“One, two, three, four, five, six, seven, eight, nine, ten,” the baby class repeated.</p>
+<p>After having satisfied herself by dividing the lichis unequally among the babies, that they might understand the difference between a singular and a plural number, Miss Mason began a catechism on the features of the face. Nose, eyes, lips, and cheeks were properly named, but the class was mute when it came to the forehead.</p>
+<p>“What is this?” Miss Mason repeated, posing her finger on the fore part of her head.</p>
+<p>“Me say, me say,” piped a shrill voice, and the new pupil stepped to the front, and touching the forehead of the nearest child with the tips of her fingers, christened it “one,” named the next in like fashion “two,” a third “three,” then solemnly pronounced the fourth a “four head.”</p>
+<p>Thus Ku Yum made her début in school, and thus began the trials and tribulations of her teacher.</p>
+<p>Ku Yum was bright and learned easily, but she seemed to be possessed with the very spirit of mischief; to obey orders was to her an impossibility, and though she entered the school a voluntary pupil, one day at least out of every week found her a truant.</p>
+<p>“Where is Ku Yum?” Miss Mason would ask on some particularly alluring morning, and a little girl with the air of one testifying to having seen a murder committed, would reply: “She is running around with the boys.” Then the rest of the class would settle themselves back in their seats like a jury that has found a prisoner guilty of some heinous offense, and, judging by the expression on their faces, were repeating a silent prayer somewhat in the strain of “O Lord, I thank thee that I am not as Ku Yum is!” For the other pupils were demure little maidens who, after once being gathered into the fold, were very willing to remain.</p>
+<p>But if ever the teacher broke her heart over any one it was over Ku Yum. When she first came, she took an almost unchildlike interest in the rules and regulations, even at times asking to have them repeated to her; but her study of such rules seemed only for the purpose of finding a means to break them, and that means she never failed to discover and put into effect.</p>
+<p>After a disappearance of a day or so she would reappear, bearing a gorgeous bunch of flowers. These she would deposit on Miss Mason’s desk with a little bow; and though one would have thought that the sweetness of the gift and the apparent sweetness of the giver needed but a gracious acknowledgment, something like the following conversation would ensue:</p>
+<p>“Teacher, I plucked these flowers for you from the Garden of Heaven.” (They were stolen from some park.)</p>
+<p>“Oh, Ku Yum, whatever shall I do with you?”</p>
+<p>“Maybe you better see my father.”</p>
+<p>“You are a naughty girl. You shall be punished. Take those flowers away.”</p>
+<p>“Teacher, the eyebrow over your little eye is very pretty.”</p>
+<p>But the child was most exasperating when visitors were present. As she was one of the brightest scholars, Miss Mason naturally expected her to reflect credit on the school at the examinations. On one occasion she requested her to say some verses which the little Chinese girl could repeat as well as any young American, and with more expression than most. Great was the teacher’s chagrin when Ku Yum hung her head and said only: “Me ’shamed, me ’shamed!”</p>
+<p>“Poor little thing,” murmured the bishop’s wife. “She is too shy to recite in public.”</p>
+<p>But Miss Mason, knowing that of all children Ku Yum was the least troubled with shyness, was exceedingly annoyed.</p>
+<p>Ku Yum had been with Miss Mason about a year when she became convinced that some steps would have to be taken to discipline the child, for after school hours she simply ran wild on the streets of Chinatown, with boys for companions. She felt that she had a duty to perform towards the motherless little girl; and as the father, when apprised of the fact that his daughter was growing up in ignorance of all home duties, and, worse than that, shared the sports of boy children on the street, only shrugged his shoulders and drawled: “Too bad! Too bad!” she determined to act.</p>
+<p>She was interested in Ku Yum’s case the president of the Society for the Prevention of Cruelty to Children, the matron of the Rescue Home, and the most influential ministers, and the result, after a month’s work, that an order went forth from the Superior Court of the State decreeing that Ku Yum, the child of Ten Suie, should be removed from the custody of her father, and, under the auspices of the Society for the Prevention of Cruelty to Children, be put into a home for Chinese girls in San Francisco.</p>
+<p>Her object being accomplished, strange to say, Miss Mason did not experience that peaceful content which usually follows a benevolent action. Instead, the question as to whether, after all, it was right, under the circumstances, to deprive a father of the society of his child, and a child of the love and care of a parent, disturbed her mind, morning, noon, and night. What had previously seemed her distinct duty no longer appeared so, and she began to wish with all her heart that she had not interfered in the matter.</p>
+<h3>II</h3>
+<p>Ku Yum had not been seen for weeks and those who were deputed to bring her into the sheltering home were unable to find her. It was suspected that the little thing purposely kept out of the way—no difficult matter, all Chinatown being in sympathy with her and arrayed against Miss Mason. Where formerly the teacher had met with smiles and pleased greetings, she now beheld averted faces and downcast eyes, and her school had within a week dwindled from twenty-four scholars to four. Verily, though acting with the best of intentions, she had shown a lack of diplomacy.</p>
+<p>It was about nine o’clock in the evening. She had been visiting little Lae Choo, who was lying low with typhoid fever. As she wended her way home through Chinatown, she did not feel at all easy in mind; indeed, as she passed one of the most unsavory corners and observed some men frown and mutter among themselves as they recognized her, she lost her dignity in a little run. As she stopped to take breath, she felt her skirt pulled from behind and heard a familiar little voice say:</p>
+<p>“Teacher, be you afraid?”</p>
+<p>“Oh, Ku Yum,” she exclaimed, “is that you?” Then she added reprovingly: “Do you think it is right for a little Chinese girl to be out alone at this time of the night?”</p>
+<p>“I be not alone,” replied the little creature, and in the gloom Miss Mason, could distinguish behind her two boyish figures.</p>
+<p>She shook her head.</p>
+<p>“Ku Yum, will you promise me that you will try to be a good little girl?” she asked.</p>
+<p>Ku Yum answered solemnly:</p>
+<p>“Ku Yum never be a good girl.”</p>
+<p>Her heart hardened. After all, it was best that the child should be placed where she would be compelled to behave herself.</p>
+<p>“Come, see my father,” said Ku Yum pleadingly.</p>
+<p>Her voice was soft, and her expression was so subdued that the teacher could hardly believe that the moment before she had defiantly stated that she would never be a good girl. She paused irresolutely. Should she make one more appeal to the parent to make her a promise which would be a good excuse for restraining the order of the Court? Ah, if he only would, and she only could prevent the carrying out of that order!</p>
+<p>They found Ten Suie among his curiosities, smoking a very long pipe with a very small, ivory bowl. He calmly surveyed the teacher through a pair of gold-rimmed goggles, and under such scrutiny it was hard indeed for her to broach the subject that was on her mind. However, after admiring the little carved animals, jars, vases, bronzes, dishes, pendants, charms, and snuff-boxes displayed in his handsome showcase, she took courage.</p>
+<p>“Mr. Ten Suie,” she began, “I have come to speak to you about Ku Yum.”</p>
+<p>Ten Suie laid down his pipe and leaned over the counter. Under his calm exterior some strong excitement was working, for his eyes glittered exceedingly.</p>
+<p>“Perhaps you speak too much about Ku Yum alleady,” he said. “Ku Yum be my child. I bling him up, as I please. Now, teacher, I tell you something. One, two, three, four, five, seven, eight, nine years go by, I have five boy. One, two, three, four, five, six, seven years go, I have four boy. One, two, three, four, five, six years go by, I have one boy. Every year for three year evil spirit come, look at my boy, and take him. Well, one, two, three, four, five, six years go by, I see but one boy, he four year old. I say to me: Ten Suie, evil spirit be jealous. I be ’flaid he want my one boy. I dless him like one girl. Evil spirit think him one girl, and go away; no want girl.”</p>
+<p>Ten Suie ceased speaking, and settled back into his seat.
+For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten Suie’s words dawned upon her, and she turned to Ku Yum, and taking the child’s little hand in hers, said:</p>
+<p>“Goodbye, Ku Yum. Your father, by passing you off as a girl, thought to keep an evil spirit away from you; but just by that means he brought another, and one which nearly took you from him too.”</p>
+<p>“Goodbye, teacher,” said Ku Yum, smiling wistfully. “I never be good girl, but perhaps I be good boy.”</p>
+<p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in</i> Century Magazine<i> (April 1904).</i></small></p>
+
+<p><a href="#toc">Back to the Start</a><p>
+
+  <h2 id="chapter18"> What About the Cat?</h2> 
+<p>What about the cat?” asked the little princess of her eldest maid.
+“It is sitting on the sunny side of the garden wall, watching the butterflies. It meowed for three of the prettiest to fall into its mouth, and would you believe it, that is just what happened. A green, a blue, a pink shaded with gold, all went down pussy’s red throat.”</p>
+<p>The princess smiled. “What about the cat?” she questioned her second maid.</p>
+<p>“She is seated in your honorable father’s chair of state, and your honorable father’s first body-slave is scratching her back with your father’s own back-scratcher, made of the purest gold and ivory.”</p>
+<p>The princess laughed outright. She pattered gracefully into another room. There she saw the youngest daughter of her foster-mother.</p>
+<p>“What about the cat?” she asked for the third time.</p>
+<p>“The cat! Oh, she has gone to Shinku’s duck farm. The ducks love her so that when they see her, they swim to shore and embrace her with their wings. Four of them combined to make a raft and she got upon their backs and went down-stream with them. They met some of the ducklings on the way and she patted them to death with her paws. How the big ducks quacked!”</p>
+<p>“That is a good story,” quoth the princess.</p>
+<p>She went into the garden and, seeing one of the gardeners, said: “What about the cat?”</p>
+<p>“It is frisking somewhere under the cherry tree, but you would not know it if you saw it,” replied the gardener.</p>
+<p>“Why?” asked the princess.</p>
+<p>“Because, Your Highness, I gave it a strong worm porridge for its dinner, and as soon as it ate it, its white fur coat became a glossy green, striped with black. It looks like a giant caterpillar, and all the little caterpillars are going to hold a festival tonight in its honor.”</p>
+<p>“Deary me! What a great cat!” exclaimed the princess.</p>
+<p>A little further on she met one of the chamberlains of the palace. </p><p>“What about the cat?” she asked.</p>
+<p>“It is dancing in the ballroom in a dress of elegant cobwebs and a necklace of pearl rice. For partner, she has the yellow dragon in the hall, come to life, and they take such pretty steps together that all who behold them shriek in ecstasy. Three little mice hold up her train as she dances, and another sits perched on the tip of the dragon’s curled tail.”</p>
+<p>At this the princess quivered like a willow tree and was obliged to seek her apartments. When there, she recovered herself, and placing a blossom on her exquisite eyebrow, commanded that all those of whom she had inquired concerning the cat should be brought before her. When they appeared she looked at them very severely and said:</p>
+<p>“You have all told me different stories when I have asked you: ‘What about the cat?’ Which of these stories is true?”</p>
+<p>No one answered. All trembled and paled.</p>
+<p>“They are all untrue,” announced the princess.</p>
+<p>She lifted her arm and there crawled out of her sleeve her white cat. It had been there all the time.</p>
+<p>Then the courtly chamberlain advanced towards her, kotowing three times. “Princess,” said he, “would a story be a story if it were true? Would you have been as well entertained this morning if, instead of our stories, we, your unworthy servants, had simply told you that the cat was up your sleeve?”</p>
+<p>The princess lost her severity in hilarity. “Thank you, my dear servants,” said she. “I appreciate your desire to amuse me.”</p>
+<p>She looked at her cat, thought of all it had done and been in the minds of her servants, and laughed like a princess again and again.</p>
+<p><small><i>From </i>Mrs. Spring Fragrance<i> (1912); originally published in</i> Good Housekeeping<i> 46.5 (March 1908); also reprinted in</i> Colorado Springs Gazette <i>(January 22 1911). </i></small></p>
+
+<p><a href="#toc">Back to the Start</a><p>
+
+  <section id="Acknowledgements">
+    <h2> ACKNOWLEDGEMENTS </h2>
+
+    <i><p>This book is made possible by our fiscal sponsor, Educopia Institute, and the generous support of the Mellon Foundation. </p>
+<p>Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (DDD) for their support in creating new digital formats for the Cita Press library. DDD provided EPUB and PDF conversion, OCR, and accessibility remediation. Visit DPLA’s Palace Bookshelf to find this volume and other Open Bookshelf books.</p>
+<p>This collection exists thanks to decades of work by scholars and writers dedicated to recovering, preserving, and bringing greater recognition to Sui Sin Far/Edith Eaton’s writing. We are especially indebted to Mary Chapman, Amy Ling, and Annette White-Parks, and highly recommend the collections they have edited to anyone who would like to read more of Eaton’s work. We also recommend Episode 15 of the Lost Ladies of Lit podcast, featuring foreword writer Victoria Namkung in conversation with Kim Askew and Amy Helmes Fowler, as a companion to this book. (Details on references in Bibliography.)</p>
+<p>Finally, we extend gratitude to Cita Press Advisory Board members (past and present) for their support and guidance: Janneke Adema, Vicky Checo, Katherine Maher, Jessica Meyerson, and Mindy Seu.</p></i>
+
+ <section id="Text Sources">
+    <h2> TEXT SOURCES </h2>
+
+   <p><i> Special thanks to Project Gutenberg and the Internet Archive for providing a treasure trove of material for researchers, readers, and publishers like us.</i></p>
+
+<ul>
+  <li>Far, Sui Sin (signed Edith Eaton). “A Trip in a Horse Car.” <i> The Dominion Illustrated</i> (Montreal and Toronto) 1, no. 15 (October 13, 1888). https://archive.org/details/dominion_llustrated_oct1888/page/n25/mode/2up </li>
+<li>Far, Sui Sin (signed Edith Eaton). “Misunderstood: The Story of a Young Man.” <i>The Dominion Illustrated </i>(Montreal and Toronto) 1, no. 20 (November 17, 1888). https://archive.org/details/DominionIllustratedNov1888/page/n41/mode/2up </li>
+<li>Far, Sui Sin. “Woo-Ma and I.” <i>The Bohemian</i> 10 (January 1906). https://babel.hathitrust.org/cgi/pt?id=nyp.33433081996914&view=1up&seq=80&q1=sui+sin+far </li>
+<li>Far, Sui Sin. “Leaves from the Mental Portfolio of an Eurasian.” <i>The Independent</i> (New York) 66, no. 3138 (January 21, 1909). https://archive.org/details/sim_independent_1909-01-21_66_3138/page/124/mode/2up </li>
+<li>Far, Sui Sin (signed “A Half Chinese”). “The Persecution and Oppression of Me.” <i>The Independent</i> 71, no. 3273 (August 24, 1911). https://archive.org/details/sim_independent_1911-08-24_71_3273/page/420/mode/2up </li>
+<li>Far, Sui Sin. “Sui Sin Far, the Half Chinese Writer, Tells of Her Career.” <i>Boston Daily Globe</i> (1872-1922); May 5, 1912; ProQuest Historical Newspapers: <i>The Boston Globe</i>. Access provided by the Boston Public Library.</li>
+<li>Far, Sui Sin (also signed “[Edith Eaton]”). <i>Mrs. Spring Fragrance.</i> Chicago: A.C. McClurg & Co, May 1912; Project Gutenberg, August 16, 2020, https://www.gutenberg.org/files/62940/62940-h/62940-h.htm.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Mrs. Spring Fragrance<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The Inferior Woman<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-In the Land of the Free<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The Americanizing of Pau Tsu<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The Chinese Lily<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The Three Souls of Ah So Nan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-“Its Wavering Image”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The Smuggling of Tie Co<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Tian Shah’s Kindred Spirit <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The Heart’s Desire<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-A Chinese Boy-Girl<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-What About the Cat?<br></li>
+
+</ul>
+
+<p><a href="#toc">Back to the Start</a><p>
+
+<section id="Bibliography">
+    <h2> BIBLIOGRAPHY </h2>
+
+    <p><i>Resources that helped inform the selection of texts included in this volume:</i></p>
+<p>Ammons, Elizabeth, James Doyle, Amy Ling, S.E. Solberg, and Annette White-Parks. “Critical Extracts, Sui Sin Far or Edith Maude Eaton.” In <i>American Women Fiction Writers, 1900-1960, Volume Three,</i> edited by Harold Bloom, 156-177. Philadelphia: Chelsea House Publishers, 1998. https://archive.org/details/americanwomenfic00bloo_2/page/n7/mode/2up  </p>
+<p>Chapman, Mary. “A ‘Revolution in Ink’: Sui Sin Far and Chinese Reform Discourse.” <i>American Quarterly</i> 60, no. 4 (2008): 975–1001. http://www.jstor.org/stable/40068558. </p>
+<p>Cutter, Martha J. “Sui Sin Far’s Letters to Charles Lummis: Contextualizing Publication Practices for the Asian American Subject at the Turn of the Century.” <i>American Literary Realism</i> 38, no. 3 (2006): 259–75. http://www.jstor.org/stable/27747220.</p>
+<p>Cutter, Martha J. “Empire and the Mind of the Child: Sui Sin Far’s ‘Tales of Chinese Children.’” <i>MELUS</i> 27, no. 2 (2002): 31–48. https://doi.org/10.2307/3250600.</p>
+<p>Far, Sui Sin. <i>Becoming Sui Sin Far: Early Fiction and Travel Writing by Edith Maude Eaton.</i> Ed. Mary Chapman. Montreal: McGill-Queen’s University Press, 2016.</p>
+<p>Far, Sui Sin. <i>Mrs. Spring Fragrance and Other Writings.</i> Eds. Amy Ling and. Annette White-Parks. Urbana and Chicago: University of Illinois Press, 1995.</p>
+<p>Ling, Amy. ““Edith Eaton: Pioneer Chinamerican Writer and Feminist.” <i>American Literary Realism, 1870-1910</i> 16, no. 2 (1983): 287–98. http://www.jstor.org/stable/27746105.</p> 
+<p>Macellaro, Kimberly. “Sui Sin Far’s Jekyll and Hyde: Divided Subjects and Utopian Alternatives.” <i>Modern Fiction Studies</i> 61, no. 1 (2015): 47–68. https://www.jstor.org/stable/26421773.</p>
+<p>Namkung, Victoria. “Sui Sin Far – Mrs. Spring Fragrance with Victoria Namkung.”  Interview with Kim Askew and Amy Helmes Fowler. <i>Lost Ladies of Lit.</i> Podcast audio. December 29, 2020. https://www.lostladiesoflit.com/podcast/15-sui-sin-far-mrs-spring-fragrance-with-victoria-namkung.</p>
+<p>Nguyen, Viet Thanh. “On the Origins of Asian American Literature: The Eaton Sisters and the Hybrid Body.” In <i>Race and Resistance: literature & politics in Asian America.</i> New York: Oxford University Press, 2002. </p>
+<p>Sibara, Jennifer Barager. “Disease, Disability, and the Alien Body in the Literature of Sui Sin Far.” <i>MELUS</i> 39, no. 1 (2014): 56–81. http://www.jstor.org/stable/24569891. </p>
+<p>Wang, Anran. “'An Immortal Book:'' The Publishing History of the 1912 Edition of <i>Mrs. Spring Fragrance</i>." Master’s thesis, University of Virginia, 2022. https://doi.org/10.18130/9m48-xg51 </p>
+<p>White-Parks, Annette. <i>Sui Sin Far: A Literary Biography.</i> Urbana: University of Illinois Press, 1995. https://archive.org/details/suisinfaredithma0000whit/page/n13/mode/2up.</p>
+
+<p><a href="#toc">Back to the Start</a><p>
