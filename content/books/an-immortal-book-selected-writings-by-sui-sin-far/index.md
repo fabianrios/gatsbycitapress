@@ -71,7 +71,7 @@ Eaton is best known for her 1912 book, *Mrs. Spring Fragrance*, which features s
 
 > The subject was “America, the Protector of China!” It was most exhilarating, and the effect of so much expression of benevolence leads me to beg of you to forget to remember that the barber charges you one dollar for a shave while he humbly submits to the American man a bill of fifteen cents. And murmur no more because your honored elder brother, on a visit to this country, is detained under the roof-tree of this great Government instead of under your own humble roof. Console him with the reflection that he is protected under the wing of the Eagle, the Emblem of Liberty. What is the loss of ten hundred years or ten thousand times ten dollars compared with the happiness of knowing oneself so securely sheltered?
 
-In another story featuring many of the same characters, “An Inferior Woman,” Mrs. Spring Fragrance proclaims, “I desire to write an immortal book... My first subject will be ‘The Inferior Woman of America.’” A clever reversal, Eaton renders Mrs. Spring Fragrance as a would-be author writing about the ways of American women for her Chinese friends — an ironic acknowledgement of Eaton’s own outsider status as a journalist and author.
+In another story featuring many of the same characters, “The Inferior Woman,” Mrs. Spring Fragrance proclaims, “I desire to write an immortal book... My first subject will be ‘The Inferior Woman of America.’” A clever reversal, Eaton renders Mrs. Spring Fragrance as a would-be author writing about the ways of American women for her Chinese friends — an ironic acknowledgement of Eaton’s own outsider status as a journalist and author.
 
 While some of Eaton’s works are “slice of life” stories that shed humorous or charming light on the everyday, others are downright haunting. “In the Land of the Free” is about a Chinese merchant who is waiting at the San Francisco waterfront to welcome his wife and two-year-old son from China. Upon disembarkment, the U.S. government takes the child away due to a lack of paperwork and an expensive struggle ensues. The boy is sent to a missionary school and renamed, and the eventual family reunion is devastating. Reading this story in 2023, one can’t help but draw a parallel to the countless family separations that have occurred at the U.S. southern border in recent years and imagine how horrified Eaton would be to know such policies were revived decades later.
 
@@ -943,37 +943,37 @@ There was a slight gleam of amusement in the young man’s eyes as he answered: 
 
 “Mrs. Spring Fragrance,” declared young Carman, “your argument is incontrovertible.”
 
-II
-A young man with a determined set to his shoulders stood outside the door of a little cottage perched upon a bluff overlooking the Sound. The chill sea air was sweet with the scent of roses, and he drew in a deep breath of inspiration before he knocked.
-“Are you not surprised to see me?” he inquired of the young person who opened the door.
-“Not at all,” replied the young person demurely.
-He gave her a quick almost fierce look. At their last parting he had declared that he would not come again unless she requested him, and that she assuredly had not done.
-“I wish I could make you feel,” said he.
-She laughed—a pretty infectious laugh which exorcised all his gloom. He looked down upon her as they stood together under the cluster of electric lights in her cozy little sitting-room. Such a slender, girlish figure! Such a soft cheek, red mouth, and firm little chin! Often in his dreams of her he had taken her into his arms and coaxed her into a good humor. But, alas! dreams are not realities, and the calm friendliness of this young person made any demonstration of tenderness well-nigh impossible. But for the shy regard of her eyes, you might have thought that he was no more to her than a friendly acquaintance.
-“I hear,” said she, taking up some needlework, “that your Welland case comes on tomorrow.”
-“Yes,” answered the young lawyer, “and I have all my witnesses ready.”
-“So, I hear, has Mr. Greaves,” she retorted. “You are going to have a hard fight.”
-“What of that, when in the end I’ll win.”
-He looked over at her with a bright gleam in his eyes.
-“I wouldn’t be too sure,” she warned demurely. “You may lose on a technicality.”
-He drew his chair a little nearer to her side and turned over the pages of a book lying on her work-table. On the fly-leaf was inscribed in a man’s writing: “To the dear little woman whose friendship is worth a fortune.”
-Another book beside it bore the inscription: “With the love of all the firm, including the boys,” and a volume of poems above it was dedicated to the young person “with the high regards and stanch affection” of some other masculine person.
-Will Carman pushed aside these evidences of his sweetheart’s popularity with his own kind and leaned across the table.
-“Alice,” said he, “once upon a time you admitted that you loved me.”
-A blush suffused the young person’s countenance.
-“Did I?” she queried.
-“You did, indeed.”
-“Well?”
-“Well! If you love me and I love you—”
-“Oh, please!” protested the girl, covering her ears with her hands.
-“I will please,” asserted the young man. “I have come here tonight, Alice, to ask you to marry me—and at once.”
-“Deary me!” exclaimed the young person; but she let her needlework fall into her lap as her lover, approaching nearer, laid his arm around her shoulders and, bending his face close to hers, pleaded his most important case.
-If for a moment the small mouth quivered, the firm little chin lost its firmness, and the proud little head yielded to the pressure of a lover’s arm, it was only for a moment so brief and fleeting that Will Carman had hardly become aware of it before it had passed.
-“No,” said the young person sorrowfully but decidedly. She had arisen and was standing on the other side of the table facing him. “I cannot marry you while your mother regards me as beneath you.”
-“When she, knows you she will acknowledge you are above me. But I am not asking you to come to my mother, I am asking you to come to me, dear. If you will put your hand in mine and trust to me through all the coming years, no man or woman born can come between us.”
-But the young person shook her head.
-“No,” she repeated. “I will not be your wife unless your mother welcomes me with pride and with pleasure.”
-The night air was still sweet with the perfume of roses as Will Carman passed out of the little cottage door; but he drew in no deep breath of inspiration. His impetuous Irish heart was too heavy with disappointment. It might have been a little lighter, however, had he known that the eyes of the young person who gazed after him were misty with a love and yearning beyond expression.
+<h3>II</h3>
+<p>A young man with a determined set to his shoulders stood outside the door of a little cottage perched upon a bluff overlooking the Sound. The chill sea air was sweet with the scent of roses, and he drew in a deep breath of inspiration before he knocked.</p>
+<p>“Are you not surprised to see me?” he inquired of the young person who opened the door.</p>
+<p>“Not at all,” replied the young person demurely.</p>
+<p>He gave her a quick almost fierce look. At their last parting he had declared that he would not come again unless she requested him, and that she assuredly had not done.</p>
+<p>“I wish I could make you feel,” said he.</p>
+<p>She laughed—a pretty infectious laugh which exorcised all his gloom. He looked down upon her as they stood together under the cluster of electric lights in her cozy little sitting-room. Such a slender, girlish figure! Such a soft cheek, red mouth, and firm little chin! Often in his dreams of her he had taken her into his arms and coaxed her into a good humor. But, alas! dreams are not realities, and the calm friendliness of this young person made any demonstration of tenderness well-nigh impossible. But for the shy regard of her eyes, you might have thought that he was no more to her than a friendly acquaintance.</p>
+<p>“I hear,” said she, taking up some needlework, “that your Welland case comes on tomorrow.”</p>
+<p>“Yes,” answered the young lawyer, “and I have all my witnesses ready.”</p>
+<p>“So, I hear, has Mr. Greaves,” she retorted. “You are going to have a hard fight.”</p>
+<p>“What of that, when in the end I’ll win.”</p>
+<p>He looked over at her with a bright gleam in his eyes.</p>
+<p>“I wouldn’t be too sure,” she warned demurely. “You may lose on a technicality.”</p>
+<p>He drew his chair a little nearer to her side and turned over the pages of a book lying on her work-table. On the fly-leaf was inscribed in a man’s writing: “To the dear little woman whose friendship is worth a fortune.”</p>
+<p>Another book beside it bore the inscription: “With the love of all the firm, including the boys,” and a volume of poems above it was dedicated to the young person “with the high regards and stanch affection” of some other masculine person.</p>
+<p>Will Carman pushed aside these evidences of his sweetheart’s popularity with his own kind and leaned across the table.</p>
+<p>“Alice,” said he, “once upon a time you admitted that you loved me.”</p>
+<p>A blush suffused the young person’s countenance.</p>
+<p>“Did I?” she queried.</p>
+<p>“You did, indeed.”</p>
+<p>“Well?”</p>
+<p>“Well! If you love me and I love you—”</p>
+<p>“Oh, please!” protested the girl, covering her ears with her hands.
+“I will please,” asserted the young man. “I have come here tonight, Alice, to ask you to marry me—and at once.”</p>
+<p>“Deary me!” exclaimed the young person; but she let her needlework fall into her lap as her lover, approaching nearer, laid his arm around her shoulders and, bending his face close to hers, pleaded his most important case.</p>
+<p>If for a moment the small mouth quivered, the firm little chin lost its firmness, and the proud little head yielded to the pressure of a lover’s arm, it was only for a moment so brief and fleeting that Will Carman had hardly become aware of it before it had passed.</p>
+<p>“No,” said the young person sorrowfully but decidedly. She had arisen and was standing on the other side of the table facing him. “I cannot marry you while your mother regards me as beneath you.”</p>
+<p>“When she, knows you she will acknowledge you are above me. But I am not asking you to come to my mother, I am asking you to come to me, dear. If you will put your hand in mine and trust to me through all the coming years, no man or woman born can come between us.”</p>
+<p>But the young person shook her head.</p>
+<p>“No,” she repeated. “I will not be your wife unless your mother welcomes me with pride and with pleasure.”</p>
+<p>The night air was still sweet with the perfume of roses as Will Carman passed out of the little cottage door; but he drew in no deep breath of inspiration. His impetuous Irish heart was too heavy with disappointment. It might have been a little lighter, however, had he known that the eyes of the young person who gazed after him were misty with a love and yearning beyond expression.</p>
 III
 Will Carman has failed to snare his bird,” said Mr. Spring Fragrance to Mrs. Spring Fragrance.
 Their neighbor’s son had just passed their veranda without turning to bestow upon them his usual cheerful greeting.
