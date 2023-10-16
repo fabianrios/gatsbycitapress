@@ -63,7 +63,6 @@ foreword: >-
 <p>Eaton died of heart disease in 1914, just two years after her first and only book was published. By this time, she had reached a rarified position as an incredibly popular writer whose obituary appeared in newspapers throughout North America. Thanks to this new, open access collection (which builds on the work of feminist scholars like Chapman, Ling, Annette White-Parks, and many others), her work will continue to be useful, known, heard, and admired — in other words, immortal. 
  </p>
 
- <p><a href="#toc">Back to the Start</a><p>
       </section>
   <h2 id="book">
 An Immortal Book
@@ -173,7 +172,7 @@ To eke out a living I started to canvas Chinatown for subscribers for the San Fr
 <p>To accomplish this work, or to enable me to have the leisure in which to accomplish it, I was obliged to obtain some financial assistance, for one cannot live upon air and water alone, even if one is half-Chinese. Two of my lawyer friends in Montreal kindly contributed toward this end. I hope soon to be in a position to repay them.</p>
 <p>My people in Montreal, my mother in particular, my Chinese friends in Boston and also American friends are looking forward to the advent of “Mrs Spring Fragrance” with, I believe, some enthusiasm. I am myself quite excited over the prospect. Would not any one be who had worked as hard as I have—and waited as long as I have—for a book?</p>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
 <h2 id="chapter2"> The Persecution and Oppression of Me </h2>
 
@@ -284,7 +283,6 @@ As bloodless as thy China’s oldness.”</p>
 
 <i><p><small>Originally published in </i>The Independent <i>(August 24, 1911)</i></p></small>
 
-<p><a href="#toc">Back to the Start</a><p>
 
 <h2 id="chapter3"> Leaves from the Mental Portfolio of an Eurasian</h2>
 
@@ -397,7 +395,7 @@ That evening, the “ungrateful” Chinese Eurasian diaried, among other things,
 <p>After all I have no nationality and am not anxious to claim any. Individuality is more than nationality. “You are you and I am I,” says Confucius. I give my right hand to the Occidentals and my left to the Orientals, hoping that between them they will not utterly destroy the insignificant “connecting link.” And that’s all.</p>
 <p><i><small>Originally published in </i>The Independent<i> (New York), January 21, 1909.</i></p></small>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
 <h2 id="chapter4"> A Trip in a Horse Car</h2>
 
@@ -441,7 +439,7 @@ Why is it that men dream and dream<br>
 
 <p><i><small>Originally published in </i>Dominion Illustrated<i> (October 1888).</i></p></small>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
 <h1 id="Stories">
 Part II: STORIES
@@ -490,7 +488,6 @@ Than never to have loved at all.</p>
 <p><b>Montreal. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       EDITH EATON</b></p>
 <p><i><small>Originally published in </i>Dominion Illustrated<i>, November 1888.</i></small></p>
 
-<p><a href="#toc">Back to the Start</a><p>
 
   <h2 id="chapter6"> Mrs. Spring Fragrance </h2>
 
@@ -743,7 +740,7 @@ JADE SPRING FRAGRANCE</p>
 
 <p><i><small>From</i> Mrs. Spring Fragrance <i>(1912); originally published in</i> Hampton’s Magazine <i>v. 24 (1910).</i></small></p>
 
-  <p><a href="#toc">Back to the Start</a><p>
+
 
     <h2 id="chapter7"> The Inferior Woman </h2>
 
@@ -945,7 +942,7 @@ Mrs. Spring Fragrance looked up into her husband’s face in wonderment.</p>
 <p>“Ah, the Superior Woman! Radiantly beautiful, and gifted with the divine right of learning! I love well the Inferior Woman; but, O Great Man, when we have a daughter, may Heaven ordain that she walk in the groove of the Superior Woman.”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>Hampton’s<i> 24 (May 1910). See the alternate ending from the original publication in our downloable Cita Reader.</i></p></small>
 
- <p><a href="#toc">Back to the Start</a><p>
+
 
     <h2 id="chapter8"> In the Land of the Free </h2>
 
@@ -1090,7 +1087,7 @@ But the Little One shrunk from her and tried to hide himself in the folds of the
 <p>“Go’way, go’way!” he bade his mother.</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>The Independent<i> 67 (1909).</i></small></p>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
 <h2 id="chapter9"> The Americanizing of Pau Tsu </h2>
 
@@ -1217,7 +1214,7 @@ He hesitated, embarrassed and humiliated.</p>
 <p>“Lord, what fools we mortals be!” she soliloquized as she walked home alone. “I ought to have known. What else could Pau Tsu have thought?—coming from a land where women have no men friends save their husbands. How she must have suffered under her smiles! Poor, brave little soul!”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912). A previous publication has not been identified as of August 2023.</i></small></p>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
 <h2 id="chapter10"> The Chinese Lily </h2>
 <p>Mermei lived in an upstairs room of a Chinatown dwelling-house. There were other little Chinese women living on the same floor, but Mermei never went amongst them. She was not as they were. She was a cripple. A fall had twisted her legs so that she moved around with difficulty and scarred her face so terribly that none save Lin John cared to look upon it. Lin John, her brother, was a laundryman, working for another of his countrymen. Lin John and Mermei had come to San Francisco with their parents when they were small children. Their mother had died the day she entered the foreign city, and the father the week following, both having contracted a fever on the steamer. Mermei and Lin John were then taken in charge by their father’s brother, and although he was a poor man he did his best for them until called away by death.</p>
@@ -1250,7 +1247,7 @@ He hesitated, embarrassed and humiliated.</p>
 <p>“Nay,” said Lin John, “Sin Far is happy. And I—I did my duty with her approval, aye, at her bidding. How then, little sister, can I be sad?”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance <i>(1912); originally published in </i>Out West<i> 28 (1908).</i></p></small>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 <h2 id="chapter11"> The Three Souls of Ah So Nan </h2>
 
 <h3>I</h3>
@@ -1338,7 +1335,7 @@ It was midnight when the mourning friends of the family of Fou Wang left the chi
 <p>“No more shall my longing for thee take the fragrance from the flowers and the light from the sun and moon.”</p>
 <p><i><small>From  </i>Mrs. Spring Fragrance<i> (1912); originally published as “The Three Souls of Ho Kiang: A Story of the Pacific Coast” in </i>Traveler <i>(1899).</i></p></small>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
 <h2 id="chapter12"> "Its Wavering Image" </h2>
 
@@ -1413,7 +1410,7 @@ So till evening fell. Then she stumbled up the dark stairs which led to the high
 
 <p><i><small>From </i>Mrs. Spring Fragrance <i>(1912). A previous publication has not been identified as of August 2023.</i></small></p>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
 <h2 id="chapter13"> The Smuggling of Tie Co </h2>
 
@@ -1479,7 +1476,7 @@ So till evening fell. Then she stumbled up the dark stairs which led to the high
 <p>Fabian is now very busy; there are lots of boys taking his helping hand over the border, but none of them are like Tie Co; and sometimes, between whiles, Fabian finds himself pondering long and earnestly over the mystery of Tie Co’s life—and death.</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>Land of Sunshine <i>(July 1900).</i></small></p>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
 <h2 id="chapter14"> Tian Shan's Kindred Spirit </h2>
 
@@ -1559,7 +1556,7 @@ Twelve moons had gone by since Tian Shan had begun to think of saving and once a
 
 <p><small><i>From</i> Mrs. Spring Fragrance<i> (1912). A previous publication has not been identified as of August 2023.</i></small></p>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
   <h2 id="chapter15"> Woo-Ma and I </h2>
 
@@ -1705,7 +1702,7 @@ Toward evening Jim Nesbit came in, followed by Father; so haggard, so old, so st
 <p>They buried Woo-Ma whilst I lay deliriously babbling of childhood's days — of pleasures which leave no sting. When I was able to sit up, they brought me a youth's suit of clothes and a peaked cap. They had been worn by my sister and I keep them in memory of her. How criss-cross the lines of life run!</p>
 <p><i><small>Originally published in</i> The Bohemian<i> (January 1906).</i></small></p>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
 
 <h1 id="Children">
@@ -1733,7 +1730,7 @@ Part III: "TALES OF CHINESE CHILDREN" </h1>
 <p>And forever after O’Yam and Ku Yum lived happily together in a glad, beautiful old palace, surrounded by a glad, beautiful old garden, on a charming little island in the middle of a lake.</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912). Originally appeared in </i>Good Housekeeping<i> (May 1908); also reprinted in </i>The Third Reader <i>(ed. Kate Louise Brown, 1911), </i>Chester Times<i> (November 4, 1910), </i>Columbus Daily Enquirer<i> (November 6, 1910),</i>i> Fort Wayne Journal Gazette <i>(November 6, 1910), and </i>Colorado Springs Gazette<i> (February 5, 1911). </i></small></p>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
   <h2 id="chapter17"> A Chinese Boy-Girl</h2> 
 
@@ -1786,7 +1783,7 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 <p>“Goodbye, teacher,” said Ku Yum, smiling wistfully. “I never be good girl, but perhaps I be good boy.”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in</i> Century Magazine<i> (April 1904).</i></small></p>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
   <h2 id="chapter18"> What About the Cat?</h2> 
 <p>What about the cat?” asked the little princess of her eldest maid.
@@ -1814,7 +1811,7 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 <p>She looked at her cat, thought of all it had done and been in the minds of her servants, and laughed like a princess again and again.</p>
 <p><small><i>From </i>Mrs. Spring Fragrance<i> (1912); originally published in</i> Good Housekeeping<i> 46.5 (March 1908); also reprinted in</i> Colorado Springs Gazette <i>(January 22 1911). </i></small></p>
 
-<p><a href="#toc">Back to the Start</a><p>
+
 
   <section id="Acknowledgements">
     <h2> ACKNOWLEDGEMENTS </h2>
@@ -1852,7 +1849,6 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 
 </ul>
 
-<p><a href="#toc">Back to the Start</a><p>
 
 <section id="Bibliography">
     <h2> BIBLIOGRAPHY </h2>
@@ -1872,4 +1868,3 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 <p>Wang, Anran. “'An Immortal Book:'' The Publishing History of the 1912 Edition of <i>Mrs. Spring Fragrance</i>." Master’s thesis, University of Virginia, 2022. https://doi.org/10.18130/9m48-xg51 </p>
 <p>White-Parks, Annette. <i>Sui Sin Far: A Literary Biography.</i> Urbana: University of Illinois Press, 1995. https://archive.org/details/suisinfaredithma0000whit/page/n13/mode/2up.</p>
 
-<p><a href="#toc">Back to the Start</a><p>
