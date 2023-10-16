@@ -98,12 +98,10 @@ foreword: >-
  </p>
 
       </section>
-  <h2 id="book">
-An Immortal Book
-  </h2>
-   <h1 id="Essays">
+ 
+   <h2 id="Essays">
 PART I: ESSAYS
-  </h1>
+  </h2>
   <h2 id="chapter1"> Sui Sin Far, the Half Chinese Writer, Tells of Her Career </h2>
 
 
