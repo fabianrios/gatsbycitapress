@@ -1,29 +1,43 @@
 ---
-title: Meditacion on the songs of songs
 publication: 2023-05-01T22:12:03.284Z
 release: 2019-05-01T22:12:03.284Z
+templateKey: book-page
 author: Harriet Jacobs
+download: The_Old_Maid_v3.pdf
+language_link: incidents-in-the-life-of-a-slave-girl
+genre:
+  - nonfiction
+  - essay
+  - manifesto
+theme:
+  - religion
+  - sex-romance
+lang: es
+foreword: >-
+  Foreword: Ana María Carvajal, PhD. studies the works of Early Modern mystic
+  women, particularly those of Teresa of Ávila.
+
+
+  Cover: Catalina Vásquez - Colombian illustrator
+date: 2012-05-01T22:12:03.284Z
+title: Meditacion on the songs of songs
 isbn: "1231232131232112"
 post_image: cover-st-teresa-eng.jpg
 square_image: thumbnail-meditaciones-eng.png
-download: The_Old_Maid_v3.pdf
 download_ebook: The_Old_Maid_v3.epub
-language_link: incidents-in-the-life-of-a-slave-girl
-genre:
-  - short-stories
 time_period:
-  - modernist
-theme:
-  - first-person-narrator
-  - sex-romance
-lang: es
+  - early-modern
 description: >-
-  Santa Teresa’s trajectory of personal survival is as miraculous as the survival of her Meditations. Despite almost disappearing into flames ignited by the zealous orthodoxy of some confessor, this text reaches us today, after four and a half centuries of vicissitudes. And what better way to celebrate its continued existence than through this digital edition, available from anywhere in the world to any reader with access to a device with the internet? Watch our video launch with Ana María Carvajal and Catalina Vásquez!
-foreword: >-
-  Foreword: Ana María Carvajal, PhD. studies the works of Early Modern mystic women, particularly those of Teresa of Ávila
-  Cover: Catalina Vásquez - Colombian illustrator
-date: 2012-05-01T22:12:03.284Z
-templateKey: book-page
+  "Santa Teresa’s trajectory of personal survival is as miraculous as the
+  survival of her Meditations. Despite almost disappearing into flames ignited
+  by the zealous orthodoxy of some confessor, this text reaches us today, after
+  four and a half centuries of vicissitudes. And what better way to celebrate
+  its continued existence than through this digital edition, available from
+  anywhere in the world to any reader with access to a device with the
+  internet?" - Ana María Carvajal 
+
+
+  Watch <a href='https://youtu.be/AYd_gXzeqM0'> our behind-the-scenes exploration </a> with Ana María Carvajal and Catalina Vásquez!
 ---
 
 ## Meditations on the Song of Songs - Santa Teresa de Jesús
