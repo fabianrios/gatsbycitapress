@@ -1,5 +1,5 @@
 ---
-title: "Cypherpunk Women"
+title: Cypherpunk Women
 publication: 2023-09-12T14:44:26.228Z
 release: 2023-10-23T14:44:26.257Z
 templateKey: book-page
@@ -13,21 +13,35 @@ genre:
   - short-stories
   - essay
   - fiction
+  - manifesto
 time_period:
   - contemporary
 theme:
   - first-person-narrator
   - race
   - politics
+  - science-technology
+  - LGBTQ+
 lang: en
-description: 'Cypherpunk Women
-  Edited by Leigh Cuen
-  The first open source book by women about cryptocurrency and cypherpunk pioneers. It includes a great array of international contributions from bitcoin developers and users, crypto entrepreneurs and community educators. The collection highlights the diversity of people involved with cypherpunk technology, meaning in their own ways they are all using privacy-enhancing technology to promote social change. And yet their motivations and circumstances are all wildly different. The tool enables self-sovereign financial choices, akin to independent birth control or career choices. For women brave enough to trust themselves, the world may now appear ripe for a new type of revolution.'
-foreword: >-
-  Cover: Josie Bellini / Copyediting: Marisol Bayona Román / Editorial Design for the print edition: Laura Ramírez
-  BUY A PRINT COPY HERE - Works by Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. Contributing editor: Michael McSweeney
+description: The first open source book by women about cryptocurrency and
+  cypherpunk pioneers. It includes a great array of international contributions
+  from bitcoin developers and users, crypto entrepreneurs and community
+  educators. The collection highlights the diversity of people involved with
+  cypherpunk technology, meaning in their own ways they are all using
+  privacy-enhancing technology to promote social change. And yet their
+  motivations and circumstances are all wildly different. The tool enables
+  self-sovereign financial choices, akin to independent birth control or career
+  choices. For women brave enough to trust themselves, the world may now appear
+  ripe for a new type of revolution.
+foreword: >
+  <b>Cover: Josie Bellini / Copyediting: Marisol Bayona Román / Editorial Design
+  for the print edition: Laura Ramírez </b>
 
-  Cover: Shuhua Xiong is an interdisciplinary artist from Shanghai, now based in Queens, New York.
+
+  BUY A PRINT COPY HERE 
+
+
+  Works by Soona Amhaz, Saga Arvidsdotter, Josie Bellini, Kiara Bickers, Audrey Chaing, Emily Faria, Janey Gak, Allie Eve Knox, Jordan Kong, Sarah Jamie Lewis, Mir Liponi, Beth McCarthy, Chrissa McFarlane, Lisa Neigut, Norika Kizawa, Chelsea Palmer, Anita Posch, Samantha Radocchia, Hannah Rosenberg, Kokab “Setareh” Shabanipour, Amber Scott, Alena Vranova, Leah Wald, Karima Williams, Joyce Yang, Linda Xie, @Bitcoinstripper, @GlitchesBrew, @Tina_in_Tech, and many more. Contributing editor: Michael McSweeney
 ---
 ## PART 1: Genesis Block
 
