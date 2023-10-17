@@ -18,7 +18,6 @@ time_period:
   - contemporary
 theme:
   - first-person-narrator
-  - race
   - politics
   - science-technology
   - LGBTQ+
