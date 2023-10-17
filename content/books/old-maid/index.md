@@ -1,6 +1,6 @@
 ---
-publication: 2023-05-01T22:12:03.284Z
-release: 2019-05-01T22:12:03.284Z
+publication: 1924-03-07T23:12:03.284Z
+release: 2022-05-18T22:12:03.284Z
 templateKey: book-page
 author: Edith Wharton
 download: The_Old_Maid_v3.pdf
@@ -32,7 +32,7 @@ description: >-
   passions." - Krithika Varagur</p></i>
 
 
-  <p>"The Old Maid" first appeared as part of Wharton's 1924 quartet <i>Old New York</i>; each story in the collection represents a decade in "Old New York" society from the 1840s to the 1870s. In this novella (originally subtitled "The Fifties"), Delia and Charlotte conspire to raise Charlotte's secret daughter without activating suspicion within their exacting, closed social circle. Wharton expertly digs into her characters and the social contradictions they exploit to protect their family in a story that is as biting as it is tender and, at times, triumphant. Playwright Zoë Akins won a Pulitzer Prize for her adaption of the book in 1935, and a film starring Bette Davis and directed by Edmund Goulding came out in 1939. We are thrilled to bring this book to new audiences with a free, open access edition available online to all readers with an internet connection.</p>
+  <p>"The Old Maid" is the second novella in Wharton's 1924 quartet <i>Old New York</i>; each story in the collection represents a decade in "Old New York" society from the 1840s to the 1870s. In this novella (originally subtitled "The Fifties"), Delia and Charlotte conspire to raise Charlotte's secret daughter without activating suspicion within their exacting, closed social circle. Wharton expertly digs into her characters and the social contradictions they exploit to protect their family in a story that is as biting as it is tender and, at times, triumphant. Playwright Zoë Akins won a Pulitzer Prize for her adaption of the book in 1935, and a film starring Bette Davis and directed by Edmund Goulding came out in 1939. We are thrilled to bring this book to new audiences with a free, open access edition available online to all readers with an internet connection.</p>
 ---
 ## Introduction to The Old Maid by Krithika Varagur
 
