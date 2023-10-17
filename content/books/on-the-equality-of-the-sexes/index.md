@@ -1,35 +1,37 @@
 ---
-title: On the Equality of the Sexes
 publication: 2023-05-01T22:12:03.284Z
 release: 2019-05-01T22:12:03.284Z
+templateKey: book-page
 author: Judith Sargent Murray
+download: ""
+language_link: ""
+genre:
+  - manifesto
+  - nonfiction
+  - essay
+theme:
+  - first-person-narrator
+  - politics
+  - religion
+lang: en
+foreword: |-
+  Foreword: Bonnie J. Smith - President, Judith Sargent Murray Society 
+
+  Cover: Natalia Rojas - Colombian artist and illustrator"
+date: 2012-05-01T22:12:03.284Z
+title: On the Equality of the Sexes
 isbn: "1231232131232112"
 post_image: cover-on-the-equality.png
 square_image: ontheequality.png
-download: http://link.com
-language_link: ""
-genre:
-  - short-stories
 time_period:
-  - modernist
-theme:
-  - first-person-narrator
-  - science-technology
-  - sex-romance
-lang: en
-description: >-
-  On the Equality of the Sexes
-  Judith Sargent Murray
-  When “On the Equality of the Sexes” appeared in 1790 in the Massachusetts Magazine, it became the earliest known public claim in America for female equality."
-foreword: >-
-  Foreword: Bonnie J. Smith - President, Judith Sargent Murray Society
-  Cover: Natalia Rojas - Colombian artist and illustrator"
-date: 2012-05-01T22:12:03.284Z
-templateKey: book-page
+  - early-modern
+description: '"When “On the Equality of the Sexes” appeared in 1790 in
+  <i>Massachusetts Magazine</i>, it became the earliest known public claim in
+  America for female equality." - Bonnie J. Smith'
 ---
 ## Foreword
 
-When “On the Equality of the Sexes” appeared in 1790 in the Massachusetts Magazine, it became the earliest known public claim in America for female equality. As a new writer for the Magazine, “Constantia” (Judith Sargent Murray’s pen name) assured her readers that she had not plagiarized from contemporary texts. As early as 1779, she wrote in her introduction, “many respectable persons” had seen drafts of her essay.
+When “On the Equality of the Sexes” appeared in 1790 in the <i>Massachusetts Magazine<i>, it became the earliest known public claim in America for female equality. As a new writer for the Magazine, “Constantia” (Judith Sargent Murray’s pen name) assured her readers that she had not plagiarized from contemporary texts. As early as 1779, she wrote in her introduction, “many respectable persons” had seen drafts of her essay.
 
 In fact, Judith had been a self-described “scribbler” from a very young age. At nine, she wrote “an history” of her life and made “humble attempts at poetry.” Her father, apparently, proudly shared her poems with their family. Judith also wrote well-crafted, opinionated letters by the dozen. It was in a letter to Catherine Goldthwaite that she first challenged the myth of the “Fall of Eve” as “proof “of female inferiority.
 
@@ -65,11 +67,11 @@ Bonnie Hurd Smith, President, Judith Sargent Murray Society
 * With inborn strength mysterious depths explore;
 * Their eager gaze surveys the path of light,
 * Confest it stood to Newton's piercing sight.
-*    Deep science, like a bashful maid retires,
+* Deep science, like a bashful maid retires,
 * And but the ardent breast her worth inspires;
 * By perseverance the coy fair is won.
 * And Genius, led by Study, wears the crown.
-*    But some there are who wish not to improve
+* But some there are who wish not to improve
 * Who never can the path of knowledge love,
 * Whose souls almost with the dull body one,
 * With anxious care each mental pleasure shun;
@@ -83,7 +85,7 @@ Bonnie Hurd Smith, President, Judith Sargent Murray Society
 * Industrious seek for each event a cause,
 * Tracing the hidden springs whence knowledge flows,
 * Which nature all in beauteous order shows.
-*    Yet cannot I their sentiments imbibe,
+* Yet cannot I their sentiments imbibe,
 * Who this distinction to the sex ascribe,
 * As if a woman's form must needs enrol,
 * A weak, a servile, an inferiour soul;
@@ -101,7 +103,7 @@ Bonnie Hurd Smith, President, Judith Sargent Murray Society
 * That such distinctions only dwell below;
 * The soul unfetter'd, to no sex confin'd,
 * Was for the abodes of cloudless day design'd.
-*    Mean time we emulate their manly fires,
+* Mean time we emulate their manly fires,
 * Though erudition all their thoughts inspires,
 * Yet nature with equality imparts
 * And noble passions, swell e'en female hearts
@@ -122,6 +124,6 @@ I AM aware that there are many passages in the sacred oracles which seem to give
 
 ## CONSTANTIA
 
-_By way of supplement to the foregoing pages, I subjoin the following extract from a letter, wrote to a friend in the December of 1780_
+*By way of supplement to the foregoing pages, I subjoin the following extract from a letter, wrote to a friend in the December of 1780*
 
 AND now assist me, O thou genius of my sex, while I undertake the arduous task of endeavouring to combat that vulgar, that almost universal errour, which hath, it seems, enlisted even Mr. P— under its banners. The superiority of your sex hath, I grant, been time out of mind esteemed a truth incontrovertible; in consequence of which persuasion, every plan of education hath been calculated to establish this favourite tenet. Not long since, weak and presuming as I was, I amused myself with selecting some arguments from nature, reason, and experience; against this so generally received idea, I confess that to sacred testimonies I had not recourse. I held them to be merely metaphorical, and thus regarding them, I could not persuade myself that there was any propriety in bringing them to decide in this very important debate. However, as you, sir, confine yourself entirely to the sacred oracles, I mean to bend the whole of my artillery against those supposed proofs, which you have from thence provided, and from which you have formed an intrenchment apparently so invulnerable. And first, to begin with our great progenitors; but here, suffer me to premise, that it is for mental strength I mean to contend, for with respect to animal powers, I yield them undisputed to that sex, which enjoys them in common with the lion, the tyger, and many other beasts of prey; therefore your observations respecting the rib under the arm, at a distance from the head, &c.&c. in no sort militate against my view. Well, but the woman was first in the transgression. Strange how blind self love renders you men; were you not wholly absorbed in a partial admiration of your own abilities, you would long since have acknowledged the force of what I am now going to urge. It is true some ignoramuses have absurdly enough informed us, that the beauteous fair of paradise, was seduced from her obedience, by a malignant demon, in the guise of a baleful serpent; but we, who are better informed, know that the fallen spirit presented himself to her view, a shining angel still; for thus, saith the criticks in the Hebrew tongue, ought the word to be rendered. Let us examine her motive—Hark! the seraph declares that she shall attain a perfection of knowledge; for is there aught which is not comprehended under one or other of the terms good and evil. It doth not appear that she was governed by any one sensual appetite; but merely by a desire of adorning her mind; a laudable ambition fired her soul, and a thirst for knowledge impelled the predilection so fatal in its consequences. Adam could not plead the same deception; assuredly he was not deceived; nor ought we to admire his superiour strength, or wonder at his sagacity, when we so often confess that example is much more influential than precept. His gentle partner stood before him, a melancholy instance of the direful effects of disobedience; he saw her not possessed of that wisdom which she had fondly hoped to obtain, but he beheld the once blooming female, disrobed of that innocence, which had heretofore rendered her so lovely. To him then deception became impossible, as he had proof positive of the fallacy of the argument, which the deceiver had suggested. What then could be his inducement to burst the barriers, and to fly directly in the face of that command, which immediately from the mouth of deity he had received, since, I say, he could not plead that fascinating stimulous, the accumulation of knowledge, as indisputable conviction was so visibly portrayed before him. What mighty cause impelled him to sacrifice myriads of beings yet unborn, and by one impious act, which he saw would be productive of such fatal effects, entail undistinguished ruin upon a race of beings, which he was yet to produce. Blush, ye vaunters of fortitude; ye boasters of resolution; ye haughty lords of the creation; blush when ye remember, that he was influenced by no other motive than a bare pusilianimous attachment to a woman! by sentiments so exquisitely soft, that all his sons have, from that period, when they have designed to degrade them, described as highly feminine. Thus it should seem, that all the arts of the grand deceiver (since means adequate to the purpose are, I conceive, invariably pursued) were requisite to mislead our general mother, while the father of mankind forfeited his own, and relinquished the happiness of posterity, merely in compliance with the blandishments of a female. The subsequent subjection the apostle Paul explains as a figure; after enlarging upon the subject, he adds, "This is a great mystery; but I speak concerning Christ and the church." Now we know with what consummate wisdom the unerring father of eternity hath formed his plans; all the types which he hath displayed, he hath permitted materially to fail, in the very virtue for which they were famed. The reason for this is obvious, we might otherwise mistake his economy, and render that honour to the creature, which is due only to the creator. I know that Adam was a figure of him who was to come. The grace contained in this figure, is the reason of my rejoicing, and while I am very far from prostrating before the shadow, I yield joyfully in all things the preeminence to the second federal head. Confiding faith is prefigured by Abraham, yet he exhibits a contrast to affiance, when he says of his fair companion, she is my sister. Gentleness was the characteristick of Moses, yet he hesitated not to reply to Jehovah himself, with unsaintlike tongue he murmured at the waters of strife, and with rash hands he break the tables, which were inscribed by the finger of divinity. David, dignified with the title of the man after God's own heart, and yet how stained was his life. Solomon was celebrated for wisdom, but folly is write in legible characters upon his almost every action. Lastly, let us turn our eyes to man in the aggregate. He is manifested as the figure of strength, but that we may not regard him as any thing more than a figure, his soul is formed in no sort superiour, but every way equal to the mind of her who is the emblem of weakness and whom he hails the gentle companion of his better days.
