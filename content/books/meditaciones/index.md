@@ -1,6 +1,6 @@
 ---
-publication: 2023-05-01T22:12:03.284Z
-release: 2019-05-01T22:12:03.284Z
+publication: 2023-05-01T22:12:00.000Z
+release: 2023-10-17T23:21:17.485Z
 templateKey: book-page
 author: Harriet Jacobs
 download: The_Old_Maid_v3.pdf
@@ -20,7 +20,7 @@ foreword: >-
 
   Cover: Catalina Vásquez - Colombian illustrator
 date: 2012-05-01T22:12:03.284Z
-title: Meditacion on the songs of songs
+title: Meditations on the Song of Songs
 isbn: "1231232131232112"
 post_image: cover-st-teresa-eng.jpg
 square_image: thumbnail-meditaciones-eng.png
