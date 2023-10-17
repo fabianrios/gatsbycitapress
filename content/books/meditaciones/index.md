@@ -1,6 +1,6 @@
 ---
 publication: 2023-05-01T22:12:00.000Z
-release: 2023-10-17T23:21:17.485Z
+release: 2021-10-08T23:21:17.485Z
 templateKey: book-page
 author: Harriet Jacobs
 download: The_Old_Maid_v3.pdf
