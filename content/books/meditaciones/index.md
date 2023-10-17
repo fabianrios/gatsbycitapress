@@ -3,8 +3,8 @@ publication: 2023-05-01T22:12:00.000Z
 release: 2021-10-08T23:21:17.485Z
 templateKey: book-page
 author: Saint Teresa of Jesus (Saint Teresa of Avila)
-download: The_Old_Maid_v3.pdf
-language_link: incidents-in-the-life-of-a-slave-girl
+download: ""
+language_link: meditaciones-sobre-los-cantares
 genre:
   - nonfiction
   - essay
@@ -14,30 +14,30 @@ theme:
   - sex-romance
 lang: en
 foreword: >-
-  Foreword: Ana María Carvajal, PhD. studies the works of Early Modern mystic
-  women, particularly those of Teresa of Ávila.
+  <p>Foreword: Ana María Carvajal, PhD. studies the works of Early Modern mystic
+  women, particularly those of Teresa of Ávila.</p>
 
 
-  Cover: Catalina Vásquez - Colombian illustrator
+  <p>Cover: Catalina Vásquez - Colombian illustrator</p>
 date: 2012-05-01T22:12:03.284Z
 title: Meditations on the Song of Songs
 isbn: "1231232131232112"
 post_image: cover-st-teresa-eng.jpg
 square_image: thumbnail-meditaciones-eng.png
-download_ebook: The_Old_Maid_v3.epub
+download_ebook: ""
 time_period:
   - early-modern
 description: >-
-  "Santa Teresa’s trajectory of personal survival is as miraculous as the
+  <p>"Santa Teresa’s trajectory of personal survival is as miraculous as the
   survival of her Meditations. Despite almost disappearing into flames ignited
   by the zealous orthodoxy of some confessor, this text reaches us today, after
   four and a half centuries of vicissitudes. And what better way to celebrate
   its continued existence than through this digital edition, available from
   anywhere in the world to any reader with access to a device with the
-  internet?" - Ana María Carvajal 
+  internet?" - Ana María Carvajal </p>
 
 
-  Watch <a href='https://youtu.be/AYd_gXzeqM0'> our behind-the-scenes exploration </a> with Ana María Carvajal and Catalina Vásquez!
+  <p>Watch <a href='https://youtu.be/AYd_gXzeqM0'> our behind-the-scenes exploration </a> with Ana María Carvajal and Catalina Vásquez!</p>
 ---
 
 ## Meditations on the Song of Songs - Santa Teresa de Jesús
