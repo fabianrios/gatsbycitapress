@@ -2,7 +2,7 @@
 publication: 2023-05-01T22:12:00.000Z
 release: 2021-10-08T23:21:17.485Z
 templateKey: book-page
-author: Harriet Jacobs
+author: Saint Teresa of Jesus (Saint Teresa of Avila)
 download: The_Old_Maid_v3.pdf
 language_link: incidents-in-the-life-of-a-slave-girl
 genre:
