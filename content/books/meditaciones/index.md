@@ -15,13 +15,13 @@ theme:
 lang: en
 foreword: >-
   <p>Foreword: Ana María Carvajal, PhD. studies the works of Early Modern mystic
-  women, particularly those of Teresa of Ávila.</p><br>
+  women, particularly those of Teresa of Ávila.</p>
 
 
   <p>Cover: Catalia Vásquez is an artist, illustrator, filmmaker, and designer from the mountains of Medellín, Colombia.</p>
 date: 2012-05-01T22:12:03.284Z
 title: Meditations on the Song of Songs
-isbn: "1231232131232112"
+isbn: 978-1-961368-04-0
 post_image: cover-st-teresa-eng.jpg
 square_image: thumbnail-meditaciones-eng.png
 download_ebook: ""
