@@ -133,15 +133,7 @@ Yo lo confieso, que tiene muchos entendimientos; mas el alma que est&aacute; abr
 Esta, hijas, es alt&iacute;sima petici&oacute;n, como despu&eacute;s os dir&eacute;.
     </p>
 
-```
-
-```
-
-  <h5>  CAP&Iacute;TULO 2 - Meditaci&oacute;n Segunda </h5>
-
-```
-
-```
+<h5>  CAP&Iacute;TULO 2 - Meditaci&oacute;n Segunda </h5>
 
 1. Dios os libre de muchas maneras de paz que tienen los mundanos; nunca Dios nos la deje probar, que es para guerra perpetua. Cuando uno de los del mundo anda muy quieto, andando metido en grandes pecados y tan sosegado en sus vicios que en nada le remuerde la conciencia, esta paz ya hab&eacute;is le&iacute;do que es se&ntilde;al que el demonio y &eacute;l est&aacute;n amigos: mientras viven, no les quiere dar guerra, porque seg&uacute;n son malos, por huir de ella y no por amor de Dios, se tornar&iacute;an algo a El. Mas los que van por aqu&iacute;, nunca duran en servirle. Luego, como el demonio lo entiende, t&oacute;rnales a dar gusto a su placer y t&oacute;rnanse a su amistad, hasta que los tiene adonde les da a entender cu&aacute;n falsa era su paz. En &eacute;stos no hay que hablar; all&aacute; se lo hayan, que yo espero en el Se&ntilde;or no se hallar&aacute; entre vosotras tanto mal; aunque pod&iacute;a el demonio comenzar por otra paz en cosas pocas, y siempre, hijas, mientras vivimos nos hemos de temer.
 2. Cuando la religiosa comienza a relajarse en unas cosas que en s&iacute; parecen poco, y perseverando en ellas mucho y no les remordiendo la conciencia, es mala paz, y de aqu&iacute; puede el demonio traerla a mil males; as&iacute; como es un quebrantamiento de constituci&oacute;n, que en s&iacute; no es pecado, o no andar con cuidado en lo que manda el prelado, aunque no con malicia; en fin, est&aacute; en lugar de Dios, y es bien siempre -que a eso venimos- andar mirando lo que quiere; cosillas muchas que se ofrecen, que en s&iacute; no parecen pecado y, en fin, hay faltas y halas de haber, que somos miserables. No digo yo que no. Lo que digo es que sientan cuando se hacen, y entiendan que faltaron; porque si no -como digo- de &eacute;ste se puede el demonio alegrar, y poco a poco ir haciendo insensible al alma de estas cosillas. Yo os digo, hijas, que cuando esto llegare a alcanzar, que no tenga poco, porque temo pasar&aacute; adelante. Por eso miraos mucho, por amor de Dios; guerra ha de haber en esta vida, porque con tantos enemigos no es posible dejarnos estar mano sobre mano, sino que siempre ha de haber cuidado y traerle de c&oacute;mo andamos en lo interior y exterior.
@@ -150,10 +142,6 @@ Esta, hijas, es alt&iacute;sima petici&oacute;n, como despu&eacute;s os dir&eacu
 5. Enti&eacute;ndanme las almas de las que fueren escrupulosas, que no hablo por alguna falta alguna vez, o faltas, que no todas se pueden entender, ni aun sentir siempre; sino con quien las hace muy ordinarias, sin hacer caso, pareci&eacute;ndole nonada, y no la remuerde ni procura enmendarse. De &eacute;sta torno a decir que es peligrosa paz y que est&eacute;is advertidas de ella. Pues &iquest;qu&eacute; ser&aacute; de los que la tienen en mucha relajaci&oacute;n de su Regla? No plega a Dios haya ninguna. De muchas maneras la debe dar el demonio, que lo permite Dios por nuestros pecados. No hay que tratar de esto; esto poquito os he querido advertir. Vamos a la amistad y paz que nos comienza a mostrar el Se&ntilde;or en la oraci&oacute;n, y dir&eacute; lo que Su Majestad me diere a entender.
 
   <h5>  CAP&Iacute;TULO 3 - Meditaci&oacute;n Tercera: B&eacute;seme con beso de tu boca (Cant. 1, 1). </h5>
-
-```
-
-```
 
 2. Pareceros ha, hijas, que eso no va bien, pues es tan loable cosa hacer las cosas con discreci&oacute;n. Hab&eacute;is de mirar un punto, que es entender que ha el Se&ntilde;or (a lo que vos pod&eacute;is entender, digo, que cierto no se puede saber) o&iacute;da vuestra petici&oacute;n, de besaros con beso de su boca. Que si esto conoc&eacute;is por los efectos, no hay que deteneros en nada, sino olvidaros de vos por contentar a este tan dulce Esposo. Su Majestad se da a sentir a los que gozan de esta merced, con muchas muestras. Una es menospreciar todas las cosas de la tierra, estimarlas en tan poco como ellas son, no querer bien suyo porque ya tiene entendido su vanidad, no se alegrar sino con los que aman a su Se&ntilde;or; c&aacute;nsale la vida, tiene en la estima las riquezas que ellas merecen; otras cosas semejantes a &eacute;stas, que ense&ntilde;a el que las puso en tal estado.
 3. &iexcl;Oh amor fuerte de Dios! &iexcl;Y c&oacute;mo no le parece que ha de haber cosa imposible a quien ama! &iexcl;Oh dichosa alma que ha llegado a alcanzar esta paz de su Dios, que est&eacute; se&ntilde;oreada sobre todos los trabajos y peligros del mundo, que ninguno teme, a cuento de servir a tan buen Esposo y Se&ntilde;or, y con m&aacute;s raz&oacute;n que la tiene este pariente y amigo que hemos dicho! Pues ya hab&eacute;is le&iacute;do, hijas, de un Santo, y que no por hijo, ni por amigo, sino porque deb&iacute;a bien haber llegado a esta ventura tan buena de que le hubiese Dios dado esta paz, y por contentar a Su Majestad e imitarle en algo lo mucho que hizo por nosotros, se fue a trocar por hijo de una viuda, que vino a &eacute;l fatigada, a tierra de moros. Ya hab&eacute;is le&iacute;do cu&aacute;n bien le sucedi&oacute;, y con la ganancia que vino.
@@ -180,10 +168,6 @@ Dénoslo nuestro Señor a sentir, que harto mal se pueden decir.
     </p>
     <p>
     2. Si&eacute;ntese una suavidad en lo interior del alma tan grande, que se da bien a sentir estar vecino nuestro Se&ntilde;or de ella. No es esto s&oacute;lo una devoci&oacute;n que ah&iacute; mueve a l&aacute;grimas muchas, y &eacute;stas dan satisfacci&oacute;n, o por la Pasi&oacute;n del Se&ntilde;or, o por nuestro pecado, aunque en esta oraci&oacute;n de que hablo, que llamo yo de quietud por el sosiego que hace en todas las potencias, que parece la persona tiene muy a su voluntad, aunque algunas veces se siente de otro modo, cuando no est&aacute; el alma tan engolfada en esta suavidad, parece que todo el hombre interior y exterior conforta, como si le echasen en los tu&eacute;tanos una unci&oacute;n suav&iacute;sima, a manera de un gran olor, que si entr&aacute;semos en una parte de presto donde le hubiese grande, no de una cosa sola, sino muchas, y ni sabemos qu&eacute; es ni d&oacute;nde est&aacute; aquel olor, sino que nos penetra todos. </p><p>
-
-```
-
-```
 
  Porque adonde he dicho digo lo que el alma ha de hacer aqu&iacute; para aprovecharnos y esto no es sino para dar a entender algo de lo que voy tratando, no quiero alargarme m&aacute;s de que en esta amistad (que ya el Se&ntilde;or muestra aqu&iacute; al alma -que la quiere tan particular con ella- que no haya cosa partida entre entrambos), se le comunican grandes verdades; porque esta luz que la deslumbra, por no entenderlo ella lo que es, la hace ver la vanidad del mundo. No ve al buen Maestro que la ense&ntilde;a, aunque entiende que est&aacute; con ella; mas queda tan bien ense&ntilde;ada y con tan grandes efectos y fortaleza en las virtudes, que no se conoce despu&eacute;s ni querr&iacute;a hacer otra cosa ni decir, sino alabar al Se&ntilde;or; y est&aacute; cuando est&aacute; en este gozo, tan embebida y absorta, que no parece que est&aacute; en s&iacute;, sino con una manera de borrachez divina que no sabe lo que quiere, ni qu&eacute; dice, ni qu&eacute; pide. En fin, no sabe de s&iacute;; mas no est&aacute; tan fuera de s&iacute; que no entiende algo de lo que pasa.
     </p>
@@ -227,20 +211,12 @@ Dénoslo nuestro Señor a sentir, que harto mal se pueden decir.
 
 <p>12. Pues nos da licencia, tornemos, hijas, a decir: Mi Amado a m&iacute;, y yo a mi Amado. &iquest;Vos a m&iacute;, Se&ntilde;or? Pues si Vos ven&iacute;s a m&iacute;, &iquest;en qu&eacute; dudo que puedo mucho serviros? Pues de aqu&iacute; adelante Se&ntilde;or, qui&eacute;rome olvidar de m&iacute; y mirar s&oacute;lo en qu&eacute; os puedo servir y no tener voluntad sino la vuestra. Mas mi querer no es poderoso; Vos sois el poderoso, Dios m&iacute;o. En lo que yo puedo, que es determinarme, desde este punto lo hago para ponerlo por obra&raquo;.</p>
 
-```
-
-```
-
   <h5>  CAP&Iacute;TULO 5 - Meditaci&oacute;n Quinta: Sent&eacute;me a la sombra del que deseaba, y su fruto es dulce para mi garganta (Cant. 2, 3).</h5>
    <p> 1. Ahora preguntemos a la Esposa; sepamos de esta bendita alma, llegada a esta boca divina y sustentada con estos pechos celestiales, para que sepamos, si el Se&ntilde;or nos llega alguna vez a tan gran merced, qu&eacute; hemos de hacer o c&oacute;mo hemos de estar, qu&eacute; hemos de decir.
     </p>
     <p>
    Lo que nos dice es: Asent&eacute;me a la sombra de aquel a quien hab&iacute;a deseado y su fruto es dulce para mi garganta. Meti&oacute;me el Rey en la bodega del vino y orden&oacute; en m&iacute; la caridad.
     </p>
-
-```
-
-```
 
  Dice: Asent&eacute;me en la sombra del que hab&iacute;a deseado. 
       </p>
