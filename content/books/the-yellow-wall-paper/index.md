@@ -1,35 +1,41 @@
 ---
-title: The Yellow Wall-Paper
 publication: 2023-09-01T22:12:03.284Z
 release: 2018-05-01T22:12:03.284Z
 templateKey: book-page
 author: Charlotte Perkins Gilman
-isbn: "239102310238192"
-post_image: cover-yellowwallpaper.jpg
-square_image: yellowwallpaper.png
-download: http://link.com
+download: ""
 language_link: el-tapiz-amarillo
 genre:
   - novella
-time_period:
-  - modernist
-  - 19th
 theme:
-  - sex-romance
+  - mental-health
+  - suspense-gothic
   - motherhood
 lang: en
-description: The Yellow Wall-Paper (1893) holds an important place among
+foreword: >-
+  <p>Foreword: Catherine J. Golden, Ph.D., Professor of English and The Tisch
+  Chair in Arts and Letters, Skidmore College<p>
+
+
+  <p>Cover: <a href="http://laurasavina.com/" target="_blank" rel="noreferrer">Laura Savina</a>, Italian illustrator and tap dance student</p>
+date: 2015-05-01T22:12:03.284Z
+title: The Yellow Wall-Paper
+isbn: 978-1-961368-08-8
+post_image: cover-yellowwallpaper.jpg
+square_image: yellowwallpaper.png
+time_period:
+  - 19th
+description: " “'The Yellow Wall-Paper' (1892) holds an important place among
   rediscovered works by turn-of-the-century American women writers for its bold
   critique of gender politics in a patriarchal society. The nameless narrator,
   undergoing the infamous rest cure for what doctors now diagnose as postpartum
-  depression, experiences debilitating psychological effects.
-foreword: >-
-  Foreword: Catherine J. Golden, Ph.D. - Professor of English and The Tisch
-  Chair in Arts and Letters, Skidmore College
-
-
-  Cover: <a href="http://laurasavina.com/" target="_blank" rel="noreferrer">Laura Savina</a> - Italian illustrator and tap dance student
-date: 2015-05-01T22:12:03.284Z
+  depression, experiences debilitating psychological effects. At first repulsed
+  by the wallpaper in the room where she is sequestered in a country estate, the
+  narrator comes to like it as she vows to decode its pattern—she imagines many
+  women creeping behind bars and identifies with one trapped woman, arguably a
+  reflection of her painful position as a woman in Victorian America. Many of
+  the story’s first readers considered it a psychological horror tale in the
+  fashion of Poe.\" - Catherine J. Golden"
 ---
 ## Foreword
 
