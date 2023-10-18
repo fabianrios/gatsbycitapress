@@ -18,7 +18,7 @@ foreword: >-
   women, particularly those of Teresa of Ávila.</p><br>
 
 
-  <p>Cover: Catalina Vásquez - Colombian illustrator</p>
+  <p>Cover: Catalia Vásquez is an artist, illustrator, filmmaker, and designer from the mountains of Medellín, Colombia.</p>
 date: 2012-05-01T22:12:03.284Z
 title: Meditations on the Song of Songs
 isbn: "1231232131232112"
