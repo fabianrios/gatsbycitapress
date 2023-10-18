@@ -1,28 +1,35 @@
 ---
-title: La clarisa pobre
 publication: 2023-05-01T22:12:03.284Z
 release: 2019-05-01T22:12:03.284Z
+templateKey: book-page
 author: Elizabeth Gaskell
-isbn: "1231232131232112"
-post_image: cover-poor-clare.jpg
-square_image: thumbnail-poor-clare.jpg
-download: The_Old_Maid_v3.pdf
-download_ebook: The_Old_Maid_v3.epub
-language_link: poor-claire
+download: ""
+language_link: poor-clare
 genre:
-  - short-stories
-time_period:
-  - modernist
+  - novella
 theme:
   - first-person-narrator
   - sex-romance
+  - suspense-gothic
+  - religion
+  - motherhood
 lang: es
-description: >-
-  Solo disponible en ingles, The Poor Clare is a gothic ghost story about a young woman unwittingly cursed by her own grandmother. Gaskell's short story was first published in serialized form in 1856 in Charles Dickens' popular weekly magazine Household Words. Despite the male narrator, feminism is a theme in The Poor Clare. Bridget is a powerful woman who confronts the patriarchal establishment through her own powers. She has a 'strong will' and 'strong nature', which enable her to exert control over not just her employers the Starkey family, but the rest of the local population as well. (Wikipedia)
-foreword: >-
-  Cover: <a href="http://irinakoryagina.com/">Irina Koryagina</a>, a graphic designer based in New York
+foreword: 'Cover: <a href="http://irinakoryagina.com/">Irina Koryagina</a>, a
+  graphic designer based in New York'
 date: 2012-05-01T22:12:03.284Z
-templateKey: book-page
+title: La clarisa pobre
+isbn: 978-1-961368-06-4
+post_image: cover-poor-clare.jpg
+square_image: thumbnail-poor-clare.jpg
+download_ebook: ""
+time_period:
+  - 19th
+  - victorian
+description: >+
+  <p>SOLO DISPONIBLE EN INGLES</p>
+
+
+  <p> Family curses, evil doppelgangers, lingering loss, and redemption--Gaskell's 1856 gothic ghost story presents a suspenseful tale with a feminist frame. The anchor to the story is Irish servant Bridget FitzGerald, whose power and fierce pain drives the story's conflict and, ultimately, its resolution, influencing the fates of entire families and towns.</p>
 ---
 
 ## CHAPTER I.
