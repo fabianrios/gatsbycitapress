@@ -16,11 +16,11 @@ theme:
   - suspense-gothic
 lang: en
 foreword: >-
-  Cover:<a href='https://www.instagram.com/thatajacoponi/?hl=en'>Thaïs
-  Jacoponi</a>, Brazilian Designer and Art Director 
+  <p>Cover:<a href='https://www.instagram.com/thatajacoponi/?hl=en'>Thaïs
+  Jacoponi</a>, Brazilian Designer and Art Director </p>
 
 
-  Foreword by historial geographer, environmental advocate, and griefworker <a href='https://spatialhumanorg.wordpress.com/about/'> Dr. Christy Hyman</a> 
+  <p>Foreword by historical geographer, environmental advocate, and griefworker <a href='https://spatialhumanorg.wordpress.com/about/'> Dr. Christy Hyman.</a> </>
 date: 2012-05-01T22:12:03.284Z
 title: Incidents in the Life of a Slave Girl
 isbn: 978-1-961368-05-7
