@@ -25,11 +25,11 @@ description: '"La trayectoria de supervivencia de Santa Teresa de Jesús es tan
   para todos los lectores que, desde cualquier lugar del mundo, puedan usar un
   dispositivo con internet." - Ana María Carvajal'
 foreword: >-
-  Prólogo: Ana María Carvajal, PhD. estudia las obras de las mujeres místicas de
-  la Edad Moderna, en particular las de Teresa de Ávila
+  <p>Prólogo: Ana María Carvajal, PhD. estudia las obras de las mujeres místicas
+  de la Edad Moderna, en particular las de Teresa de Ávila</p>
 
 
-  Portada: Catalina Vázquez - Ilustradora colombiana.
+  <p>Portada: Catalina Vázquez - Ilustradora colombiana.</p>
 ---
 <div id="book-html-content">
 
