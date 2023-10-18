@@ -18,8 +18,8 @@ theme:
   - sex-romance
 lang: es
 description: '"La trayectoria de supervivencia de Santa Teresa de Jesús es tan
-  milagrosa como la de las Meditaciones. Luego de casi desaparecer entre las
-  llamas de los celos ortodoxos de algún confesor, este texto llega hasta
+  milagrosa como la de las <i>Meditaciones</i>. Luego de casi desaparecer entre
+  las llamas de los celos ortodoxos de algún confesor, este texto llega hasta
   nosotros ahora, después de cuatro siglos y medio de vicisitudes. Y qué mejor
   forma de celebrar su preservación que esta edición digital, de acceso libre
   para todos los lectores que, desde cualquier lugar del mundo, puedan usar un
