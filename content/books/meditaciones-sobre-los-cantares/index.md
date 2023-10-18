@@ -7,6 +7,7 @@ author: Santa Teresa de Jesús (Santa Teresa de Ávila)
 isbn: 978-1-961368-03-3
 post_image: cantares-01.jpg
 square_image: cantares-01.jpg
+language_link: meditations-on-the-song-of-songs
 genre:
   - nonfiction
   - essay
