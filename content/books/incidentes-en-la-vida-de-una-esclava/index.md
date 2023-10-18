@@ -4,7 +4,7 @@ release: 2019-05-01T22:12:03.284Z
 templateKey: book-page
 author: Harriet Jacobs
 download: ""
-language_link: incidents-in-the-life-of-a-slave-girl
+language_link: ""
 genre:
   - nonfiction
   - autobiography
@@ -14,7 +14,7 @@ theme:
   - motherhood
   - sex-romance
   - suspense-gothic
-lang: es
+lang: en
 foreword: >-
   Cover:<a href='https://www.instagram.com/thatajacoponi/?hl=en'>Thaïs
   Jacoponi</a>, Brazilian Designer and Art Director 
@@ -23,7 +23,7 @@ foreword: >-
   Foreword by historial geographer, environmental advocate, and griefworker <a href='https://spatialhumanorg.wordpress.com/about/'> Dr. Christy Hyman</a> 
 date: 2012-05-01T22:12:03.284Z
 title: Incidents in the Life of a Slave Girl
-isbn: "1231232131232112"
+isbn: 978-1-961368-05-7
 post_image: cover-incidents-in-the-life-update.jpg
 square_image: thumbnail-incidents-es.jpg
 download_ebook: ""
