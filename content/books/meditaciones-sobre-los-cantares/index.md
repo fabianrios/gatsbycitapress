@@ -3,7 +3,7 @@ title: Meditaciones sobre los cantares
 publication: 2023-10-17T23:22:36.893Z
 release: 2023-10-17T23:22:36.904Z
 templateKey: book-page
-author: Santa Teresa de Jesús (Santa Teresa de Avila)
+author: Santa Teresa de Jesús (Santa Teresa de Ávila)
 isbn: Coming soon
 post_image: cantares-01.jpg
 square_image: cantares-01.jpg
