@@ -40,7 +40,7 @@ description: >-
   as a survivor, and redeeming herself as woman." -Dr. Christy Hyman</i></p>
 
 
-  <p>Harriet Jacobs' 1861 autobiography is a landmark text for the U.S. abolitionist movement that continues to inspire and influence art, scholarship, and literature nearly two centuries after it was first published under the pseudonym Linda Brent. In Incidents, Jacobs directly calls on white Northern women to reject slavery. She uses the tools of popular genre fiction from the time to claim and redefine the model of the virtuous woman and mother, challenging racist ideas prevalent in the "Cult of True Womanhood." </p>
+  <p>Harriet Jacobs' 1861 autobiography is a landmark text for the U.S. abolitionist movement that continues to inspire and influence art, scholarship, and literature nearly two centuries after it was first published under the pseudonym Linda Brent. </p>
 ---
 ## Foreword
 
