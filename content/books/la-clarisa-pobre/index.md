@@ -29,7 +29,7 @@ description: >+
   <p>SOLO DISPONIBLE EN INGLES</p>
 
 
-  <p> Family curses, evil doppelgangers, lingering loss, and redemption--Gaskell's 1856 gothic ghost story presents a suspenseful tale with a feminist frame. The anchor to the story is Irish servant Bridget FitzGerald, whose power and fierce pain drives the story's conflict and, ultimately, its resolution, influencing the fates of entire families and towns.</p>
+  <p> Family curses, demonic doppelgangers, lingering loss, and redemption--Gaskell's 1856 gothic ghost story presents a suspenseful tale with a feminist frame. The anchor to the story is Irish servant Bridget FitzGerald, whose power and fierce pain drives the story's conflict and, ultimately, its resolution, influencing the fates of entire families and towns.</p>
 ---
 
 ## CHAPTER I.
