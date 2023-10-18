@@ -15,7 +15,7 @@ theme:
 lang: en
 foreword: >-
   <p>Foreword: Ana María Carvajal, PhD. studies the works of Early Modern mystic
-  women, particularly those of Teresa of Ávila.</p>
+  women, particularly those of Teresa of Ávila.</p><br>
 
 
   <p>Cover: Catalina Vásquez - Colombian illustrator</p>
