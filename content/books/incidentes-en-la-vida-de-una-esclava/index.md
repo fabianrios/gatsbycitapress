@@ -29,14 +29,18 @@ square_image: thumbnail-incidents-es.jpg
 download_ebook: ""
 time_period:
   - 19th
-description: '"The first time I read <i>Incidents in the Life of a Slave
-  Girl</i> I was in an undergraduate women writers course at the University of
-  North Carolina Greensboro in 2004. My coming into consciousness as a Black
-  feminist had not yet revealed itself; however I knew that Jacobs’ story of
-  strength, perseverance, and courage would beckon me to pick it up again and
-  again throughout my life. Jacobs’ writerly voice, deeply multilayered, was
-  doing many things: championing the cause of the enslaved, actualizing her own
-  plight as a survivor, and redeeming herself as woman." -Dr. Christy Hyman'
+description: >-
+  <p><i>"The first time I read <i>Incidents in the Life of a Slave Girl</i> I
+  was in an undergraduate women writers course at the University of North
+  Carolina Greensboro in 2004. My coming into consciousness as a Black feminist
+  had not yet revealed itself; however I knew that Jacobs’ story of strength,
+  perseverance, and courage would beckon me to pick it up again and again
+  throughout my life. Jacobs’ writerly voice, deeply multilayered, was doing
+  many things: championing the cause of the enslaved, actualizing her own plight
+  as a survivor, and redeeming herself as woman." -Dr. Christy Hyman</i></p>
+
+
+  <p>Harriet Jacobs' 1861 autobiography is a landmark text for the U.S. abolitionist movement that continues to inspire and influence art, scholarship, and literature nearly two centuries after it was first published under the pseudonym Linda Brent. In Incidents, Jacobs directly calls on white Northern women to reject slavery. She uses the tools of popular genre fiction from the time to claim and redefine the model of the virtuous woman and mother, challenging racist ideas prevalent in the "Cult of True Womanhood." </p>
 ---
 ## Foreword
 
