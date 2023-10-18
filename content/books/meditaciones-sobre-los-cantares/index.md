@@ -4,7 +4,7 @@ publication: 2023-10-17T23:22:36.893Z
 release: 2023-10-17T23:22:36.904Z
 templateKey: book-page
 author: Santa Teresa de Jesús (Santa Teresa de Ávila)
-isbn: Coming soon
+isbn: 978-1-961368-03-3
 post_image: cantares-01.jpg
 square_image: cantares-01.jpg
 genre:
