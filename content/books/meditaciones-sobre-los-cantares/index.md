@@ -29,7 +29,7 @@ foreword: >-
   de la Edad Moderna, en particular las de Teresa de Ávila</p>
 
 
-  <p>Portada: Catalina Vázquez - Ilustradora colombiana.</p>
+  <p>Portada: Catalina Vásquez - artista y diseñadora de Medellín, Colombia</p>
 ---
 <div id="book-html-content">
 
