@@ -39,7 +39,7 @@ foreword: >-
 
   <p>Cover: Shuhua Xiong is an interdisciplinary artist from Shanghai, now based in Queens, New York.</p>
 ---
-## \    FOREWORD 
+## FOREWORD 
 
 
  <p> **By Victoria Namkung** </p>
@@ -64,14 +64,14 @@ foreword: >-
 <p>Eaton died of heart disease in 1914, just two years after her first and only book was published. By this time, she had reached a rarified position as an incredibly popular writer whose obituary appeared in newspapers throughout North America. Thanks to this new, open access collection (which builds on the work of feminist scholars like Chapman, Ling, Annette White-Parks, and many others), her work will continue to be useful, known, heard, and admired — in other words, immortal. 
  </p>
 
-##    <h2 id="Essays">
+## 
 PART I: ESSAYS
-  </h2>
+
 
 ### 
-  <p> Sui Sin Far, the Half Chinese Writer, Tells of Her Career </p>
+Sui Sin Far, the Half Chinese Writer, Tells of Her Career 
 
-####   <h3><b><i> The Interesting Author’s Book, “The Dream of a Lifetime,” Which Will Appear This Spring, Tells of Her Vocations (Boston Daily Globe, May 5, 1912)</b></i></h3>
+###### The Interesting Author’s Book, “The Dream of a Lifetime,” Which Will Appear This Spring, Tells of Her Vocations (Boston Daily Globe, May 5, 1912)
 
 <p>As the Globe thinks that my experience in life has been unusual, and that a personal sketch will be interesting to its readers, I will try my best to furnish one. Certainly my life has been quite unlike that of any literary worker of whom I have read. I have never met any to know—save editors.</p>
 
@@ -732,9 +732,7 @@ JADE SPRING FRAGRANCE</p>
 
 <p><i><small>From</i> Mrs. Spring Fragrance <i>(1912); originally published in</i> Hampton’s Magazine <i>v. 24 (1910).</i></small></p>
 
-```
-<h2 id="chapter7"> The Inferior Woman </h2>
-```
+### The Inferior Woman
 
   <h3>I</h3>
 
@@ -934,9 +932,7 @@ Mrs. Spring Fragrance looked up into her husband’s face in wonderment.</p>
 <p>“Ah, the Superior Woman! Radiantly beautiful, and gifted with the divine right of learning! I love well the Inferior Woman; but, O Great Man, when we have a daughter, may Heaven ordain that she walk in the groove of the Superior Woman.”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>Hampton’s<i> 24 (May 1910). See the alternate ending from the original publication in our downloable Cita Reader.</i></p></small>
 
-```
-<h2 id="chapter8"> In the Land of the Free </h2>
-```
+### In the Land of the Free
 
   <p><i>  Editor’s note: This story originally appeared in weekly New York magazine </i>The Independent<i>. It included this note from the author: “Our readers will recall the autobiography of Sui Sin Far in our issue of January 21, entitled ‘Leaves from the Mental Portfolio of an Eurasian.’  Tho the following article is cast in the form of fiction we are obliged to confess it is the fiction that is often less strange and cruel than the truth.—Eaton."</i></p>
 
@@ -1079,7 +1075,7 @@ But the Little One shrunk from her and tried to hide himself in the folds of the
 <p>“Go’way, go’way!” he bade his mother.</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>The Independent<i> 67 (1909).</i></small></p>
 
-<h2 id="chapter9"> The Americanizing of Pau Tsu </h2>
+### The Americanizing of Pau Tsu
 
 <h3>I</h3>
 <p>When Wan Hom Hing came to Seattle to start a branch of the merchant business which his firm carried on so successfully in the different ports of China, he brought with him his nephew, Wan Lin Fo, then eighteen years of age. Wan Lin Fo was a well-educated Chinese youth, with bright eyes and keen ears. In a few years’ time he knew as much about the business as did any of the senior partners. Moreover, he learned to speak and write the American language with such fluency that he was never at a loss for an answer, when the white man, as was sometimes the case, sought to pose him. “All work and no play,” however, is as much against the principles of a Chinese youth as it is against those of a young American, and now and again Lin Fo would while away an evening at the Chinese Literary Club, above the Chinese restaurant, discussing with some chosen companions the works and merits of Chinese sages—and some other things. New Year’s Day, or rather, Week, would also see him, business forgotten, arrayed in national costume of finest silk, and color “the blue of the sky after rain,” visiting with his friends, both Chinese and American, and scattering silver and gold coin amongst the youngsters of the families visited.</p>
@@ -1204,7 +1200,9 @@ He hesitated, embarrassed and humiliated.</p>
 <p>“Lord, what fools we mortals be!” she soliloquized as she walked home alone. “I ought to have known. What else could Pau Tsu have thought?—coming from a land where women have no men friends save their husbands. How she must have suffered under her smiles! Poor, brave little soul!”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912). A previous publication has not been identified as of August 2023.</i></small></p>
 
-<h2 id="chapter10"> The Chinese Lily </h2>
+### The Chinese Lily
+
+
 <p>Mermei lived in an upstairs room of a Chinatown dwelling-house. There were other little Chinese women living on the same floor, but Mermei never went amongst them. She was not as they were. She was a cripple. A fall had twisted her legs so that she moved around with difficulty and scarred her face so terribly that none save Lin John cared to look upon it. Lin John, her brother, was a laundryman, working for another of his countrymen. Lin John and Mermei had come to San Francisco with their parents when they were small children. Their mother had died the day she entered the foreign city, and the father the week following, both having contracted a fever on the steamer. Mermei and Lin John were then taken in charge by their father’s brother, and although he was a poor man he did his best for them until called away by death.</p>
 <p>Long before her Uncle died Mermei had met with the accident that had made her not as other girls; but that had only strengthened her brother’s affection, and old Lin Wan died happy in the knowledge that Lin John would ever put Mermei before himself.</p>
 <p>So Mermei lived in her little upstairs room, cared for by Lin John, and scarcely an evening passed that he did not call to see her. One evening, however, Lin John failed to appear, and Mermei began to feel very sad and lonely. Mermei could embroider all day in contented silence if she knew that in the evening someone would come to whom she could communicate all the thoughts that filled a small black head that knew nothing of life save what it saw from an upstairs window. Mermei’s window looked down upon the street, and she would sit for hours, pressed close against it, watching those who passed below and all that took place. That day she had seen many things which she had put into her mental portfolio for Lin John’s edification when evening should come. Two yellow-robed priests had passed below on their way to the joss house in the next street; a little bird with a white breast had fluttered against the window pane; a man carrying an image of a Gambling Cash Tiger had entered the house across the street; and six young girls of about her own age, dressed gaily as if to attend a wedding, had also passed over the same threshold.</p>
@@ -1235,7 +1233,7 @@ He hesitated, embarrassed and humiliated.</p>
 <p>“Nay,” said Lin John, “Sin Far is happy. And I—I did my duty with her approval, aye, at her bidding. How then, little sister, can I be sad?”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance <i>(1912); originally published in </i>Out West<i> 28 (1908).</i></p></small>
 
-<h2 id="chapter11"> The Three Souls of Ah So Nan </h2>
+### The Three Souls of Ah So Nan
 
 <h3>I</h3>
 <p>The sun was conquering the morning fog, dappling with gold the gray waters of San Francisco’s bay, and throwing an emerald radiance over the islands around.</p>
@@ -1322,7 +1320,7 @@ It was midnight when the mourning friends of the family of Fou Wang left the chi
 <p>“No more shall my longing for thee take the fragrance from the flowers and the light from the sun and moon.”</p>
 <p><i><small>From  </i>Mrs. Spring Fragrance<i> (1912); originally published as “The Three Souls of Ho Kiang: A Story of the Pacific Coast” in </i>Traveler <i>(1899).</i></p></small>
 
-<h2 id="chapter12"> "Its Wavering Image" </h2>
+### "Its Wavering Image"
 
   <h3>I</h3>
 <p>Pan was a half white, half Chinese girl. Her mother was dead, and Pan lived with her father who kept an Oriental Bazaar on Dupont Street. All her life had Pan lived in Chinatown, and if she were different in any sense from those around her, she gave little thought to it. It was only after the coming of Mark Carson that the mystery of her nature began to trouble her.</p>
@@ -1394,7 +1392,7 @@ So till evening fell. Then she stumbled up the dark stairs which led to the high
 
 <p><i><small>From </i>Mrs. Spring Fragrance <i>(1912). A previous publication has not been identified as of August 2023.</i></small></p>
 
-<h2 id="chapter13"> The Smuggling of Tie Co </h2>
+### The Smuggling of Tie Co
 
 <p><i>Editor’s note: This story was originally published in </i>Land of Sunshine <i> in July of 1900. At the time of initial publication, Eaton was still working out her pen name; this story was credited to “Sui Sin Fah.”</i></p>
 
@@ -1458,7 +1456,7 @@ So till evening fell. Then she stumbled up the dark stairs which led to the high
 <p>Fabian is now very busy; there are lots of boys taking his helping hand over the border, but none of them are like Tie Co; and sometimes, between whiles, Fabian finds himself pondering long and earnestly over the mystery of Tie Co’s life—and death.</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>Land of Sunshine <i>(July 1900).</i></small></p>
 
-<h2 id="chapter14"> Tian Shan's Kindred Spirit </h2>
+### Tian Shan's Kindred Spirit
 
 <p>Had Tian Shan been an American and China to him a forbidden country, his daring exploits and thrilling adventures would have furnished inspiration for many a newspaper and magazine article, novel, and short story. As a hero, he would certainly have far outshone Dewey, Peary, or Cook. Being, however, a Chinese, and the forbidden country America, he was simply recorded by the American press as “a wily Oriental, who, ‘by ways that are dark and tricks that are vain,’ is eluding the vigilance of our brave customs officers.” As to his experiences, the only one who took any particular interest in them was Fin Fan.</p>
 <p>Fin Fan was Tian Shan’s kindred spirit. She was the daughter of a Canadian Chinese storekeeper and the object of much concern to both Protestant Mission ladies and good Catholic sisters.</p>
@@ -1536,7 +1534,7 @@ Twelve moons had gone by since Tian Shan had begun to think of saving and once a
 
 <p><small><i>From</i> Mrs. Spring Fragrance<i> (1912). A previous publication has not been identified as of August 2023.</i></small></p>
 
-  <h2 id="chapter15"> Woo-Ma and I </h2>
+### Woo-Ma and I
 
  <h3> Introduction</h3>
 <p>Woo-Ma and I were the daughters of a Chinaman who had been brought up and educated in California, where, when he had attained to the age of twenty-four, he married my mother, then a pretty American girl of Irish and English descent. We were therefore Anglo-Chinese. We were not at all alike, either in appearance or character. I was small and chubby with scarcely any nose to speak of, black eyed, black haired, brown skinned and rosy cheeked. My eyes were pointed at the corners like Chinese eyes, and on the whole, I favored my father, only, of course, much prettier than he could ever be. When born, I was so small, so dark and so queer, that the nurse actually forgot to exclaim, as is the custom on such occasions."What a fine child!" Indeed, my mother, as soon as her eyes fell on me, cried,"Oh, nurse, what a homely little creature, take it away."And my mother's opinion was approved of and endorsed by all who beheld me, and even my father, who gave me perhaps my warmest welcome, could not refrain from mournfully prophesying,"It will never get a husband."</p>
@@ -1680,11 +1678,13 @@ Toward evening Jim Nesbit came in, followed by Father; so haggard, so old, so st
 <p>They buried Woo-Ma whilst I lay deliriously babbling of childhood's days — of pleasures which leave no sting. When I was able to sit up, they brought me a youth's suit of clothes and a peaked cap. They had been worn by my sister and I keep them in memory of her. How criss-cross the lines of life run!</p>
 <p><i><small>Originally published in</i> The Bohemian<i> (January 1906).</i></small></p>
 
-<h2 id="Children">
-"TALES OF CHINESE CHILDREN" </h2>
+## 
+"TALES OF CHINESE CHILDREN" 
+
+
 <p><i>Editor’s note: There is debate about whether Sui Sin Far’s “Tales of Chinese Children" were written for or about children (or both!). This selection contains just a few of these stories, in which she employed strategies and tropes of children's literature of the time to tackle complex themes and subvert adult expectations around identity. </i></p>
 
- <h2 id="chapter16"> The Heart's Desire</h2>
+### The Heart's Desire
 
 <p>She was dainty, slender, and of waxen pallor. Her eyes were long and drooping, her eyebrows finely arched. She had the tiniest Golden Lily feet and the glossiest black hair. Her name was Li Chung O’Yam, and she lived in a sad, beautiful old palace surrounded by a sad, beautiful old garden, situated on a charming island in the middle of a lake. This lake was spanned by marble bridges, entwined with green creepers, reaching to the mainland. No boats were ever seen on its waters, but the pink lotus lily floated thereon and swans of marvellous whiteness.</p>
 <p>Li Chung O’Yam wore priceless silks and radiant jewels. The rarest flowers bloomed for her alone. Her food and drink were of the finest flavors and served in the purest gold and silver plates and goblets. The sweetest music lulled her to sleep.</p>
@@ -1705,7 +1705,7 @@ Toward evening Jim Nesbit came in, followed by Father; so haggard, so old, so st
 <p>And forever after O’Yam and Ku Yum lived happily together in a glad, beautiful old palace, surrounded by a glad, beautiful old garden, on a charming little island in the middle of a lake.</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912). Originally appeared in </i>Good Housekeeping<i> (May 1908); also reprinted in </i>The Third Reader <i>(ed. Kate Louise Brown, 1911), </i>Chester Times<i> (November 4, 1910), </i>Columbus Daily Enquirer<i> (November 6, 1910),</i>i> Fort Wayne Journal Gazette <i>(November 6, 1910), and </i>Colorado Springs Gazette<i> (February 5, 1911). </i></small></p>
 
-  <h2 id="chapter17"> A Chinese Boy-Girl</h2> 
+###  A Chinese Boy-Girl
 
  <h3> I</h3>
 <p>The warmth was deep and all-pervading. The dust lay on the leaves of the palms and the other tropical plants that tried to flourish in the Plaza. The persons of mixed nationalities lounging on the benches within and without the square appeared to be even more listless and unambitious than usual. The Italians who ran the peanut and fruit stands at the corners were doing no business to speak of. The Chinese merchants’ stores in front of the Plaza looked as quiet and respectable and drowsy as such stores always do. Even the bowling alleys, billiard halls, and saloons seemed under the influence of the heat, and only a subdued clinking of glasses and roll of balls could be heard from behind the half-open doors. It was almost as hot as an August day in New York City, and that is unusually sultry for Southern California.</p>
@@ -1756,7 +1756,11 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 <p>“Goodbye, teacher,” said Ku Yum, smiling wistfully. “I never be good girl, but perhaps I be good boy.”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in</i> Century Magazine<i> (April 1904).</i></small></p>
 
-  <h2 id="chapter18"> What About the Cat?</h2> 
+
+
+### What About the Cat?
+
+
 <p>What about the cat?” asked the little princess of her eldest maid.
 “It is sitting on the sunny side of the garden wall, watching the butterflies. It meowed for three of the prettiest to fall into its mouth, and would you believe it, that is just what happened. A green, a blue, a pink shaded with gold, all went down pussy’s red throat.”</p>
 <p>The princess smiled. “What about the cat?” she questioned her second maid.</p>
@@ -1782,19 +1786,21 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 <p>She looked at her cat, thought of all it had done and been in the minds of her servants, and laughed like a princess again and again.</p>
 <p><small><i>From </i>Mrs. Spring Fragrance<i> (1912); originally published in</i> Good Housekeeping<i> 46.5 (March 1908); also reprinted in</i> Colorado Springs Gazette <i>(January 22 1911). </i></small></p>
 
-  <section id="Acknowledgements">
-    <h2> ACKNOWLEDGEMENTS </h2>
+## ACKNOWLEDGEMENTS
 
-```
-<i><p>This book is made possible by our fiscal sponsor, Educopia Institute, and the generous support of the Mellon Foundation. </p>
-```
+*This book is made possible by our fiscal sponsor, Educopia Institute, and the generous support of the Mellon Foundation.* 
 
-<p>Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (DDD) for their support in creating new digital formats for the Cita Press library. DDD provided EPUB and PDF conversion, OCR, and accessibility remediation. Visit DPLA’s Palace Bookshelf to find this volume and other Open Bookshelf books.</p>
-<p>This collection exists thanks to decades of work by scholars and writers dedicated to recovering, preserving, and bringing greater recognition to Sui Sin Far/Edith Eaton’s writing. We are especially indebted to Mary Chapman, Amy Ling, and Annette White-Parks, and highly recommend the collections they have edited to anyone who would like to read more of Eaton’s work. We also recommend Episode 15 of the Lost Ladies of Lit podcast, featuring foreword writer Victoria Namkung in conversation with Kim Askew and Amy Helmes Fowler, as a companion to this book. (Details on references in Bibliography.)</p>
-<p>Finally, we extend gratitude to Cita Press Advisory Board members (past and present) for their support and guidance: Janneke Adema, Vicky Checo, Katherine Maher, Jessica Meyerson, and Mindy Seu.</p></i>
+*Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (DDD) for their support in creating new digital formats for the Cita Press library. DDD provided EPUB and PDF conversion, OCR, and accessibility remediation. Visit DPLA’s Palace Bookshelf to find this volume and other Open Bookshelf books.*
 
- <section id="Text Sources">
-    <h2> TEXT SOURCES </h2>
+*Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (DDD) for their support in creating new digital formats for the Cita Press library. DDD provided EPUB and PDF conversion, OCR, and accessibility remediation. Visit DPLA’s Palace Bookshelf to find this volume and other Open Bookshelf books.*
+
+
+*This collection exists thanks to decades of work by scholars and writers dedicated to recovering, preserving, and bringing greater recognition to Sui Sin Far/Edith Eaton’s writing. We are especially indebted to Mary Chapman, Amy Ling, and Annette White-Parks, and highly recommend the collections they have edited to anyone who would like to read more of Eaton’s work. We also recommend Episode 15 of the Lost Ladies of Lit podcast, featuring foreword writer Victoria Namkung in conversation with Kim Askew and Amy Helmes Fowler, as a companion to this book. (Details on references in Bibliography.)*
+
+
+*Finally, we extend gratitude to Cita Press Advisory Board members (past and present) for their support and guidance: Janneke Adema, Vicky Checo, Katherine Maher, Jessica Meyerson, and Mindy Seu.*
+
+## TEXT SOURCES
 
    <p><i> Special thanks to Project Gutenberg and the Internet Archive for providing a treasure trove of material for researchers, readers, and publishers like us.</i></p>
 
@@ -1821,12 +1827,9 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 
 </ul>
 
-<section id="Bibliography">
-    <h2> BIBLIOGRAPHY </h2>
+## BIBLIOGRAPHY
 
-```
-<p><i>Resources that helped inform the selection of texts included in this volume:</i></p>
-```
+*Resources that helped inform the selection of texts included in this volume:*
 
 <p>Ammons, Elizabeth, James Doyle, Amy Ling, S.E. Solberg, and Annette White-Parks. “Critical Extracts, Sui Sin Far or Edith Maude Eaton.” In <i>American Women Fiction Writers, 1900-1960, Volume Three,</i> edited by Harold Bloom, 156-177. Philadelphia: Chelsea House Publishers, 1998. https://archive.org/details/americanwomenfic00bloo_2/page/n7/mode/2up  </p>
 <p>Chapman, Mary. “A ‘Revolution in Ink’: Sui Sin Far and Chinese Reform Discourse.” <i>American Quarterly</i> 60, no. 4 (2008): 975–1001. http://www.jstor.org/stable/40068558. </p>
