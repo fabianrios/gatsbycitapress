@@ -53,12 +53,7 @@ description: "'El tapiz amarillo' (1892) de Charlotte Perkins Gilman ocupa un
    <p>
 El feminismo teresiano es estrat&eacute;gico y de supervivencia. Teresa conoc&iacute;a bien los castigos que reservaba la Inquisici&oacute;n para las mujeres que intentaban fungir como autoridades espirituales. Por lo mismo, Teresa negocia su deseo de expresar una espiritualidad &iacute;ntima y muy personal mediante la elaboraci&oacute;n de una cuidadosa ret&oacute;rica de la humildad y la obediencia, que invitamos a los lectores a que desentra&ntilde;en del texto que presentamos. </p>
     <p>Catherine J. Golden, Profesora de inglés y de la Cátedra Tisch de Artes y Letras, Skidmore College. Traducción de Lina Rosas.</p>
-  </section>
-  <section id="book">
-    
-    <h2>
-     El tapiz amarillo
-    </h2>
+
    
 
 ![illustration of a woman reading in chair](illustration-of-woman-writing-in-chair.jpg "woman in chair")
@@ -130,16 +125,7 @@ El feminismo teresiano es estrat&eacute;gico y de supervivencia. Teresa conoc&ia
                 <p>
                  En algunas partes se convierte en un naranja paliducho y desagradable, y en otras coge un tono verdoso repelente. &iexcl;No me extra&ntilde;a que no les gustara a los ni&ntilde;os! Yo, si tuviera que vivir mucho tiempo en esta habitaci&oacute;n, tambi&eacute;n lo odiar&iacute;a. Viene John. Tengo que esconder esto. Le irrita que escriba. 
              </p>
-             <p> 
-                <center>
-                \*\**</p>   </center>
-
-</p>
-                                         <p> 
-                                    <center> \*\** </center>
-                                </p>
-
- <p> 
+          <p>
                                     <center> \*\** </center>
                                 </p>
                                     <p> En un dibujo de esta clase, a la luz del sol, hay una falta de secuencia, un desaf&iacute;o a las leyes, que produce irritaci&oacute;n constante en un cerebro normal.</p>
@@ -173,7 +159,7 @@ El dibujo principal es un arabesco recargado, que recuerda a un hongo. Hay que i
 
 Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarillas en toda mi ropa y en la de John, y que a ver si teníamos más cuidado. Qué inocente, ¿verdad? ¡Pues yo sé que está estudiando el dibujo, y estoy decidida a ser la única que descubra la solución!
 
-\*\**
+<p><center>\*\**</center></p>
 
 <p>Mi vida se ha vuelto mucho más interesante. Es porque tengo algo más que esperar, que vigilar. La verdad es que como mejor y estoy más tranquila que antes.</p>
 
@@ -183,7 +169,7 @@ Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarilla
 
 <p>Ahora no quiero irme hasta que haya descubierto la solución. Queda una semana, y creo que será suficiente.</p>
 
-\*\**
+<p><center>\*\**</center></p>
 
 <p>¡Me encuentro cada vez mejor! De noche no duermo mucho, por lo interesante que es observar los acontecimientos; de día, en cambio, duermo bastante.</p>
 
@@ -213,7 +199,7 @@ Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarilla
 
 <p>Hay una marca muy rara en la pared, por la parte de abajo, cerca del zócalo: una raya que recorre toda la habitación. Pasa por detrás de todos los muebles menos de la cama. Es una mancha larga, recta y uniforme, como de haber frotado algo muchas veces. Me gustaría saber cómo y quién la hizo, y para qué. Vueltas, vueltas y vueltas. Vueltas, vueltas y vueltas. ¡Me marea!</p>
 
-\*\**
+<p><center>\*\**</center></p>
 
 <p>Por fin he hecho un verdadero hallazgo. A fuerza de mirarlo cada noche, cuando cambia tanto, he acabado por descubrir la solución.</p>
 
@@ -227,7 +213,7 @@ Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarilla
 
 <p>Si estuvieran tapadas las cabezas, o arrancadas, no sería ni la mitad de desagradable.</p>
 
-\*\**
+<p><center>\*\**</center></p>
 
 <p>¡Me parece que la mujer sale de día!</p>
 
@@ -249,7 +235,7 @@ Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarilla
 
 <p>Alguna vez la he visto lejos, en campo abierto, arrastrándose con la misma rapidez que la sombra de una nube en un día de viento.</p>
 
-\*\**
+<p><center>\*\**</center></p>
 
 <p>¡Ojalá el dibujo principal pudiera separarse del de debajo!</p>
 
@@ -265,7 +251,7 @@ Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarilla
 
 <p>¡Como si no se le notara! De todos modos no me extraña nada su comportamiento, después de tres meses durmiendo debajo de este papel. Lo mío sólo es interés, pero estoy segura de que a John y a Jennie, en secreto, les afecta.</p>
 
-\*\**
+<p><center>\*\**</center></p>
 
 <p>¡Hurra! Es el último día, pero no me hace falta ninguno más. John se queda a dormir en la ciudad, y no volverá hasta tarde.</p>
 
@@ -291,6 +277,3 @@ Luego dijo que el papel lo manchaba todo, que había encontrado manchas amarilla
 ![illustration of a woman leaning over a fallen man with concern](yellowwallpaper3.jpg "woman leaning over man")
 
 \    </p>
-    </section>
-  </section>
-</div>
