@@ -1,28 +1,38 @@
 ---
-title: Incidents in the Life of a Slave Girl
 publication: 2023-05-01T22:12:03.284Z
 release: 2019-05-01T22:12:03.284Z
+templateKey: book-page
 author: Harriet Jacobs
+download: The_Old_Maid_v3.pdf
+language_link: incidentes-en-la-vida-de-una-esclava
+genre:
+  - autobiography
+  - nonfiction
+theme:
+  - race
+  - motherhood
+  - sex-romance
+lang: es
+foreword: "Cover:<a href='https://www.instagram.com/thatajacoponi/?hl=en'>Thaïs
+  Jacoponi</a>, Brazilian Designer and Art Director Foreword by historial
+  geographer, environmental advocate, and griefworker <a
+  href='https://spatialhumanorg.wordpress.com/about/'> Dr. Christy Hyman</a> "
+date: 2012-05-01T22:12:03.284Z
+title: Incidents in the Life of a Slave Girl
 isbn: "1231232131232112"
 post_image: cover-incidents-in-the-life-update.jpg
 square_image: thumbnail-incidents.jpg
-download: The_Old_Maid_v3.pdf
 download_ebook: The_Old_Maid_v3.epub
-language_link: incidentes-en-la-vida-de-una-esclava
-genre:
-  - short-stories
 time_period:
-  - modernist
-theme:
-  - first-person-narrator
-  - sex-romance
-lang: en
-description: >-
-  The first time I read Incidents in the Life of a Slave Girl I was in an undergraduate women writers course at the University of North Carolina Greensboro in 2004. My coming into consciousness as a Black feminist had not yet revealed itself; however I knew that Jacobs’ story of strength, perseverance, and courage would beckon me to pick it up again and again throughout my life. Jacobs’ writerly voice, deeply multilayered, was doing many things: championing the cause of the enslaved, actualizing her own plight as a survivor, and redeeming herself as woman. (Dr. Christy Hyman)
-foreword: >-
-  Cover:<a href='https://www.instagram.com/thatajacoponi/?hl=en'>Thaïs Jacoponi</a>, Brazilian Designer and Art Director Foreword by historial geographer, environmental advocate, and griefworker <a href='https://spatialhumanorg.wordpress.com/about/'> Dr. Christy Hyman</a> 
-date: 2012-05-01T22:12:03.284Z
-templateKey: book-page
+  - 19th
+description: "The first time I read Incidents in the Life of a Slave Girl I was
+  in an undergraduate women writers course at the University of North Carolina
+  Greensboro in 2004. My coming into consciousness as a Black feminist had not
+  yet revealed itself; however I knew that Jacobs’ story of strength,
+  perseverance, and courage would beckon me to pick it up again and again
+  throughout my life. Jacobs’ writerly voice, deeply multilayered, was doing
+  many things: championing the cause of the enslaved, actualizing her own plight
+  as a survivor, and redeeming herself as woman. (Dr. Christy Hyman)"
 ---
 ## Foreword
 
