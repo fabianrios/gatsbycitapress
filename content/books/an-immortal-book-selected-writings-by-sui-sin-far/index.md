@@ -5,8 +5,8 @@ release: 2023-10-23T14:44:26.257Z
 templateKey: book-page
 author: Sui Sin Far (Edith Maude Eaton)
 isbn: Placeholder
-post_image: cover-sui-sin-far.png
-square_image: square-inmortar.png
+post_image: cover-sui-sin-far.jpg
+square_image: thumbnail-sui-sin-far2.jpg
 download: citapress.org
 download_ebook: citapress.org
 language_link: citapress.org
@@ -71,7 +71,7 @@ PART I: ESSAYS
 ### 
 Sui Sin Far, the Half Chinese Writer, Tells of Her Career 
 
-###### The Interesting Author’s Book, “The Dream of a Lifetime,” Which Will Appear This Spring, Tells of Her Vocations (Boston Daily Globe, May 5, 1912)
+**The Interesting Author’s Book, “The Dream of a Lifetime,” Which Will Appear This Spring, Tells of Her Vocations *(Boston Daily Globe, May 5, 1912)***
 
 <p>As the Globe thinks that my experience in life has been unusual, and that a personal sketch will be interesting to its readers, I will try my best to furnish one. Certainly my life has been quite unlike that of any literary worker of whom I have read. I have never met any to know—save editors.</p>
 
@@ -1678,13 +1678,13 @@ Toward evening Jim Nesbit came in, followed by Father; so haggard, so old, so st
 <p>They buried Woo-Ma whilst I lay deliriously babbling of childhood's days — of pleasures which leave no sting. When I was able to sit up, they brought me a youth's suit of clothes and a peaked cap. They had been worn by my sister and I keep them in memory of her. How criss-cross the lines of life run!</p>
 <p><i><small>Originally published in</i> The Bohemian<i> (January 1906).</i></small></p>
 
-## 
+### 
 "TALES OF CHINESE CHILDREN" 
 
 
 <p><i>Editor’s note: There is debate about whether Sui Sin Far’s “Tales of Chinese Children" were written for or about children (or both!). This selection contains just a few of these stories, in which she employed strategies and tropes of children's literature of the time to tackle complex themes and subvert adult expectations around identity. </i></p>
 
-### The Heart's Desire
+#### The Heart's Desire
 
 <p>She was dainty, slender, and of waxen pallor. Her eyes were long and drooping, her eyebrows finely arched. She had the tiniest Golden Lily feet and the glossiest black hair. Her name was Li Chung O’Yam, and she lived in a sad, beautiful old palace surrounded by a sad, beautiful old garden, situated on a charming island in the middle of a lake. This lake was spanned by marble bridges, entwined with green creepers, reaching to the mainland. No boats were ever seen on its waters, but the pink lotus lily floated thereon and swans of marvellous whiteness.</p>
 <p>Li Chung O’Yam wore priceless silks and radiant jewels. The rarest flowers bloomed for her alone. Her food and drink were of the finest flavors and served in the purest gold and silver plates and goblets. The sweetest music lulled her to sleep.</p>
@@ -1705,7 +1705,7 @@ Toward evening Jim Nesbit came in, followed by Father; so haggard, so old, so st
 <p>And forever after O’Yam and Ku Yum lived happily together in a glad, beautiful old palace, surrounded by a glad, beautiful old garden, on a charming little island in the middle of a lake.</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912). Originally appeared in </i>Good Housekeeping<i> (May 1908); also reprinted in </i>The Third Reader <i>(ed. Kate Louise Brown, 1911), </i>Chester Times<i> (November 4, 1910), </i>Columbus Daily Enquirer<i> (November 6, 1910),</i>i> Fort Wayne Journal Gazette <i>(November 6, 1910), and </i>Colorado Springs Gazette<i> (February 5, 1911). </i></small></p>
 
-###  A Chinese Boy-Girl
+####  A Chinese Boy-Girl
 
  <h3> I</h3>
 <p>The warmth was deep and all-pervading. The dust lay on the leaves of the palms and the other tropical plants that tried to flourish in the Plaza. The persons of mixed nationalities lounging on the benches within and without the square appeared to be even more listless and unambitious than usual. The Italians who ran the peanut and fruit stands at the corners were doing no business to speak of. The Chinese merchants’ stores in front of the Plaza looked as quiet and respectable and drowsy as such stores always do. Even the bowling alleys, billiard halls, and saloons seemed under the influence of the heat, and only a subdued clinking of glasses and roll of balls could be heard from behind the half-open doors. It was almost as hot as an August day in New York City, and that is unusually sultry for Southern California.</p>
@@ -1758,7 +1758,7 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 
 
 
-### What About the Cat?
+#### What About the Cat?
 
 
 <p>What about the cat?” asked the little princess of her eldest maid.
