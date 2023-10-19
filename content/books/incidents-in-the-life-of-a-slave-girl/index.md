@@ -52,10 +52,10 @@ The first time I read <i>Incidents in the Life of a Slave Girl</i> I was in an u
 
 <i>Incidents </i> is a trenchant appraisal of enslaved people’s self-determination to survive as well as to resist slavery. Noted historian of African American Literature William L. Andrews has written that “the most popular and lasting African American literary contributions to the movement for freedom were the autobiographical narratives of enslavement.” Indeed Jacobs’ story serves as a rich firsthand source of the realities of plantation life while contributing to a literary genre that inflamed antislavery sentiment during the time of its publication. In a nation “divided politically and geographically by the institution of slavery,” Jacobs’ writings provided a unique rhetorical status as witness to slavery and abolition for interested audiences.  This new open access edition of <i>Incidents in the Life of a Slave Girl</i> emphasizes the need for interested readers to involve themselves in community engagement practices beyond the confines of the academy in order to amplify and recover enslaved people’s lives illuminated within these texts. It promotes expanded reading engagements in ways that enrich scholarly inquiry and cultural recovery. Engaging with her writing allows us to celebrate how, by telling the story of her life, Harriet Jacobs asserted victory over the institution of slavery while affirming her inherent humanity in a time hostile to the notion of enslaved personhood. <i>Dr. Christy Hyman is a historical geographer, environmental advocate, griefworker, and Assistant Professor of Human Geography in the Department of Geosciences at Mississippi State University. </i>
 
-### Incidents in the Life of a Slave Girl
+<h2>Incidents in the Life of a Slave Girl</h2>
 
-**Harriet Jacobs**
-**First published under the pseudonym Linda Brent**
+**Harriet Jacobs
+First published under the pseudonym Linda Brent**
 
 <i>"Northerners know nothing at all about Slavery. They think it is perpetual bondage only. They have no conception of the depth of <i>degradation</i> involved in that word, SLAVERY; if they had, they would never cease their efforts until so horrible a system was overthrown."</i>
 
@@ -69,7 +69,7 @@ Edited By L. Maria Child.
 
 Boston: Published For The Author.
 
-### 1861
+**1861**
 
 ## PREFACE BY THE AUTHOR
 
@@ -148,9 +148,9 @@ shall ever be sent back to suffer in that loathsome den of corruption and cruelt
 
 *L. Maria Child*
 
-## INCIDENTS   IN THE LIFE OF A SLAVE GIRL
+## INCIDENTS  IN THE LIFE OF A SLAVE GIRL
 
-### SEVEN YEARS CONCEALED.
+<h4>SEVEN YEARS CONCEALED.</h4>
 
 ## I. Childhood
 
