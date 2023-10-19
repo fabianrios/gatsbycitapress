@@ -1804,14 +1804,25 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 
    <p><i> Special thanks to Project Gutenberg and the Internet Archive for providing a treasure trove of material for researchers, readers, and publishers like us.</i></p>
 
-<ul>
-  <li>Far, Sui Sin (signed Edith Eaton). “A Trip in a Horse Car.” <i> The Dominion Illustrated</i> (Montreal and Toronto) 1, no. 15 (October 13, 1888). https://archive.org/details/dominion_llustrated_oct1888/page/n25/mode/2up </li>
-<li>Far, Sui Sin (signed Edith Eaton). “Misunderstood: The Story of a Young Man.” <i>The Dominion Illustrated </i>(Montreal and Toronto) 1, no. 20 (November 17, 1888). https://archive.org/details/DominionIllustratedNov1888/page/n41/mode/2up </li>
-<li>Far, Sui Sin. “Woo-Ma and I.” <i>The Bohemian</i> 10 (January 1906). https://babel.hathitrust.org/cgi/pt?id=nyp.33433081996914&view=1up&seq=80&q1=sui+sin+far </li>
-<li>Far, Sui Sin. “Leaves from the Mental Portfolio of an Eurasian.” <i>The Independent</i> (New York) 66, no. 3138 (January 21, 1909). https://archive.org/details/sim_independent_1909-01-21_66_3138/page/124/mode/2up </li>
-<li>Far, Sui Sin (signed “A Half Chinese”). “The Persecution and Oppression of Me.” <i>The Independent</i> 71, no. 3273 (August 24, 1911). https://archive.org/details/sim_independent_1911-08-24_71_3273/page/420/mode/2up </li>
-<li>Far, Sui Sin. “Sui Sin Far, the Half Chinese Writer, Tells of Her Career.” <i>Boston Daily Globe</i> (1872-1922); May 5, 1912; ProQuest Historical Newspapers: <i>The Boston Globe</i>. Access provided by the Boston Public Library.</li>
-<li>Far, Sui Sin (also signed “\[Edith Eaton]”). <i>Mrs. Spring Fragrance.</i> Chicago: A.C. McClurg & Co, May 1912; Project Gutenberg, August 16, 2020, https://www.gutenberg.org/files/62940/62940-h/62940-h.htm.<br>
+Far, Sui Sin (signed Edith Eaton). “A Trip in a Horse Car.” <i> The Dominion Illustrated</i> (Montreal and Toronto) 1, no. 15 (October 13, 1888). https://archive.org/details/dominion_llustrated_oct1888/page/n25/mode/2up 
+
+
+Far, Sui Sin (signed Edith Eaton). “Misunderstood: The Story of a Young Man.” <i>The Dominion Illustrated </i>(Montreal and Toronto) 1, no. 20 (November 17, 1888). https://archive.org/details/DominionIllustratedNov1888/page/n41/mode/2up </li>
+
+
+Far, Sui Sin. “Woo-Ma and I.” <i>The Bohemian</i> 10 (January 1906). https://babel.hathitrust.org/cgi/pt?id=nyp.33433081996914&view=1up&seq=80&q1=sui+sin+far 
+
+
+Far, Sui Sin. “Leaves from the Mental Portfolio of an Eurasian.” <i>The Independent</i> (New York) 66, no. 3138 (January 21, 1909). https://archive.org/details/sim_independent_1909-01-21_66_3138/page/124/mode/2up 
+
+
+Far, Sui Sin (signed “A Half Chinese”). “The Persecution and Oppression of Me.” <i>The Independent</i> 71, no. 3273 (August 24, 1911). https://archive.org/details/sim_independent_1911-08-24_71_3273/page/420/mode/2up 
+
+
+Far, Sui Sin. “Sui Sin Far, the Half Chinese Writer, Tells of Her Career.” <i>Boston Daily Globe</i> (1872-1922); May 5, 1912; ProQuest Historical Newspapers: <i>The Boston Globe</i>. Access provided by the Boston Public Library.
+
+
+Far, Sui Sin (also signed “\[Edith Eaton]”). <i>Mrs. Spring Fragrance.</i> Chicago: A.C. McClurg & Co, May 1912; Project Gutenberg, August 16, 2020, https://www.gutenberg.org/files/62940/62940-h/62940-h.htm.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Mrs. Spring Fragrance<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The Inferior Woman<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-In the Land of the Free<br>
@@ -1823,9 +1834,9 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Tian Shah’s Kindred Spirit <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The Heart’s Desire<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-A Chinese Boy-Girl<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-What About the Cat?<br></li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-What About the Cat?<br>
 
-</ul>
+
 
 ## BIBLIOGRAPHY
 
