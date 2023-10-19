@@ -1168,7 +1168,7 @@ Then speedily forgot.”</p>
 <h3>IV</h3>
 <p>A Chinese messenger-boy ran up the street, entered the store of Wan Hom Hing & Co. and asked for the junior partner. When Lin Fo came forward he handed him a dainty, flowered missive, neatly folded and addressed. The receiver opened it and read:</p>
 <p>DEAR AND HONORED HUSBAND,—Your unworthy Pau Tsu lacks the courage to face the ordeal before her. She has, therefore, left you and prays you to obtain a divorce, as is the custom in America, so that you may be happy with the Beautiful One, who is so much your Pau Tsu’s superior. This, she acknowledges, for she sees with your eyes, in which, like a star, the Beautiful One shineth. Else, why should you have your Pau Tsu follow in her footsteps? She has tried to obey your will and to be as an American woman; but now she is very weary, and the terror of what is before her has overcome.</p>
-<p style="margin-left: 1020px">Your stupid thorn,<br>
+<p style="margin-left: 600px">Your stupid thorn,<br>
 PAU TSU</p>
 <p>Mechanically Lin Fo folded the letter and thrust it within his breast pocket. A customer inquired of him the price of a lacquered tray. “I wish you good morning,” he replied, reaching for his hat. The customer and clerks gaped after him as he left the store.</p>
 <p>Out in the street, as fate would have it, he met Adah Raymond. He would have turned aside had she not spoken to him.</p>
