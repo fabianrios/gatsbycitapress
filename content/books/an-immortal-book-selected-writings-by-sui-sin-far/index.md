@@ -25,57 +25,24 @@ theme:
   - race
   - politics
 lang: en
-description: '"Cita Press’ An Immortal Book: Selected Writings by Sui Sin Far
-  brings together autobiographical essays and short stories from different
-  periods in Eaton’s career, showcasing her range as a storyteller, thinker, and
-  stylist. Revered for her contributions to Asian American and Asian Canadian
-  literature, Sui Sin Far is also a key figure in early women’s journalism,
-  literature, and feminism. A master at developing characters and rendering
-  place, she grappled with themes of identity, race, class, gender, sexuality,
-  and politics in ways that still resonate today."'
+description: '"Cita Press’ <i>An Immortal Book: Selected Writings by Sui Sin
+  Far</i> brings together autobiographical essays and short stories from
+  different periods in Eaton’s career, showcasing her range as a storyteller,
+  thinker, and stylist. Revered for her contributions to Asian American and
+  Asian Canadian literature, Sui Sin Far is also a key figure in early women’s
+  journalism, literature, and feminism. A master at developing characters and
+  rendering place, she grappled with themes of identity, race, class, gender,
+  sexuality, and politics in ways that still resonate today."'
 foreword: >-
   <p>Foreword: Victoria Namkung is a novelist, journalist, and speaker based in
   Los Angeles, CA.</p>
 
   <p>Cover: Shuhua Xiong is an interdisciplinary artist from Shanghai, now based in Queens, New York.</p>
 ---
-     <h1>An Immortal Book: Selected Writings by Sui Sin Far</h1>
-        <!-- Name of author-->
-    <h2>Sui Sin Far (Edith Maude Eaton)</h2>
-  </section>
-  <!-- Table of Content Starts Here-->
-  <OL TYPE=”I”><section id = "toc">
-  
-    <li><a href="#foreword">FOREWORD</a></li>
-     <!-- If book has chapters use the following example to link to chapters. Check that the type of tag corresponds to the one used by Project Gutemberg. If the book has no chapters, erase the following lines until the next ul tag-->
-      <li><a href="#Essays">ESSAYS</a></li>
-      <ul class="toc"><section id = "toc">
-      <li><a href="#chapter1">Sui Sin Far, the Half Chinese Writer, Tells of Her Career</a></li>
-      <li><a href="#chapter2">The Persecution and Oppression of Me</a></li>
-      <li><a href="#chapter3">Leaves from the Mental Portfolio of an Eurasian</a></li>
-      <li><a href="#chapter4">A Trip in a Horse Car</a></li></ul>
-      <li><a href="#Fiction">STORIES</a></li>
-      <ul><li><a href="#chapter5">Misunderstood, or the Story of a Young Man</a></li>
-      <li><a href="#chapter6">Mrs. Spring Fragrance</a></li>
-      <li><a href="#chapter7">The Inferior Woman</a></li>
-      <li><a href="#chapter8">In the Land of the Free</a></li>
-       <li><a href="#chapter9">The Americanizing of Pau Tsu</a></li>
-         <li><a href="#chapter10">The Chinese Lily</a></li>
-         <li><a href="#chapter11">The Three Souls of Ah So Nan</a></li>
-         <li><a href="#chapter12">"Its Wavering Image"</a></li>
-         <li><a href="#chapter13">The Smuggling of Tie Co</a></li>
-         <li><a href="#chapter14">Tian Shan's Kindred Spirit</a></li>
-         <li><a href="#chapter15">Woo-Ma and I</a></li></ul>
-      <li><a href="#Children">"TALES OF CHINESE CHILDREN"</a></li>
-      <ul><li><a href="#chapter16">The Heart's Desire</a></li>
-      <li><a href="#chapter17">A Chinese Boy-Girl</a></li>
-      <li><a href="#chapter18">What About the Cat?</a></li></ul>
-      <li><a href="#Acknowledgements">ACKNOWLEDGEMENTS</a></li><li>
-        <a href="#Text Sources">TEXT SOURCES</a></li>
-        <li><a href="#Bibliography">BIBLIOGRAPHY</a></li>
-</ol> <section id="foreword">
-    <h2> FOREWORD </h2>
-    <h3>By Victoria Namkung </h3>
+## \    FOREWORD 
+
+
+ <p> **By Victoria Namkung** </p>
     <p>
      <i>“All my ambition is to make myself useful, known, heard and admired by the wise and the brave.”</i> With these words, Edith Maude Eaton — better known by her pen name, Sui Sin Far — laid claim to her destiny. Though this statement is from an essay that was published anonymously, it captures the boldness and honesty with which one of the first North American writers of Chinese heritage pursued a prolific career that spanned genres and decades. Cita Press’ <i>An Immortal Book: Selected Writings by Sui Sin Far</i> brings together autobiographical essays and short stories from different periods in Eaton’s career, showcasing her range as a storyteller, thinker, and stylist.</p>
 <p>Revered for her contributions to Asian American and Asian Canadian literature, Sui Sin Far is also a key figure in early women’s journalism, literature, and feminism. A master at developing characters and rendering place, she grappled with themes of identity, race, class, gender, sexuality, and politics in ways that still resonate today. Eaton wrote with a voice that was distinctly vibrant and metropolitan, publishing journalism, poetry, travel writing, literary sketches, interviews, essays, and sensationalist fiction. According to Professor Mary Chapman, whose recent scholarship has more than tripled Eaton’s known output, over 260 works appeared in nearly sixty magazines and newspapers in the U.S., Canada, and Jamaica from 1888 to 1914. </p>
@@ -97,15 +64,14 @@ foreword: >-
 <p>Eaton died of heart disease in 1914, just two years after her first and only book was published. By this time, she had reached a rarified position as an incredibly popular writer whose obituary appeared in newspapers throughout North America. Thanks to this new, open access collection (which builds on the work of feminist scholars like Chapman, Ling, Annette White-Parks, and many others), her work will continue to be useful, known, heard, and admired — in other words, immortal. 
  </p>
 
-      </section>
- 
-   <h2 id="Essays">
+##    <h2 id="Essays">
 PART I: ESSAYS
   </h2>
-  <h2 id="chapter1"> Sui Sin Far, the Half Chinese Writer, Tells of Her Career </h2>
 
+### 
+  <p> Sui Sin Far, the Half Chinese Writer, Tells of Her Career </p>
 
-  <h3><b><i> The Interesting Author’s Book, “The Dream of a Lifetime,” Which Will Appear This Spring, Tells of Her Vocations (Boston Daily Globe, May 5, 1912)</b></i></h3>
+####   <h3><b><i> The Interesting Author’s Book, “The Dream of a Lifetime,” Which Will Appear This Spring, Tells of Her Vocations (Boston Daily Globe, May 5, 1912)</b></i></h3>
 
 <p>As the Globe thinks that my experience in life has been unusual, and that a personal sketch will be interesting to its readers, I will try my best to furnish one. Certainly my life has been quite unlike that of any literary worker of whom I have read. I have never met any to know—save editors.</p>
 
@@ -132,7 +98,7 @@ PART I: ESSAYS
 
 <p>When my parents found that family circumstances made it necessary to withdraw me from Mrs. Darling, my old friend’s mind seemed to become wrought with me, and she tried to persuade them to permit her to send me to a boarding school. My father, however, was an Englishmen, and the idea of having any of his children brought up on charity, hurt his pride.</p>
 
-<p>I, now in my 11th year, entered into two lives, one devoted entirely to family concerns; the other, a withdrawn life of thought and musing. This withdrawn life of thought probably took the place of ordinary education with me. I had six keys to it; one, a great capacity for feeling; another, the key of imagination; third, the key of physical pain; fourth the key of sympathy; fifth, the sense of being differentiated from the ordinary by the fact that I was an Erusian \[sic]; sixth, the impulse to create.</p>
+<p>I, now in my 11th year, entered into two lives, one devoted entirely to family concerns; the other, a withdrawn life of thought and musing. This withdrawn life of thought probably took the place of ordinary education with me. I had six keys to it; one, a great capacity for feeling; another, the key of imagination; third, the key of physical pain; fourth the key of sympathy; fifth, the sense of being differentiated from the ordinary by the fact that I was an Erusian \\[sic]; sixth, the impulse to create.</p>
 ….
 
 <p><b>Little Lace Girl.</b></p>
@@ -151,7 +117,7 @@ My 18th birthday saw me in the copying room of the Montreal Star, where for some
 
 <p><b>Became Stenographer.</b></p>
 
-<p>As [sic] last I took a position as stenographer in a lawyer’s office. I do not think a person of artistic temperament is fitted for mechanical work and it is impossible to make a success of it. Stenography, in particular, is torturing to one whose mind must create its own images. Unconsciously I was stultified by the work I had undertaken. But it had its advantage in this respect, that it brought me into contact and communion with men of judgment and mental ability. I know that I always took an interest in my employers and their interests, and therefore, if I did not merit, at least received their commendation.</p>
+<p>As \[sic] last I took a position as stenographer in a lawyer’s office. I do not think a person of artistic temperament is fitted for mechanical work and it is impossible to make a success of it. Stenography, in particular, is torturing to one whose mind must create its own images. Unconsciously I was stultified by the work I had undertaken. But it had its advantage in this respect, that it brought me into contact and communion with men of judgment and mental ability. I know that I always took an interest in my employers and their interests, and therefore, if I did not merit, at least received their commendation.</p>
 
 <p>I recall that the senior member of the firm, now Judge Archibald of Montreal, occasionally chatted with me about books and writers, read my little stories and verse as they appeared, and usually commented upon them with amused interest. I used to tell him that I was ambitious to write a book. I remember him saying that it would be necessary for me to acquire some experience of life and some knowledge of character before I began the work and I assuring him seriously that I intended to form all my characters upon the model of myself. “They will be very funny people then,” he answered with a wise smile.</p>
 
@@ -176,7 +142,7 @@ To eke out a living I started to canvas Chinatown for subscribers for the San Fr
 
 <p>But I suffered many disappointments and rejections, and the urgent need for money pressing upon me, I bethought me of Seattle. Perhaps there Fortune would smile a little kinder. This suggestion had come some months before Lyman E. Knapp, ex-Governor of Alaska, who had dropped into my office one day to get some deeds typewritten. Observing that I understood legal work, he advised me to try “the old Siwash town,” where, he added, he was sure I would do better than in San Francisco.</p>
 
-<p>To Seattle I sailed, and the blithe greenness of the shores of Puget Sound seemed to give me the blithest of welcomes. I was in my 29th year, and my sole fortune was $8. Before 5 o’clock of the first day here I had arranged for \[a] desk room in a lawyer’s office and secured promise of patronage from several attorneys, a loan and mortgage company and a lumber and shingle merchant. I remember that evening I wrote my mother a letter, telling her that I had struck gold, silver, oil, copper, and everything else that luck could strike, in proof of which I grandiloquently shoved into her envelope a part of my remaining wealth.</p>
+<p>To Seattle I sailed, and the blithe greenness of the shores of Puget Sound seemed to give me the blithest of welcomes. I was in my 29th year, and my sole fortune was $8. Before 5 o’clock of the first day here I had arranged for \\[a] desk room in a lawyer’s office and secured promise of patronage from several attorneys, a loan and mortgage company and a lumber and shingle merchant. I remember that evening I wrote my mother a letter, telling her that I had struck gold, silver, oil, copper, and everything else that luck could strike, in proof of which I grandiloquently shoved into her envelope a part of my remaining wealth.</p>
 
 <p>As always on account of my inaccuracy as a stenographer and my inability to typewrite continuously, my earning capacity was small; but I managed to hold up my head, and worked intermittently and happily at my Chinese stories.</p>
 …
@@ -204,9 +170,7 @@ To eke out a living I started to canvas Chinatown for subscribers for the San Fr
 <p>To accomplish this work, or to enable me to have the leisure in which to accomplish it, I was obliged to obtain some financial assistance, for one cannot live upon air and water alone, even if one is half-Chinese. Two of my lawyer friends in Montreal kindly contributed toward this end. I hope soon to be in a position to repay them.</p>
 <p>My people in Montreal, my mother in particular, my Chinese friends in Boston and also American friends are looking forward to the advent of “Mrs Spring Fragrance” with, I believe, some enthusiasm. I am myself quite excited over the prospect. Would not any one be who had worked as hard as I have—and waited as long as I have—for a book?</p>
 
-
-
-<h2 id="chapter2"> The Persecution and Oppression of Me </h2>
+###  The Persecution and Oppression of Me 
 
 <p><i>Editor’s note and content warning: This essay was originally published anonymously under the byline “By a Half Chinese.” It  contains slurs and racist rhetoric against Black and Chinese people (recounting racism the author encountered in her life). </i></p>
 
@@ -315,8 +279,7 @@ As bloodless as thy China’s oldness.”</p>
 
 <i><p><small>Originally published in </i>The Independent <i>(August 24, 1911)</i></p></small>
 
-
-<h2 id="chapter3"> Leaves from the Mental Portfolio of an Eurasian</h2>
+###  Leaves from the Mental Portfolio of an Eurasian
 
 <p><i>Editor’s note  and content warning: This essay contains slurs used against Black and Chinese people (recounting racism the author encountered in her life). </i></p>
 
@@ -371,7 +334,7 @@ See the foe is nigh.”</p>
 <p>“You ought not to. It isn’t right.”</p>
 <p>“Not right to walk with one of my mother’s people? Oh, indeed!”</p>
 <p>I cannot reconcile his notion of righteousness with my own.</p>
-<p>***</p>
+<p>\*\**</p>
 <p>I am living in a little town away off on the north shore of a big lake. Next to me at the dinner table is the man for whom I work as a stenographer. There are also a couple of business men, a young girl and her mother.</p>
 <p>Some one makes a remark about the cars full of Chinamen that past that morning. A transcontinental railway runs thru the town.</p>
 <p>My employer shakes his rugged head. “Somehow or other,” says he, “I cannot reconcile myself to the thought that the Chinese are humans like ourselves. They may have immortal souls, but their faces seem to be so utterly devoid of expression that I cannot help but doubt.”</p>
@@ -387,7 +350,7 @@ See the foe is nigh.”</p>
 <p>There is silence in the room for a few minutes. Then Mr. K. pushes back his plate and standing up beside me, says:</p>
 <p>“I should have not spoken as I did. I know nothing whatever about the Chinese. It was pure prejudice. Forgive me!”</p>
 <p>I admire Mr. K.’s moral courage in apologizing to me; he is a conscientious Christian man, but I do not remain much longer in the little town.</p>
-<p>***</p>
+<p>\*\**</p>
 <p>I am under a tropic sky, meeting frequently and conversing with persons who are almost as high up in the world as birth, education, and money can set them. The environment is peculiar, for I am also surrounded by a race of people, the reputed descendants of Ham, the son of Noah, whose offspring, it was prophesied, should be the servants of the songs of Shem and Japheth. As I am a descendant, according to the Bible, of both Shem and Japeth, I have a perfect right to set my heel upon the Ham people; but tho I see others around me following out the Bible suggestion, it is not in my nature to be arrogant to any but those who seek to impress me with their superiority, which the poor black maid who has been assigned to me by the hotel certainly does not. My employer’s wife takes me to task for this. “It is unnecessary,” she says, “to thank a black person for service.”</p>
 <p>The novelty of life in the West Indian island is not without its charm. The surroundings, people, manner of living, are so entirely different from what I have been accustomed to up North that I feel as if I were “born again”. Mixing with people of fashion, and yet not of them, I am not of sufficient importance to create comment or curiosity. I am busy nearly all day and often well into the night. It is not monotonous work, but it is certainly strenuous. The planters and business men of the island take me as a matter of course and treat me with kindly courtesy. Occasionally an Englishman will warn me against the “brown boys” of the island, little dreaming that I too am of the “brown people” of the earth.</p>
 <p>When it begins to be whispered about the place that I am not all white, some of the “sporty” people seek my acquaintance. I am small and look much younger than my years. When, however, they discover that I am a very serious and sober-minded spinster indeed, they retire quite gracefully, leaving me a few amusing reflections.</p>
@@ -398,7 +361,7 @@ See the foe is nigh.”</p>
 <p>“Oh, you don’t really mean that,” he answers, with another silly and offensive laugh. “There’s always plenty of time for good times. That’s what I am here for. I saw you at the races the other day and twice at King’s House. My ship will be here for——weeks.”</p>
 <p>“Do you wish that noted?” I ask.</p>
 <p>“Oh, no! Why—I came just because I had an idea that you might like to know me. I would like to know you. You look such a nice little body. Say, wouldn’t you like to go for a sail this lovely night? I will tell you all about the sweet little Chinese girls I met when we were at Hong Kong. They’re not so shy!”</p>
-<p>***</p>
+<p>\*\**</p>
 <p>I leave Eastern Canada for the Far West, so reduced by another attack of rheumatic fever that I only weigh eighty-four pounds. I travel on an advertising contract. It is presumed by the railway company that in some way or other I will give them full value for their transportation across the continent. I have been ordered beyond the Rockies by the doctor, who declares that I will never regain my strength in the East. Nevertheless, I am but two days in San Francisco when I start out in search of work. It is the first time that I have sought work as a stranger in a strange town. Both of the other positions away from home were secured for me by home influence. I am quite surprised to find that there is no demand for my services in San Francisco and that no one is particularly interested in me. The best I can do is accept an offer from a railway agency to typewrite their correspondence for $5 a month. I stipulate, however, that I shall have the privilege of taking in outside work and that my hours shall be light. I am hopeful that the sale of a story or newspaper article may add to my income, and I console myself with the reflection that, considering that I still limp and bear traces of sickness, I am fortunate to secure any work at all.</p>
 <p>The proprietor or one of the San Francisco papers, to whom I have a letter of introduction, suggests that I obtain some subscriptions from the people of China town, that district of the city having never been canvassed. This suggestion I carry out with enthusiasm, tho I find that the Chinese merchants and people generally are inclined to regard me with suspicion. They have been imposed upon so many times by unscrupulous white people. Another drawback—save for a few phrases, I am unacquainted with my mother tongue. How, then, can I expect these people to accept me as their own countrywoman? The Americanized Chinamen actually laugh in my face when I tell them that I am of their race. However, they are not all “doubting Thomases.” Some little women discover that I have Chinese hair, color of eyes and complexion, also that I love rice and tea. This settles the matter for them—and for their husbands.</p>
 <p>I meet a half Chinese, half white girl. Her face is plastered with a thick white coat of paint and her eyelids and eyebrows are blackened so that the shape of her eyes and the whole expression of her face is changed. She was born in the East, and at the age of eighteen came West to answer an advertisement. Living for many years among the working class, she had heard little but abuse of the Chinese. It is not difficult, in a land like California, for a half Chinese, half white girl to pass as one of Spanish or Mexican origin. This poor child does, tho she lives in nervous dread of being “discovered.” She becomes engaged to a young man, but fears to tell him what she is, and only does so when compelled by a fearless American girl friend. This girl, who knows her origin, realizing that the truth sooner or later must be told, and better soon than late, advises the Eurasian to confide in the young man, assuring her that he loves her well enough to not allow her nationality to stand, a bar sinister, between them. But the Eurasian prefers to keep her secret, and only reveals it to the man who is to be her husband when driven to bay by the American girl, who declares that if the halfbreed will not tell the truth, she will. When the young man hears that the girl he is engaged to has Chinese blood in her veins, he exclaims: “Oh, what will my folks say?” But that is all. Love is stronger than prejudice with him, and neither he nor she deems it necessary to inform his “folks.”</p>
@@ -427,9 +390,7 @@ That evening, the “ungrateful” Chinese Eurasian diaried, among other things,
 <p>After all I have no nationality and am not anxious to claim any. Individuality is more than nationality. “You are you and I am I,” says Confucius. I give my right hand to the Occidentals and my left to the Orientals, hoping that between them they will not utterly destroy the insignificant “connecting link.” And that’s all.</p>
 <p><i><small>Originally published in </i>The Independent<i> (New York), January 21, 1909.</i></p></small>
 
-
-
-<h2 id="chapter4"> A Trip in a Horse Car</h2>
+###  A Trip in a Horse Car
 
 <p><i>Editor's note: This is one of Eaton’s first publications–an example of a form she refers to as her “sketches.” It’s not quite fiction, and as it reads like a bridge between her journalism, her memoiristic essays, and her observational short stories, it feels like a fitting transition from the essays to the stories in this volume. </i></p>
 
@@ -471,12 +432,12 @@ Why is it that men dream and dream<br>
 
 <p><i><small>Originally published in </i>Dominion Illustrated<i> (October 1888).</i></p></small>
 
-
-
-<h1 id="Stories">
+## 
 Part II: STORIES
-  </h1>
-  <h2 id="chapter5"> Misunderstood, or the Story of a Young Man </h2>
+
+
+### 
+Misunderstood, or the Story of a Young Man 
 
  <p><i>Editor’s note: This early story, which was not published under a pen name,  is notable for its reliance on the same Tennyson lines that propel the action in “Mrs. Spring Fragrance” (the next story in this collection) – in a much different, but strangely complementary, application.</i></p>
 
@@ -520,8 +481,7 @@ Than never to have loved at all.</p>
 <p><b>Montreal. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       EDITH EATON</b></p>
 <p><i><small>Originally published in </i>Dominion Illustrated<i>, November 1888.</i></small></p>
 
-
-  <h2 id="chapter6"> Mrs. Spring Fragrance </h2>
+###    Mrs. Spring Fragrance 
 
 <h3>I</h3>
 <p>When Mrs. Spring Fragrance first arrived in Seattle, she was unacquainted with even one word of the American language. Five years later her husband, speaking of her, said: “There are no more American words for her learning.” And everyone who knew Mrs. Spring Fragrance agreed with Mr. Spring Fragrance.</p>
@@ -595,14 +555,14 @@ JADE SPRING FRAGRANCE</p>
 
 <p>To Mr. Spring Fragrance, Mrs. Spring Fragrance also indited a letter:</p>
 
-<p>GREAT AND HONORED MAN&mdash;, Greeting from your plum blossom,<a href="#section1">[1]</a> who is desirous of hiding herself from the sun of your presence for a week of seven days more. My honorable cousin is preparing for the Fifth Moon Festival, and wishes me to compound for the occasion some American “fudge,” for which delectable sweet, made by my clumsy hands, you have sometimes shown a slight prejudice. I am enjoying a most agreeable visit, and American friends, as also our own, strive benevolently for the accomplishment of my pleasure. Mrs. Samuel Smith, an American lady, known to my cousin, asked for my accompaniment to a magniloquent lecture the other evening. The subject was “America, the Protector of China!” It was most exhilarating, and the effect of so much expression of benevolence leads me to beg of you to forget to remember that the barber charges you one dollar for a shave while he humbly submits to the American man a bill of fifteen cents. And murmur no more because your honored elder brother, on a visit to this country, is detained under the roof-tree of this great Government instead of under your own humble roof. Console him with the reflection that he is protected under the wing of the Eagle, the Emblem of Liberty. What is the loss of ten hundred years or ten thousand times ten dollars compared with the happiness of knowing oneself so securely sheltered? All of this I have learned from Mrs. Samuel Smith, who is as brilliant and great of mind as one of your own superior sex.</p>
+<p>GREAT AND HONORED MAN&mdash;, Greeting from your plum blossom,<a href="#section1">\[1]</a> who is desirous of hiding herself from the sun of your presence for a week of seven days more. My honorable cousin is preparing for the Fifth Moon Festival, and wishes me to compound for the occasion some American “fudge,” for which delectable sweet, made by my clumsy hands, you have sometimes shown a slight prejudice. I am enjoying a most agreeable visit, and American friends, as also our own, strive benevolently for the accomplishment of my pleasure. Mrs. Samuel Smith, an American lady, known to my cousin, asked for my accompaniment to a magniloquent lecture the other evening. The subject was “America, the Protector of China!” It was most exhilarating, and the effect of so much expression of benevolence leads me to beg of you to forget to remember that the barber charges you one dollar for a shave while he humbly submits to the American man a bill of fifteen cents. And murmur no more because your honored elder brother, on a visit to this country, is detained under the roof-tree of this great Government instead of under your own humble roof. Console him with the reflection that he is protected under the wing of the Eagle, the Emblem of Liberty. What is the loss of ten hundred years or ten thousand times ten dollars compared with the happiness of knowing oneself so securely sheltered? All of this I have learned from Mrs. Samuel Smith, who is as brilliant and great of mind as one of your own superior sex.</p>
 <p>For me it is sufficient to know that the Golden Gate Park is most enchanting, and the seals on the rock at the Cliff House extremely entertaining and amiable. There is much feasting and merry-making under the lanterns in honor of your Stupid Thorn.</p>
 <p>I have purchased for your smoking a pipe with an amber mouth. It is said to be very sweet to the lips and to emit a cloud of smoke fit for the gods to inhale.</p>
 <p>Awaiting, by the wonderful wire of the telegram message, your gracious permission to remain for the celebration of the Fifth Moon Festival and the making of American “fudge,” I continue for ten thousand times ten thousand years,</p>
 <p style="margin-left: 1020px"> Your ever loving and obedient woman,<br>  JADE </p>
 <p> P.S. Forget not to care for the cat, the birds, and the flowers. Do not eat too quickly nor fan too vigorously now that the weather is warming.</p>
 
-<p id="section1"><small>[1] The plum blossom is the Chinese flower of virtue. It has been adopted by the Japanese, just in the same way as they have adopted the Chinese national flower, the chrysanthemum.</p></small>
+<p id="section1"><small>\[1] The plum blossom is the Chinese flower of virtue. It has been adopted by the Japanese, just in the same way as they have adopted the Chinese national flower, the chrysanthemum.</p></small>
 
 <p>Mrs. Spring Fragrance smiled as she folded this last epistle. Even if he were old-fashioned, there was never a husband so good and kind as hers. Only on one occasion since their marriage had he slighted her wishes. That was when, on the last anniversary of their wedding, she had signified a desire for a certain jadestone pendant, and he had failed to satisfy that desire.</p>
 
@@ -772,9 +732,9 @@ JADE SPRING FRAGRANCE</p>
 
 <p><i><small>From</i> Mrs. Spring Fragrance <i>(1912); originally published in</i> Hampton’s Magazine <i>v. 24 (1910).</i></small></p>
 
-
-
-    <h2 id="chapter7"> The Inferior Woman </h2>
+```
+<h2 id="chapter7"> The Inferior Woman </h2>
+```
 
   <h3>I</h3>
 
@@ -974,9 +934,9 @@ Mrs. Spring Fragrance looked up into her husband’s face in wonderment.</p>
 <p>“Ah, the Superior Woman! Radiantly beautiful, and gifted with the divine right of learning! I love well the Inferior Woman; but, O Great Man, when we have a daughter, may Heaven ordain that she walk in the groove of the Superior Woman.”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>Hampton’s<i> 24 (May 1910). See the alternate ending from the original publication in our downloable Cita Reader.</i></p></small>
 
-
-
-    <h2 id="chapter8"> In the Land of the Free </h2>
+```
+<h2 id="chapter8"> In the Land of the Free </h2>
+```
 
   <p><i>  Editor’s note: This story originally appeared in weekly New York magazine </i>The Independent<i>. It included this note from the author: “Our readers will recall the autobiography of Sui Sin Far in our issue of January 21, entitled ‘Leaves from the Mental Portfolio of an Eurasian.’  Tho the following article is cast in the form of fiction we are obliged to confess it is the fiction that is often less strange and cruel than the truth.—Eaton."</i></p>
 
@@ -1119,8 +1079,6 @@ But the Little One shrunk from her and tried to hide himself in the folds of the
 <p>“Go’way, go’way!” he bade his mother.</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>The Independent<i> 67 (1909).</i></small></p>
 
-
-
 <h2 id="chapter9"> The Americanizing of Pau Tsu </h2>
 
 <h3>I</h3>
@@ -1246,8 +1204,6 @@ He hesitated, embarrassed and humiliated.</p>
 <p>“Lord, what fools we mortals be!” she soliloquized as she walked home alone. “I ought to have known. What else could Pau Tsu have thought?—coming from a land where women have no men friends save their husbands. How she must have suffered under her smiles! Poor, brave little soul!”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912). A previous publication has not been identified as of August 2023.</i></small></p>
 
-
-
 <h2 id="chapter10"> The Chinese Lily </h2>
 <p>Mermei lived in an upstairs room of a Chinatown dwelling-house. There were other little Chinese women living on the same floor, but Mermei never went amongst them. She was not as they were. She was a cripple. A fall had twisted her legs so that she moved around with difficulty and scarred her face so terribly that none save Lin John cared to look upon it. Lin John, her brother, was a laundryman, working for another of his countrymen. Lin John and Mermei had come to San Francisco with their parents when they were small children. Their mother had died the day she entered the foreign city, and the father the week following, both having contracted a fever on the steamer. Mermei and Lin John were then taken in charge by their father’s brother, and although he was a poor man he did his best for them until called away by death.</p>
 <p>Long before her Uncle died Mermei had met with the accident that had made her not as other girls; but that had only strengthened her brother’s affection, and old Lin Wan died happy in the knowledge that Lin John would ever put Mermei before himself.</p>
@@ -1278,7 +1234,6 @@ He hesitated, embarrassed and humiliated.</p>
 <p>“Alas!” wept Mermei. “That I should live to make others sad!”</p>
 <p>“Nay,” said Lin John, “Sin Far is happy. And I—I did my duty with her approval, aye, at her bidding. How then, little sister, can I be sad?”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance <i>(1912); originally published in </i>Out West<i> 28 (1908).</i></p></small>
-
 
 <h2 id="chapter11"> The Three Souls of Ah So Nan </h2>
 
@@ -1367,8 +1322,6 @@ It was midnight when the mourning friends of the family of Fou Wang left the chi
 <p>“No more shall my longing for thee take the fragrance from the flowers and the light from the sun and moon.”</p>
 <p><i><small>From  </i>Mrs. Spring Fragrance<i> (1912); originally published as “The Three Souls of Ho Kiang: A Story of the Pacific Coast” in </i>Traveler <i>(1899).</i></p></small>
 
-
-
 <h2 id="chapter12"> "Its Wavering Image" </h2>
 
   <h3>I</h3>
@@ -1408,7 +1361,6 @@ And its shadows shall appear,<br>
 As the symbol of love in heaven,<br>
 And its wavering image here.”</p>
 
-
 <p>Listening to that irresistible voice singing her heart away, the girl broke down and wept. She was so young and so happy.</p>
 <p>“Look up at me,” bade Mark Carson. “Oh, Pan! Pan! Those tears prove that you are white.”</p>
 <p>Pan lifted her wet face.</p>
@@ -1441,8 +1393,6 @@ So till evening fell. Then she stumbled up the dark stairs which led to the high
 <p>And Pan, being a Chinese woman, was comforted.</p>
 
 <p><i><small>From </i>Mrs. Spring Fragrance <i>(1912). A previous publication has not been identified as of August 2023.</i></small></p>
-
-
 
 <h2 id="chapter13"> The Smuggling of Tie Co </h2>
 
@@ -1507,8 +1457,6 @@ So till evening fell. Then she stumbled up the dark stairs which led to the high
 <p>Fabian was released in less than a week. “No evidence against him,” said the Commissioner, who was not aware that the prisoner was the man who had broken out of jail but a month before.</p>
 <p>Fabian is now very busy; there are lots of boys taking his helping hand over the border, but none of them are like Tie Co; and sometimes, between whiles, Fabian finds himself pondering long and earnestly over the mystery of Tie Co’s life—and death.</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in </i>Land of Sunshine <i>(July 1900).</i></small></p>
-
-
 
 <h2 id="chapter14"> Tian Shan's Kindred Spirit </h2>
 
@@ -1587,8 +1535,6 @@ Twelve moons had gone by since Tian Shan had begun to think of saving and once a
 <p>“Aye,” said he. “’Tis Fin Fan!”</p>
 
 <p><small><i>From</i> Mrs. Spring Fragrance<i> (1912). A previous publication has not been identified as of August 2023.</i></small></p>
-
-
 
   <h2 id="chapter15"> Woo-Ma and I </h2>
 
@@ -1714,7 +1660,7 @@ I had not known until then how cruel I could be. </p>
 <p>I followed him into the hall and closed the room door behind us before I said:</p>
 <p>"And will she come home to us? Father wants her more than ever. She promised to come some day; and why not now?"</p>
 <p>Jim's brow clouded and he sighed heavily.</p>
-<p>"A-Toy, "said he, "Woo-Ma is with the smugglers of Chinamen. She has taken to that reckless adventurous life because she says [it] helps her to forget and she believes she would go mad were she obliged to live quietly at home. Dressed as a youth, with a peaked cap pulled over her pretty brown hair which she has cut short, she takes many a boy over the border."</p>
+<p>"A-Toy, "said he, "Woo-Ma is with the smugglers of Chinamen. She has taken to that reckless adventurous life because she says \[it] helps her to forget and she believes she would go mad were she obliged to live quietly at home. Dressed as a youth, with a peaked cap pulled over her pretty brown hair which she has cut short, she takes many a boy over the border."</p>
 <p>I covered my face with my hands. "Oh, Woo-Ma, Woo-Ma!" I moaned.</p>
 <p>That night there was little rest for me; but about three o'clock in the morning I fell asleep and dreamed. This was my dream: A dark, starless sky, a road unlevelled and desolate, a lumbering van, from under the rough covering of which peered the faces of three men with Mongolian features. Two men, in the uniform of custom house officers, riding at full speed after the van.</p>
 <p>My dream changed; the van, the custom house officers had disappeared. I saw but a youth; he was alone and dying. Turning a face that I knew to the sky, he cried:</p>
@@ -1734,11 +1680,8 @@ Toward evening Jim Nesbit came in, followed by Father; so haggard, so old, so st
 <p>They buried Woo-Ma whilst I lay deliriously babbling of childhood's days — of pleasures which leave no sting. When I was able to sit up, they brought me a youth's suit of clothes and a peaked cap. They had been worn by my sister and I keep them in memory of her. How criss-cross the lines of life run!</p>
 <p><i><small>Originally published in</i> The Bohemian<i> (January 1906).</i></small></p>
 
-
-
-
-<h1 id="Children">
-Part III: "TALES OF CHINESE CHILDREN" </h1>
+<h2 id="Children">
+"TALES OF CHINESE CHILDREN" </h2>
 <p><i>Editor’s note: There is debate about whether Sui Sin Far’s “Tales of Chinese Children" were written for or about children (or both!). This selection contains just a few of these stories, in which she employed strategies and tropes of children's literature of the time to tackle complex themes and subvert adult expectations around identity. </i></p>
 
  <h2 id="chapter16"> The Heart's Desire</h2>
@@ -1761,8 +1704,6 @@ Part III: "TALES OF CHINESE CHILDREN" </h1>
 “Behold, I have found my heart’s desire—a little sister.”</p>
 <p>And forever after O’Yam and Ku Yum lived happily together in a glad, beautiful old palace, surrounded by a glad, beautiful old garden, on a charming little island in the middle of a lake.</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912). Originally appeared in </i>Good Housekeeping<i> (May 1908); also reprinted in </i>The Third Reader <i>(ed. Kate Louise Brown, 1911), </i>Chester Times<i> (November 4, 1910), </i>Columbus Daily Enquirer<i> (November 6, 1910),</i>i> Fort Wayne Journal Gazette <i>(November 6, 1910), and </i>Colorado Springs Gazette<i> (February 5, 1911). </i></small></p>
-
-
 
   <h2 id="chapter17"> A Chinese Boy-Girl</h2> 
 
@@ -1815,8 +1756,6 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 <p>“Goodbye, teacher,” said Ku Yum, smiling wistfully. “I never be good girl, but perhaps I be good boy.”</p>
 <p><i><small>From </i>Mrs. Spring Fragrance<i> (1912); originally published in</i> Century Magazine<i> (April 1904).</i></small></p>
 
-
-
   <h2 id="chapter18"> What About the Cat?</h2> 
 <p>What about the cat?” asked the little princess of her eldest maid.
 “It is sitting on the sunny side of the garden wall, watching the butterflies. It meowed for three of the prettiest to fall into its mouth, and would you believe it, that is just what happened. A green, a blue, a pink shaded with gold, all went down pussy’s red throat.”</p>
@@ -1843,12 +1782,13 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 <p>She looked at her cat, thought of all it had done and been in the minds of her servants, and laughed like a princess again and again.</p>
 <p><small><i>From </i>Mrs. Spring Fragrance<i> (1912); originally published in</i> Good Housekeeping<i> 46.5 (March 1908); also reprinted in</i> Colorado Springs Gazette <i>(January 22 1911). </i></small></p>
 
-
-
   <section id="Acknowledgements">
     <h2> ACKNOWLEDGEMENTS </h2>
 
-    <i><p>This book is made possible by our fiscal sponsor, Educopia Institute, and the generous support of the Mellon Foundation. </p>
+```
+<i><p>This book is made possible by our fiscal sponsor, Educopia Institute, and the generous support of the Mellon Foundation. </p>
+```
+
 <p>Thank you to Digital Public Library of America (DPLA) and Digital Divide Data (DDD) for their support in creating new digital formats for the Cita Press library. DDD provided EPUB and PDF conversion, OCR, and accessibility remediation. Visit DPLA’s Palace Bookshelf to find this volume and other Open Bookshelf books.</p>
 <p>This collection exists thanks to decades of work by scholars and writers dedicated to recovering, preserving, and bringing greater recognition to Sui Sin Far/Edith Eaton’s writing. We are especially indebted to Mary Chapman, Amy Ling, and Annette White-Parks, and highly recommend the collections they have edited to anyone who would like to read more of Eaton’s work. We also recommend Episode 15 of the Lost Ladies of Lit podcast, featuring foreword writer Victoria Namkung in conversation with Kim Askew and Amy Helmes Fowler, as a companion to this book. (Details on references in Bibliography.)</p>
 <p>Finally, we extend gratitude to Cita Press Advisory Board members (past and present) for their support and guidance: Janneke Adema, Vicky Checo, Katherine Maher, Jessica Meyerson, and Mindy Seu.</p></i>
@@ -1865,7 +1805,7 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 <li>Far, Sui Sin. “Leaves from the Mental Portfolio of an Eurasian.” <i>The Independent</i> (New York) 66, no. 3138 (January 21, 1909). https://archive.org/details/sim_independent_1909-01-21_66_3138/page/124/mode/2up </li>
 <li>Far, Sui Sin (signed “A Half Chinese”). “The Persecution and Oppression of Me.” <i>The Independent</i> 71, no. 3273 (August 24, 1911). https://archive.org/details/sim_independent_1911-08-24_71_3273/page/420/mode/2up </li>
 <li>Far, Sui Sin. “Sui Sin Far, the Half Chinese Writer, Tells of Her Career.” <i>Boston Daily Globe</i> (1872-1922); May 5, 1912; ProQuest Historical Newspapers: <i>The Boston Globe</i>. Access provided by the Boston Public Library.</li>
-<li>Far, Sui Sin (also signed “[Edith Eaton]”). <i>Mrs. Spring Fragrance.</i> Chicago: A.C. McClurg & Co, May 1912; Project Gutenberg, August 16, 2020, https://www.gutenberg.org/files/62940/62940-h/62940-h.htm.<br>
+<li>Far, Sui Sin (also signed “\[Edith Eaton]”). <i>Mrs. Spring Fragrance.</i> Chicago: A.C. McClurg & Co, May 1912; Project Gutenberg, August 16, 2020, https://www.gutenberg.org/files/62940/62940-h/62940-h.htm.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Mrs. Spring Fragrance<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-The Inferior Woman<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-In the Land of the Free<br>
@@ -1881,11 +1821,13 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 
 </ul>
 
-
 <section id="Bibliography">
     <h2> BIBLIOGRAPHY </h2>
 
-    <p><i>Resources that helped inform the selection of texts included in this volume:</i></p>
+```
+<p><i>Resources that helped inform the selection of texts included in this volume:</i></p>
+```
+
 <p>Ammons, Elizabeth, James Doyle, Amy Ling, S.E. Solberg, and Annette White-Parks. “Critical Extracts, Sui Sin Far or Edith Maude Eaton.” In <i>American Women Fiction Writers, 1900-1960, Volume Three,</i> edited by Harold Bloom, 156-177. Philadelphia: Chelsea House Publishers, 1998. https://archive.org/details/americanwomenfic00bloo_2/page/n7/mode/2up  </p>
 <p>Chapman, Mary. “A ‘Revolution in Ink’: Sui Sin Far and Chinese Reform Discourse.” <i>American Quarterly</i> 60, no. 4 (2008): 975–1001. http://www.jstor.org/stable/40068558. </p>
 <p>Cutter, Martha J. “Sui Sin Far’s Letters to Charles Lummis: Contextualizing Publication Practices for the Asian American Subject at the Turn of the Century.” <i>American Literary Realism</i> 38, no. 3 (2006): 259–75. http://www.jstor.org/stable/27747220.</p>
@@ -1899,4 +1841,3 @@ For some moments Miss Mason stood uncomprehending. Then the full meaning of Ten 
 <p>Sibara, Jennifer Barager. “Disease, Disability, and the Alien Body in the Literature of Sui Sin Far.” <i>MELUS</i> 39, no. 1 (2014): 56–81. http://www.jstor.org/stable/24569891. </p>
 <p>Wang, Anran. “'An Immortal Book:'' The Publishing History of the 1912 Edition of <i>Mrs. Spring Fragrance</i>." Master’s thesis, University of Virginia, 2022. https://doi.org/10.18130/9m48-xg51 </p>
 <p>White-Parks, Annette. <i>Sui Sin Far: A Literary Biography.</i> Urbana: University of Illinois Press, 1995. https://archive.org/details/suisinfaredithma0000whit/page/n13/mode/2up.</p>
-
