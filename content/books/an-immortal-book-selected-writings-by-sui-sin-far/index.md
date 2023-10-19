@@ -42,7 +42,7 @@ foreword: >-
 ## FOREWORD 
 
 
- <p> **By Victoria Namkung** </p>
+**By Victoria Namkung** 
     <p>
      <i>“All my ambition is to make myself useful, known, heard and admired by the wise and the brave.”</i> With these words, Edith Maude Eaton — better known by her pen name, Sui Sin Far — laid claim to her destiny. Though this statement is from an essay that was published anonymously, it captures the boldness and honesty with which one of the first North American writers of Chinese heritage pursued a prolific career that spanned genres and decades. Cita Press’ <i>An Immortal Book: Selected Writings by Sui Sin Far</i> brings together autobiographical essays and short stories from different periods in Eaton’s career, showcasing her range as a storyteller, thinker, and stylist.</p>
 <p>Revered for her contributions to Asian American and Asian Canadian literature, Sui Sin Far is also a key figure in early women’s journalism, literature, and feminism. A master at developing characters and rendering place, she grappled with themes of identity, race, class, gender, sexuality, and politics in ways that still resonate today. Eaton wrote with a voice that was distinctly vibrant and metropolitan, publishing journalism, poetry, travel writing, literary sketches, interviews, essays, and sensationalist fiction. According to Professor Mary Chapman, whose recent scholarship has more than tripled Eaton’s known output, over 260 works appeared in nearly sixty magazines and newspapers in the U.S., Canada, and Jamaica from 1888 to 1914. </p>
