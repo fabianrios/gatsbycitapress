@@ -64,7 +64,7 @@ foreword: >-
 <p>Eaton died of heart disease in 1914, just two years after her first and only book was published. By this time, she had reached a rarified position as an incredibly popular writer whose obituary appeared in newspapers throughout North America. Thanks to this new, open access collection (which builds on the work of feminist scholars like Chapman, Ling, Annette White-Parks, and many others), her work will continue to be useful, known, heard, and admired — in other words, immortal. 
  </p>
 
-# 
+## 
 PART I: ESSAYS
 
 
@@ -1678,7 +1678,7 @@ Toward evening Jim Nesbit came in, followed by Father; so haggard, so old, so st
 <p>They buried Woo-Ma whilst I lay deliriously babbling of childhood's days — of pleasures which leave no sting. When I was able to sit up, they brought me a youth's suit of clothes and a peaked cap. They had been worn by my sister and I keep them in memory of her. How criss-cross the lines of life run!</p>
 <p><i><small>Originally published in</i> The Bohemian<i> (January 1906).</i></small></p>
 
-### 
+## 
 "TALES OF CHINESE CHILDREN" 
 
 
