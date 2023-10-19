@@ -3,8 +3,8 @@ publication: 2023-05-01T22:12:03.284Z
 release: 2019-05-01T22:12:03.284Z
 templateKey: book-page
 author: Harriet Jacobs
-download: The_Old_Maid_v3.pdf
-language_link: incidentes-en-la-vida-de-una-esclava
+download: ""
+language_link: ""
 genre:
   - autobiography
   - nonfiction
@@ -22,7 +22,7 @@ title: Incidents in the Life of a Slave Girl
 isbn: "1231232131232112"
 post_image: cover-incidents-in-the-life-update.jpg
 square_image: thumbnail-incidents.jpg
-download_ebook: The_Old_Maid_v3.epub
+download_ebook: ""
 time_period:
   - 19th
 description: "The first time I read Incidents in the Life of a Slave Girl I was
