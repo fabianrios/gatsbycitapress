@@ -432,7 +432,7 @@ Why is it that men dream and dream<br>
 
 <p><i><small>Originally published in </i>Dominion Illustrated<i> (October 1888).</i></p></small>
 
-## 
+# 
 Part II: STORIES
 
 
