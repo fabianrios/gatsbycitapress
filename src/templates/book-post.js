@@ -63,7 +63,12 @@ const BookPostTemplate = ({
               />
             }
             <div className="actions">
-              <Link to={`${post.fields.slug}read`} itemProp="url" className={"btn btn-secondary"}>Read Online</Link>
+              { post.frontmatter.published ? (
+                <Link to={`${post.fields.slug}read`} itemProp="url" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Read Online'})}</Link>
+                ) : (
+                <Link to={`#`} itemProp="url" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Coming soon'})}</Link>
+                )
+              }
               <a href={post.frontmatter.download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>Download Guide</a>
             </div>
           </div>{/* /info */}
@@ -111,6 +116,7 @@ export const pageQuery = graphql`
         author
         isbn
         download
+        published
         language_link
         download_ebook
         date(formatString: "MMMM DD, YYYY")

@@ -34,6 +34,7 @@ collections:
       - { label: 'Language', name: 'lang', widget: 'select', options: [en, es] }
       - { label: 'Description', name: 'description', widget: 'text' }
       - { label: 'Foreword & Cover', name: 'foreword', widget: 'text' }
+      - { label: 'is Published?', name: 'published', widget: 'boolean', default: true }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
   - name: news
     label: News
