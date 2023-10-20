@@ -1,15 +1,23 @@
 ---
+title: "An Immortal Book: Selected Writings by Sui Sin Far"
 publication: 2023-09-12T14:44:26.228Z
 release: 2023-10-23T14:44:26.257Z
 templateKey: book-page
 author: Sui Sin Far (Edith Maude Eaton)
+isbn: Placeholder
+post_image: cover-sui-sin-far.jpg
+square_image: thumbnail-sui-sin-far2.jpg
 download: citapress.org
+download_ebook: citapress.org
 language_link: citapress.org
 genre:
   - short-stories
   - essay
   - autobiography
   - fiction
+time_period:
+  - 20th
+  - 19th
 theme:
   - sex-romance
   - LGBTQ+
@@ -17,20 +25,6 @@ theme:
   - race
   - politics
 lang: en
-foreword: >-
-  <p>Foreword: Victoria Namkung is a novelist, journalist, and speaker based in
-  Los Angeles, CA.</p>
-
-  <p>Cover: Shuhua Xiong is an interdisciplinary artist from Shanghai, now based in Queens, New York.</p>
-published: "false"
-title: "An Immortal Book: Selected Writings by Sui Sin Far"
-isbn: Placeholder
-post_image: cover-sui-sin-far.jpg
-square_image: thumbnail-sui-sin-far2.jpg
-download_ebook: citapress.org
-time_period:
-  - 20th
-  - 19th
 description: '"Cita Press’ <i>An Immortal Book: Selected Writings by Sui Sin
   Far</i> brings together autobiographical essays and short stories from
   different periods in Eaton’s career, showcasing her range as a storyteller,
@@ -39,6 +33,12 @@ description: '"Cita Press’ <i>An Immortal Book: Selected Writings by Sui Sin
   journalism, literature, and feminism. A master at developing characters and
   rendering place, she grappled with themes of identity, race, class, gender,
   sexuality, and politics in ways that still resonate today."'
+foreword: >-
+  <p>Foreword: Victoria Namkung is a novelist, journalist, and speaker based in
+  Los Angeles, CA.</p>
+
+  <p>Cover: Shuhua Xiong is an interdisciplinary artist from Shanghai, now based in Queens, New York.</p>
+published: true
 ---
 ## FOREWORD
 
