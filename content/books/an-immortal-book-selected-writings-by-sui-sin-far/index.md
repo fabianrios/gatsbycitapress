@@ -430,9 +430,9 @@ Why is it that men dream and dream<br>
 
 <p><i><small>Originally published in </i>Dominion Illustrated<i> (October 1888).</i></p></small>
 
-Part II: STORIES
+## Part II: STORIES
 
-Misunderstood, or the Story of a Young Man 
+### Misunderstood, or the Story of a Young Man 
 
  <p><i>Editor’s note: This early story, which was not published under a pen name,  is notable for its reliance on the same Tennyson lines that propel the action in “Mrs. Spring Fragrance” (the next story in this collection) – in a much different, but strangely complementary, application.</i></p>
 
@@ -1672,7 +1672,7 @@ Toward evening Jim Nesbit came in, followed by Father; so haggard, so old, so st
 <p>They buried Woo-Ma whilst I lay deliriously babbling of childhood's days — of pleasures which leave no sting. When I was able to sit up, they brought me a youth's suit of clothes and a peaked cap. They had been worn by my sister and I keep them in memory of her. How criss-cross the lines of life run!</p>
 <p><i><small>Originally published in</i> The Bohemian<i> (January 1906).</i></small></p>
 
-"TALES OF CHINESE CHILDREN" 
+## "TALES OF CHINESE CHILDREN" 
 
 <p><i>Editor’s note: There is debate about whether Sui Sin Far’s “Tales of Chinese Children" were written for or about children (or both!). This selection contains just a few of these stories, in which she employed strategies and tropes of children's literature of the time to tackle complex themes and subvert adult expectations around identity. </i></p>
 
