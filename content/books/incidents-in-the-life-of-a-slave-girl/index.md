@@ -12,27 +12,35 @@ theme:
   - race
   - motherhood
   - sex-romance
-lang: es
-foreword: "Cover:<a href='https://www.instagram.com/thatajacoponi/?hl=en'>Thaïs
-  Jacoponi</a>, Brazilian Designer and Art Director Foreword by historial
-  geographer, environmental advocate, and griefworker <a
-  href='https://spatialhumanorg.wordpress.com/about/'> Dr. Christy Hyman</a> "
+  - first-person-narrator
+  - suspense-gothic
+lang: en
+foreword: >-
+  <p>Cover by Brazilian designer and art director <a
+  href='https://www.instagram.com/thatajacoponi/?hl=en'>Thaïs Jacoponi</a>.</p>
+
+
+  <p>Foreword by historical geographer, environmental advocate, and griefworker <a href='https://spatialhumanorg.wordpress.com/about/'> Dr. Christy Hyman.</a> </>
 date: 2012-05-01T22:12:03.284Z
 title: Incidents in the Life of a Slave Girl
-isbn: "1231232131232112"
+isbn: 978-1-961368-05-7
 post_image: cover-incidents-in-the-life-update.jpg
 square_image: thumbnail-incidents.jpg
 download_ebook: ""
 time_period:
   - 19th
-description: "The first time I read Incidents in the Life of a Slave Girl I was
-  in an undergraduate women writers course at the University of North Carolina
-  Greensboro in 2004. My coming into consciousness as a Black feminist had not
-  yet revealed itself; however I knew that Jacobs’ story of strength,
+description: >-
+  <p><i>"The first time I read <i>Incidents in the Life of a Slave Girl</i> I
+  was in an undergraduate women writers course at the University of North
+  Carolina Greensboro in 2004. My coming into consciousness as a Black feminist
+  had not yet revealed itself; however I knew that Jacobs’ story of strength,
   perseverance, and courage would beckon me to pick it up again and again
   throughout my life. Jacobs’ writerly voice, deeply multilayered, was doing
   many things: championing the cause of the enslaved, actualizing her own plight
-  as a survivor, and redeeming herself as woman. (Dr. Christy Hyman)"
+  as a survivor, and redeeming herself as woman." -Dr. Christy Hyman</i></p>
+
+
+  <p>Harriet Jacobs' 1861 autobiography is a landmark text for the U.S. abolitionist movement that continues to inspire and influence art, scholarship, and literature nearly two centuries after it was first published under the pseudonym Linda Brent. </p>
 ---
 ![](cover-incidents-in-the-life-update.jpg)
 
