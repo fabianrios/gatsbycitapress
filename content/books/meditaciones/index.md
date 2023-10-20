@@ -1,6 +1,6 @@
 ---
 publication: 2023-05-01T22:12:00.000Z
-release: 2021-10-08T23:21:17.485Z
+release: 1567-06-08T00:13:58.000Z
 templateKey: book-page
 author: Saint Teresa of Jesus (Saint Teresa of Avila)
 download: ""
