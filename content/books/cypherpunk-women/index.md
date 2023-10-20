@@ -4,7 +4,7 @@ publication: 2023-09-12T14:44:26.228Z
 release: 2023-10-23T14:44:26.257Z
 templateKey: book-page
 author: Edited by Leigh Cuen
-isbn: Placeholder
+isbn: 978-1-961368-17-0
 post_image: cover_cypherpunk-women.png
 square_image: thumbnail-cypherpunk-women.jpg
 download: citapress.org
