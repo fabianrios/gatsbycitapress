@@ -1,36 +1,56 @@
 ---
-title: Incidents in the Life of a Slave Girl
 publication: 2023-05-01T22:12:03.284Z
 release: 2019-05-01T22:12:03.284Z
+templateKey: book-page
 author: Harriet Jacobs
-isbn: "1231232131232112"
+download: ""
+language_link: ""
+genre:
+  - autobiography
+  - nonfiction
+theme:
+  - race
+  - motherhood
+  - sex-romance
+  - first-person-narrator
+  - suspense-gothic
+lang: en
+foreword: >-
+  <p>Cover by Brazilian designer and art director <a
+  href='https://www.instagram.com/thatajacoponi/?hl=en'>Thaïs Jacoponi</a>.</p>
+
+
+  <p>Foreword by historical geographer, environmental advocate, and griefworker <a href='https://spatialhumanorg.wordpress.com/about/'> Dr. Christy Hyman.</a> </>
+date: 2012-05-01T22:12:03.284Z
+title: Incidents in the Life of a Slave Girl
+isbn: 978-1-961368-05-7
 post_image: cover-incidents-in-the-life-update.jpg
 square_image: thumbnail-incidents.jpg
-download: The_Old_Maid_v3.pdf
-download_ebook: The_Old_Maid_v3.epub
-language_link: incidentes-en-la-vida-de-una-esclava
-genre:
-  - short-stories
+download_ebook: ""
 time_period:
-  - modernist
-theme:
-  - first-person-narrator
-  - sex-romance
-lang: en
+  - 19th
 description: >-
-  The first time I read Incidents in the Life of a Slave Girl I was in an undergraduate women writers course at the University of North Carolina Greensboro in 2004. My coming into consciousness as a Black feminist had not yet revealed itself; however I knew that Jacobs’ story of strength, perseverance, and courage would beckon me to pick it up again and again throughout my life. Jacobs’ writerly voice, deeply multilayered, was doing many things: championing the cause of the enslaved, actualizing her own plight as a survivor, and redeeming herself as woman. (Dr. Christy Hyman)
-foreword: >-
-  Cover:<a href='https://www.instagram.com/thatajacoponi/?hl=en'>Thaïs Jacoponi</a>, Brazilian Designer and Art Director Foreword by historial geographer, environmental advocate, and griefworker <a href='https://spatialhumanorg.wordpress.com/about/'> Dr. Christy Hyman</a> 
-date: 2012-05-01T22:12:03.284Z
-templateKey: book-page
+  <p><i>"The first time I read <i>Incidents in the Life of a Slave Girl</i> I
+  was in an undergraduate women writers course at the University of North
+  Carolina Greensboro in 2004. My coming into consciousness as a Black feminist
+  had not yet revealed itself; however I knew that Jacobs’ story of strength,
+  perseverance, and courage would beckon me to pick it up again and again
+  throughout my life. Jacobs’ writerly voice, deeply multilayered, was doing
+  many things: championing the cause of the enslaved, actualizing her own plight
+  as a survivor, and redeeming herself as woman." -Dr. Christy Hyman</i></p>
+
+
+  <p>Harriet Jacobs' 1861 autobiography is a landmark text for the U.S. abolitionist movement that continues to inspire and influence art, scholarship, and literature nearly two centuries after it was first published under the pseudonym Linda Brent. </p>
 ---
+![](cover-incidents-in-the-life-update.jpg)
+
 ## Foreword
 
 “The graveyard was in the woods, and twilight was coming on. Nothing broke the death-like stillness except the occasional twitter of a bird. My spirit was overawed by the solemnity of the scene. For more than ten years I had frequented this spot, but never had it seemed to me so sacred as now. A black stump, at the head of my mother's grave, was all that remained of a tree my father had planted. His grave was marked by a small wooden board, bearing his name, the letters of which were nearly obliterated. I knelt down and kissed them, and poured forth a prayer to God for guidance and support in the perilous step I was about to take.”
 
 The epigraph above captures the multiple layers of meaning in Harriet Jacobs’autobiography <i>Incidents in the Life of a Slave Girl</i>. In this passage, we are reacquainted with the grief that Jacobs carried with her during every single day of her life, but we are also  reminded of the strength she drew from the memory of her mother and father. At that small graveyard in the woods, she strategized a final plan that led to the closest manifestation of freedom for herself and her children in a brutal society where slavery was the law of the land.
 
-Published in 1861 amidst the chaos of the dawn of the Civil War, <i>Incidents in the Life of a Slave Girl</i> came to the reading public with the hope that it would appeal to hearts with a capacity for sympathy, and that it would  inspire a feminine readership to exhort upon their brethren a moral influence over how the laws of the land were enforced. This meant that Jacobs had to wrestle with the troubling view of Black people–particularly Black women during the antebellum era–that denied them any semblance of feminine virtue. Saidiya Hartman has written that “the textual performance of seduction” in <i>Incidents</i> “reveal[s] the role of law in sustaining and defining virtue.” As Caleb Smith states, “the appeal of Jacobs’ work, in all of these influential accounts, is in its capacity to expose—dissecting, analyzing, revealing—the structures of power that would otherwise lie concealed within such notions as benevolent paternalism, feminine chastity, and domestic love.”
+Published in 1861 amidst the chaos of the dawn of the Civil War, <i>Incidents in the Life of a Slave Girl</i> came to the reading public with the hope that it would appeal to hearts with a capacity for sympathy, and that it would  inspire a feminine readership to exhort upon their brethren a moral influence over how the laws of the land were enforced. This meant that Jacobs had to wrestle with the troubling view of Black people–particularly Black women during the antebellum era–that denied them any semblance of feminine virtue. Saidiya Hartman has written that “the textual performance of seduction” in <i>Incidents</i> “reveal\[s] the role of law in sustaining and defining virtue.” As Caleb Smith states, “the appeal of Jacobs’ work, in all of these influential accounts, is in its capacity to expose—dissecting, analyzing, revealing—the structures of power that would otherwise lie concealed within such notions as benevolent paternalism, feminine chastity, and domestic love.”
 
 The first time I read <i>Incidents in the Life of a Slave Girl</i> I was in an undergraduate women writers course at the University of North Carolina Greensboro in 2004. My coming into consciousness as a Black feminist had not yet revealed itself; however I knew that Jacobs’ story of strength, perseverance, and courage would beckon me to pick it up again and again throughout my life. Jacobs’ writerly voice, deeply multilayered, was doing many things: championing the cause of the enslaved, actualizing her own plight as a survivor, and redeeming herself as woman. To some–at least within the paternalistic time period in which she lived– Jacobs may have been seen as fallen, but for most (and certainly for readers today) she was a woman who not only blazed a trail, but developed a deeply spiritual political consciousness.
 
@@ -40,10 +60,10 @@ The first time I read <i>Incidents in the Life of a Slave Girl</i> I was in an u
 
 <i>Incidents </i> is a trenchant appraisal of enslaved people’s self-determination to survive as well as to resist slavery. Noted historian of African American Literature William L. Andrews has written that “the most popular and lasting African American literary contributions to the movement for freedom were the autobiographical narratives of enslavement.” Indeed Jacobs’ story serves as a rich firsthand source of the realities of plantation life while contributing to a literary genre that inflamed antislavery sentiment during the time of its publication. In a nation “divided politically and geographically by the institution of slavery,” Jacobs’ writings provided a unique rhetorical status as witness to slavery and abolition for interested audiences.  This new open access edition of <i>Incidents in the Life of a Slave Girl</i> emphasizes the need for interested readers to involve themselves in community engagement practices beyond the confines of the academy in order to amplify and recover enslaved people’s lives illuminated within these texts. It promotes expanded reading engagements in ways that enrich scholarly inquiry and cultural recovery. Engaging with her writing allows us to celebrate how, by telling the story of her life, Harriet Jacobs asserted victory over the institution of slavery while affirming her inherent humanity in a time hostile to the notion of enslaved personhood. <i>Dr. Christy Hyman is a historical geographer, environmental advocate, griefworker, and Assistant Professor of Human Geography in the Department of Geosciences at Mississippi State University. </i>
 
-### Incidents in the Life of a Slave Girl
+<h2>Incidents in the Life of a Slave Girl</h2>
 
-**Harriet Jacobs**
-**First published under the pseudonym Linda Brent**
+**Harriet Jacobs
+First published under the pseudonym Linda Brent**
 
 <i>"Northerners know nothing at all about Slavery. They think it is perpetual bondage only. They have no conception of the depth of <i>degradation</i> involved in that word, SLAVERY; if they had, they would never cease their efforts until so horrible a system was overthrown."</i>
 
@@ -57,7 +77,7 @@ Edited By L. Maria Child.
 
 Boston: Published For The Author.
 
-### 1861
+**1861**
 
 ## PREFACE BY THE AUTHOR
 
@@ -92,7 +112,7 @@ really is. Only by experience can any one realize how deep, and dark, and
 foul is that pit of abominations. May the blessing of God rest on this
 imperfect effort in behalf of my persecuted people!
 
-_Linda Brent_
+*Linda Brent*
 
 ## INTRODUCTION BY THE EDITOR
 
@@ -134,10 +154,11 @@ hope that every man who reads this narrative will swear solemnly before
 God that, so far as he has power to prevent it, no fugitive from Slavery
 shall ever be sent back to suffer in that loathsome den of corruption and cruelty.
 
-_L. Maria Child_
+*L. Maria Child*
 
-## INCIDENTS   IN THE LIFE OF A SLAVE GIRL
-### SEVEN YEARS CONCEALED.
+## INCIDENTS  IN THE LIFE OF A SLAVE GIRL
+
+<h4>SEVEN YEARS CONCEALED.</h4>
 
 ## I. Childhood
 
@@ -254,7 +275,6 @@ injustice. While I was with her, she taught me to read and spell; and for
 this privilege, which so rarely falls to the lot of a slave, I bless her
 memory.
 
-
 She possessed but few slaves; and at her death those were all distributed
 among her relatives. Five of them were my grandmother's children, and had
 shared the same milk that nourished her mother's children. Notwithstanding
@@ -279,20 +299,16 @@ finally concluded to go to his mistress. When my father reproved him for
 it, he said, "You both called me, and I didn't know which I ought to go to
 first."
 
-
 "You are <i>my</i> child," replied our father, "and when I call you, you
 should come immediately, if you have to pass through fire and water."
-
 
 Poor Willie! He was now to learn his first lesson of obedience to a
 master. Grandmother tried to cheer us with hopeful words, and they found
 an echo in the credulous hearts of youth.
 
-
 When we entered our new home we encountered cold looks, cold words, and
 cold treatment. We were glad when the night came. On my narrow bed I
 moaned and wept, I felt so desolate and alone.
-
 
 I had been there nearly a year, when a dear little friend of mine was
 buried. I heard her mother sob, as the clods fell on the coffin of her
@@ -317,11 +333,9 @@ Moreover, they thought he had spoiled his children, by teaching them to
 feel that they were human beings. This was blasphemous doctrine for a
 slave to teach; presumptuous in him, and dangerous to the masters.
 
-
 The next day I followed his remains to a humble grave beside that of my
 dear mother. There were those who knew my father's worth, and respected
 his memory.
-
 
 My home now seemed more dreary than ever. The laugh of the little
 slave-children sounded harsh and cruel. It was selfish to feel so about
@@ -329,17 +343,14 @@ the joy of others. My brother moved about with a very grave face. I tried
 to comfort him, by saying, "Take courage, Willie; brighter days will come
 by and by."
 
-
 "You don't know any thing about it, Linda," he replied. "We shall have to
 stay here all our days; we shall never be free."
-
 
 I argued that we were growing older and stronger, and that perhaps we
 might, before long, be allowed to hire our own time, and then we could
 earn money to buy our freedom. William declared this was much easier to
 say than to do; moreover, he did not intend to <i>buy</i> his freedom. We
 held daily controversies upon this subject.
-
 
 Little attention was paid to the slaves' meals in Dr. Flint's house. If
 they could catch a bit of food while it was going, well and good. I gave
@@ -353,7 +364,6 @@ scanty wardrobe. I have a vivid recollection of the linsey-woolsey dress
 given me every winter by Mrs. Flint. How I hated it! It was one of the
 badges of slavery.
 
-
 While my grandmother was thus helping to support me from her hard
 earnings, the three hundred dollars she had lent her mistress were never
 repaid. When her mistress died, her son-in-law, Dr. Flint, was appointed
@@ -363,13 +373,11 @@ prohibit him from retaining the silver candelabra, which had been
 purchased with that money. I presume they will be handed down in the
 family, from generation to generation.
 
-
 My grandmother's mistress had always promised her that, at her death, she
 should be free; and it was said that in her will she made good the
 promise. But when the estate was settled, Dr. Flint told the faithful old
 servant that, under existing circumstances, it was necessary she should be
 sold.
-
 
 On the appointed day, the customary advertisement was posted up,
 proclaiming that there would be a "public sale of negroes, horses, &amp;c."
@@ -399,7 +407,6 @@ write; and when the bill of sale was made out, she signed it with a cross.
 But what consequence was that, when she had a big heart overflowing with
 human kindness? She gave the old servant her freedom.
 
-
 At that time, my grandmother was just fifty years old. Laborious years had
 passed since then; and now my brother and I were slaves to the man who had
 defrauded her of her money, and tried to defraud her of her freedom. One
@@ -407,7 +414,6 @@ of my mother's sisters, called Aunt Nancy, was also a slave in his family.
 She was a kind, good aunt to me; and supplied the place of both
 housekeeper and waiting maid to her mistress. She was, in fact, at the
 beginning and end of every thing.
-
 
 Mrs. Flint, like many southern women, was totally deficient in energy. She
 had not strength to superintend her household affairs; but her nerves were
@@ -425,14 +431,12 @@ a day. I can assure you she gave them no chance to eat wheat bread from
 her flour barrel. She knew how many biscuits a quart of flour would make,
 and exactly what size they ought to be.
 
-
 Dr. Flint was an epicure. The cook never sent a dinner to his table
 without fear and trembling; for if there happened to be a dish not to his
 liking, he would either order her to be whipped, or compel her to eat
 every mouthful of it in his presence. The poor, hungry creature might not
 have objected to eating it; but she did object to having her master cram
 it down her throat till she choked.
-
 
 They had a pet dog, that was a nuisance in the house. The cook was ordered
 to make some Indian mush for him. He refused to eat, and when his head was
@@ -444,7 +448,6 @@ stomach was stronger than the dog's; but her sufferings afterwards proved
 that he was mistaken. This poor woman endured many cruelties from her
 master and mistress; sometimes she was locked up, away from her nursing
 baby, for a whole day and night.
-
 
 When I had been in the family a few weeks, one of the plantation slaves
 was brought to town, by order of his master. It was near night when he
@@ -460,7 +463,6 @@ his wife, in presence of the overseer, and had accused his master of being
 the father of her child. They were both black, and the child was very
 fair.
 
-
 I went into the work house next morning, and saw the cowhide still wet
 with blood, and the boards all covered with gore. The poor man lived, and
 continued to quarrel with his wife. A few months afterwards Dr. Flint
@@ -471,13 +473,11 @@ she said. "You <i>promised</i> to treat me well." To which he replied,
 "You have let your tongue run too far; damn you!" She had forgotten that
 it was a crime for a slave to tell who was the father of her child.
 
-
 From others than the master persecution also comes in such cases. I once
 saw a young slave girl dying soon after the birth of a child nearly white.
 In her agony she cried out, "O Lord, come and take me!" Her mistress stood
 by, and mocked at her like an incarnate fiend. "You suffer, do you?" she
 exclaimed. "I am glad of it. You deserve it all, and more too."
-
 
 The girl's mother said, "The baby is dead, thank God; and I hope my poor
 child will soon be in heaven, too."
@@ -500,7 +500,6 @@ God for taking her away from the greater bitterness of life.
 Dr. Flint owned a fine residence in town, several farms, and about fifty
 slaves, besides hiring a number by the year.
 
-
 Hiring-day at the south takes place on the 1st of January. On the 2d, the
 slaves are expected to go to their new masters. On a farm, they work until
 the corn and cotton are laid. They then have two holidays. Some masters
@@ -514,11 +513,9 @@ thronged with men, women, and children, waiting, like criminals, to hear
 their doom pronounced. The slave is sure to know who is the most humane,
 or cruel master, within forty miles of him.
 
-
 It is easy to find out, on that day, who clothes and feeds his slaves
 well; for he is surrounded by a crowd, begging, "Please, massa, hire me
 this year. I will work <i>very</i> hard, massa."
-
 
 If a slave is unwilling to go with his new master, he is whipped, or
 locked up in jail, until he consents to go, and promises not to run away
@@ -527,11 +524,9 @@ justifiable to violate an extorted promise, woe unto him if he is caught!
 The whip is used till the blood flows at his feet; and his stiffened limbs
 are put in chains, to be dragged in the field for days and days!
 
-
 If he lives until the next year, perhaps the same man will hire him again,
 without even giving him an opportunity of going to the hiring-ground.
 After those for hire are disposed of, those for sale are called up.
-
 
 O, you happy free women, contrast <i>your</i> New Year's day with that of
 the poor bond-woman! With you it is a pleasant season, and the light of
@@ -542,14 +537,12 @@ New Year." Children bring their little offerings, and raise their rosy
 lips for a caress. They are your own, and no hand but that of death can
 take them from you.
 
-
 But to the slave mother New Year's day comes laden with peculiar sorrows.
 She sits on her cold cabin floor, watching the children who may all be
 torn from her the next morning; and often does she wish that she and they
 might die before the day dawns. She may be an ignorant creature, degraded
 by the system that has brutalized her from childhood; but she has a
 mother's instincts, and is capable of feeling a mother's agonies.
-
 
 On one of these sale days, I saw a mother lead seven children to the
 auction-block. She knew that <i>some</i> of them would be taken from her;
@@ -577,7 +570,6 @@ Two years had passed since I entered Dr. Flint's family, and those years
 had brought much of the knowledge that comes from experience, though they
 had afforded little opportunity for any other kinds of knowledge.
 
-
 My grandmother had, as much as possible, been a mother to her orphan
 grandchildren. By perseverance and unwearied industry, she was now
 mistress of a snug little home, surrounded with the necessaries of life.
@@ -586,7 +578,6 @@ There remained but three children and two grandchildren, all slaves. Most
 earnestly did she strive to make us feel that it was the will of God: that
 He had seen fit to place us under such circumstances; and though it seemed
 hard, we ought to pray for contentment.
-
 
 It was a beautiful faith, coming from a mother who could not call her
 children her own. But I, and Benjamin, her youngest boy, condemned it. We
@@ -597,7 +588,6 @@ met us with a smile, and listened with patience to all our sorrows. She
 spoke so hopefully, that unconsciously the clouds gave place to sunshine.
 There was a grand big oven there, too, that baked bread and nice things
 for the town, and we knew there was always a choice bit in store for us.
-
 
 But, alas! Even the charms of the old oven failed to reconcile us to our
 hard lot. Benjamin was now a tall, handsome lad, strongly and gracefully
@@ -613,11 +603,9 @@ scathed ear and brain like fire. O, how I despised him! I thought how glad
 I should be, if some day when he walked the earth, it would open and
 swallow him up, and disencumber the world of a plague.
 
-
 When he told me that I was made for his use, made to obey his command in
 <i>every</i> thing; that I was nothing but a slave, whose will must and
 should surrender to his, never before had my puny arm felt half so strong.
-
 
 So deeply was I absorbed in painful reflections afterwards, that I neither
 saw nor heard the entrance of any one, till the voice of William sounded
@@ -625,13 +613,11 @@ close beside me. "Linda," said he, "what makes you look so sad? I love
 you. O, Linda, isn't this a bad world? Every body seems so cross and
 unhappy. I wish I had died when poor father did."
 
-
 I told him that every body was <i>not</i> cross, or unhappy; that those
 who had pleasant homes, and kind friends, and who were not afraid to love
 them, were happy. But we, who were slave-children, without father or
 mother, could not expect to be happy. We must be good; perhaps that would
 bring us contentment.
-
 
 "Yes," he said, "I try to be good; but what's the use? They are all the
 time troubling me." Then he proceeded to relate his afternoon's difficulty
@@ -642,7 +628,6 @@ but William fought bravely, and the young master, finding he was getting
 the better of him, undertook to tie his hands behind him. He failed in
 that likewise. By dint of kicking and fisting, William came out of the
 skirmish none the worse for a few scratches.
-
 
 He continued to discourse, on his young master's <i>meanness</i>; how he
 whipped the <i>little</i> boys, but was a perfect coward when a tussle
@@ -659,7 +644,6 @@ it might with the old man, but not with <i>him</i>. He said he did not
 mind the smart of the whip, but he did not like the <i>idea</i> of being
 whipped.
 
-
 While I advised him to be good and forgiving I was not unconscious of the
 beam in my own eye. It was the very knowledge of my own shortcomings that
 urged me to retain, if possible, some sparks of my brother's God-given
@@ -668,13 +652,11 @@ seen, and heard enough, to read the characters, and question the motives,
 of those around me. The war of my life had begun; and though one of God's
 most powerless creatures, I resolved never to be conquered. Alas, for me!
 
-
 If there was one pure, sunny spot for me, I believed it to be in
 Benjamin's heart, and in another's, whom I loved with all the ardor of a
 girl's first love. My owner knew of it, and sought in every way to render
 me miserable. He did not resort to corporal punishment, but to all the
 petty, tyrannical ways that human ingenuity could devise.
-
 
 I remember the first time I was punished. It was in the month of February.
 My grandmother had taken my old shoes, and replaced them with a new pair.
@@ -685,18 +667,15 @@ I had about me that made such a horrid noise. I told her it was my new
 shoes. "Take them off," said she; "and if you put them on again, I'll
 throw them into the fire."
 
-
 I took them off, and my stockings also. She then sent me a long distance,
 on an errand. As I went through the snow, my bare feet tingled. That night
 I was very hoarse; and I went to bed thinking the next day would find me
 sick, perhaps dead. What was my grief on waking to find myself quite well!
 
-
 I had imagined if I died, or was laid up for some time, that my mistress
 would feel a twinge of remorse that she had so hated "the little imp," as
 she styled me. It was my ignorance of that mistress that gave rise to such
 extravagant imaginings.
-
 
 Dr. Flint occasionally had high prices offered for me; but he always said,
 "She don't belong to me. She is my daughter's property, and I have no
@@ -708,25 +687,20 @@ doubts into my mind. Did the child feign what she did not feel? or was her
 mother jealous of the mite of love she bestowed on me? I concluded it must
 be the latter. I said to myself, "Surely, little children are true."
 
-
 One afternoon I sat at my sewing, feeling unusual depression of spirits.
 My mistress had been accusing me of an offence, of which I assured her I
 was perfectly innocent; but I saw, by the contemptuous curl of her lip,
 that she believed I was telling a lie.
-
 
 I wondered for what wise purpose God was leading me through such thorny
 paths, and whether still darker days were in store for me. As I sat musing
 thus, the door opened softly, and William came in. "Well, brother," said
 I, "what is the matter this time?"
 
-
 "O Linda, Ben and his master have had a dreadful time!" said he.
-
 
 My first thought was that Benjamin was killed. "Don't be frightened,
 Linda," said William; "I will tell you all about it."
-
 
 It appeared that Benjamin's master had sent for him, and he did not
 immediately obey the summons. When he did, his master was angry, and began
@@ -735,20 +709,15 @@ was thrown. Benjamin had cause to tremble; for he had thrown to the ground
 his master&mdash;one of the richest men in town. I anxiously awaited the
 result.
 
-
 That night I stole to my grandmother's house; and Benjamin also stole
 thither from his master's. My grandmother had gone to spend a day or two
 with an old friend living in the country.
 
-
 "I have come," said Benjamin, "to tell you good by. I am going away."
-
 
 I inquired where.
 
-
 "To the north," he replied.
-
 
 I looked at him to see whether he was in earnest. I saw it all in his
 firm, set mouth. I implored him not to go, but he paid no heed to my
@@ -758,31 +727,24 @@ whipped for the offence. I reminded him of the poverty and hardships he
 must encounter among strangers. I told him he might be caught and brought
 back; and that was terrible to think of.
 
-
 He grew vexed, and asked if poverty and hardships with freedom, were not
 preferable to our treatment in slavery. "Linda," he continued, "we are
 dogs here; foot-balls, cattle, every thing that's mean. No, I will not
 stay. Let them bring me back. We don't die but once."
 
-
 He was right; but it was hard to give him up. "Go," said I, "and break
 your mother's heart."
 
-
 I repented of my words ere they were out.
-
 
 "Linda," said he, speaking as I had not heard him speak that evening, "how
 <i>could</i> you say that? Poor mother! be kind to her, Linda; and you,
 too, cousin Fanny."
 
-
 Cousin Fanny was a friend who had lived some years with us.
-
 
 Farewells were exchanged, and the bright, kind boy, endeared to us by so
 many acts of love, vanished from our sight.
-
 
 It is not necessary to state how he made his escape. Suffice it to say, he
 was on his way to New York when a violent storm overtook the vessel. The
@@ -796,13 +758,11 @@ port Benjamin managed to get off his chains and throw them overboard. He
 escaped from the vessel, but was pursued, captured, and carried back to
 his master.
 
-
 When my grandmother returned home and found her youngest child had fled,
 great was her sorrow; but, with characteristic piety, she said, "God's
 will be done." Each morning, she inquired if any news had been heard from
 her boy. Yes, news <i>was</i> heard. The master was rejoicing over a
 letter, announcing the capture of his human chattel.
-
 
 That day seems but as yesterday, so well do I remember it. I saw him led
 through the streets in chains, to jail. His face was ghastly pale, yet
@@ -811,7 +771,6 @@ mother's house and ask her not to meet him. He said the sight of her
 distress would take from him all self-control. She yearned to see him, and
 she went; but she screened herself in the crowd, that it might be as her
 child had said.
-
 
 We were not allowed to visit him; but we had known the jailer for years,
 and he was a kind-hearted man. At midnight he opened the jail door for my
@@ -833,16 +792,13 @@ man is hunted like a wild beast he forgets there is a God, a heaven. He
 forgets every thing in his struggle to get beyond the reach of the
 bloodhounds."
 
-
 "Don't talk so, Benjamin," said she. "Put your trust in God. Be humble, my
 child, and your master will forgive you."
-
 
 "Forgive me for <i>what</i>, mother? For not letting him treat me like a
 dog? No! I will never humble myself to him. I have worked for him for
 nothing all my life, and I am repaid with stripes and imprisonment. Here I
 will stay till I die, or till he sells me."
-
 
 The poor mother shuddered at his words. I think he felt it; for when he
 next spoke, his voice was calmer. "Don't fret about me, mother. I ain't
@@ -850,15 +806,12 @@ worth it," said he. "I wish I had some of your goodness. You bear every
 thing patiently, just as though you thought it was all right. I wish I
 could."
 
-
 She told him she had not always been so; once, she was like him; but when
 sore troubles came upon her, and she had no arm to lean upon, she learned
 to call on God, and he lightened her burdens. She besought him to do
 likewise.
 
-
 We overstaid our time, and were obliged to hurry from the jail.
-
 
 Benjamin had been imprisoned three weeks, when my grandmother went to
 intercede for him with his master. He was immovable. He said Benjamin
@@ -867,10 +820,8 @@ jail till he was subdued, or be sold if he got but one dollar for him.
 However, he afterwards relented in some degree. The chains were taken off,
 and we were allowed to visit him.
 
-
 As his food was of the coarsest kind, we carried him as often as possible
 a warm supper, accompanied with some little luxury for the jailer.
-
 
 Three months elapsed, and there was no prospect of release or of a
 purchaser. One day he was heard to sing and laugh. This piece of indecorum
@@ -882,10 +833,8 @@ them. He passed them through the bars of the window, with a request that
 they should be taken to his master, and he should be informed that he was
 covered with vermin.
 
-
 This audacity was punished with heavier chains, and prohibition of our
 visits.
-
 
 My grandmother continued to send him fresh changes of clothes. The old
 ones were burned up. The last night we saw him in jail his mother still
@@ -893,9 +842,7 @@ begged him to send for his master, and beg his pardon. Neither persuasion
 nor argument could turn him from his purpose. He calmly answered, "I am
 waiting his time."
 
-
 Those chains were mournful to hear.
-
 
 Another three months passed, and Benjamin left his prison walls. We that
 loved him waited to bid him a long and last farewell. A slave trader had
@@ -906,7 +853,6 @@ had made his face too pale, his form too thin; moreover, the trader had
 heard something of his character, and it did not strike him as suitable
 for a slave. He said he would give any price if the handsome lad was a
 girl. We thanked God that he was not.
-
 
 Could you have seen that mother clinging to her child, when they fastened
 the irons upon his wrists; could you have heard her heart-rending groans,
@@ -919,13 +865,11 @@ purchased. She was told it was impossible, as he had given bonds not to
 sell him till he was out of the state. He promised that he would not sell
 him till he reached New Orleans.
 
-
 With a strong arm and unvaried trust, my grandmother began her work of
 love. Benjamin must be free. If she succeeded, she knew they would still
 be separated; but the sacrifice was not too great. Day and night she
 labored. The trader's price would treble that he gave; but she was not
 discouraged.
-
 
 She employed a lawyer to write to a gentleman, whom she knew, in New
 Orleans. She begged him to interest himself for Benjamin, and he willingly
@@ -935,7 +879,6 @@ trader an offer. He knew he had tried to obtain a high price for him, and
 had invariably failed. This encouraged him to make another effort for
 freedom. So one morning, long before day, Benjamin was missing. He was
 riding over the blue billows, bound for Baltimore.
-
 
 For once his white face did him a kindly service. They had no suspicion
 that it belonged to a slave; otherwise, the law would have been followed
@@ -948,14 +891,12 @@ He resolved to venture on a short walk. A by-street was selected, where he
 thought himself secure of not being met by any one that knew him; but a
 voice called out, "Halloo, Ben, my boy! what are you doing <i>here</i>!"
 
-
 His first impulse was to run; but his legs trembled so that he could not
 stir. He turned to confront his antagonist, and behold, there stood his
 old master's next door neighbor! He thought it was all over with him now;
 but it proved otherwise. That man was a miracle. He possessed a goodly
 number of slaves, and yet was not quite deaf to that mystic clock, whose
 ticking is rarely heard in the slaveholder's breast.
-
 
 "Ben, you are sick," said he. "Why, you look like a ghost. I guess I gave
 you something of a start. Never mind, Ben, I am not going to touch you.
@@ -965,15 +906,12 @@ for there are several gentlemen here from our town." He described the
 nearest and safest route to New York, and added, "I shall be glad to tell
 your mother I have seen you. Good by, Ben."
 
-
 Benjamin turned away, filled with gratitude, and surprised that the town
 he hated contained such a gem&mdash;a gem worthy of a purer setting.
-
 
 This gentleman was a Northerner by birth, and had married a southern lady.
 On his return, he told my grandmother that he had seen her son, and of the
 service he had rendered him.
-
 
 Benjamin reached New York safely, and concluded to stop there until he had
 gained strength enough to proceed further. It happened that my
@@ -990,13 +928,11 @@ for self-murderers; and as his life had been pretty hot here, he did not
 desire a continuation of the same in another world. "If I die now," he
 exclaimed, "thank God, I shall die a freeman!"
 
-
 He begged my uncle Phillip not to return south; but stay and work with
 him, till they earned enough to buy those at home. His brother told him it
 would kill their mother if he deserted her in her trouble. She had pledged
 her house, and with difficulty had raised money to buy him. Would he be
 bought?
-
 
 "No, never!" he replied. "Do you suppose, Phil, when I have got so far out
 of their clutches, I will give them one red cent? No! And do you suppose I
@@ -1013,20 +949,16 @@ to go back. He got mad, and said we were all alike. I never despised my
 own master half as much as I do that man. There is many a worse
 slaveholder than my master; but for all that I would not be his slave."
 
-
 While Benjamin was sick, he had parted with nearly all his clothes to pay
 necessary expenses. But he did not part with a little pin I fastened in
 his bosom when we parted. It was the most valuable thing I owned, and I
 thought none more worthy to wear it. He had it still.
 
-
 His brother furnished him with clothes, and gave him what money he had.
-
 
 They parted with moistened eyes; and as Benjamin turned away, he said,
 "Phil, I part with all my kindred." And so it proved. We never heard from
 him again.
-
 
 Uncle Phillip came home; and the first words he uttered when he entered
 the house were, "Mother, Ben is free! I have seen him in New York." She
@@ -1037,7 +969,6 @@ her knees, and poured forth her heart in prayer. Then Phillip must sit
 down and repeat to her every word Benjamin had said. He told her all; only
 he forbore to mention how sick and pale her darling looked. Why should he
 distress her when she could do him no good?
-
 
 The brave old woman still toiled on, hoping to rescue some of her other
 children. After a while she succeeded in buying Phillip. She paid eight
@@ -1085,7 +1016,6 @@ refuse to do for the master, on your own soil, the mean and cruel work
 which trained bloodhounds and the lowest class of whites do for him at the
 south.
 
-
 Every where the years bring to all enough of sin and sorrow; but in
 slavery the very dawn of life is darkened by these shadows. Even the
 little child, who is accustomed to wait on her mistress and her children,
@@ -1112,7 +1042,6 @@ but none dared to ask the cause. They had no need to inquire. They knew
 too well the guilty practices under that roof; and they were aware that to
 speak of them was an offence that never went unpunished.
 
-
 I longed for some one to confide in. I would have given the world to have
 laid my head on my grandmother's faithful bosom, and told her all my
 troubles. But Dr. Flint swore he would kill me, if I was not as silent as
@@ -1136,13 +1065,11 @@ inhabitants were ignorant of each other's affairs. Bad as are the laws and
 customs in a slaveholding community, the doctor, as a professional man,
 deemed it prudent to keep up some outward show of decency.
 
-
 O, what days and nights of fear and sorrow that man caused me! Reader, it
 is not to awaken sympathy for myself that I am telling you truthfully what
 I suffered in slavery. I do it to kindle a flame of compassion in your
 hearts for my sisters who are still in bondage, suffering as I once
 suffered.
-
 
 I once saw two beautiful children playing together. One was a fair white
 child; the other was her slave, and also her sister. When I saw them
@@ -1154,12 +1081,10 @@ to womanhood her pathway was blooming with flowers, and overarched by a
 sunny sky. Scarcely one day of her life had been clouded when the sun rose
 on her happy bridal morning.
 
-
 How had those years dealt with her slave sister, the little playmate of
 her childhood? She, also, was very beautiful; but the flowers and sunshine
 of love were not for her. She drank the cup of sin, and shame, and misery,
 whereof her persecuted race are compelled to drink.
-
 
 In view of these things, why are ye silent, ye free men and women of the
 north? Why do your tongues falter in maintenance of the right? Would that
@@ -1179,7 +1104,6 @@ penitentiary is preferable. He may repent, and turn from the error of his
 ways, and so find peace; but it is not so with a favorite slave. She is
 not allowed to have any pride of character. It is deemed a crime in her to
 wish to be virtuous.
-
 
 Mrs. Flint possessed the key to her husband's character before I was born.
 She might have used this knowledge to counsel and to screen the young and
@@ -1218,7 +1142,6 @@ of a buoyant disposition, and always I had a hope of somehow getting out
 of his clutches. Like many a poor, simple slave before me, I trusted that
 some threads of joy would yet be woven into my dark destiny.
 
-
 I had entered my sixteenth year, and every day it became more apparent
 that my presence was intolerable to Mrs. Flint. Angry words frequently
 passed between her and her husband. He had never punished me himself, and
@@ -1228,7 +1151,6 @@ to bestow upon me. Yet I, whom she detested so bitterly, had far more pity
 for her than he had, whose duty it was to make her life happy. I never
 wronged her, or wished to wrong her, and one word of kindness from her
 would have brought me to her feet.
-
 
 After repeated quarrels between the doctor and his wife, he announced his
 intention to take his youngest daughter, then four years old, to sleep in
@@ -1251,45 +1173,33 @@ night. A kind Providence interposed in my favor. During the day Mrs. Flint
 heard of this new arrangement, and a storm followed. I rejoiced to hear it
 rage.
 
-
 After a while my mistress sent for me to come to her room. Her first
 question was, "Did you know you were to sleep in the doctor's room?"
 
-
 "Yes, ma'am."
-
 
 "Who told you?"
 
-
 "My master."
-
 
 "Will you answer truly all the questions I ask?"
 
-
 "Yes, ma'am."
-
 
 "Tell me, then, as you hope to be forgiven, are you innocent of what I
 have accused you?"
 
-
 "I am."
-
 
 She handed me a Bible, and said, "Lay your hand on your heart, kiss this
 holy book, and swear before God that you tell me the truth."
 
-
 I took the oath she required, and I did it with a clear conscience.
-
 
 "You have taken God's holy word to testify your innocence," said she. "If
 you have deceived me, beware! Now take this stool, sit down, look me
 directly in the face, and tell me all that has passed between your master
 and you."
-
 
 I did as she ordered. As I went on with my account her color changed
 frequently, she wept, and sometimes groaned. She spoke in tones so sad,
@@ -1311,7 +1221,6 @@ would under similar circumstances. The fire of her temper kindled from
 small-sparks, and now the flame became so intense that the doctor was
 obliged to give up his intended arrangement.
 
-
 I knew I had ignited the torch, and I expected to suffer for it
 afterwards; but I felt too thankful to my mistress for the timely aid she
 rendered me to care much about that. She now took me to sleep in a room
@@ -1327,7 +1236,6 @@ often threatened; and you can imagine, better than I can describe, what an
 unpleasant sensation it must produce to wake up in the dead of night and
 find a jealous woman bending over you. Terrible as this experience was, I
 had fears that it would give place to one more terrible.
-
 
 My mistress grew weary of her vigils; they did not prove satisfactory. She
 changed her tactics. She now tried the trick of accusing my master of
@@ -1349,13 +1257,11 @@ How often did I rejoice that I lived in a town where all the inhabitants
 knew each other! If I had been on a remote plantation, or lost among the
 multitude of a crowded city, I should not be a living woman at this day.
 
-
 The secrets of slavery are concealed like those of the Inquisition. My
 master was, to my knowledge, the father of eleven slaves. But did the
 mothers dare to tell who was the father of their children? Did the other
 slaves dare to allude to it, except in whispers among themselves? No,
 indeed! They knew too well the terrible consequences.
-
 
 My grandmother could not avoid seeing things which excited her suspicions.
 She was uneasy about me, and tried various ways to buy me; but the
@@ -1379,9 +1285,7 @@ let me arrange matters in my own way. Poor, foolish girl! you don't know
 what is for your own good. I would cherish you. I would make a lady of
 you. Now go, and think of all I have promised you."
 
-
 I did think of it.
-
 
 Reader, I draw no imaginary pictures of southern homes. I am telling you
 the plain truth. Yet when victims make their escape from the wild beast of
@@ -1397,14 +1301,12 @@ complexion play with her own fair babies, and too well she knows that they
 are born unto him of his own household. Jealousy and hatred enter the
 flowery home, and it is ravaged of its loveliness.
 
-
 Southern women often marry a man knowing that he is the father of many
 little slaves. They do not trouble themselves about it. They regard such
 children as property, as marketable as the pigs on the plantation; and it
 is seldom that they do not make them aware of this by passing them into
 the slave-trader's hands as soon as possible, and thus getting them out of
 their sight. I am glad to say there are some honorable exceptions.
-
 
 I have myself known two southern wives who exhorted their husbands to free
 those slaves towards whom they stood in a "parental relation;" and their
@@ -1413,7 +1315,6 @@ of their wives' natures. Though they had only counselled them to do that
 which it was their duty to do, it commanded their respect, and rendered
 their conduct more exemplary. Concealment was at an end, and confidence
 took the place of distrust.
-
 
 Though this bad institution deadens the moral sense, even in white women,
 to a fearful extent, it is not altogether extinct. I have heard southern
@@ -1461,7 +1362,6 @@ the children of that nigger?" The girl to whom she said this had a mulatto
 child, of course not acknowledged by its father. The poor black man who
 loved her would have been proud to acknowledge his helpless offspring.
 
-
 Many and anxious were the thoughts I revolved in my mind. I was at a loss
 what to do. Above all things, I was desirous to spare my lover the insults
 that had cut so deeply into my own soul. I talked with my grandmother
@@ -1469,7 +1369,6 @@ about it, and partly told her my fears. I did not dare to tell her the
 worst. She had long suspected all was not right, and if I confirmed her
 suspicions I knew a storm would rise that would prove the overthrow of all
 my hopes.
-
 
 This love-dream had been my support through many trials; and I could not
 bear to run the risk of having it suddenly dissipated. There was a lady in
@@ -1487,7 +1386,6 @@ to do her utmost to promote my wishes. She had an interview with the
 doctor, and I believe she pleaded my cause earnestly; but it was all to no
 purpose.
 
-
 How I dreaded my master now! Every minute I expected to be summoned to his
 presence; but the day passed, and I heard nothing from him. The next
 morning, a message was brought to me: "Master wants you in his study." I
@@ -1498,65 +1396,50 @@ fixedly at me, with an expression which seemed to say, "I have half a mind
 to kill you on the spot." At last he broke the silence, and that was a
 relief to both of us.
 
-
 "So you want to be married, do you?" said he, "and to a free nigger."
 
-
 "Yes, sir."
-
 
 "Well, I'll soon convince you whether I am your master, or the nigger
 fellow you honor so highly. If you <i>must</i> have a husband, you may
 take up with one of my slaves."
 
-
 What a situation I should be in, as the wife of one of <i>his</i> slaves,
 even if my heart had been interested!
-
 
 I replied, "Don't you suppose, sir, that a slave can have some preference
 about marrying? Do you suppose that all men are alike to her?"
 
-
 "Do you love this nigger?" said he, abruptly.
 
-
 "Yes, sir."
-
 
 "How dare you tell me so!" he exclaimed, in great wrath. After a slight
 pause, he added, "I supposed you thought more of yourself; that you felt
 above the insults of such puppies."
-
 
 I replied, "If he is a puppy, I am a puppy, for we are both of the negro
 race. It is right and honorable for us to love each other. The man you
 call a puppy never insulted me, sir; and he would not love me if he did
 not believe me to be a virtuous woman."
 
-
 He sprang upon me like a tiger, and gave me a stunning blow. It was the
 first time he had ever struck me; and fear did not enable me to control my
 anger. When I had recovered a little from the effects, I exclaimed, "You
 have struck me for answering you honestly. How I despise you!"
-
 
 There was silence for some minutes. Perhaps he was deciding what should be
 my punishment; or, perhaps, he wanted to give me time to reflect on what I
 had said, and to whom I had said it. Finally, he asked, "Do you know what
 you have said?"
 
-
 "Yes, sir; but your treatment drove me to it."
-
 
 "Do you know that I have a right to do as I like with you,&mdash;that I
 can kill you, if I please?"
 
-
 "You have tried to kill me, and I wish you had; but you have no right to
 do as you like with me."
-
 
 "Silence!" he exclaimed, in a thundering voice. "By heavens, girl, you
 forget yourself too far! Are you mad? If you are, I will soon bring you to
@@ -1564,11 +1447,9 @@ your senses. Do you think any other master would bear what I have borne
 from you this morning? Many masters would have killed you on the spot. How
 would you like to be sent to jail for your insolence?"
 
-
 "I know I have been disrespectful, sir," I replied; "but you drove me to
 it; I couldn't help it. As for the jail, there would be more peace for me
 there than there is here."
-
 
 "You deserve to go there," said he, "and to be under such treatment, that
 you would forget the meaning of the word <i>peace</i>. It would do you
@@ -1588,11 +1469,9 @@ Do you hear what I say? I'll teach you a lesson about marriage and free
 niggers! Now go, and let this be the last time I have occasion to speak to
 you on this subject."
 
-
 Reader, did you ever hate? I hope not. I never did but once; and I trust I
 never shall again. Somebody has called it "the atmosphere of hell;" and I
 believe it is so.
-
 
 For a fortnight the doctor did not speak to me. He thought to mortify me;
 to make me feel that I had disgraced myself by receiving the honorable
@@ -1615,7 +1494,6 @@ that quarter. If I merited kindness from him, he assured me that it would
 be lavishly bestowed. He begged me to think over the matter, and answer
 the following day.
 
-
 The next morning I was called to carry a pair of scissors to his room. I
 laid them on the table, with the letter beside them. He thought it was my
 answer, and did not call me back. I went as usual to attend my young
@@ -1629,7 +1507,6 @@ in the town, and I rather thought he had made up the story merely to
 frighten me. However that might be, I was determined that I would never go
 to Louisiana with him.
 
-
 Summer passed away, and early in the autumn Dr. Flint's eldest son was
 sent to Louisiana to examine the country, with a view to emigrating. That
 news did not disturb me. I knew very well that I should not be sent with
@@ -1640,7 +1517,6 @@ into the fields to work. Is it strange, that I was not proud of these
 protectors? As for the overseer, he was a man for whom I had less respect
 than I had for a bloodhound.
 
-
 Young Mr. Flint did not bring back a favorable report of Louisiana, and I
 heard no more of that scheme. Soon after this, my lover met me at the
 corner of the street, and I stopped to speak to him. Looking up, I saw my
@@ -1650,7 +1526,6 @@ is mistress to be married?" said he, in a sneering tone. A shower of oaths
 and imprecations followed. How thankful I was that my lover was a free
 man! that my tyrant had no power to flog him for speaking to me in the
 street!
-
 
 Again and again I revolved in my mind how all this would end. There was no
 hope that the doctor would consent to sell me on any terms. He had an iron
@@ -1669,7 +1544,6 @@ where his tongue would not be tied, and where his intelligence would be of
 more avail to him. He left me, still hoping the day would come when I
 could be bought. With me the lamp of hope had gone out. The dream of my
 girlhood was over. I felt lonely and desolate.
-
 
 Still I was not stripped of all. I still had my good grandmother, and my
 affectionate brother. When he put his arms round my neck, and looked into
@@ -1703,7 +1577,6 @@ her master would not thank him for bringing such a miserable wretch to his
 house. He ended by saying to me, "This is the punishment she brought on
 herself for running away from a kind master."
 
-
 This whole story was false. I afterwards staid with that friend in New
 York, and found her in comfortable circumstances. She had never thought of
 such a thing as wishing to go back to slavery. Many of the slaves believe
@@ -1715,7 +1588,6 @@ some Hindoos, they would think otherwise. They would know that liberty is
 more valuable than life. They would begin to understand their own
 capabilities, and exert themselves to become men and women.
 
-
 But while the Free States sustain a law which hurls fugitives back into
 slavery, how can the slaves resolve to become men? There are some who
 strive to protect wives and daughters from the insults of their masters;
@@ -1723,7 +1595,6 @@ but those who have such sentiments have had advantages above the general
 mass of slaves. They have been partially civilized and Christianized by
 favorable circumstances. Some are bold enough to <i>utter</i> such
 sentiments to their masters. O, that there were more of them!
-
 
 Some poor creatures have been so brutalized by the lash that they will
 sneak out of the way to give their masters free access to their wives and
@@ -1735,7 +1606,6 @@ the ignorance in which white men compel him to live; it is the torturing
 whip that lashes manhood out of him; it is the fierce bloodhounds of the
 South, and the scarcely less cruel human bloodhounds of the north, who
 enforce the Fugitive Slave Law. <i>They</i> do the work.
-
 
 Southern gentlemen indulge in the most contemptuous expressions about the
 Yankees, while they, on their part, consent to do the vilest work for
@@ -1753,13 +1623,11 @@ apt scholars. They soon imbibe the sentiments and disposition of their
 neighbors, and generally go beyond their teachers. Of the two, they are
 proverbially the hardest masters.
 
-
 They seem to satisfy their consciences with the doctrine that God created
 the Africans to be slaves. What a libel upon the heavenly Father, who
 "made of one blood all nations of men!" And then who <i>are</i> Africans?
 Who can measure the amount of Anglo-Saxon blood coursing in the veins of
 American slaves?
-
 
 I have spoken of the pains slaveholders take to give their slaves a bad
 opinion of the north; but, notwithstanding this, intelligent slaves are
@@ -1776,7 +1644,6 @@ it, and went to Washington city to see the president about it. They
 quarrelled; she drew her sword upon him, and swore that he should help her
 to make them all free.
 
-
 That poor, ignorant woman thought that America was governed by a Queen, to
 whom the President was subordinate. I wish the President was subordinate
 to Queen Justice.
@@ -1791,7 +1658,6 @@ whipping post on his grounds; and whatever cruelties were perpetrated
 there, they passed without comment. He was so effectually screened by his
 great wealth that he was called to no account for his crimes, not even for
 murder.
-
 
 Various were the punishments resorted to. A favorite one was to tie a rope
 round a man's body, and suspend him from the ground. A fire was kindled
@@ -1808,7 +1674,6 @@ stole from him even a pound of meat or a peck of corn, if detection
 followed, he was put in chains and imprisoned, and so kept till his form
 was attentuated by hunger and suffering.
 
-
 A freshnet once bore his wine cellar and meat house miles away from the
 plantation. Some slaves followed, and secured bits of meat and bottles of
 wine. Two were detected; a ham and some liquor being found in their huts.
@@ -1816,10 +1681,8 @@ They were summoned by their master. No words were used, but a club felled
 them to the ground. A rough box was their coffin, and their interment was
 a dog's burial. Nothing was said.
 
-
 Murder was so common on his plantation that he feared to be alone after
 nightfall. He might have believed in ghosts.
-
 
 His brother, if not equal in wealth, was at least equal in cruelty. His
 bloodhounds were well trained. Their pen was spacious, and a terror to the
@@ -1828,7 +1691,6 @@ literally tore the flesh from his bones. When this slaveholder died, his
 shrieks and groans were so frightful that they appalled his own friends.
 His last words were, "I am going to hell; bury my money with me."
 
-
 After death his eyes remained open. To press the lids down, silver dollars
 were laid on them. These were buried with him. From this circumstance, a
 rumor went abroad that his coffin was filled with money. Three times his
@@ -1836,7 +1698,6 @@ grave was opened, and his coffin taken out. The last time, his body was
 found on the ground, and a flock of buzzards were pecking at it. He was
 again interred, and a sentinel set over his grave. The perpetrators were
 never discovered.
-
 
 Cruelty is contagious in uncivilized communities. Mr. Conant, a neighbor
 of Mr. Litch, returned from town one evening in a partial state of
@@ -1863,14 +1724,12 @@ left him to rest. The master said he deserved a hundred more lashes. When
 his own labor was stolen from him, he had stolen food to appease his
 hunger. This was his crime.
 
-
 Another neighbor was a Mrs. Wade. At no hour of the day was there
 cessation of the lash on her premises. Her labors began with the dawn, and
 did not cease till long after nightfall. The barn was her particular place
 of torture. There she lashed the slaves with the might of a man. An old
 slave of hers once said to me, "It is hell in missis's house. 'Pears I can
 never get out. Day and night I prays to die."
-
 
 The mistress died before the old woman, and, when dying, entreated her
 husband not to permit any one of her slaves to look on her after death. A
@@ -1886,7 +1745,6 @@ room where the corpse lay; for he kept the door locked. He questioned her.
 She confessed that what the child had said was true, and told how she had
 procured the key. She was sold to Georgia.
 
-
 In my childhood I knew a valuable slave, named Charity, and loved her, as
 all children did. Her young mistress married, and took her to Louisiana.
 Her little boy, James, was sold to a good sort of master. He became
@@ -1896,7 +1754,6 @@ treatment of a dog. After a severe whipping, to save himself from further
 infliction of the lash, with which he was threatened, he took to the
 woods. He was in a most miserable condition&mdash;cut by the cowskin, half
 naked, half starved, and without the means of procuring a crust of bread.
-
 
 Some weeks after his escape, he was captured, tied, and carried back to
 his master's plantation. This man considered punishment in his jail, on
@@ -1912,7 +1769,6 @@ not lie on his back. Every morning a slave was sent with a piece of bread
 and bowl of water, which was placed within reach of the poor fellow. The
 slave was charged, under penalty of severe punishment, not to speak to
 him.
-
 
 Four days passed, and the slave continued to carry the bread and water. On
 the second morning, he found the bread gone, but the water untouched. When
@@ -1945,13 +1801,11 @@ him, to tear his flesh from his bones. The master who did these things was
 highly educated, and styled a perfect gentleman. He also boasted the name
 and standing of a Christian, though Satan never had a truer follower.
 
-
 I could tell of more slaveholders as cruel as those I have described. They
 are not exceptions to the general rule. I do not say there are no humane
 slaveholders. Such characters do exist, notwithstanding the hardening
 influences around them. But they are "like angels' visits&mdash;few and
 far between."
-
 
 I knew a young lady who was one of these rare specimens. She was an
 orphan, and inherited as slaves a woman and her six children. Their father
@@ -1966,7 +1820,6 @@ again. The eldest daughter of the slave mother was promised in marriage to
 a free man; and the day before the wedding this good mistress emancipated
 her, in order that her marriage might have the sanction of <i>law</i>.
 
-
 Report said that this young lady cherished an unrequited affection for a
 man who had resolved to marry for wealth. In the course of time a rich
 uncle of hers died. He left six thousand dollars to his two sons by a
@@ -1980,7 +1833,6 @@ where as with her. I was not surprised. I had often seen them in their
 comfortable home, and thought that the whole town did not contain a
 happier family. They had never felt slavery; and, when it was too late,
 they were convinced of its reality.
-
 
 When the new master claimed this family as his property, the father became
 furious, and went to his mistress for protection. "I can do nothing for
@@ -2003,7 +1855,6 @@ every kindness to the slaves that her unfortunate circumstances permitted.
 She passed away peacefully, glad to close her eyes on a life which had
 been made so wretched by the man she loved.
 
-
 This man squandered the fortune he had received, and sought to retrieve
 his affairs by a second marriage; but, having retired after a night of
 drunken debauch, he was found dead in the morning. He was called a good
@@ -2011,7 +1862,6 @@ master; for he fed and clothed his slaves better than most masters, and
 the lash was not heard on his plantation so frequently as on many others.
 Had it not been for slavery, he would have been a better man, and his wife
 a happier woman.
-
 
 No pen can give an adequate description of the all-pervading corruption
 produced by slavery. The slave girl is reared in an atmosphere of
@@ -2025,11 +1875,9 @@ mistress; she may have a lover, whose good opinion and peace of mind are
 dear to her heart; or the profligate men who have power over her may be
 exceedingly odious to her. But resistance is hopeless.
 
-
 The poor worm
 Shall prove her contest vain. Life's little day
 Shall pass, and she is gone!
-
 
 The slaveholder's sons are, of course, vitiated, even while boys, by the
 unclean influences every where around them. Nor do the master's daughters
@@ -2051,13 +1899,11 @@ father, half frantic with rage, sought to revenge himself on the offending
 black man; but his daughter, foreseeing the storm that would arise, had
 given him free papers, and sent him out of the state.
 
-
 In such cases the infant is smothered, or sent where it is never seen by
 any who know its history. But if the white parent is the <i>father</i>,
 instead of the mother, the offspring are unblushingly reared for the
 market. If they are girls, I have indicated plainly enough what will be
 their inevitable destiny.
-
 
 You may believe what I say; for I write only that whereof I know. I was
 twenty-one years in that cage of obscene birds. I can testify, from my own
@@ -2068,11 +1914,9 @@ wretched. And as for the colored race, it needs an abler pen than mine to
 describe the extremity of their sufferings, the depth of their
 degradation.
 
-
 Yet few slaveholders seem to be aware of the widespread moral ruin
 occasioned by this wicked system. Their talk is of blighted cotton crops&mdash;not
 of the blight on their children's souls.
-
 
 If you want to be fully convinced of the abominations of slavery, go on a
 southern plantation, and call yourself a negro trader. Then there will be
@@ -2105,7 +1949,6 @@ thing, every thing, for the sake of defeating him. What <i>could</i> I do?
 I thought and thought, till I became desperate, and made a plunge into the
 abyss.
 
-
 And now, reader, I come to a period in my unhappy life, which I would
 gladly forget if I could. The remembrance fills me with sorrow and shame.
 It pains me to tell you of it; but I have promised to tell you the truth,
@@ -2118,7 +1961,6 @@ my childhood. The influences of slavery had had the same effect on me that
 they had on other young girls; they had made me prematurely knowing,
 concerning the evil ways of the world. I knew what I did, and I did it
 with deliberate calculation.
-
 
 But, O, ye happy women, whose purity has been sheltered from childhood,
 who have been free to choose the objects of your affection, whose homes
@@ -2133,7 +1975,6 @@ grasp of the demon Slavery; and the monster proved too strong for me. I
 felt as if I was forsaken by God and man; as if all my efforts must be
 frustrated; and I became reckless in my despair.
 
-
 I have told you that Dr. Flint's persecutions and his wife's jealousy had
 given rise to some gossip in the neighborhood. Among others, it chanced
 that a white unmarried gentleman had obtained some knowledge of the
@@ -2143,7 +1984,6 @@ questions about my master, which I answered in part. He expressed a great
 deal of sympathy, and a wish to aid me. He constantly sought opportunities
 to see me, and wrote to me frequently. I was a poor slave girl, only
 fifteen years old.
-
 
 So much attention from a superior person was, of course, flattering; for
 human nature is the same in all. I also felt grateful for his sympathy,
@@ -2163,7 +2003,6 @@ unmarried man, as with one who has a wife to be made unhappy. There may be
 sophistry in all this; but the condition of a slave confuses all
 principles of morality, and, in fact, renders the practice of them
 impossible.
-
 
 When I found that my master had actually begun to build the lonely
 cottage, other feelings mixed with those I have described. Revenge, and
@@ -2195,14 +2034,12 @@ and humiliating memory will haunt me to my dying day. Still, in looking
 back, calmly, on the events of my life, I feel that the slave woman ought
 not to be judged by the same standard as others.
 
-
 The months passed on. I had many unhappy hours. I secretly mourned over
 the sorrow I was bringing on my grandmother, who had so tried to shield me
 from harm. I knew that I was the greatest comfort of her old age, and that
 it was a source of pride to her that I had not degraded myself, like most
 of the slaves. I wanted to confess to her that I was no longer worthy of
 her love; but I could not utter the dreaded words.
-
 
 As for Dr. Flint, I had a feeling of satisfaction and triumph in the
 thought of telling <i>him</i>. From time to time he told me of his
@@ -2211,9 +2048,7 @@ cottage was completed, and ordered me to go to it. I told him I would
 never enter it. He said, "I have heard enough of such talk as that. You
 shall go, if you are carried by force; and you shall remain there."
 
-
 I replied, "I will never go there. In a few months I shall be a mother."
-
 
 He stood and looked at me in dumb amazement, and left the house without a
 word. I thought I should be happy in my triumph over him. But now that the
@@ -2222,7 +2057,6 @@ as were their circumstances, they had pride in my good character. Now, how
 could I look at them in the face? My self-respect was gone! I had resolved
 that I would be virtuous, though I was a slave. I had said, "Let the storm
 beat! I will brave it till I die." And now, how humiliated I felt!
-
 
 I went to my grandmother. My lips moved to make confession, but the words
 stuck in my throat. I sat down in the shade of a tree at her door and
@@ -2249,7 +2083,6 @@ to come there again. After a few minutes, I mustered strength, and started
 to obey her. With what feelings did I now close that little gate, which I
 used to open with such an eager hand in my childhood! It closed upon me
 with a sound I never heard before.
-
 
 Where could I go? I was afraid to return to my master's. I walked on
 recklessly, not caring where I went, or what would become of me. When I
@@ -2284,7 +2117,6 @@ there were not plenty of slaves who did not care about character,&mdash;he
 made no answer, but he spoke kind and encouraging words. He promised to
 care for my child, and to buy me, be the conditions what they might.
 
-
 I had not seen Dr. Flint for five days. I had never seen him since I made
 the avowal to him. He talked of the disgrace I had brought on myself; how
 I had sinned against my master, and mortified my old grandmother. He
@@ -2293,12 +2125,10 @@ have saved me from exposure. He even condescended to pity me. Could he
 have offered wormwood more bitter? He, whose persecutions had been the
 cause of my sin!
 
-
 "Linda," said he, "though you have been criminal towards me, I feel for
 you, and I can pardon you if you obey my wishes. Tell me whether the
 fellow you wanted to marry is the father of your child. If you deceive me,
 you shall feel the fires of hell."
-
 
 I did not feel as proud as I had done. My strongest weapon with him was
 gone. I was lowered in my own estimation, and had resolved to bear his
@@ -2306,7 +2136,6 @@ abuse in silence. But when he spoke contemptuously of the lover who had
 always treated me honorably; when I remembered that but for <i>him</i> I
 might have been a virtuous, free, and happy wife, I lost my patience. "I
 have sinned against God and myself," I replied; "but not against you."
-
 
 He clinched his teeth, and muttered, "Curse you!" He came towards me, with
 ill-suppressed rage, and exclaimed, "You obstinate girl! I could grind
@@ -2321,7 +2150,6 @@ Others cannot do it. You are my slave. Your mistress, disgusted by your
 conduct, forbids you to return to the house; therefore I leave you here
 for the present; but I shall see you often. I will call to-morrow."
 
-
 He came with frowning brows, that showed a dissatisfied state of mind.
 After asking about my health, he inquired whether my board was paid, and
 who visited me. He then went on to say that he had neglected his duty;
@@ -2333,9 +2161,7 @@ white or black." I hesitated. "Answer me this instant!" he exclaimed. I
 did answer. He sprang upon me like a wolf, and grabbed my arm as if he
 would have broken it. "Do you love him?" said he, in a hissing tone.
 
-
 "I am thankful that I do not despise him," I replied.
-
 
 He raised his hand to strike me; but it fell again. I don't know what
 arrested the blow. He sat down, with lips tightly compressed. At last he
@@ -2344,7 +2170,6 @@ your ingratitude chafes me beyond endurance. You turn aside all my good
 intentions towards you. I don't know what it is that keeps me from killing
 you." Again he rose, as if he had a mind to strike me.
 
-
 But he resumed. "On one condition I will forgive your insolence and crime.
 You must henceforth have no communication of any kind with the father of
 your child. You must not ask any thing from him, or receive any thing from
@@ -2352,22 +2177,18 @@ him. I will take care of you and your child. You had better promise this
 at once, and not wait till you are deserted by him. This is the last act
 of mercy I shall show towards you."
 
-
 I said something about being unwilling to have my child supported by a man
 who had cursed it and me also. He rejoined, that a woman who had sunk to
 my level had no right to expect any thing else. He asked, for the last
 time, would I accept his kindness? I answered that I would not.
 
-
 "Very well," said he; "then take the consequences of your wayward course.
 Never look to me for help. You are my slave, and shall always be my slave.
 I will never sell you, that you may depend upon."
 
-
 Hope died away in my heart as he closed the door after him. I had
 calculated that in his rage he would sell me to a slave-trader; and I knew
 the father of my child was on the watch to buy me.
-
 
 About this time my uncle Phillip was expected to return from a voyage. The
 day before his departure I had officiated as bridesmaid to a young friend.
@@ -2376,7 +2197,6 @@ it. Only a year had passed; but what fearful changes it had wrought! My
 heart had grown gray in misery. Lives that flash in sunshine, and lives
 that are born in tears, receive their hue from circumstances. None of us
 know what a year may bring forth.
-
 
 I felt no joy when they told me my uncle had come. He wanted to see me,
 though he knew what had happened. I shrank from him at first; but at last
@@ -2390,7 +2210,6 @@ of slave girls? Many more beautiful and more intelligent than I had
 experienced a similar fate, or a far worse one. How could they hope that I
 should escape?
 
-
 My uncle's stay was short, and I was not sorry for it. I was too ill in
 mind and body to enjoy my friends as I had done. For some weeks I was
 unable to leave my bed. I could not have any doctor but my master, and I
@@ -2398,7 +2217,6 @@ would not have him sent for. At last, alarmed by my increasing illness,
 they sent for him. I was very weak and nervous; and as soon as he entered
 the room, I began to scream. They told him my state was very critical. He
 had no wish to hasten me out of the world, and he withdrew.
-
 
 When my babe was born, they said it was premature. It weighed only four
 pounds; but God let it live. I heard the doctor say I could not survive
@@ -2409,7 +2227,6 @@ scarcely a day when I was free from chills and fever. My babe also was
 sickly. His little limbs were often racked with pain. Dr. Flint continued
 his visits, to look after my health; and he did not fail to remind me that
 my child was an addition to his stock of slaves.
-
 
 I felt too feeble to dispute with him, and listened to his remarks in
 silence. His visits were less frequent; but his busy spirit could not
@@ -2444,7 +2261,6 @@ office work; but every thing went wrong without William. He was released,
 and ordered to take his old stand, with many threats, if he was not
 careful about his future behavior.
 
-
 As the months passed on, my boy improved in health. When he was a year
 old, they called him beautiful. The little vine was taking deep root in my
 existence, though its clinging fondness excited a mixture of love and
@@ -2464,13 +2280,11 @@ bestowed it upon him, my master would have regarded it as a new crime, a
 new piece of insolence, and would, perhaps, revenge it on the boy. O, the
 serpent of Slavery has many and poisonous fangs!
 
-
 ## XII. Fear Of Insurrection.
 
 Not far from this time Nat Turner's insurrection broke out; and the news
 threw our town into great commotion. Strange that they should be alarmed,
 when their slaves were so "contented and happy"! But so it was.
-
 
 It was always the custom to have a muster every year. On that occasion
 every white man shouldered his musket. The citizens and the so-called
@@ -2482,7 +2296,6 @@ Poor creatures! They thought it was going to be a holiday. I was informed
 of the true state of affairs, and imparted it to the few I could trust.
 Most gladly would I have proclaimed it to every slave; but I dared not.
 All could not be relied on. Mighty is the power of the torturing lash.
-
 
 By sunrise, people were pouring in from every quarter within twenty miles
 of the town. I knew the houses were to be searched; and I expected it
@@ -2496,7 +2309,6 @@ my eye could reach, it rested on a motley crowd of soldiers. Drums and
 fifes were discoursing martial music. The men were divided into companies
 of sixteen, each headed by a captain. Orders were given, and the wild
 scouts rushed in every direction, wherever a colored face was to be found.
-
 
 It was a grand opportunity for the low whites, who had no negroes of their
 own to scourge. They exulted in such a chance to exercise a little brief
@@ -2526,7 +2338,6 @@ about white men. The consternation was universal. No two people that had
 the slightest tinge of color in their faces dared to be seen talking
 together.
 
-
 I entertained no positive fears about our household, because we were in
 the midst of white families who would protect us. We were ready to receive
 the soldiers whenever they came. It was not long before we heard the tramp
@@ -2538,10 +2349,8 @@ change was eagerly pounced upon. When I stepped forward to take it from
 them, one of the soldiers turned and said angrily, "What d'ye foller us
 fur? D'ye s'pose white folks is come to steal?"
 
-
 I replied, "You have come to search; but you have searched that box, and I
 will take it, if you please."
-
 
 At that moment I saw a white gentleman who was friendly to us; and I
 called to him, and asked him to have the goodness to come in and stay till
@@ -2554,24 +2363,19 @@ felt above soiling his hands with the search. He merely gave orders; and,
 if a bit of writing was discovered, it was carried to him by his ignorant
 followers, who were unable to read.
 
-
 My grandmother had a large trunk of bedding and table cloths. When that
 was opened, there was a great shout of surprise; and one exclaimed,
 "Where'd the damned niggers git all dis sheet an' table clarf?"
 
-
 My grandmother, emboldened by the presence of our white protector said,
 "You may be sure we didn't pilfer 'em from <i>your</i> houses."
-
 
 "Look here, mammy," said a grim-looking fellow without any coat, "you seem
 to feel mighty gran' 'cause you got all them 'ere fixens. White folks
 oughter have 'em all."
 
-
 His remarks were interrupted by a chorus of voices shouting, "We's got
 'em! We's got 'em! Dis 'ere yaller gal's got letters!"
-
 
 There was a general rush for the supposed letter, which, upon examination,
 proved to be some verses written to me by a friend. In packing away my
@@ -2587,7 +2391,6 @@ half free niggers?" inquired he. I replied, "O, no; most of my letters are
 from white people. Some request me to burn them after they are read, and
 some I destroy without reading."
 
-
 An exclamation of surprise from some of the company put a stop to our
 conversation. Some silver spoons which ornamented an old-fashioned buffet
 had just been discovered. My grandmother was in the habit of preserving
@@ -2596,13 +2399,11 @@ consequently she had many jars of preserves. The closet that contained
 these was next invaded, and the contents tasted. One of them, who was
 helping himself freely, tapped his neighbor on the shoulder, and said,
 "Wal done! Don't wonder de niggers want to kill all de white folks, when
-dey live on 'sarves" [meaning preserves]. I stretched out my hand to take
+dey live on 'sarves" \[meaning preserves]. I stretched out my hand to take
 the jar, saying, "You were not sent here to search for sweetmeats."
-
 
 "And what <i>were</i> we sent for?" said the captain, bristling up to me.
 I evaded the question.
-
 
 The search of the house was completed, and nothing found to condemn us.
 They next proceeded to the garden, and knocked about every bush and vine,
@@ -2612,7 +2413,6 @@ the gate, the captain turned back, and pronounced a malediction on the
 house. He said it ought to be burned to the ground, and each of its
 inmates receive thirty-nine lashes. We came out of this affair very
 fortunately; not losing any thing except some wearing apparel.
-
 
 Towards evening the turbulence increased. The soldiers, stimulated by
 drink, committed still greater cruelties. Shrieks and shouts continually
@@ -2626,14 +2426,12 @@ shoot him on Court House Green. What a spectacle was that for a civilized
 country! A rabble, staggering under intoxication, assuming to be the
 administrators of justice!
 
-
 The better class of the community exerted their influence to save the
 innocent, persecuted people; and in several instances they succeeded, by
 keeping them shut up in jail till the excitement abated. At last the white
 citizens found that their own property was not safe from the lawless
 rabble they had summoned to protect them. They rallied the drunken swarm,
 drove them back into the country, and set a guard over the town.
-
 
 The next day, the town patrols were commissioned to search colored people
 that lived out of the city; and the most shocking outrages were committed
@@ -2646,7 +2444,6 @@ fortitude to endure scourging, promised to give information about the
 conspiracy. But it turned out that he knew nothing at all. He had not even
 heard the name of Nat Turner. The poor fellow had, however, made up a
 story, which augmented his own sufferings and those of the colored people.
-
 
 The day patrol continued for some weeks, and at sundown a night guard was
 substituted. Nothing at all was proved against the colored people, bond or
@@ -2666,7 +2463,6 @@ friends." They obeyed the summons, and partook of the bread and wine, in
 commemoration of the meek and lowly Jesus, who said, "God is your Father,
 and all ye are brethren."
 
-
 ## XIII. The Church And Slavery.
 
 After the alarm caused by Nat Turner's insurrection had subsided, the
@@ -2681,7 +2477,6 @@ carpets and cushions were not so costly as those at the Episcopal church.
 It was at last decided that they should meet at the house of a free
 colored man, who was a member.
 
-
 I was invited to attend, because I could read. Sunday evening came, and,
 trusting to the cover of night, I ventured out. I rarely ventured out by
 daylight, for I always went with fear, expecting at every turn to
@@ -2692,11 +2487,9 @@ reverend gentleman knelt in prayer, then seated himself, and requested all
 present, who could read, to open their books, while he gave out the
 portions he wished them to repeat or respond to.
 
-
 His text was, "Servants, be obedient to them that are your masters
 according to the flesh, with fear and trembling, in singleness of your
 heart, as unto Christ."
-
 
 Pious Mr. Pike brushed up his hair till it stood upright, and, in deep,
 solemn tones, began: "Hearken, ye servants! Give strict heed unto my
@@ -2724,14 +2517,12 @@ you offend your heavenly Master. You must obey God's commandments. When
 you go from here, don't stop at the corners of the streets to talk, but go
 directly home, and let your master and mistress see that you have come."
 
-
 The benediction was pronounced. We went home, highly amused at brother
 Pike's gospel teaching, and we determined to hear him again. I went the
 next Sabbath evening, and heard pretty much a repetition of the last
 discourse. At the close of the meeting, Mr. Pike informed us that he found
 it very inconvenient to meet at the friend's house, and he should be glad
 to see us, every Sunday evening, at his own kitchen.
-
 
 I went home with the feeling that I had heard the Reverend Mr. Pike for
 the last time. Some of his members repaired to his house, and found that
@@ -2744,10 +2535,8 @@ meetings. Many of them are sincere, and nearer to the gate of heaven than
 sanctimonious Mr. Pike, and other long-faced Christians, who see wounded
 Samaritans, and pass by on the other side.
 
-
 The slaves generally compose their own songs and hymns; and they do not
 trouble their heads much about the measure. They often sing the following verses:
-
 
    Old Satan is one busy ole man;
    He rolls dem blocks all in my way;
@@ -2759,7 +2548,6 @@ trouble their heads much about the measure. They often sing the following verses
    But I am ole, and now I stand
    A narrow chance for to tread dat heavenly land.
 
-
 I well remember one occasion when I attended a Methodist class meeting. I went with a burdened spirit, and happened to sit next a poor, bereaved
 mother, whose heart was still heavier than mine. The class leader was the
 town constable&mdash;a man who bought and sold slaves, who whipped his
@@ -2768,7 +2556,6 @@ out of jail. He was ready to perform that Christian office any where for
 fifty cents. This white-faced, black-hearted brother came near us, and
 said to the stricken woman, "Sister, can't you tell us how the Lord deals
 with your soul? Do you love him as you did formerly?"
-
 
 She rose to her feet, and said, in piteous tones, "My Lord and Master,
 help me! My load is more than I can bear. God has hid himself from me, and
@@ -2779,7 +2566,6 @@ They let me have her sixteen years, and then&mdash;O! O! Pray for her
 brothers and sisters! I've got nothing to live for now. God make my time
 short!"
 
-
 She sat down, quivering in every limb. I saw that constable class leader
 become crimson in the face with suppressed laughter, while he held up his
 handkerchief, that those who were weeping for the poor woman's calamity
@@ -2787,10 +2573,8 @@ might not see his merriment. Then, with assumed gravity, he said to the
 bereaved mother, "Sister, pray to the Lord that every dispensation of his
 divine will may be sanctified to the good of your poor needy soul!"
 
-
 The congregation struck up a hymn, and sung as though they were as free as
 the birds that warbled round us,&mdash;
-
 
    Ole Satan thought he had a mighty aim;
    He missed my soul, and caught my sins.
@@ -2804,12 +2588,10 @@ the birds that warbled round us,&mdash;
    Up to God's free church I hope to go.
    Cry Amen, cry Amen, cry Amen to God!
 
-
 Precious are such moments to the poor slaves. If you were to hear them at
 such times, you might think they were happy. But can that hour of singing
 and shouting sustain them through the dreary week, toiling without wages,
 under constant dread of the lash?
-
 
 The Episcopal clergyman, who, ever since my earliest recollection, had
 been a sort of god among the slaveholders, concluded, as his family was
@@ -2844,7 +2626,6 @@ funds to establish them comfortably. The colored people will long bless
 the memory of that truly Christian woman. Soon after her death her husband
 preached his farewell sermon, and many tears were shed at his departure.
 
-
 Several years after, he passed through our town and preached to his former
 congregation. In his afternoon sermon he addressed the colored people. "My
 friends," said he, "it affords me great happiness to have an opportunity
@@ -2856,7 +2637,6 @@ but God judges men by their hearts, not by the color of their skins." This
 was strange doctrine from a southern pulpit. It was very offensive to
 slaveholders. They said he and his wife had made fools of their slaves,
 and that he preached like a fool to the negroes.
-
 
 I knew an old black man, whose piety and childlike trust in God were
 beautiful to witness. At fifty-three years old he joined the Baptist
@@ -2880,24 +2660,19 @@ is got all de sense. He can larn easy. It ain't easy for ole black man
 like me. I only wants to read dis book, dat I may know how to live; den I
 hab no fear 'bout dying."
 
-
 I tried to encourage him by speaking of the rapid progress he had made.
 "Hab patience, child," he replied. "I larns slow."
 
-
 I had no need of patience. His gratitude, and the happiness imparted, were
 more than a recompense for all my trouble.
-
 
 At the end of six months he had read through the New Testament, and could
 find any text in it. One day, when he had recited unusually well, I said,
 "Uncle Fred, how do you manage to get your lessons so well?"
 
-
 "Lord bress you, chile," he replied. "You nebber gibs me a lesson dat I
 don't pray to God to help me to understan' what I spells and what I reads.
 And he <i>does</i> help me, chile. Bress his holy name!"
-
 
 There are thousands, who, like good uncle Fred, are thirsting for the
 water of life; but the law forbids it, and the churches withhold it. They
@@ -2911,7 +2686,6 @@ men are brethren, and that man has no right to shut out the light of
 knowledge from his brother. Tell them they are answerable to God for
 sealing up the Fountain of Life from souls that are thirsting for it.
 
-
 There are men who would gladly undertake such missionary work as this;
 but, alas! their number is small. They are hated by the south, and would
 be driven from its soil, or dragged to prison to die, as others have been
@@ -2919,7 +2693,6 @@ before them. The field is ripe for the harvest, and awaits the reapers.
 Perhaps the great grandchildren of uncle Fred may have freely imparted to
 them the divine treasures, which he sought by stealth, at the risk of the
 prison and the scourge.
-
 
 Are doctors of divinity blind, or are they hypocrites? I suppose some are
 the one, and some the other; but I think if they felt the interest in the
@@ -2940,7 +2713,6 @@ slavery for himself; that it is a beautiful "patriarchal institution;"
 that the slaves don't want their freedom; that they have hallelujah
 meetings and other religious privileges.
 
-
 What does <i>he</i> know of the half-starved wretches toiling from dawn
 till dark on the plantations? of mothers shrieking for their children,
 torn from their arms by slave traders? of young girls dragged down into
@@ -2949,14 +2721,12 @@ to tear human flesh? of men screwed into cotton gins to die? The
 slaveholder showed him none of these things, and the slaves dared not tell
 of them if he had asked them.
 
-
 There is a great difference between Christianity and religion at the
 south. If a man goes to the communion table, and pays money into the
 treasury of the church, no matter if it be the price of blood, he is
 called religious. If a pastor has offspring by a woman not his wife, the
 church dismiss him, if she is a white woman; but if she is colored, it
 does not hinder his continuing to be their good shepherd.
-
 
 When I was told that Dr. Flint had joined the Episcopal church, I was much
 surprised. I supposed that religion had a purifying effect on the
@@ -2969,30 +2739,23 @@ said he. "It was proper for me to do so. I am getting in years, and my
 position in society requires it, and it puts an end to all the damned
 slang. You would do well to join the church, too, Linda."
 
-
 "There are sinners enough in it already," rejoined I. "If I could be
 allowed to live like a Christian, I should be glad."
-
 
 "You can do what I require; and if you are faithful to me, you will be as
 virtuous as my wife," he replied.
 
-
 I answered that the Bible didn't say so.
-
 
 His voice became hoarse with rage. "How dare you preach to me about your
 infernal Bible!" he exclaimed. "What right have you, who are my negro, to
 talk to me about what you would like and what you wouldn't like? I am your
 master, and you shall obey me."
 
-
 No wonder the slaves sing,&mdash;
-    
 
    Ole Satan's church is here below;
    Up to God's free church I hope to go.
-
 
 ## XIV. Another Link To Life.
 
@@ -3011,11 +2774,9 @@ the good and pure. Alas! slavery still held me in its poisonous grasp.
 There was no chance for me to be respectable. There was no prospect of
 being able to lead a better life.
 
-
 Sometimes, when my master found that I still refused to accept what he
 called his kind offers, he would threaten to sell my child. "Perhaps that
 will humble you," said he.
-
 
 Humble <i>me</i>! Was I not already in the dust? But his threat lacerated
 my heart. I knew the law gave him power to fulfil it; for slaveholders
@@ -3028,7 +2789,6 @@ into the slave trader's hands. I wept over him, and said, "O my child!
 perhaps they will leave you in some cold cabin to die, and then throw you
 into a hole, as if you were a dog."
 
-
 When Dr. Flint learned that I was again to be a mother, he was exasperated
 beyond measure. He rushed from the house, and returned with a pair of
 shears. I had a fine head of hair; and he often railed about my pride of
@@ -3038,7 +2798,6 @@ Some months before, he had pitched me down stairs in a fit of passion; and
 the injury I received was so serious that I was unable to turn myself in
 bed for many days. He then said, "Linda, I swear by God I will never raise
 my hand against you again;" but I knew that he would forget his promise.
-
 
 After he discovered my situation, he was like a restless spirit from the
 pit. He came every day; and I was subjected to such insults as no pen can
@@ -3050,12 +2809,10 @@ heard him utter oaths terrible enough to palsy a man's tongue, she could
 not always hold her peace. It was natural and motherlike that she should
 try to defend me; but it only made matters worse.
 
-
 When they told me my new-born babe was a girl, my heart was heavier than
 it had ever been before. Slavery is terrible for men; but it is far more
 terrible for women. Superadded to the burden common to all, <i>they</i>
 have wrongs, and sufferings, and mortifications peculiarly their own.
-
 
 Dr. Flint had sworn that he would make me suffer, to my last day, for this
 new crime against <i>him</i>, as he called it; and as long as he had me in
@@ -3080,7 +2837,6 @@ was glad for the sake of my little ones. Had it not been for these ties to
 life, I should have been glad to be released by death, though I had lived
 only nineteen years.
 
-
 Always it gave me a pang that my children had no lawful claim to a name.
 Their father offered his; but, if I had wished to accept the offer, I
 dared not while my master lived. Moreover, I knew it would not be accepted
@@ -3088,14 +2844,12 @@ at their baptism. A Christian name they were at least entitled to; and we
 resolved to call my boy for our dear good Benjamin, who had gone far away
 from us.
 
-
 My grandmother belonged to the church; and she was very desirous of having
 the children christened. I knew Dr. Flint would forbid it, and I did not
 venture to attempt it. But chance favored me. He was called to visit a
 patient out of town, and was obliged to be absent during Sunday. "Now is
 the time," said my grandmother; "we will take the children to church, and
 have them christened."
-
 
 When I entered the church, recollections of my mother came over me, and I
 felt subdued in spirit. There she had presented me for baptism, without
@@ -3108,14 +2862,12 @@ presented for baptism. Why had my lot been so different from my mother's?
 mistress till she married. She was never in the power of any master; and
 thus she escaped one class of the evils that generally fall upon slaves.
 
-
 When my baby was about to be christened, the former mistress of my father
 stepped up to me, and proposed to give it her Christian name. To this I
 added the surname of my father, who had himself no legal right to it; for
 my grandfather on the paternal side was a white gentleman. What tangled
 skeins are the genealogies of slavery! I loved my father; but it mortified
 me to be obliged to bestow his name on my children.
-
 
 When we left the church, my father's old mistress invited me to go home
 with her. She clasped a gold chain round my baby's neck. I thanked her for
@@ -3130,7 +2882,6 @@ My children grew finely; and Dr. Flint would often say to me, with an
 exulting smile. "These brats will bring me a handsome sum of money one of
 these days."
 
-
 I thought to myself that, God being my helper, they should never pass into
 his hands. It seemed to me I would rather see them killed than have them
 given up to his power. The money for the freedom of myself and my children
@@ -3143,7 +2894,6 @@ nine hundred dollars, and go up to twelve. My master refused his offers.
 and I have no right to sell her. I mistrust that you come from her
 paramour. If so, you may tell him that he cannot buy her for any money;
 neither can he buy her children."
-
 
 The doctor came to see me the next day, and my heart beat quicker as he
 entered. I never had seen the old man tread with so majestic a step. He
@@ -3166,30 +2916,23 @@ may be assured you will not succeed. You are mine; and you shall be mine
 for life. There lives no human being that can take you out of slavery. I
 would have done it; but you rejected my kind offer."
 
-
 I told him I did not wish to get up any intrigue; that I had never seen
 the man who offered to buy me.
-
 
 "Do you tell me I lie?" exclaimed he, dragging me from my chair. "Will you
 say again that you never saw that man?"
 
-
 I answered, "I do say so."
-
 
 He clinched my arm with a volley of oaths. Ben began to scream, and I told
 him to go to his grandmother.
-
 
 "Don't you stir a step, you little wretch!" said he. The child drew nearer
 to me, and put his arms round me, as if he wanted to protect me. This was
 too much for my enraged master. He caught him up and hurled him across the
 room. I thought he was dead, and rushed towards him to take him up.
 
-
 "Not yet!" exclaimed the doctor. "Let him lie there till he comes to."
-
 
 "Let me go! Let me go!" I screamed, "or I will raise the whole house." I
 struggled and got away; but he clinched me again. Somebody opened the
@@ -3202,7 +2945,6 @@ rival more closely than he watched me and the unknown slaveholder, with
 whom he accused me of wishing to get up an intrigue. When my grandmother
 was out of the way he searched every room to find him.
 
-
 In one of his visits, he happened to find a young girl, whom he had sold
 to a trader a few days previous. His statement was, that he sold her
 because she had been too familiar with the overseer. She had had a bitter
@@ -3214,7 +2956,6 @@ gathering up of his human stock. Such a favor was rarely granted. It saved
 the trader the expense of board and jail fees, and though the amount was
 small, it was a weighty consideration in a slavetrader's mind.
 
-
 Dr. Flint always had an aversion to meeting slaves after he had sold them.
 He ordered Rose out of the house; but he was no longer her master, and she
 took no notice of him. For once the crushed Rose was the conqueror. His
@@ -3222,11 +2963,9 @@ gray eyes flashed angrily upon her; but that was the extent of his power.
 "How came this girl here?" he exclaimed. "What right had you to allow it,
 when you knew I had sold her?"
 
-
 I answered, "This is my grandmother's house, and Rose came to see her. I
 have no right to turn any body out of doors, that comes here for honest
 purposes."
-
 
 He gave me the blow that would have fallen upon Rose if she had still been
 his slave. My grandmother's attention had been attracted by loud voices,
@@ -3237,7 +2976,6 @@ and higher, and finally boiled over in words. "Get out of my house!" she
 exclaimed. "Go home, and take care of your wife and children, and you will
 have enough to do, without watching my family."
 
-
 He threw the birth of my children in her face, and accused her of
 sanctioning the life I was leading. She told him I was living with her by
 compulsion of his wife; that he needn't accuse her, for he was the one to
@@ -3247,12 +2985,9 @@ ain't got many more years to live, and you'd better be saying your
 prayers. It will take 'em all, and more too, to wash the dirt off your
 soul."
 
-
 "Do you know whom you are talking to?" he exclaimed.
 
-
 She replied, "Yes, I know very well who I am talking to."
-
 
 He left the house in a great rage. I looked at my grandmother. Our eyes
 met. Their angry expression had passed away, but she looked sorrowful and
@@ -3262,14 +2997,12 @@ always ready to sympathize with my troubles. There might have been peace
 and contentment in that humble home if it had not been for the demon
 Slavery.
 
-
 The winter passed undisturbed by the doctor. The beautiful spring came;
 and when Nature resumes her loveliness, the human soul is apt to revive
 also. My drooping hopes came to life again with the flowers. I was
 dreaming of freedom again; more for my children's sake than my own. I
 planned and I planned. Obstacles hit against plans. There seemed no way of
 overcoming them; and yet I hoped.
-
 
 Back came the wily doctor. I was not at home when he called. A friend had
 invited me to a small party, and to gratify her I went. To my great
@@ -3287,11 +3020,9 @@ coming. "I suppose you need some recreation," said he, "but I am surprised
 at your being there, among those negroes. It was not the place for <i>you</i>.
 Are you <i>allowed</i> to visit such people?"
 
-
 I understood this covert fling at the white gentleman who was my friend;
 but I merely replied, "I went to visit my friends, and any company they
 keep is good enough for me."
-
 
 He went on to say, "I have seen very little of you of late, but my
 interest in you is unchanged. When I said I would have no more mercy on
@@ -3305,19 +3036,14 @@ home and freedom! Let the past be forgotten. If I have been harsh with you
 at times, your willfulness drove me to it. You know I exact obedience from
 my own children, and I consider you as yet a child."
 
-
 He paused for an answer, but I remained silent. "Why don't you speak?"
 said he. "What more do you wait for?"
 
-
 "Nothing, sir."
-
 
 "Then you accept my offer?"
 
-
 "No, sir."
-
 
 His anger was ready to break loose; but he succeeded in curbing it, and
 replied, "You have answered without thought. But I must let you know there
@@ -3328,15 +3054,12 @@ to remain till your young mistress is married; and your children shall
 fare like the rest of the negro children. I give you a week to consider
 it."
 
-
 He was shrewd; but I knew he was not to be trusted. I told him I was ready
 to give my answer now.
-
 
 "I will not receive it now," he replied. "You act too much from impulse.
 Remember that you and your children can be free a week from to-day if you
 choose."
-
 
 On what a monstrous chance hung the destiny of my children! I knew that my
 master's offer was a snare, and that if I entered it escape would be
@@ -3348,7 +3071,6 @@ was appalling. Even if I should kneel before him, and implore him to spare
 me, for the sake of my children, I knew he would spurn me with his foot,
 and my weakness would be his triumph.
 
-
 Before the week expired, I heard that young Mr. Flint was about to be
 married to a lady of his own stamp. I foresaw the position I should occupy
 in his establishment. I had once been sent to the plantation for
@@ -3358,36 +3080,27 @@ save my children, or I would perish in the attempt. I kept my plans to
 myself; I knew that friends would try to dissuade me from them, and I
 would not wound their feelings by rejecting their advice.
 
-
 On the decisive day the doctor came, and said he hoped I had made a wise
 choice.
 
-
 "I am ready to go to the plantation, sir," I replied.
-
 
 "Have you thought how important your decision is to your children?" said
 he.
 
-
 I told him I had.
-
 
 "Very well. Go to the plantation, and my curse go with you," he replied.
 "Your boy shall be put to work, and he shall soon be sold; and your girl
 shall be raised for the purpose of selling well. Go your own ways!" He
 left the room with curses, not to be repeated.
 
-
 As I stood rooted to the spot, my grandmother came and said, "Linda,
 child, what did you tell him?"
 
-
 I answered that I was going to the plantation.
 
-
 "<i>Must</i> you go?" said she. "Can't something be done to stop it?"
-
 
 I told her it was useless to try; but she begged me not to give up. She
 said she would go to the doctor, and remind him how long and how
@@ -3401,7 +3114,6 @@ I expected. He coolly listened to what she said, but denied her request.
 He told her that what he did was for my good, that my feelings were
 entirely above my situation, and that on the plantation I would receive
 treatment that was suitable to my behavior.
-
 
 My grandmother was much cast down. I had my secret hopes; but I must fight
 my battle alone. I had a woman's pride, and a mother's love for my
@@ -3434,7 +3146,6 @@ it would have been quite as manly to have made it to my face. He <i>had</i>
 said things to my face which might, or might not, have surprised his
 neighbor if he had known of them. He was "a chip of the old block."
 
-
 I resolved to give him no cause to accuse me of being too much of a lady,
 so far as work was concerned. I worked day and night, with wretchedness
 before me. When I lay down beside my child, I felt how much easier it
@@ -3442,7 +3153,6 @@ would be to see her die than to see her master beat her about, as I daily
 saw him beat other little ones. The spirit of the mothers was so crushed
 by the lash, that they stood by, without courage to remonstrate. How much
 more must I suffer, before I should be "broke in" to that degree?
-
 
 I wished to appear as contented as possible. Sometimes I had an
 opportunity to send a few lines home; and this brought up recollections
@@ -3465,13 +3175,11 @@ generosity surprised me. I learned afterwards, that in the afternoon he
 had killed a large snake, which crept from under the house; and I supposed
 that incident had prompted his unusual kindness.
 
-
 The next morning the old cart was loaded with shingles for town. I put
 Ellen into it, and sent her to her grandmother. Mr. Flint said I ought to
 have asked his permission. I told him the child was sick, and required
 attention which I had no time to give. He let it pass; for he was aware
 that I had accomplished much work in a little time.
-
 
 I had been three weeks on the plantation, when I planned a visit home. It
 must be at night, after every body was in bed. I was six miles from town,
@@ -3490,7 +3198,6 @@ he sat up in bed, looking at me curiously. Having satisfied himself that
 it was I, he exclaimed, "O mother! you ain't dad, are you? They didn't cut
 off your head at the plantation, did they?"
 
-
 My time was up too soon, and my guide was waiting for me. I laid Benny
 back in his bed, and dried his tears by a promise to come again soon.
 Rapidly we retraced our steps back to the plantation. About half way we
@@ -3504,7 +3211,6 @@ were safely in the house before the horn summoned them to their labor. I
 divided my little parcel of food with my guide, knowing that he had lost
 the chance of grinding his corn, and must toil all day in the field.
 
-
 Mr. Flint often took an inspection of the house, to see that no one was
 idle. The entire management of the work was trusted to me, because he knew
 nothing about it; and rather than hire a superintendent he contented
@@ -3512,7 +3218,6 @@ himself with my arrangements. He had often urged upon his father the
 necessity of having me at the plantation to take charge of his affairs,
 and make clothes for the slaves; but the old man knew him too well to
 consent to that arrangement.
-
 
 When I had been working a month at the plantation, the great aunt of Mr.
 Flint came to make him a visit. This was the good old lady who paid fifty
@@ -3529,7 +3234,6 @@ times, their spectacles would get dim with tears, and would have to be
 taken off and wiped. When Miss Fanny bade us good by, her bag was filled
 with grandmother's best cakes, and she was urged to come again soon.
 
-
 There had been a time when Dr. Flint's wife came to take tea with us, and
 when her children were also sent to have a feast of "Aunt Marthy's" nice
 cooking. But after I became an object of her jealousy and spite, she was
@@ -3541,7 +3245,6 @@ prevented our intercourse with Miss Fanny if she could have done it, but
 fortunately she was not dependent on the bounty of the Flints. She had
 enough to be independent; and that is more than can ever be gained from
 charity, however lavish it may be.
-
 
 Miss Fanny was endeared to me by many recollections, and I was rejoiced to
 see her at the plantation. The warmth of her large, loyal heart made the
@@ -3555,7 +3258,6 @@ should she feel any peace about us. The good old soul did not dream that I
 was planning to bestow peace upon her, with regard to myself and my
 children; not by death, but by securing our freedom.
 
-
 Again and again I had traversed those dreary twelve miles, to and from the
 town; and all the way, I was meditating upon some means of escape for
 myself and my children. My friends had made every effort that ingenuity
@@ -3568,7 +3270,6 @@ taken it at the expense of leaving them in slavery. Every trial I endured,
 every sacrifice I made for their sakes, drew them closer to my heart, and
 gave me fresh courage to beat back the dark waves that rolled and rolled
 over me in a seemingly endless night of storms.
-
 
 The six weeks were nearly completed, when Mr. Flint's bride was expected
 to take possession of her new home. The arrangements were all completed,
@@ -3599,7 +3300,6 @@ heart. I have shed many and bitter tears, to think that when I am gone
 from my children they cannot remember me with such entire satisfaction as
 I remembered my mother.
 
-
 The graveyard was in the woods, and twilight was coming on. Nothing broke
 the death-like stillness except the occasional twitter of a bird. My
 spirit was overawed by the solemnity of the scene. For more than ten years
@@ -3615,7 +3315,6 @@ father's voice come from it, bidding me not to tarry till I reached
 freedom or the grave. I rushed on with renovated hopes. My trust in God
 had been strengthened by that prayer among the graves.
 
-
 My plan was to conceal myself at the house of a friend, and remain there a
 few weeks till the search was over. My hope was that the doctor would get
 discouraged, and, for fear of losing my value, and also of subsequently
@@ -3630,10 +3329,8 @@ earnestly at me, and said, "Linda, do you want to kill your old
 grandmother? Do you mean to leave your little, helpless children? I am old
 now, and cannot do for your babies as I once did for you."
 
-
 I replied, that if I went away, perhaps their father would be able to
 secure their freedom.
-
 
 "Ah, my child," said she, "don't trust too much to him. Stand by your own
 children, and suffer with them till death. Nobody respects a mother who
@@ -3643,11 +3340,9 @@ live. You would be taken and brought back, and your sufferings would be
 dreadful. Remember poor Benjamin. Do give it up, Linda. Try to bear a
 little longer. Things may turn out better than we expect."
 
-
 My courage failed me, in view of the sorrow I should bring on that
 faithful, loving old heart. I promised that I would try longer, and that I
 would take nothing out of her house without her knowledge.
-
 
 Whenever the children climbed on my knee, or laid their heads on my lap,
 she would say, "Poor little souls! what would you do without a mother? She
@@ -3655,7 +3350,6 @@ don't love you as I do." And she would hug them to her own bosom, as if to
 reproach me for my want of affection; but she knew all the while that I
 loved them better than my life. I slept with her that night, and it was
 the last time. The memory of it haunted me for many a year.
-
 
 On Monday I returned to the plantation, and busied myself with
 preparations for the important day. Wednesday came. It was a beautiful
@@ -3672,7 +3366,6 @@ safety is owing to their superabundance of heart; and yet they look upon
 their sufferings with less pity than they would bestow on those of a horse
 or a dog.
 
-
 I stood at the door with others to receive the bridegroom and bride. She
 was a handsome, delicate-looking girl, and her face flushed with emotion
 at sight of her new home. I thought it likely that visions of a happy
@@ -3681,7 +3374,6 @@ would come over her sunshine. She examined every part of the house, and
 told me she was delighted with the arrangements I had made. I was afraid
 old Mrs. Flint had tried to prejudice her against me, and I did my best to
 please her.
-
 
 All passed off smoothly for me until dinner time arrived. I did not mind
 the embarrassment of waiting on a dinner party, for the first time in my
@@ -3700,7 +3392,6 @@ ordered me here and there, and spoke with peculiar emphasis when he said
 "your <i>mistress</i>." I was drilled like a disgraced soldier. When all
 was over, and the last key turned, I sought my pillow, thankful that God
 had appointed a season of rest for the weary.
-
 
 The next day my new mistress began her housekeeping. I was not exactly
 appointed maid of all work; but I was to do whatever I was told. Monday
@@ -3721,7 +3412,6 @@ through three generations. When he hobbled up to get his bit of meat, the
 mistress said he was too old to have any allowance; that when niggers were
 too old to work, they ought to be fed on grass. Poor old man! He suffered
 much before he found rest in the grave.
-
 
 My mistress and I got along very well together. At the end of a week, old
 Mrs. Flint made us another visit, and was closeted a long time with her
@@ -3775,14 +3465,12 @@ inquire why the house was not locked up. I replied that I had not done my
 work. "You have had time enough to do it," said he. "Take care how you
 answer me!"
 
-
 I shut all the windows, locked all the doors, and went up to the third
 story, to wait till midnight. How long those hours seemed, and how
 fervently I prayed that God would not forsake me in this hour of utmost
 need! I was about to risk every thing on the throw of a die; and if I
 failed, O what would become of me and my poor children? They would be made
 to suffer for my fault.
-
 
 At half past twelve I stole softly down stairs. I stopped on the second
 floor, thinking I heard a noise. I felt my way down into the parlor, and
@@ -3804,16 +3492,13 @@ on business, but he wanted her to go ahead about buying you and de
 chillern, and he would help her all he could. Don't run away, Linda. Your
 grandmother is all bowed down wid trouble now."
 
-
 I replied, "Sally, they are going to carry my children to the plantation
 to-morrow; and they will never sell them to any body so long as they have
 me in their power. Now, would you advise me to go back?"
 
-
 "No, chile, no," answered she. "When dey finds you is gone, dey won't want
 de plague ob de chillern; but where is you going to hide? Dey knows ebery
 inch ob dis house."
-
 
 I told her I had a hiding-place, and that was all it was best for her to
 know. I asked her to go into my room as soon as it was light, and take all
@@ -3827,19 +3512,15 @@ them; but they were not all to him, as they were to my womanly heart. I
 knelt and prayed for the innocent little sleepers. I kissed them lightly,
 and turned away.
 
-
 As I was about to open the street door, Sally laid her hand on my
 shoulder, and said, "Linda, is you gwine all alone? Let me call your
 uncle."
 
-
 "No, Sally," I replied, "I want no one to be brought into trouble on my
 account."
 
-
 I went forth into the darkness and rain. I ran on till I came to the house
 of the friend who was to conceal me.
-
 
 Early the next morning Mr. Flint was at my grandmother's inquiring for me.
 She told him she had not seen me, and supposed I was at the plantation. He
@@ -3854,7 +3535,6 @@ give 'em five hundred lashes." As he started to go to his father's, he
 turned round and added, persuasively, "Let her be brought back, and she
 shall have her children to live with her."
 
-
 The tidings made the old doctor rave and storm at a furious rate. It was a
 busy day for them. My grandmother's house was searched from top to bottom.
 As my trunk was empty, they concluded I had taken my clothes with me.
@@ -3868,7 +3548,6 @@ course she willingly did. The next day was spent in searching. Before
 night, the following advertisement was posted at every corner, and in
 every public place for miles round:&mdash;
 
-
 $300 REWARD! Ran away from the subscriber, an intelligent, bright, mulatto
 girl, named Linda, 21 years of age. Five feet four inches high. Dark eyes,
 and black hair inclined to curl; but it can be made straight. Has a
@@ -3877,7 +3556,6 @@ probability will try to get to the Free States. All persons are forbidden,
 under penalty of law, to harbor or employ said slave. $150 will be given
 to whoever takes her in the state, and $300 if taken out of the state and
 delivered to me, or lodged in jail.
-
 
 Dr. Flint.
 
@@ -3918,7 +3596,6 @@ said no more about my going back to my master. Something must be done, and
 that speedily; but where to return for help, they knew not. God in his
 mercy raised up "a friend in need."
 
-
 Among the ladies who were acquainted with my grandmother, was one who had
 known her from childhood, and always been very friendly to her. She had
 also known my mother and her children, and felt interested for them. At
@@ -3946,7 +3623,6 @@ The place where we were to meet was designated and agreed upon. My
 grandmother was unable to thank the lady for this noble deed; overcome by
 her emotions, she sank on her knees and sobbed like a child.
 
-
 I received a message to leave my friend's house at such an hour, and go to
 a certain place where a friend would be waiting for me. As a matter of
 prudence no names were mentioned. I had no means of conjecturing who I was
@@ -3962,7 +3638,6 @@ I get you into missis' safe place, I will bring some nice hot supper. I
 specs you need it after all dis skeering." Betty's vocation led her to
 think eating the most important thing in life. She did not realize that my
 heart was too full for me to care much about supper.
-
 
 The mistress came to meet us, and led me up stairs to a small room over
 her own sleeping apartment. "You will be safe here, Linda," said she; "I
@@ -3980,7 +3655,6 @@ till she returned. How my heart overflowed with gratitude! Words choked in
 my throat; but I could have kissed the feet of my benefactress. For that
 deed of Christian womanhood, may God forever bless her!
 
-
 I went to sleep that night with the feeling that I was for the present the
 most fortunate slave in town. Morning came and filled my little cell with
 light. I thanked the heavenly Father for this safe retreat. Opposite my
@@ -3991,7 +3665,6 @@ satisfaction when I saw him. Thus far I had outwitted him, and I triumphed
 over it. Who can blame slaves for being cunning? They are constantly
 compelled to resort to it. It is the only weapon of the weak and oppressed
 against the strength of their tyrants.
-
 
 I was daily hoping to hear that my master had sold my children; for I knew
 who was on the watch to buy them. But Dr. Flint cared even more for
@@ -4017,7 +3690,6 @@ to tell where you had been, or they would kill you. Take the advice of
 your friends; if not for the sake of me and your children, at least for
 the sake of those you would ruin."
 
-
 Poor William! He also must suffer for being my brother. I took his advice
 and kept quiet. My aunt was taken out of jail at the end of a month,
 because Mrs. Flint could not spare her any longer. She was tired of being
@@ -4030,7 +3702,6 @@ repeated their prattle, and told me how they wanted to see their ma, my
 tears would flow. Old Betty would exclaim, "Lors, chile! what's you crying
 'bout? Dem young uns vil kill you dead. Don't be so chick'n hearted! If
 you does, you vil nebber git thro' dis world."
-
 
 Good old soul! She had gone through the world childless. She had never had
 little ones to clasp their arms round her neck; she had never seen their
@@ -4061,13 +3732,11 @@ and then be sold to a sugar plantation. I shall see her broke in yet. What
 do you stand there for, Bill? Why don't you go off with the brat? Mind,
 now, that you don't let any of the niggers speak to her in the street!"
 
-
 When these remarks were reported to me, I smiled at Mrs. Flint's saying
 that she should either kill my child or spoil her. I thought to myself
 there was very little danger of the latter. I have always considered it as
 one of God's special providences that Ellen screamed till she was carried
 back to jail.
-
 
 That same night Dr. Flint was called to a patient, and did not return till
 near morning. Passing my grandmother's, he saw a light in the house, and
@@ -4101,7 +3770,6 @@ that I was not fool enough to be staying round there; that I was in
 Philadelphia or New York before this time. When all were abed and asleep,
 Betty raised the plank, and said, "Come out, chile; come out. Dey don't
 know nottin 'bout you. Twas only white folks' lies, to skeer de niggers."
-
 
 Some days after this adventure I had a much worse fright. As I sat very
 still in my retreat above stairs, cheerful visions floated through my
@@ -4160,7 +3828,6 @@ the doctor. In less than an hour the money was paid, the papers were
 signed, sealed, and delivered, and my brother and children were in the
 hands of the trader.
 
-
 It was a hurried transaction; and after it was over, the doctor's
 characteristic caution returned. He went back to the speculator, and said,
 "Sir, I have come to lay you under obligations of a thousand dollars not
@@ -4178,7 +3845,6 @@ every day I have been here, and it is sixty days. It is a long time; and
 the speculator is going to take me and Ellen away. He's a bad man. It's
 wrong for him to take grandmother's children. I want to go to my mother."
 
-
 My grandmother was told that the children would be restored to her, but
 she was requested to act as if they were really to be sent away.
 Accordingly, she made up a bundle of clothes and went to the jail. When
@@ -4187,7 +3853,6 @@ in the trader's cart. The scene seemed too much like reality. She was
 afraid there might have been some deception or mistake. She fainted, and
 was carried home.
 
-
 When the wagon stopped at the hotel, several gentlemen came out and
 proposed to purchase William, but the trader refused their offers, without
 stating that he was already sold. And now came the trying hour for that
@@ -4195,7 +3860,6 @@ drove of human beings, driven away like cattle, to be sold they knew not
 where. Husbands were torn from wives, parents from children, never to look
 upon each other again this side the grave. There was wringing of hands and
 cries of despair.
-
 
 Dr. Flint had the supreme satisfaction of seeing the wagon leave town, and
 Mrs. Flint had the gratification of supposing that my children were going
@@ -4213,14 +3877,12 @@ going to be my last trip. This trading in niggers is a bad business for a
 fellow that's got any heart. Move on, you fellows!" And the gang went on,
 God alone knows where.
 
-
 Much as I despise and detest the class of slave-traders, whom I regard as
 the vilest wretches on earth, I must do this man the justice to say that
 he seemed to have some feeling. He took a fancy to William in the jail,
 and wanted to buy him. When he heard the story of my children, he was
 willing to aid them in getting out of Dr. Flint's power, even without
 charging the customary fee.
-
 
 My uncle procured a wagon and carried William and the children back to
 town. Great was the joy in my grandmother's house! The curtains were
@@ -4232,7 +3894,6 @@ though such a "parental relation" as existed between him and my children
 takes slight hold on the hearts or consciences of slaveholders, it must be
 that he experienced some moments of pure joy in witnessing the happiness
 he had imparted.
-
 
 I had no share in the rejoicings of that evening. The events of the day
 had not come to my knowledge. And now I will tell you something that
@@ -4250,7 +3911,6 @@ them distinctly. Some will call it a dream, others a vision. I know not
 how to account for it, but it made a strong impression on my mind, and I
 felt certain something had happened to my little ones.
 
-
 I had not seen Betty since morning. Now I heard her softly turning the
 key. As soon as she entered, I clung to her, and begged her to let me know
 whether my children were dead, or whether they were sold; for I had seen
@@ -4263,7 +3923,6 @@ cryin, I'll talk wid you. De chillern is well, and mighty happy. I seed
 you." I tried to obey her. She lay down, and was soon sound asleep; but no
 sleep would come to my eyelids.
 
-
 At dawn, Betty was up and off to the kitchen. The hours passed on, and the
 vision of the night kept constantly recurring to my thoughts. After a
 while I heard the voices of two women in the entry. In one of them I
@@ -4273,7 +3932,6 @@ Flint was mighty glad to see 'em drove out of town; but they say they've
 come back agin. I 'spect it's all their daddy's doings. They say he's
 bought William too. Lor! how it will take hold of ole massa Flint! I'm
 going roun' to aunt Marthy's to see 'bout it."
-
 
 I bit my lips till the blood came to keep from crying out. Were my
 children with their grandmother, or had the speculator carried them off?
@@ -4288,15 +3946,12 @@ chillern, all is bought by de daddy! I'se laugh more dan nuff, tinking
 time, any how; but I must be getting out o' dis, or dem gals vill come and
 ketch <i>me</i>."
 
-
 Betty went off laughing; and I said to myself, "Can it be true that my
 children are free? I have not suffered for them in vain. Thank God!"
-
 
 Great surprise was expressed when it was known that my children had
 returned to their grandmother's. The news spread through the town, and
 many a kind word was bestowed on the little ones.
-
 
 Dr. Flint went to my grandmother's to ascertain who was the owner of my
 children, and she informed him. "I expected as much," said he. "I am glad
@@ -4308,11 +3963,9 @@ off I'll kill him. And if I meet William in the street, and he presumes to
 look at me, I'll flog him within an inch of his life. Keep those brats out
 of my sight!"
 
-
 As he turned to leave, my grandmother said something to remind him of his
 own doings. He looked back upon her, as if he would have been glad to
 strike her to the ground.
-
 
 I had my season of joy and thanksgiving. It was the first time since my
 childhood that I had experienced any real happiness. I heard of the old
@@ -4335,7 +3988,6 @@ Several gentlemen offered to be security for him; but Mr. Sands told him
 he had better go back to jail, and he would see that he came out without
 giving bail.
 
-
 The news of his arrest was carried to my grandmother, who conveyed it to
 Betty. In the kindness of her heart, she again stowed me away under the
 floor; and as she walked back and forth, in the performance of her
@@ -4354,13 +4006,11 @@ dampness of the ground, made me ill for several days. My uncle was soon
 after taken out of prison; but the movements of all my relatives, and of
 all our friends, were very closely watched.
 
-
 We all saw that I could not remain where I was much longer. I had already
 staid longer than was intended, and I knew my presence must be a source of
 perpetual anxiety to my kind benefactress. During this time, my friends
 had laid many plans for my escape, but the extreme vigilance of my
 persecutors made it impossible to carry them into effect.
-
 
 One morning I was much startled by hearing somebody trying to get into my
 room. Several keys were tried, but none fitted. I instantly conjectured it
@@ -4371,19 +4021,15 @@ was," said she. "Tend upon it, 'twas dat Jenny. Dat nigger allers got de
 debble in her." I suggested that she might have seen or heard something
 that excited her curiosity.
 
-
 "Tut! tut! chile!" exclaimed Betty, "she ain't seen notin', nor hearn
 notin'. She only 'spects something. Dat's all. She wants to fine out who
 hab cut and make my gownd. But she won't nebber know. Dat's sartin. I'll
 git missis to fix her."
 
-
 I reflected a moment, and said, "Betty, I must leave here to-night."
-
 
 "Do as you tink best, poor chile," she replied. "I'se mighty 'fraid dat
 'ere nigger vill pop on you some time."
-
 
 She reported the incident to her mistress, and received orders to keep
 Jenny busy in the kitchen till she could see my uncle Phillip. He told her
@@ -4397,13 +4043,11 @@ kind message with Betty. I heard her carriage roll from the door, and I
 never again saw her who had so generously befriended the poor, trembling
 fugitive! Though she was a slaveholder, to this day my heart blesses her!
 
-
 I had not the slightest idea where I was going. Betty brought me a suit of
 sailor's clothes,&mdash;jacket, trowsers, and tarpaulin hat. She gave me a
 small bundle, saying I might need it where I was going. In cheery tones,
 she exclaimed, "I'se <i>so</i> glad you is gwine to free parts! Don't
 forget ole Betty. P'raps I'll come 'long by and by."
-
 
 I tried to tell her how grateful I felt for all her kindness. But she
 interrupted me. "I don't want no tanks, honey. I'se glad I could help you,
@@ -4411,14 +4055,12 @@ and I hope de good Lord vill open de path for you. I'se gwine wid you to
 de lower gate. Put your hands in your pockets, and walk ricketty, like de
 sailors."
 
-
 I performed to her satisfaction. At the gate I found Peter, a young
 colored man, waiting for me. I had known him for years. He had been an
 apprentice to my father, and had always borne a good character. I was not
 afraid to trust to him. Betty bade me a hurried good by, and we walked
 off. "Take courage, Linda," said my friend Peter. "I've got a dagger, and
 no man shall take you from me, unless he passes over my dead body."
-
 
 It was a long time since I had taken a walk out of doors, and the fresh
 air revived me. It was also pleasant to hear a human voice speaking to me
@@ -4438,7 +4080,6 @@ and rowed three miles to the swamp. My fear of snakes had been increased
 by the venomous bite I had received, and I dreaded to enter this hiding
 place. But I was in no situation to choose, and I gratefully accepted the
 best that my poor, persecuted friends could do for me.
-
 
 Peter landed first, and with a large knife cut a path through bamboos and
 briers of all descriptions. He came back, took me in his arms, and carried
@@ -4475,10 +4116,8 @@ charcoal. I passed several people whom I knew. The father of my children
 came so near that I brushed against his arm; but he had no idea who it
 was.
 
-
 "You must make the most of this walk," said my friend Peter, "for you may
 not have another very soon."
-
 
 I thought his voice sounded sad. It was kind of him to conceal from me
 what a dismal hole was to be my home for a long, long time.
@@ -4521,7 +4160,6 @@ until I came into the hands of Dr. Flint. I had never wished for freedom
 till then. But though my life in slavery was comparatively devoid of
 hardships, God pity the woman who is compelled to lead such a life!
 
-
 My food was passed up to me through the trap-door my uncle had contrived;
 and my grandmother, my uncle Phillip, and aunt Nancy would seize such
 opportunities as they could, to mount up there and chat with me at the
@@ -4545,7 +4183,6 @@ Several familiar faces passed by. At last I heard the merry laugh of
 children, and presently two sweet little faces were looking up at me, as
 though they knew I was there, and were conscious of the joy they imparted.
 How I longed to <i>tell</i> them I was there!
-
 
 My condition was now a little improved. But for weeks I was tormented by
 hundreds of little red insects, fine as a needle's point, that pierced
@@ -4572,13 +4209,11 @@ out, "Dr. Flint, did you bring my mother home? I want to see her." The
 doctor stamped his foot at him in a rage, and exclaimed, "Get out of the
 way, you little damned rascal! If you don't, I'll cut off your head."
 
-
 Benny ran terrified into the house, saying, "You can't put me in jail
 again. I don't belong to you now." It was well that the wind carried the
 words away from the doctor's ear. I told my grandmother of it, when we had
 our next conference at the trap-door, and begged of her not to allow the
 children to be impertinent to the irascible old man.
-
 
 Autumn came, with a pleasant abatement of heat. My eyes had become
 accustomed to the dim light, and by holding my book or work in a certain
@@ -4608,7 +4243,6 @@ grandmother's house, it would have been burned to the ground. But it was
 the last place they thought of. Yet there was no place, where slavery
 existed, that could have afforded me so good a place of concealment.
 
-
 Dr. Flint and his family repeatedly tried to coax and bribe my children to
 tell something they had heard said about me. One day the doctor took them
 into a shop, and offered them some bright little silver pieces and gay
@@ -4619,10 +4253,9 @@ there again, I wish you'd ask her to come home, for I want to see her; but
 if you put her in jail, or tell her you'll cut her head off, I'll tell her
 to go right back."
 
----
+- - -
 
 ## XXII. Christmas Festivities.
-
 
 Christmas was approaching. Grandmother brought me materials, and I busied
 myself making some new garments and little playthings for my children.
@@ -4639,10 +4272,8 @@ It's the children's mothers that put things into the stockings." "No, that
 can't be," replied Benny, "for Santa Claus brought Ellen and me these new
 clothes, and my mother has been gone this long time."
 
-
 How I longed to tell him that his mother made those garments, and that
 many a tear fell on them while she worked!
-
 
 Every child rises early on Christmas morning to see the Johnkannaus.
 Without them, Christmas would be shorn of its greatest attraction. They
@@ -4662,13 +4293,11 @@ Christmas donations frequently amount to twenty or thirty dollars. It is
 seldom that any white man or child refuses to give them a trifle. If he
 does, they regale his ears with the following song:&mdash;
 
-
 Poor massa, so dey say;
 Down in de heel, so dey say;
 Got no money, so dey say;
 Not one shillin, so dey say;
 God A'mighty bress you, so dey say.
-
 
 Christmas is a day of feasting, both with white and colored people.
 Slaves, who are lucky enough to have a few shillings, are sure to spend
@@ -4677,7 +4306,6 @@ saying, "By your leave, sir." Those who cannot obtain these, cook a
 'possum, or a raccoon, from which savory dishes can be made. My
 grandmother raised poultry and pigs for sale and it was her established
 custom to have both a turkey and a pig roasted for Christmas dinner.
-
 
 On this occasion, I was warned to keep extremely quiet, because two guests
 had been invited. One was the town constable, and the other was a free
@@ -4715,7 +4343,6 @@ a chance of escape; but none offered that seemed practicable, and even
 tolerably safe. The hot summer came again, and made the turpentine drop
 from the thin roof over my head.
 
-
 During the long nights I was restless for want of air, and I had no room
 to toss and turn. There was but one compensation; the atmosphere was so
 stifled that even mosquitos would not condescend to buzz in it. With all
@@ -4733,7 +4360,6 @@ Later in the season, storms sometimes wet my clothes through and through,
 and that was not comfortable when the air grew chilly. Moderate storms I
 could keep out by filling the chinks with oakum.
 
-
 But uncomfortable as my situation was, I had glimpses of things out of
 doors, which made me thankful for my wretched hiding-place. One day I saw
 a slave pass our gate, muttering, "It's his own, and he can kill it if he
@@ -4745,20 +4371,17 @@ master, and told him what had happened. He promised to talk with her
 mistress, and make it all right. The next day she and her baby were sold
 to a Georgia trader.
 
-
 Another time I saw a woman rush wildly by, pursued by two men. She was a
 slave, the wet nurse of her mistress's children. For some trifling offence
 her mistress ordered her to be stripped and whipped. To escape the
 degradation and the torture, she rushed to the river, jumped in, and ended
 her wrongs in death.
 
-
 Senator Brown, of Mississippi, could not be ignorant of many such facts as
 these, for they are of frequent occurrence in every Southern State. Yet he
 stood up in the Congress of the United States, and declared that slavery
 was "a great moral, social, and political blessing; a blessing to the
 master, and a blessing to the slave!"
-
 
 I suffered much more during the second winter than I did during the first.
 My limbs were benumbed by inaction, and the cold filled them with cramp. I
@@ -4794,13 +4417,11 @@ why I had been so persecuted and wronged from youth upward. These things
 took the shape of mystery, which is to this day not so clear to my soul as
 I trust it will be hereafter.
 
-
 In the midst of my illness, grandmother broke down under the weight and
 anxiety and toil. The idea of losing her, who had always been my best
 friend and a mother to my children, was the sorest trial I had yet had. O,
 how earnestly I prayed that she might recover! How hard it seemed, that I
 could not tend upon her, who had so long and so tenderly watched over me!
-
 
 One day the screams of a child nerved me with strength to crawl to my
 peeping-hole, and I saw my son covered with blood. A fierce dog, usually
@@ -4809,13 +4430,11 @@ heard the groans and screams of my child while the wounds were being sewed
 up. O, what torture to a mother's heart, to listen to this and be unable
 to go to him!
 
-
 But childhood is like a day in spring, alternately shower and sunshine.
 Before night Benny was bright and lively, threatening the destruction of
 the dog; and great was his delight when the doctor told him the next day
 that the dog had bitten another boy and been shot. Benny recovered from
 his wounds; but it was long before he could walk.
-
 
 When my grandmother's illness became known, many ladies, who were her
 customers, called to bring her some little comforts, and to inquire
@@ -4834,13 +4453,11 @@ attending physician wished it, he would visit her. Nobody wished to have
 him coming to the house at all hours, and we were not disposed to give him
 a chance to make out a long bill.
 
-
 As Mrs. Flint went out, Sally told her the reason Benny was lame was, that
 a dog had bitten him. "I'm glad of it," replied she. "I wish he had killed
 him. It would be good news to send to his mother. <i>Her</i> day will
 come. The dogs will grab <i>her</i> yet." With these Christian words she
 and her husband departed, and, to my great satisfaction, returned no more.
-
 
 I learned from uncle Phillip, with feelings of unspeakable joy and
 gratitude, that the crisis was passed and grandmother would live. I could
@@ -4860,7 +4477,6 @@ the openness of his convivial heart, proclaimed that he did not mean to
 vote the Democratic ticket, he was shoved into the street without
 ceremony.
 
-
 The doctor expended his liquor in vain. Mr. Sands was elected; an event
 which occasioned me some anxious thoughts. He had not emancipated my
 children, and if he should die they would be at the mercy of his heirs.
@@ -4870,7 +4486,6 @@ Years had passed since I had spoken to him. I had not even seen him since
 the night I passed him, unrecognized, in my disguise of a sailor. I
 supposed he would call before he left, to say something to my grandmother
 concerning the children, and I resolved what course to take.
-
 
 The day before his departure for Washington I made arrangements, toward
 evening, to get from my hiding-place into the storeroom below. I found
@@ -4904,10 +4519,8 @@ Washington, and it does not seem right for you to expose them to the risk
 of such changes. I want nothing for myself; all I ask is, that you will
 free my children, or authorize some friend to do it, before you go."
 
-
 He promised he would do it, and also expressed a readiness; to make any
 arrangements whereby I could be purchased.
-
 
 I heard footsteps approaching, and closed the shutter hastily. I wanted to
 crawl back to my den, without letting the family know what I had done; for
@@ -4918,7 +4531,6 @@ night. He said it was the height of madness for me to be there; that we
 should certainly all be ruined. Luckily, he was in too much of a hurry to
 wait for a reply, or the dear old woman would surely have told him all.
 
-
 I tried to go back to my den, but found it more difficult to go up than I
 had to come down. Now that my mission was fulfilled, the little strength
 that had supported me through it was gone, and I sank helpless on the
@@ -4926,10 +4538,8 @@ floor. My grandmother, alarmed at the risk I had run, came into the
 storeroom in the dark, and locked the door behind her. "Linda," she
 whispered, "where are you?"
 
-
 "I am here by the window," I replied. "I <i>couldn't</i> have him go away
 without emancipating the children. Who knows what may happen?"
-
 
 "Come, come, child," said she, "it won't do for you to stay here another
 minute. You've done wrong; but I can't blame you, poor thing!" I told her
@@ -4940,13 +4550,13 @@ asked me if there was any thing more he could do. Then he went away, and I
 was left with my own thoughts&mdash;starless as the midnight darkness
 around me.
 
-
 My friends feared I should become a cripple for life; and I was so weary
 of my long imprisonment that, had it not been for the hope of serving my
 children, I should have been thankful to die; but, for their sakes, I was
 willing to bear on.
 
 ## XXV. Competition In Cunning.
+
 Dr. Flint had not given me up. Every now and then he would say to my
 grandmother that I would yet come back, and voluntarily surrender myself;
 and that when I did, I could be purchased by my relatives, or any one who
@@ -4965,7 +4575,6 @@ his pocket, and said, "Here is half a one, that was round a cap I bought
 of a pedler yesterday." I told him the letter would be ready the next
 evening. He bade me good by, adding, "Keep up your spirits, Linda;
 brighter days will come by and by."
-
 
 My uncle Phillip kept watch over the gate until our brief interview was
 over. Early the next morning, I seated myself near the little aperture to
@@ -4990,7 +4599,6 @@ replied, "You may trust to me, Linda. I don't forget that your father was
 my best friend, and I will be a friend to his children so long as God lets
 me live."
 
-
 It was necessary to tell my grandmother what I had done, in order that she
 might be ready for the letter, and prepared to hear what Dr. Flint might
 say about my being at the north. She was sadly troubled. She felt sure
@@ -4999,7 +4607,6 @@ that she might report to us what was said at Dr. Flint's house. I
 whispered it to her through a crack, and she whispered back, "I hope it
 will succeed. I shan't mind being a slave all <i>my</i> life, if I can
 only see you and the children free."
-
 
 I had directed that my letters should be put into the New York post office
 on the 20th of the month. On the evening of the 24th my aunt came to say
@@ -5022,11 +4629,9 @@ children are free; at least I suppose they are; and when you obtain her
 freedom, you'll make a happy family. I suppose, Martha, you have no
 objection to my reading to you the letter Linda has written to you."
 
-
 He broke the seal, and I heard him read it. The old villain! He had
 suppressed the letter I wrote to grandmother, and prepared a substitute of
 his own, the purport of which was as follows:&mdash;
-
 
 Dear Grandmother: I have long wanted to write to you; but the
 disgraceful manner in which I left you and my children made me
@@ -5041,31 +4646,25 @@ convenience. Write as soon as possible to your unhappy daughter,
 
 Linda.
 
-
 "It is very much as I expected it would be," said the old hypocrite,
 rising to go. "You see the foolish girl has repented of her rashness, and
 wants to return. We must help her to do it, Martha. Talk with Phillip
 about it. If he will go for her, she will trust to him, and come back. I
 should like an answer to-morrow. Good morning, Martha."
 
-
 As he stepped out on the piazza, he stumbled over my little girl. "Ah,
 Ellen, is that you?" he said, in his most gracious manner. "I didn't see
 you. How do you do?"
 
-
 "Pretty well, sir," she replied. "I heard you tell grandmother that my
 mother is coming home. I want to see her."
-
 
 "Yes, Ellen, I am going to bring her home very soon," rejoined he; "and
 you shall see her as much as you like, you little curly-headed nigger."
 
-
 This was as good as a comedy to me, who had heard it all; but grandmother
 was frightened and distressed, because the doctor wanted my uncle to go
 for me.
-
 
 The next evening Dr. Flint called to talk the matter over. My uncle told
 him that from what he had heard of Massachusetts, he judged he should be
@@ -5082,7 +4681,6 @@ I forgive her, and want to act the part of a friend towards her. I have no
 wish to hold her as my slave. Her friends can buy her as soon as she
 arrives here."
 
-
 Finding that his arguments failed to convince my uncle, the doctor "let
 the cat out of the bag," by saying that he had written to the mayor of
 Boston, to ascertain whether there was a person of my description at the
@@ -5096,7 +4694,6 @@ to go in search of a runaway. That was before the Fugitive Slave Law was
 passed; before Massachusetts had consented to become a "nigger hunter" for
 the south.
 
-
 My grandmother, who had become skittish by seeing her family always in
 danger, came to me with a very distressed countenance, and said, "What
 will you do if the mayor of Boston sends him word that you haven't been
@@ -5104,11 +4701,9 @@ there? Then he will suspect the letter was a trick; and maybe he'll find
 out something about it, and we shall all get into trouble. O Linda, I wish
 you had never sent the letters."
 
-
 "Don't worry yourself, Grandmother," said I. "The mayor of Boston won't
 trouble himself to hunt niggers for Dr. Flint. The letters will do good in
 the end. I shall get out of this dark hole some time or other."
-
 
 "I hope you will, child," replied the good, patient old friend. "You have
 been here a long time; almost five years; but whenever you do go, it will
@@ -5118,7 +4713,6 @@ poor child! Let us be thankful that some time or other we shall go 'where
 the wicked cease from troubling, and the weary are at rest.'" My heart
 responded, Amen.
 
-
 The fact that Dr. Flint had written to the mayor of Boston convinced me
 that he believed my letter to be genuine, and of course that he had no
 suspicion of my being any where in the vicinity. It was a great object to
@@ -5126,7 +4720,6 @@ keep up this delusion, for it made me and my friends feel less anxious,
 and it would be very convenient whenever there was a chance to escape. I
 resolved, therefore, to continue to write letters from the north from time
 to time.
-
 
 Two or three weeks passed, and as no news came from the mayor of Boston,
 grandmother began to listen to my entreaty to be allowed to leave my cell,
@@ -5159,14 +4752,12 @@ William trust to a slave's chances? I remembered how we used to talk
 together, in our young days, about obtaining our freedom, and I thought it
 very doubtful whether he would come back to us.
 
-
 Grandmother received a letter from Mr. Sands, saying that William had
 proved a most faithful servant, and he would also say a valued friend;
 that no mother had ever trained a better boy. He said he had travelled
 through the Northern States and Canada; and though the abolitionists had
 tried to decoy him away, they had never succeeded. He ended by saying they
 should be at home shortly.
-
 
 We expected letters from William, describing the novelties of his journey,
 but none came. In time, it was reported that Mr. Sands would return late
@@ -5177,7 +4768,6 @@ her dungeon? My thoughts wandered through the dark past, and over the
 uncertain future. Alone in my cell, where no eye but God's could see me, I
 wept bitter tears. How earnestly I prayed to him to restore me to my
 children, and enable me to be a useful woman and a good mother!
-
 
 At last the day arrived for the return of the travellers. Grandmother had
 made loving preparations to welcome her absent boy back to the old
@@ -5192,7 +4782,6 @@ troubled about it, for he felt confident she would see William in a few
 days. As soon as he had time to reflect he would come back, for he could
 never expect to be so well off at the north as he had been with him.
 
-
 If you had seen the tears, and heard the sobs, you would have thought the
 messenger had brought tidings of death instead of freedom. Poor old
 grandmother felt that she should never see her darling boy again. And I
@@ -5206,7 +4795,6 @@ was now married. I was too familiar with slavery not to know that promises
 made to slaves, though with kind intentions, and sincere at the time,
 depend upon many contingencies for their fulfillment.
 
-
 Much as I wished William to be free, the step he had taken made me sad and
 anxious. The following Sabbath was calm and clear; so beautiful that it
 seemed like a Sabbath in the eternal world. My grandmother brought the
@@ -5218,11 +4806,9 @@ he does, <i>won't</i> she be glad to see him! Why don't you and uncle
 Phillip, and all of us, go and live where mother is? I should like it;
 wouldn't you, Ellen?"
 
-
 "Yes, I should like it," replied Ellen; "but how could we find her? Do you
 know the place, grandmother? I don't remember how mother looked&mdash;do
 you, Benny?"
-
 
 Benny was just beginning to describe me when they were interrupted by an
 old slave woman, a near neighbor, named Aggie. This poor creature had
@@ -5231,12 +4817,10 @@ unknown, without any hopes of ever hearing from them again. She saw that
 my grandmother had been weeping, and she said, in a sympathizing tone,
 "What's the matter, aunt Marthy?"
 
-
 "O Aggie," she replied, "it seems as if I shouldn't have any of my
 children or grandchildren left to hand me a drink when I'm dying, and lay
 my old body in the ground. My boy didn't come back with Mr. Sands. He
 staid at the north."
-
 
 Poor old Aggie clapped her hands for joy. "Is <i>dat</i> what you's crying
 fur?" she exclaimed. "Git down on your knees and bress de Lord! I don't
@@ -5245,13 +4829,11 @@ whar poor Linda's gone to; but you <i>do</i> know whar her brudder is.
 He's in free parts; and dat's de right place. Don't murmur at de Lord's
 doings but git down on your knees and tank him for his goodness."
 
-
 My selfishness was rebuked by what poor Aggie said. She rejoiced over the
 escape of one who was merely her fellow-bondman, while his own sister was
 only thinking what his good fortune might cost her children. I knelt and
 prayed God to forgive me; and I thanked him from my heart, that one of my
 family was saved from the grasp of slavery.
-
 
 It was not long before we received a letter from William. He wrote that
 Mr. Sands had always treated him kindly, and that he had tried to do his
@@ -5262,7 +4844,6 @@ about me, dear grandmother. I shall think of you always; and it will spur
 me on to work hard and try to do right. When I have earned money enough to
 give you a home, perhaps you will come to the north, and we can all live
 happy together."
-
 
 Mr. Sands told my uncle Phillip the particulars about William's leaving
 him. He said, "I trusted him as if he were my own brother, and treated him
@@ -5284,7 +4865,6 @@ him. I intended to give him his freedom in five years. He might have
 trusted me. He has shown himself ungrateful; but I shall not go for him,
 or send for him. I feel confident that he will soon return to me."
 
-
 I afterwards heard an account of the affair from William himself. He had
 not been urged away by abolitionists. He needed no information they could
 give him about slavery to stimulate his desire for freedom. He looked at
@@ -5300,7 +4880,6 @@ his master on false pretences; so he sold his best clothes to pay for his
 passage to Boston. The slaveholders pronounced him a base, ungrateful
 wretch, for thus requiting his master's indulgence. What would <i>they</i>
 have done under similar circumstances?
-
 
 When Dr. Flint's family heard that William had deserted Mr. Sands, they
 chuckled greatly over the news. Mrs. Flint made her usual manifestations
@@ -5323,19 +4902,16 @@ Dr. Flint's hands, as I expected they would; and he must have come to the
 conclusion that I travelled about a good deal. He kept a close watch over
 my children, thinking they would eventually lead to my detection.
 
-
 A new and unexpected trial was in store for me. One day, when Mr. Sands
 and his wife were walking in the street, they met Benny. The lady took a
 fancy to him, and exclaimed, "What a pretty little negro! Whom does he
 belong to?"
-
 
 Benny did not hear the answer; but he came home very indignant with the
 stranger lady, because she had called him a negro. A few days afterwards,
 Mr. Sands called on my grandmother, and told her he wanted her to take the
 children to his house. He said he had informed his wife of his relation to
 them, and told her they were motherless; and she wanted to see them.
-
 
 When he had gone, my grandmother came and asked what I would do. The
 question seemed a mockery. What <i>could</i> I do? They were Mr. Sands's
@@ -5355,7 +4931,6 @@ of as a convenient means of raising funds. I had no trust in thee, O
 Slavery! Never should I know peace till my children were emancipated with
 all due formalities of law.
 
-
 I was too proud to ask Mr. Sands to do any thing for my own benefit; but I
 could bring myself to become a supplicant for my children. I resolved to
 remind him of the promise he had made me, and to throw myself upon his
@@ -5372,7 +4947,6 @@ better be sent to the north. I don't think they are quite safe here. Dr.
 Flint boasts that they are still in his power. He says they were his
 daughter's property, and as she was not of age when they were sold, the
 contract is not legally binding."
-
 
 So, then, after all I had endured for their sakes, my poor children were
 between two fires; between my old master and their new master! And I was
@@ -5415,7 +4989,6 @@ sadder love; there I had knelt to God, in anguish of heart, to forgive the
 wrong I had done. How vividly it all came back! And after this long,
 gloomy interval, I stood there such a wreck!
 
-
 In the midst of these meditations, I heard footsteps on the stairs. The
 door opened, and my uncle Phillip came in, leading Ellen by the hand. I
 put my arms round her, and said, "Ellen, my dear child, I am your mother."
@@ -5431,14 +5004,12 @@ Benny and I have wanted so much to see you! He remembers you, and
 sometimes he tells me about you. Why didn't you come home when Dr. Flint
 went to bring you?"
 
-
 I answered, "I couldn't come before, dear. But now that I am with you,
 tell me whether you like to go away." "I don't know," said she, crying.
 "Grandmother says I ought not to cry; that I am going to a good place,
 where I can learn to read and write, and that by and by I can write her a
 letter. But I shan't have Benny, or grandmother, or uncle Phillip, or any
 body to love me. Can't you go with me? O, <i>do</i> go, dear mother!"
-
 
 I told her I couldn't go now; but sometime I would come to her, and then
 she and Benny and I would live together, and have happy times. She wanted
@@ -5463,7 +5034,6 @@ and I had no inclination to slumber. The moments were too precious to lose
 any of them. Once, when I thought she was asleep, I kissed her forehead
 softly, and she said, "I am not asleep, dear mother."
 
-
 Before dawn they came to take me back to my den. I drew aside the window
 curtain, to take a last look of my child. The moonlight shone on her face,
 and I bent over her, as I had done years before, that wretched night when
@@ -5471,7 +5041,6 @@ I ran away. I hugged her close to my throbbing heart; and tears, too sad
 for such young eyes to shed, flowed down her cheeks, as she gave her last
 kiss, and whispered in my ear, "Mother, I will never tell." And she never
 did.
-
 
 When I got back to my den, I threw myself on the bed and wept there alone
 in the darkness. It seemed as if my heart would burst. When the time for
@@ -5490,7 +5059,6 @@ circumstances might arise that would cause her to be sent back. I felt
 confident that I should go to New York myself; and then I should be able
 to watch over her, and in some degree protect her.
 
-
 Dr. Flint's family knew nothing of the proposed arrangement till after
 Ellen was gone, and the news displeased them greatly. Mrs. Flint called on
 Mrs. Sands's sister to inquire into the matter. She expressed her opinion
@@ -5501,7 +5069,6 @@ for him to come and take a piece of furniture out of her parlor. She said
 her daughter was not of age to sign the bill of sale, and the children
 were her property; and when she became of age, or was married, she could
 take them, wherever she could lay hands on them.
-
 
 Miss Emily Flint, the little girl to whom I had been bequeathed, was now
 in her sixteenth year. Her mother considered it all right and honorable
@@ -5514,7 +5081,6 @@ hands, was dated from Canada; and he seldom spoke of me now. This state of
 things enabled me to slip down into the storeroom more frequently, where I
 could stand upright, and move my limbs more freely.
 
-
 Days, weeks, and months passed, and there came no news of Ellen. I sent a
 letter to Brooklyn, written in my grandmother's name, to inquire whether
 she had arrived there. Answer was returned that she had not. I wrote to
@@ -5526,7 +5092,6 @@ persuasively he once talked to the poor, helpless slave girl! And how
 entirely I trusted him! But now suspicions darkened my mind. Was my child
 dead, or had they deceived me, and sold her?
 
-
 If the secret memoirs of many members of Congress should be published,
 curious details would be unfolded. I once saw a letter from a member of
 Congress to a slave, who was the mother of six of his children. He wrote
@@ -5536,7 +5101,6 @@ could not read, and was obliged to employ another to read the letter. The
 existence of the colored children did not trouble this gentleman, it was
 only the fear that friends might recognize in their features a resemblance
 to him.
-
 
 At the end of six months, a letter came to my grandmother, from Brooklyn.
 It was written by a young lady in the family, and announced that Ellen had
@@ -5574,7 +5138,6 @@ her husband furnished it. He was a seafaring man, and was allowed to sleep
 there when he was at home. But on the wedding evening, the bride was
 ordered to her old post on the entry floor.
 
-
 Mrs. Flint, at that time, had no children; but she was expecting to be a
 mother, and if she should want a drink of water in the night, what could
 she do without her slave to bring it? So my aunt was compelled to lie at
@@ -5594,7 +5157,6 @@ her patient sorrow as she held the last dead baby in her arms. "I wish it
 could have lived," she said; "it is not the will of God that any of my
 children should live. But I will try to be fit to meet their little
 spirits in heaven."
-
 
 Aunt Nancy was housekeeper and waiting-maid in Dr. Flint's family. Indeed,
 she was the <i>factotum</i> of the household. Nothing went on well without
@@ -5643,7 +5205,6 @@ foster-child, Dr. Flint, the foster-sister of my poor Nancy, and you
 little know me if you think I can feel any thing but good will for her
 children."
 
-
 "I wish the past could be forgotten, and that we might never think of it,"
 said he; "and that Linda would come to supply her aunt's place. She would
 be worth more to us than all the money that could be paid for her. I wish
@@ -5652,7 +5213,6 @@ would be a great comfort to your old age." He knew he was touching a
 tender chord. Almost choking with grief, my grandmother replied, "It was
 not I that drove Linda away. My grandchildren are gone; and of my nine
 children only one is left. God help me!"
-
 
 To me, the death of this kind relative was an inexpressible sorrow. I knew
 that she had been slowly murdered; and I felt that my troubles had helped
@@ -5669,7 +5229,6 @@ to bear, and that we ought to do all we can to comfort her." Ah, yes, that
 blessed old grandmother, who for seventy-three years had borne the pelting
 storms of a slave-mother's life. She did indeed need consolation!
 
-
 Mrs. Flint had rendered her poor foster-sister childless, apparently
 without any compunction; and with cruel selfishness had ruined her health
 by years of incessant, unrequited toil, and broken rest. But now she
@@ -5684,7 +5243,6 @@ the slaves. He therefore replied, "I have no objection to complying with
 your wish; but perhaps aunt Nancy's <i>mother</i> may have some choice as
 to where her remains shall be deposited."
 
-
 It had never occurred to Mrs. Flint that slaves could have any feelings.
 When my grandmother was consulted, she at once said she wanted Nancy to
 lie with all the rest of her family, and where her own old body would be
@@ -5692,7 +5250,6 @@ buried. Mrs. Flint graciously complied with her wish, though she said it
 was painful to her to have Nancy buried away from <i>her</i>. She might
 have added with touching pathos, "I was so long <i>used</i> to sleep with
 her lying near me, on the entry floor."
-
 
 My uncle Phillip asked permission to bury his sister at his own expense;
 and slaveholders are always ready to grant <i>such</i> favors to slaves
@@ -5704,7 +5261,6 @@ family. Dr. Flint's carriage was in the procession; and when the body was
 deposited in its humble resting place, the mistress dropped a tear, and
 returned to her carriage, probably thinking she had performed her duty
 nobly.
-
 
 It was talked of by the slaves as a mighty grand funeral. Northern
 travellers, passing through the place, might have described this tribute
@@ -5723,11 +5279,9 @@ poor, blighted young creature, shut up in a living grave for years, to
 avoid the tortures that would be inflicted on her, if she ventured to come
 out and look on the face of her departed friend.
 
-
 All this, and much more, I thought of, as I sat at my loophole, waiting
 for the family to return from the grave; sometimes weeping, sometimes
 falling asleep, dreaming strange dreams of the dead and the living.
-
 
 It was sad to witness the grief of my bereaved grandmother. She had always
 been strong to bear, and now, as ever, religious faith supported her. But
@@ -5749,12 +5303,10 @@ me a sad one, even now; for my body still suffers from the effects of that
 long imprisonment, to say nothing of my soul. Members of my family, now
 living in New York and Boston, can testify to the truth of what I say.
 
-
 Countless were the nights that I sat late at the little loophole scarcely
 large enough to give me a glimpse of one twinkling star. There, heard the
 patrols and slave-hunters conferring together about the capture of
 runaways, well knowing how rejoiced they would be to catch me.
-
 
 Season after season, year after year, I peeped at my children's faces, and
 heard their sweet voices, with a heart yearning all the while to say,
@@ -5763,7 +5315,6 @@ away since I entered upon that gloomy, monotonous existence. At times, I
 was stupefied and listless; at other times I became very impatient to know
 when these dark years would end, and I should again be allowed to feel the
 sunshine, and breathe the pure air.
-
 
 After Ellen left us, this feeling increased. Mr. Sands had agreed that
 Benny might go to the north whenever his uncle Phillip could go with him;
@@ -5787,7 +5338,6 @@ groan out, "O, don't think of it, child. You'll break my heart." I had no
 good old aunt Nancy now to encourage me; but my brother William and my
 children were continually beckoning me to the north.
 
-
 And now I must go back a few months in my story. I have stated that the
 first of January was the time for selling slaves, or leasing them out to
 new masters. If time were counted by heart-throbs, the poor slaves might
@@ -5809,7 +5359,6 @@ the trust. Aggie little dreamed that my grandmother knew where her
 daughter was concealed, and that the stooping form of her old neighbor was
 bending under a similar burden of anxiety and fear; but these dangerous
 secrets deepened the sympathy between the two old persecuted mothers.
-
 
 My friend Fanny and I remained many weeks hidden within call of each
 other; but she was unconscious of the fact. I longed to have her share my
@@ -5846,7 +5395,6 @@ discovery. My uncle talked with her, and finally succeeded in persuading
 her that it was absolutely necessary for me to seize the chance so
 unexpectedly offered.
 
-
 The anticipation of being a free woman proved almost too much for my weak
 frame. The excitement stimulated me, and at the same time bewildered me. I
 made busy preparations for my journey, and for my son to follow me. I
@@ -5867,7 +5415,6 @@ common humanity would have prevented me from accepting the generous offer,
 at the expense of turning my aged relative out of house and home, when she
 was trembling on the brink of the grave.
 
-
 I was to escape in a vessel; but I forbear to mention any further
 particulars. I was in readiness, but the vessel was unexpectedly detained
 several days. Meantime, news came to town of a most horrible murder
@@ -5880,7 +5427,6 @@ awaited me, if I did not desist from my enterprise. She sobbed, and
 groaned, and entreated me not to go. Her excessive fear was somewhat
 contagious, and my heart was not proof against her extreme agony. I was
 grievously disappointed, but I promised to relinquish my project.
-
 
 When my friend Peter was apprised of this, he was both disappointed and
 vexed. He said, that judging from our past experience, it would be a long
@@ -5900,7 +5446,6 @@ to go to fine old England, they stop to calculate whether they can afford
 the cost of the pleasure; while in making a bargain to escape from
 slavery, the trembling victim is ready to say, "take all I have, only
 don't betray me!"
-
 
 The next morning I peeped through my loophole, and saw that it was dark
 and cloudy. At night I received news that the wind was ahead, and the
@@ -5939,7 +5484,6 @@ The boat ain't gone yet. Get ready immediately, and go with Fanny. I ain't
 got another word to say against it now; for there's no telling what may
 happen this day."
 
-
 Uncle Phillip was sent for, and he agreed with his mother in thinking that
 Jenny would inform Dr. Flint in less than twenty-four hours. He advised
 getting me on board the boat, if possible; if not, I had better keep very
@@ -5952,7 +5496,6 @@ had been by my indecision, he was true to his generous nature, and said at
 once that he would do his best to help me, trusting I should show myself a
 stronger woman this time.
 
-
 He immediately proceeded to the wharf, and found that the wind had
 shifted, and the vessel was slowly beating down stream. On some pretext of
 urgent necessity, he offered two boatmen a dollar apiece to catch up with
@@ -5962,39 +5505,31 @@ vessel in search of the runaway slave he had on board. They hoisted sails,
 but the boat gained upon them, and the indefatigable Peter sprang on
 board.
 
-
 The captain at once recognized him. Peter asked him to go below, to speak
 about a bad bill he had given him. When he told his errand, the captain
 replied, "Why, the woman's here already; and I've put her where you or the
 devil would have a tough job to find her."
 
-
 "But it is another woman I want to bring," said Peter. "<i>She</i> is in
 great distress, too, and you shall be paid any thing within reason, if
 you'll stop and take her."
 
-
 "What's her name?" inquired the captain. "Linda," he replied.
-
 
 "That's the name of the woman already here," rejoined the captain. "By
 George! I believe you mean to betray me."
 
-
 "O!" exclaimed Peter, "God knows I wouldn't harm a hair of your head. I am
 too grateful to you. But there really <i>is</i> another woman in great
 danger. Do have the humanity to stop and take her!"
-
 
 After a while they came to an understanding. Fanny, not dreaming I was any
 where about in that region, had assumed my name, though she called herself
 Johnson. "Linda is a common name," said Peter, "and the woman I want to
 bring is Linda Brent."
 
-
 The captain agreed to wait at a certain place till evening, being
 handsomely paid for his detention.
-
 
 Of course, the day was an anxious one for us all. But we concluded that if
 Jenny had seen me, she would be too wise to let her mistress know of it;
@@ -6003,7 +5538,6 @@ till evening, for I knew very well what were the rules in that household.
 I afterwards believed that she did not see me; for nothing ever came of
 it, and she was one of those base characters that would have jumped to
 betray a suffering fellow being for the sake of thirty pieces of silver.
-
 
 I made all my arrangements to go on board as soon as it was dusk. The
 intervening time I resolved to spend with my son. I had not spoken to him
@@ -6017,7 +5551,6 @@ go with you. I knew you was here; and I have been <i>so</i> afraid they
 would come and catch you!" I was greatly surprised, and asked him how he
 had found it out.
 
-
 He replied, "I was standing under the eaves, one day, before Ellen went
 away, and I heard somebody cough up over the wood shed. I don't know what
 made me think it was you, but I did think so. I missed Ellen, the night
@@ -6025,7 +5558,6 @@ before she went away; and grandmother brought her back into the room in
 the night; and I thought maybe she'd been to see <i>you</i>, before she
 went, for I heard grandmother whisper to her, 'Now go to sleep; and
 remember never to tell.'"
-
 
 I asked him if he ever mentioned his suspicions to his sister. He said he
 never did; but after he heard the cough, if he saw her playing with other
@@ -6042,7 +5574,6 @@ He had never asked a question of grandmother, or uncle Phillip, and I had
 often heard him chime in with other children, when they spoke of my being
 at the north.
 
-
 I told him I was now really going to the Free States, and if he was a
 good, honest boy, and a loving child to his dear old grandmother, the Lord
 would bless him, and bring him to me, and we and Ellen would live
@@ -6053,7 +5584,6 @@ part of it, at least, to pay for Benny's being sent to the north; but she
 insisted, while her tears were falling fast, that I should take the whole.
 "You may be sick among strangers," she said, "and they would send you to
 the poorhouse to die." Ah, that good grandmother!
-
 
 For the last time I went up to my nook. Its desolate appearance no longer
 chilled me, for the light of hope had risen in my soul. Yet, even with the
@@ -6069,7 +5599,6 @@ loving old friend I was about to leave forever. On no other occasion has
 it ever been my lot to listen to so fervent a supplication for mercy and
 protection. It thrilled through my heart, and inspired me with trust in
 God.
-
 
 Peter was waiting for me in the street. I was soon by his side, faint in
 body, but strong of purpose. I did not look back upon the old place,
@@ -6094,14 +5623,12 @@ chattel! Liable, by the laws of a country that calls itself civilized, to
 be sold with horses and pigs! We parted in silence. Our hearts were all
 too full for words!
 
-
 Swiftly the boat glided over the water. After a while, one of the sailors
 said, "Don't be down-hearted, madam. We will take you safely to your
 husband, in &mdash;&mdash;." At first I could not imagine what he meant;
 but I had presence of mind to think that it probably referred to something
 the captain had told him; so I thanked him, and said I hoped we should
 have pleasant weather.
-
 
 When I entered the vessel the captain came forward to meet me. He was an
 elderly man, with a pleasant countenance. He showed me to a little box of
@@ -6118,7 +5645,6 @@ acted prudently, he thought we should be in no danger. He had represented
 us as women going to meet our husbands in &mdash;&mdash;. We thanked him,
 and promised to observe carefully all the directions he gave us.
 
-
 Fanny and I now talked by ourselves, low and quietly, in our little cabin.
 She told me of the suffering she had gone through in making her escape,
 and of her terrors while she was concealed in her mother's house. Above
@@ -6127,7 +5653,6 @@ dreadful auction day. She could scarcely credit me, when I told her of the
 place where I had passed nearly seven years. "We have the same sorrows,"
 said I. "No," replied she, "you are going to see your children soon, and
 there is no hope that I shall ever even hear from mine."
-
 
 The vessel was soon under way, but we made slow progress. The wind was
 against us, I should not have cared for this, if we had been out of sight
@@ -6145,7 +5670,6 @@ captain or his men. She said she was afraid at first, but she had been on
 board three days while the vessel lay in the dock, and nobody had betrayed
 her, or treated her otherwise than kindly.
 
-
 The captain soon came to advise us to go on deck for fresh air. His
 friendly and respectful manner, combined with Fanny's testimony, reassured
 me, and we went with him. He placed us in a comfortable seat, and
@@ -6159,7 +5683,6 @@ the laws." I thought of the terrible days I had spent there, and though it
 was not called Dismal Swamp, it made me feel very dismal as I looked at
 it.
 
-
 I shall never forget that night. The balmy air of spring was so
 refreshing! And how shall I describe my sensations when we were fairly
 sailing on Chesapeake Bay? O, the beautiful sunshine! the exhilarating
@@ -6167,15 +5690,12 @@ breeze! And I could enjoy them without fear or restraint. I had never
 realized what grand things air and sunlight are till I had been deprived
 of them.
 
-
 Ten days after we left land we were approaching Philadelphia. The captain
 said we should arrive there in the night, but he thought we had better
 wait till morning, and go on shore in broad daylight, as the best way to
 avoid suspicion.
 
-
 I replied, "You know best. But will you stay on board and protect us?"
-
 
 He saw that I was suspicious, and he said he was sorry, now that he had
 brought us to the end of our voyage, to find I had so little confidence in
@@ -6234,20 +5754,17 @@ I shook their hardy hands, with tears in my eyes. They had all been kind
 to us, and they had rendered us a greater service than they could possibly
 conceive of.
 
-
 I had never seen so large a city, or been in contact with so many people
 in the streets. It seemed as if those who passed looked at us with an
 expression of curiosity. My face was so blistered and peeled, by sitting
 on deck, in wind and sunshine, that I thought they could not easily decide
 to what nation I belonged.
 
-
 Mrs. Durham met me with a kindly welcome, without asking any questions. I
 was tired, and her friendly manner was a sweet refreshment. God bless her!
 I was sure that she had comforted other weary hearts, before I received
 her sympathy. She was surrounded by her husband and children, in a home
 made sacred by protecting laws. I thought of my own children, and sighed.
-
 
 After dinner Mr. Durham went with me in quest of the friends I had spoken
 of. They went from my native town, and I anticipated much pleasure in
@@ -6269,16 +5786,13 @@ straight-forward answers do you credit; but don't answer every body so
 openly. It might give some heartless people a pretext for treating you
 with contempt."
 
-
 That word <i>contempt</i> burned me like coals of fire. I replied, "God
 alone knows how I have suffered; and He, I trust, will forgive me. If I am
 permitted to have my children, I intend to be a good mother, and to live
 in such a manner that people cannot treat me with contempt."
 
-
 "I respect your sentiments," said he. "Place your trust in God, and be
 governed by good principles, and you will not fail to find friends."
-
 
 When we reached home, I went to my room, glad to shut out the world for a
 while. The words he had spoken made an indelible impression upon me. They
@@ -6303,7 +5817,6 @@ for I had a dread of meeting slaveholders, and some dread also of
 railroads. I had never entered a railroad car in my life, and it seemed to
 me quite an important event.
 
-
 That night I sought my pillow with feelings I had never carried to it
 before. I verily believed myself to be a free woman. I was wakeful for a
 long time, and I had no sooner fallen asleep, than I was roused by
@@ -6318,19 +5831,15 @@ daughter slept in the same room with me, and seeing that she slept through
 all the din, I thought it was my duty to wake her. "What's the matter?"
 said she, rubbing her eyes.
 
-
 "They're screaming fire in the streets, and the bells are ringing," I
 replied.
-
 
 "What of that?" said she, drowsily. "We are used to it. We never get up,
 without the fire is very near. What good would it do?"
 
-
 I was quite surprised that it was not necessary for us to go and help fill
 the engine. I was an ignorant child, just beginning to learn how things
 went on in great cities.
-
 
 At daylight, I heard women crying fresh fish, berries, radishes, and
 various other things. All this was new to me. I dressed myself at an early
@@ -6338,7 +5847,6 @@ hour, and sat at the window to watch that unknown tide of life.
 Philadelphia seemed to me a wonderfully great place. At the breakfast
 table, my idea of going out to drag the engine was laughed over, and I
 joined in the mirth.
-
 
 I went to see Fanny, and found her so well contented among her new friends
 that she was in no haste to leave. I was also very happy with my kind
@@ -6349,7 +5857,6 @@ One day she took me to an artist's room, and showed me the portraits of
 some of her children. I had never seen any paintings of colored people
 before, and they seemed to be beautiful.
 
-
 At the end of five days, one of Mrs. Durham's friends offered to accompany
 us to New York the following morning. As I held the hand of my good
 hostess in a parting clasp, I longed to know whether her husband had
@@ -6357,22 +5864,18 @@ repeated to her what I had told him. I supposed he had, but she never made
 any allusion to it. I presume it was the delicate silence of womanly
 sympathy.
 
-
 When Mr. Durham handed us our tickets, he said, "I am afraid you will have
 a disagreeable ride; but I could not procure tickets for the first-class
 cars."
-
 
 Supposing I had not given him money enough, I offered more. "O, no," said
 he, "they could not be had for any money. They don't allow colored people
 to go in the first-class cars."
 
-
 This was the first chill to my enthusiasm about the Free States. Colored
 people were allowed to ride in a filthy box, behind white people, at the
 south, but there they were not required to pay for the privilege. It made
 me sad to find how the north aped the customs of slavery.
-
 
 We were stowed away in a large, rough car, with windows on each side, too
 high for us to look out without standing up. It was crowded with people,
@@ -6410,7 +5913,6 @@ the country, who had for some time been doing business in New York. He
 came immediately. I told him I wanted to go to my daughter, and asked him
 to aid me in procuring an interview.
 
-
 I cautioned him not to let it be known to the family that I had just
 arrived from the south, because they supposed I had been at the north
 seven years. He told me there was a colored woman in Brooklyn who came
@@ -6423,7 +5925,6 @@ and recognized in the eldest, Sarah, the daughter of a woman who used to
 live with my grandmother, but who had left the south years ago. Surprised
 and rejoiced at this unexpected meeting, I threw my arms round her, and
 inquired concerning her mother.
-
 
 "You take no notice of the other girl," said my friend. I turned, and
 there stood my Ellen! I pressed her to my heart, then held her away from
@@ -6443,7 +5944,6 @@ they cried, and they shouted. They thanked God that I had got away from my
 persecutors and was safe on Long Island. It was a day of great excitement.
 How different from the silent days I had passed in my dreary den!
 
-
 The next morning was Sunday. My first waking thoughts were occupied with
 the note I was to send to Mrs. Hobbs, the lady with whom Ellen lived. That
 I had recently come into that vicinity was evident; otherwise I should
@@ -6451,7 +5951,6 @@ have sooner inquired for my daughter. It would not do to let them know I
 had just arrived from the south, for that would involve the suspicion of
 my having been harbored there, and might bring trouble, if not ruin, on
 several people.
-
 
 I like a straightforward course, and am always reluctant to resort to
 subterfuges. So far as my ways have been crooked, I charge them all upon
@@ -6472,7 +5971,6 @@ had been there two years, and was now nine years old, and she scarcely
 knew her letters. There was no excuse for this, for there were good public
 schools in Brooklyn, to which she could have been sent without expense.
 
-
 She staid with me till dark, and I went home with her. I was received in a
 friendly manner by the family, and all agreed in saying that Ellen was a
 useful, good girl. Mrs. Hobbs looked me coolly in the face, and said, "I
@@ -6482,7 +5980,6 @@ up." I did not answer a word. How <i>could</i> she, who knew by experience
 the strength of a mother's love, and who was perfectly aware of the
 relation Mr. Sands bore to my children,&mdash;how <i>could</i> she look me
 in the face, while she thrust such a dagger into my heart?
-
 
 I was no longer surprised that they had kept her in such a state of
 ignorance. Mr. Hobbs had formerly been wealthy, but he had failed, and
@@ -6494,14 +5991,12 @@ Mr. Sands had not kept his promise to emancipate them. I had also been
 deceived about Ellen. What security had I with regard to Benjamin? I felt
 that I had none.
 
-
 I returned to my friend's house in an uneasy state of mind. In order to
 protect my children, it was necessary that I should own myself. I called
 myself free, and sometimes felt so; but I knew I was insecure. I sat down
 that night and wrote a civil letter to Dr. Flint, asking him to state the
 lowest terms on which he would sell me; and as I belonged by law to his
 daughter, I wrote to her also, making a similar request.
-
 
 Since my arrival at the north I had not been unmindful of my dear brother
 William. I had made diligent inquiries for him, and having heard of him in
@@ -6523,7 +6018,6 @@ employed strangers required a recommendation; and in my peculiar position,
 I could, of course, obtain no certificates from the families I had so
 faithfully served.
 
-
 One day an acquaintance told me of a lady who wanted a nurse for her babe,
 and I immediately applied for the situation. The lady told me she
 preferred to have one who had been a mother, and accustomed to the care of
@@ -6534,7 +6028,6 @@ pleasant circumstance to me, because I had heard they had less prejudice
 against color than Americans entertained. It was agreed that we should try
 each other for a week. The trial proved satisfactory to both parties, and
 I was engaged for a month.
-
 
 The heavenly Father had been most merciful to me in leading me to this
 place. Mrs. Bruce was a kind and gentle lady, and proved a true and
@@ -6557,7 +6050,6 @@ to expand under the influences of her intelligent conversation, and the
 opportunities for reading, which were gladly allowed me whenever I had
 leisure from my duties. I gradually became more energetic and more
 cheerful.
-
 
 The old feeling of insecurity, especially with regard to my children,
 often threw its dark shadow across my sunshine. Mrs. Bruce offered me a
@@ -6592,7 +6084,6 @@ explanation in silence; but she had told me that my child <i>belonged</i>
 to her daughter, and I suspected that her real motive was a fear of my
 conveying her property away from her. Perhaps I did her injustice; but my
 knowledge of Southerners made it difficult for me to feel otherwise.
-
 
 Sweet and bitter were mixed in the cup of my life, and I was thankful that
 it had ceased to be entirely bitter. I loved Mrs. Bruce's babe. When it
@@ -7907,8 +7398,7 @@ The following testimonial is from a man who is now a highly respectable colored 
    George W. Lowther.
 
 
-1 (<a href="#linknoteref-1" id="linknote-1">return</a>)[The poison of a snake is a powerful acid, and is counteracted by powerful alkalies, such as potash,
+1 (<a href="#linknoteref-1" id="linknote-1">return</a>)\[The poison of a snake is a powerful acid, and is counteracted by powerful alkalies, such as potash,
 ammonia, &amp;c. The Indians are accustomed to apply wet ashes, or plunge
 the limb into strong lie. White men, employed to lay out railroads in
 snaky places, often carry ammonia with them as an antidote.&mdash;EDITOR.]
-

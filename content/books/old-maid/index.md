@@ -1,29 +1,38 @@
 ---
-title: The Old Maid
-publication: 2023-05-01T22:12:03.284Z
-release: 2019-05-01T22:12:03.284Z
+publication: 1924-03-07T23:12:03.284Z
+release: 2022-05-18T22:12:03.284Z
+templateKey: book-page
 author: Edith Wharton
-isbn: "1231232131232112"
-post_image: old-maid-cover.jpg
-square_image: old-maid-square.jpg
 download: The_Old_Maid_v3.pdf
-download_ebook: The_Old_Maid_v3.epub
 language_link: la-solterona
 genre:
-  - short-stories
-time_period:
-  - modernist
+  - fiction
+  - novella
 theme:
-  - first-person-narrator
   - sex-romance
+  - motherhood
 lang: en
-description: >-
-  This story is not about a bygone society’s oppressive strictures, but, rather, about its piecemeal accommodation of subversive actions and vehement passions. Register for a virtual conversation with Krithika Varagur about this book on May 17, 2022 at 6 pm ET.
 foreword: >-
-  Foreword: Krithika Varagur, an author, award-winning journalist, speechwriter, and editor at The Drift.
+  Foreword: Krithika Varagur, an author, award-winning journalist, speechwriter,
+  and editor at <i>The Drift. </i>
+
+
   Cover: Petra Zehner, East West German graphic artist and writer currently based in France."
 date: 2012-05-01T22:12:03.284Z
-templateKey: book-page
+title: The Old Maid
+isbn: 978-1-961368-00-2
+post_image: old-maid-cover.jpg
+square_image: old-maid-square.jpg
+download_ebook: The_Old_Maid_v3.epub
+time_period:
+  - 20th
+description: >-
+  <p><i>"This story is not about a bygone society’s oppressive strictures, but,
+  rather, about its piecemeal accommodation of subversive actions and vehement
+  passions." - Krithika Varagur</p></i>
+
+
+  <p>"The Old Maid" is the second novella in Wharton's 1924 quartet <i>Old New York</i>; each story in the collection represents a decade in "Old New York" society from the 1840s to the 1870s. In this novella (originally subtitled "The Fifties"), Delia and Charlotte conspire to raise Charlotte's secret daughter without activating suspicion within their exacting, closed social circle. Wharton expertly digs into her characters and the social contradictions they exploit to protect their family in a story that is as biting as it is tender and, at times, triumphant. Playwright Zoë Akins won a Pulitzer Prize for her adaption of the book in 1935, and a film starring Bette Davis and directed by Edmund Goulding came out in 1939. We are thrilled to bring this book to new audiences with a free, open access edition available online to all readers with an internet connection.</p>
 ---
 ## Introduction to The Old Maid by Krithika Varagur
 
