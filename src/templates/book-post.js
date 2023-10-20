@@ -63,10 +63,10 @@ const BookPostTemplate = ({
               />
             }
             <div className="actions">
-              { post.frontmatter.published ? (
-                <Link to={`${post.fields.slug}read`} itemProp="url" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Read Online'})}</Link>
-                ) : (
+              { post.frontmatter.published === "false" ? (
                 <Link to={`#`} itemProp="url" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Coming soon'})}</Link>
+                ) : (
+                <Link to={`${post.fields.slug}read`} itemProp="url" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Read Online'})}</Link>
                 )
               }
               <a href={post.frontmatter.download} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>Download Guide</a>
