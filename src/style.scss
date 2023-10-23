@@ -465,6 +465,10 @@ iframe{
     -webkit-hyphens: auto;
     hyphens: auto;
   }
+  p {
+    text-wrap: wrap;
+    overflow-wrap: break-word;
+  }
 }
 
 .btn {
