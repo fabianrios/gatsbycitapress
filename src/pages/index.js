@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { graphql } from "gatsby"
-import { injectIntl, Link, navigate } from "gatsby-plugin-intl"
+import { injectIntl, Link } from "gatsby-plugin-intl"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout/layout"
@@ -31,24 +31,19 @@ const BlogIndex = ({ data, location, intl }) => {
     if (!timePeriod && !genre && !theme) {
       return setPosts(data.allMarkdownRemark.nodes);
     }
-    const filteredPosts = data.allMarkdownRemark.nodes.filter(post => {
-      return post.frontmatter.time_period.includes(timePeriod) || post.frontmatter.genre.includes(genre) || post.frontmatter.theme.includes(theme);
-    });
+    // filter timePeriod genre and theme if they are set
+    let filteredPosts = data.allMarkdownRemark.nodes;
+    if (timePeriod) {
+      filteredPosts = filteredPosts.filter(post => post.frontmatter.time_period.includes(timePeriod));
+    }
+    if (genre) {
+      filteredPosts = filteredPosts.filter(post => post.frontmatter.genre.includes(genre));
+    }
+    if (theme) {
+      filteredPosts = filteredPosts.filter(post => post.frontmatter.theme.includes(theme));
+    }
     setPosts(filteredPosts);
-  }, [timePeriod, genre, theme]);
-
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <div className="selectors">
-          <TimePeriodSelector onChange={onChange} />
-          <GenreSelector onChange={onChange} />
-          <ThemesSelector onChange={onChange} />
-        </div>
-        <p>nothing here yet</p>
-      </Layout>
-    )
-  }
+  }, [timePeriod, genre, theme, data.allMarkdownRemark.nodes]);
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -130,38 +125,42 @@ const BlogIndex = ({ data, location, intl }) => {
         <GenreSelector onChange={onChange} />
         <ThemesSelector onChange={onChange} />
       </div>
-      <ul className="main-list">
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
-          const image = getImage(post.frontmatter.square_image)
+      {posts.length > 0 ? (
+        <ul className="main-list">
+          {posts.map(post => {
+            const title = post.frontmatter.title || post.fields.slug
+            const image = getImage(post.frontmatter.square_image)
 
-          return (
-            <li key={post.fields.slug}>
-              <article
-                className="post-list-item"
-                itemScope
-                itemType="http://schema.org/Article"
-              >
-                <header>
-                  <Link to={post.fields.slug} itemProp="url">
-                    <GatsbyImage image={image} alt={title} />
-                  </Link>
-                </header>
-                { post.frontmatter.description &&
-                  <section className="d-none">
-                    <p
-                      dangerouslySetInnerHTML={{
-                        __html: post.frontmatter.description,
-                      }}
-                      itemProp="description"
-                    />
-                  </section>
-                }
-              </article>
-            </li>
-          )
-        })}
-      </ul>
+            return (
+              <li key={post.fields.slug}>
+                <article
+                  className="post-list-item"
+                  itemScope
+                  itemType="http://schema.org/Article"
+                >
+                  <header>
+                    <Link to={post.fields.slug} itemProp="url">
+                      <GatsbyImage image={image} alt={title} />
+                    </Link>
+                  </header>
+                  { post.frontmatter.description &&
+                    <section className="d-none">
+                      <p
+                        dangerouslySetInnerHTML={{
+                          __html: post.frontmatter.description,
+                        }}
+                        itemProp="description"
+                      />
+                    </section>
+                  }
+                </article>
+              </li>
+            )
+          })}
+        </ul>
+        ) : (
+          <p>No Results, try to reduce the filters.</p>
+      )}
     </Layout>
   )
 }
