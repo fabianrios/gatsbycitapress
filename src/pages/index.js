@@ -159,7 +159,7 @@ const BlogIndex = ({ data, location, intl }) => {
           })}
         </ul>
         ) : (
-          <p>No Results, try to reduce the filters.</p>
+          <p>{intl.formatMessage({id: 'No Results, try to reduce the filters.'})}</p>
       )}
     </Layout>
   )
