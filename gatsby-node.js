@@ -280,6 +280,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       description: String
       sortingdate: Date @dateformat
       templateKey: String
+      published: Boolean
       download_name: String
       releaseformat: [String]
       publishformat: [String]
