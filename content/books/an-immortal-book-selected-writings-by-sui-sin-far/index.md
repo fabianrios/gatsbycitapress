@@ -8,6 +8,9 @@ isbn: Placeholder
 post_image: cover-sui-sin-far.jpg
 square_image: thumbnail-sui-sin-far2.jpg
 download: citapress.org
+download_name: Download button
+publishformat: 
+  - Year
 download_ebook: citapress.org
 language_link: citapress.org
 genre:

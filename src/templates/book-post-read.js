@@ -18,6 +18,23 @@ const BookPostReadTemplate = ({
   const where = `${post.frontmatter.language_link}/read`;
   const postReference = useRef(null);
 
+  const checkFormat = (f) => {
+    const defaultFormat = {
+      year: "numeric",
+      month: "long",
+      day: "2-digit"
+    };
+    if (!f || f.toString() === "Month and year") {
+      return defaultFormat;
+    } else if (f.toString() === "Year") {
+      return {
+        year: "numeric"
+      };
+    }
+  }
+  const publish_format = checkFormat(post.frontmatter.publishformat);
+  const release_format = checkFormat(post.frontmatter.releaseformat);
+
   const fontFamilies = {
     inter: 'Inter, sans-serif',
     zilla: 'Zilla Slab, serif',
@@ -116,16 +133,8 @@ const BookPostReadTemplate = ({
             <div className="reference">
                 <ul>
                   <li>ISBN: {post.frontmatter.isbn}</li>
-                  <li>{intl.formatMessage({id: 'First published'})}: {intl.formatDate(post.frontmatter.release, {
-                          year: "numeric",
-                          month: "long",
-                          day: "2-digit",
-                        })}</li>
-                  <li>{intl.formatMessage({id: 'Publication date'})}: {intl.formatDate(post.frontmatter.publication, {
-                          year: "numeric",
-                          month: "long",
-                          day: "2-digit",
-                        })}</li>
+                  <li>{intl.formatMessage({id: 'First published'})}: {intl.formatDate(post.frontmatter.release, publish_format)}</li>
+                  <li>{intl.formatMessage({id: 'Publication date'})}: {intl.formatDate(post.frontmatter.publication, release_format)}</li>
                 </ul>
               </div>{/* /reference */}
               <br />
@@ -134,7 +143,7 @@ const BookPostReadTemplate = ({
                   <a href={`/downloads/${post.frontmatter.download_ebook}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Download Ebook'})}</a>
                 }
                 { post.frontmatter.download &&
-                  <a href={`/downloads/${post.frontmatter.download}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: 'Download Guide'})}</a>
+                  <a href={`/downloads/${post.frontmatter.download}`} target="_blank" rel="noreferrer" className={"btn btn-secondary"}>{intl.formatMessage({id: post.frontmatter.download_name ? post.frontmatter.download_name : 'Download Guide'})}</a>
                 }
               </div>
             </div>
@@ -236,7 +245,10 @@ export const pageQuery = graphql`
         author
         isbn
         release
+        publishformat
+        releaseformat
         download
+        download_name
         download_ebook
         genre
         theme

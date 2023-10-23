@@ -4,6 +4,10 @@
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/
  */
 
+// to write dinamiy json files for each page if needed
+// const { writeFileSync } = require('fs');
+// const jsonFiles = {};
+
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 const { create } = require('domain')
@@ -82,6 +86,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             genre
             time_period
             theme
+            description
           }
           fields {
             slug
@@ -157,6 +162,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         component: genreTemplate,
         context: {
           id: genre,
+          data: genrePosts,
           genre,
           lang: "en",
         },
@@ -173,6 +179,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         context: {
           id: period,
           period,
+          data: periodPosts,
           lang: "en",
         },
       })
@@ -188,6 +195,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         context: {
           id: theme,
           theme,
+          data: themePosts,
           lang: "en",
         },
       })
@@ -196,6 +204,26 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   
 
 }
+
+// to write dinamiy json files for each page if needed
+// exports.onCreatePage = ({ page }) => {
+//   if (page.path.includes("genre") || page.path.includes("time-period") || page.path.includes("theme")) {
+//     jsonFiles[page.path] = page.context.data;
+//   }
+// }
+
+// exports.onPostBuild = () => {
+//   console.log('is it working?');
+//   Object.entries(jsonFiles).map(([filePath, content]) => {
+//       const fileFullPath = path.resolve(
+//           __dirname,
+//           'public',
+//           ...filePath.split('/').filter((part) => part)
+//       );
+//       writeFileSync(`${fileFullPath}/index.json`, JSON.stringify(content));
+//   });
+// }
+
 
 /**
  * @type {import('gatsby').GatsbyNode['onCreateNode']}
@@ -250,7 +278,11 @@ exports.createSchemaCustomization = ({ actions }) => {
     type Frontmatter {
       title: String
       description: String
+      sortingdate: Date @dateformat
       templateKey: String
+      download_name: String
+      releaseformat: [String]
+      publishformat: [String]
       date: Date @dateformat
       lang: String
     }

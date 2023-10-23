@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState, useEffect } from 'react';
 import { graphql } from "gatsby"
 import { injectIntl, Link, navigate } from "gatsby-plugin-intl"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
@@ -11,18 +11,43 @@ import ThemesSelector from "../components/themesSelector/themesSelector"
 
 const BlogIndex = ({ data, location, intl }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
+  let [posts, setPosts] = useState(data.allMarkdownRemark.nodes);
+  let [genre, setGenre] = useState('');
+  let [timePeriod, setTimePeriod] = useState('');
+  let [theme, setTheme] = useState('');
+
+
+  const onChange = (where, event) => {
+    if (where === 'time_period') {
+      setTimePeriod(event);
+    } else if (where === 'genre') {
+      setGenre(event);
+    } else if (where === 'theme') {
+      setTheme(event);
+    }
+  }
+
+  useEffect(() => {
+    if (!timePeriod && !genre && !theme) {
+      return setPosts(data.allMarkdownRemark.nodes);
+    }
+    const filteredPosts = data.allMarkdownRemark.nodes.filter(post => {
+      return post.frontmatter.time_period.includes(timePeriod) || post.frontmatter.genre.includes(genre) || post.frontmatter.theme.includes(theme);
+    });
+    setPosts(filteredPosts);
+  }, [timePeriod, genre, theme]);
 
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
+        <div className="selectors">
+          <TimePeriodSelector onChange={onChange} />
+          <GenreSelector onChange={onChange} />
+          <ThemesSelector onChange={onChange} />
+        </div>
         <p>nothing here yet</p>
       </Layout>
     )
-  }
-
-  const onChange = (where, event) => {
-    navigate(`/${where}/${event}`)
   }
 
   return (
@@ -126,7 +151,7 @@ const BlogIndex = ({ data, location, intl }) => {
                   <section className="d-none">
                     <p
                       dangerouslySetInnerHTML={{
-                        __html: post.frontmatter.description || post.excerpt,
+                        __html: post.frontmatter.description,
                       }}
                       itemProp="description"
                     />
@@ -158,7 +183,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { frontmatter: { date: DESC } }
+      sort: { frontmatter: { sortingdate: DESC } }
       filter: {
         frontmatter: {
           lang: { eq: $language }
@@ -173,7 +198,11 @@ export const pageQuery = graphql`
         }
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
+          sortingdate
           title
+          theme
+          genre
+          time_period
           description
           square_image {
             childImageSharp {

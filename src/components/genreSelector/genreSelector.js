@@ -9,9 +9,6 @@ export class genreSelector extends React.Component {
   }
 
   handleChange = event => {
-    if (!event.target.value) {
-      return
-    } 
     const target = event.target
     const value = target.value
     const name = target.name

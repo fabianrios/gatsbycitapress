@@ -9,16 +9,13 @@ export class TimePeriodSelector extends React.Component {
   }
 
   handleChange = event => {
-    if (!event.target.value) {
-      return
-    } 
     const target = event.target
     const value = target.value
     const name = target.name
     this.setState({
       [name]: value,
     })
-    this.props.onChange('time-period', event.target.value);
+    this.props.onChange('time_period', event.target.value);
   }
 
 

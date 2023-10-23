@@ -9,7 +9,7 @@ post_image: cover_cypherpunk-women.png
 square_image: thumbnail-cypherpunk-women.jpg
 download: citapress.org
 language_link: citapress.org
-published: "false"
+published: false
 genre:
   - short-stories
   - essay
